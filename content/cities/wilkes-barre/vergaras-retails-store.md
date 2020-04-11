@@ -1,0 +1,4 @@
+---
+title: "Vergara's Retails Store"
+url: /wilkes-barre/vergaras-retails-store/
+---

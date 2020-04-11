@@ -1,0 +1,4 @@
+---
+title: "Locke Studios"
+url: /gettysburg/locke-studios/
+---

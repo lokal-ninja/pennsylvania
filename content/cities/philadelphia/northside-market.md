@@ -1,0 +1,4 @@
+---
+title: "Northside Market"
+url: /philadelphia/northside-market/
+---

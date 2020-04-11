@@ -1,0 +1,4 @@
+---
+title: "James C. Logan, Inc."
+url: /chester/james-c-logan-inc/
+---
