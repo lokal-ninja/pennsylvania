@@ -1,4 +1,4 @@
 ---
-title: "at home"
+title: "At Home"
 url: /monroeville/at-home/
 ---

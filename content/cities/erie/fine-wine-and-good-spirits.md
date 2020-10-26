@@ -1,4 +1,4 @@
 ---
-title: "Fine Wine and Good Spirits"
+title: "Fine Wine & Good Spirits"
 url: /erie/fine-wine-and-good-spirits/
 ---

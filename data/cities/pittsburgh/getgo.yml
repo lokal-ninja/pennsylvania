@@ -1,12 +1,12 @@
-id: 1829759859
-type: node
-shop: kiosk
-latitude: 40.355677400000005
-longitude: -80.0507465
-postcode: "15228"
+id: 314885375
+type: way
+shop: convenience
+latitude: 40.430058200000005
+longitude: -79.92331250000001
+postcode: "15217"
 city: Pittsburgh
-street: "Washington Road"
-housenumber: 1540
+street: "Forward Avenue"
+housenumber: 5801
 phone: ""
-opening_hours: "24/7"
-website: ""
+opening_hours: "06:00-00:00"
+website: "https://www.get-go.com/Store/PA/Pittsburgh/Squirrel%20Hill%20GetGo/3038"

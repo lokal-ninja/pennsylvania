@@ -1,12 +1,12 @@
-id: 52495487
-type: way
+id: 7768867656
+type: node
 shop: supermarket
-latitude: 40.063889700000004
-longitude: -75.23693370000001
-postcode: "19128"
+latitude: 39.923270300000006
+longitude: -75.1450437
+postcode: "19148"
 city: Philadelphia
-street: "Henry Avenue"
-housenumber: 8500 #34
+street: "Snyder Avenue"
+housenumber: 29
 phone: ""
 opening_hours: ""
 website: ""

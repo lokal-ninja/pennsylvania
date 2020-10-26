@@ -1,6 +1,6 @@
 ---
 title: Dillsburg
 url: /dillsburg/
-latitude: 40.1111911
-longitude: -77.036342
+latitude: 40.1109413
+longitude: -77.0358059
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Fresh N Fill"
+title: "fresh n fill"
 url: /state-college/fresh-n-fill/
 ---

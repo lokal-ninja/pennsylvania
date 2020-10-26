@@ -1,6 +1,6 @@
 ---
 title: Shippensburg
 url: /shippensburg/
-latitude: 40.056226200000005
-longitude: -77.51390740000001
+latitude: 40.0507198
+longitude: -77.5205485
 ---

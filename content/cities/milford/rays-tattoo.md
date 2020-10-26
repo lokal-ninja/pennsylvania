@@ -1,0 +1,4 @@
+---
+title: "Ray's Tattoo"
+url: /milford/rays-tattoo/
+---

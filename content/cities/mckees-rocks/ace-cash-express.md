@@ -1,4 +1,4 @@
 ---
-title: "Ace Cash Express"
+title: "ACE Cash Express"
 url: /mckees-rocks/ace-cash-express/
 ---
