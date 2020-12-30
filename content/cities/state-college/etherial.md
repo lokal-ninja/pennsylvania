@@ -1,4 +1,4 @@
 ---
-title: "Etherial"
+title: "etherial"
 url: /state-college/etherial/
 ---

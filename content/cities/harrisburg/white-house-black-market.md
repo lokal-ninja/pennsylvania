@@ -1,4 +1,4 @@
 ---
-title: "White House|Black Market"
+title: "White House Black Market"
 url: /harrisburg/white-house-black-market/
 ---
