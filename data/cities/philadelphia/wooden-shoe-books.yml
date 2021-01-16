@@ -1,12 +1,12 @@
-id: 155798151
-type: way
+id: 8318860194
+type: node
 shop: books
-latitude: 39.942181500000004
-longitude: -75.1542036
+latitude: 39.942166400000005
+longitude: -75.1542044
 postcode: "19147"
 city: Philadelphia
 street: "South Street"
 housenumber: 704
 phone: ""
-opening_hours: ""
-website: "http://www.woodenshoebooks.com/"
+opening_hours: "12:00-22:00"
+website: ""
