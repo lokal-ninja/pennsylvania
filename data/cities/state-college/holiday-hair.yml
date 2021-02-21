@@ -1,12 +1,11 @@
-id: 5292032753
-type: node
-shop: hairdresser
-latitude: 40.7859768
-longitude: -77.8279285
+id: 270410561
+type: way
+latitude: 40.8322951
+longitude: -77.8015901
 postcode: "16801"
 city: State College
-street: "Rolling Ridge Drive"
-housenumber: 166
-phone: ""
-opening_hours: ""
-website: ""
+street: "East College Avenue"
+housenumber: 2901
+phone: "+18142349969"
+opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-18:00"
+website: "https://www.signaturestyle.com/locations/pa/state-college/holiday-hair-nittany-mall-haircuts-19361.html"

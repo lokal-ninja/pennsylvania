@@ -1,12 +1,11 @@
-id: 669573227
+id: 381250334
 type: way
-shop: variety store
-latitude: 40.0872308
-longitude: -75.0392187
-postcode: "19115"
+latitude: 40.064592700000006
+longitude: -75.2383516
+postcode: "19128"
 city: Philadelphia
-street: "Grant Avenue"
-housenumber: 1619
+street: "Henry Avenue"
+housenumber: 8500 #24
 phone: ""
 opening_hours: ""
 website: ""

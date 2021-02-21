@@ -1,6 +1,5 @@
 id: 338982855
 type: way
-shop: deli
 latitude: 39.938077
 longitude: -75.1583607
 postcode: "19147"
@@ -8,5 +7,5 @@ city: Philadelphia
 street: "South 9th Street"
 housenumber: 930
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 09:00-17:00; Tu-Th 09:00-18:00; Fr,Sa 08:00-18:00; Su 08:00-16:00"
 website: ""

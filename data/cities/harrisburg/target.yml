@@ -1,12 +1,11 @@
-id: 793413295
-type: node
-shop: department store
-latitude: 40.2465945
-longitude: -76.80621400000001
+id: 64537314
+type: way
+latitude: 40.246948200000006
+longitude: -76.8070027
 postcode: "17111"
 city: Harrisburg
 street: "High Pointe Blvd"
 housenumber: 4600
-phone: "+717 558 4150"
-opening_hours: "Mo-Sa 08:00-23:00;Su 08:00-22:00"
+phone: "+1 717 558 4150"
+opening_hours: "Mo-Sa 08:00-23:00; Su 08:00-22:00"
 website: ""

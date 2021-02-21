@@ -1,11 +1,10 @@
-id: 3775269469
-type: node
-shop: florist
-latitude: 40.9339689
-longitude: -77.65329600000001
+id: 903995677
+type: way
+latitude: 40.933989700000005
+longitude: -77.6526607
 postcode: "16823"
 city: Zion
-street: "Nittany Valley Dr."
+street: "Nittany Valley Drive"
 housenumber: 907
 phone: ""
 opening_hours: ""
