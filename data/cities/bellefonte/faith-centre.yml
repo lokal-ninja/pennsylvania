@@ -5,7 +5,7 @@ longitude: -77.7781922
 postcode: "16823"
 city: Bellefonte
 street: "West High Street"
-housenumber: 110;112
+housenumber: 110,112
 phone: ""
 opening_hours: ""
 website: ""
