@@ -1,6 +1,6 @@
 ---
 title: Lackawaxen
 url: /lackawaxen/
-latitude: 41.482034000000006
-longitude: -74.98600160000001
+latitude: 41.4819936
+longitude: -74.98598700000001
 ---
