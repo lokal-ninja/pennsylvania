@@ -1,5 +1,5 @@
 ---
-title: "TJ maxx"
+title: "TJ Maxx"
 url: /warminster/tj-maxx/
-shop: clothes
+shop: department store
 ---

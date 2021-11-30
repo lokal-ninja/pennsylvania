@@ -7,5 +7,5 @@ city: Houtzdale
 street: "Spring Street"
 housenumber: 677
 phone: "1-814-378-7541"
-opening_hours: "Mo-Th 08:00-20:00 Fr-Sa 08:00-21:00 SU 10:00-18:00"
+opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su 10:00-18:00"
 website: "http://puffsv.com/"
