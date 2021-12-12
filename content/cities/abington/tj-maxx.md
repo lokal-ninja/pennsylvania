@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /abington/tj-maxx/
-shop: clothes
+shop: department store
 ---
