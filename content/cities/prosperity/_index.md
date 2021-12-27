@@ -1,6 +1,6 @@
 ---
 title: Prosperity
 url: /prosperity/
-latitude: 40.047017100000005
-longitude: -80.2947855
+latitude: 40.047
+longitude: -80.293
 ---

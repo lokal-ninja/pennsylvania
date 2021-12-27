@@ -1,5 +1,5 @@
 ---
 title: "Turkey Hill"
 url: /elysburg/turkey-hill/
-shop: convenience
+shop: Lebensmittel
 ---

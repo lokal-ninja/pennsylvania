@@ -1,6 +1,6 @@
 ---
 title: Stroudsburg
 url: /stroudsburg/
-latitude: 40.9864261
-longitude: -75.1946649
+latitude: 40.989
+longitude: -75.233
 ---

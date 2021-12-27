@@ -1,5 +1,5 @@
 ---
 title: "12 West Stylon"
 url: /bethlehem/12-west-stylon/
-shop: hairdresser
+shop: Friseur
 ---

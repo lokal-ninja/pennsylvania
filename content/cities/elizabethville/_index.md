@@ -1,6 +1,6 @@
 ---
 title: Elizabethville
 url: /elizabethville/
-latitude: 40.5489742
-longitude: -76.81191510000001
+latitude: 40.556
+longitude: -76.791
 ---

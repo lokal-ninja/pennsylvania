@@ -1,5 +1,5 @@
 ---
 title: "Valley Farm Market"
 url: /bethlehem/valley-farm-market/
-shop: supermarket
+shop: Supermarkt
 ---

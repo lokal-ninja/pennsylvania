@@ -1,6 +1,6 @@
 ---
 title: Camp Hill
 url: /camp-hill/
-latitude: 40.239811800000005
-longitude: -76.9199742
+latitude: 40.227
+longitude: -76.941
 ---

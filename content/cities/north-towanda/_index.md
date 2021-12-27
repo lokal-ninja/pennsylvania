@@ -1,6 +1,6 @@
 ---
 title: North Towanda
 url: /north-towanda/
-latitude: 41.787288200000006
-longitude: -76.4543282
+latitude: 41.783
+longitude: -76.451
 ---

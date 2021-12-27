@@ -1,5 +1,5 @@
 ---
 title: "Puff Super Vaulue"
 url: /mount-joy/puff-super-vaulue/
-shop: tobacco
+shop: Tabak
 ---

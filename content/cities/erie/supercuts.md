@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /erie/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

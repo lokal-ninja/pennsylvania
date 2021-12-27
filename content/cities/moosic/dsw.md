@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /moosic/dsw/
-shop: shoes
+shop: Schuhe
 ---

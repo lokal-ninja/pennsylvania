@@ -1,6 +1,6 @@
 ---
 title: Richboro
 url: /richboro/
-latitude: 40.2151086
-longitude: -75.01072450000001
+latitude: 40.208
+longitude: -75.012
 ---

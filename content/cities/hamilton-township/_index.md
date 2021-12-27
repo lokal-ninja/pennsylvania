@@ -1,6 +1,6 @@
 ---
 title: Hamilton Township
 url: /hamilton-township/
-latitude: 
-longitude: 
+latitude: 39.871
+longitude: -77.029
 ---

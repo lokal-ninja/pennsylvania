@@ -1,6 +1,6 @@
 ---
 title: Mount Bethel
 url: /mount-bethel/
-latitude: 40.9048188
-longitude: -75.1115654
+latitude: 40.932
+longitude: -75.105
 ---

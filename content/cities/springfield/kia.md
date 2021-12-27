@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /springfield/kia/
-shop: car
+shop: Autohaus
 ---

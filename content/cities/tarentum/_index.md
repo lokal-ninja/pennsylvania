@@ -1,6 +1,6 @@
 ---
 title: Tarentum
 url: /tarentum/
-latitude: 40.6014555
-longitude: -79.7597709
+latitude: 40.565
+longitude: -79.805
 ---

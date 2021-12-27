@@ -1,6 +1,6 @@
 ---
 title: Trevose
 url: /trevose/
-latitude: 40.1392766
-longitude: -74.98100190000001
+latitude: 40.123
+longitude: -74.975
 ---

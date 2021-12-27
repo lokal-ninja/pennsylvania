@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /perryopolis/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

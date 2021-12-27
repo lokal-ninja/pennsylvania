@@ -1,6 +1,6 @@
 ---
 title: Summit Hill
 url: /summit-hill/
-latitude: 40.8248121
-longitude: -75.8710312
+latitude: 40.823
+longitude: -75.876
 ---

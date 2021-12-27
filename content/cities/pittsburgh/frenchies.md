@@ -1,5 +1,5 @@
 ---
 title: "Frenchies"
 url: /pittsburgh/frenchies/
-shop: beauty
+shop: Kosmetik
 ---

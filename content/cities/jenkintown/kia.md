@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /jenkintown/kia/
-shop: car
+shop: Autohaus
 ---

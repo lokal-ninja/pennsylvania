@@ -1,6 +1,6 @@
 ---
 title: Jackson Center
 url: /jackson-center/
-latitude: 41.9399506
-longitude: -76.9821043
+latitude: 41.24
+longitude: -80.104
 ---

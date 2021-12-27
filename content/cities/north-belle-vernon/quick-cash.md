@@ -1,5 +1,5 @@
 ---
 title: "Quick Cash"
 url: /north-belle-vernon/quick-cash/
-shop: charity
+shop: Gebrauchtwaren
 ---

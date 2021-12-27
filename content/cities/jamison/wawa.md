@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /jamison/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

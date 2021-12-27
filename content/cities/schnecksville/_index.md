@@ -1,6 +1,6 @@
 ---
 title: Schnecksville
 url: /schnecksville/
-latitude: 40.667873500000006
-longitude: -75.6071311
+latitude: 40.685
+longitude: -75.615
 ---

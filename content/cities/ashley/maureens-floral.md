@@ -1,5 +1,5 @@
 ---
 title: "Maureen's Floral"
 url: /ashley/maureens-floral/
-shop: florist
+shop: Blumen
 ---

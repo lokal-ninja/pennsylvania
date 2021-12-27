@@ -1,6 +1,6 @@
 ---
 title: Loganton
 url: /loganton/
-latitude: 41.034701500000004
-longitude: -77.3066113
+latitude: 41.014
+longitude: -77.356
 ---

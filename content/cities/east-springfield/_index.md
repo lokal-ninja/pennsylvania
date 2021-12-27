@@ -1,6 +1,6 @@
 ---
 title: East Springfield
 url: /east-springfield/
-latitude: 
-longitude: 
+latitude: 41.966
+longitude: -80.406
 ---

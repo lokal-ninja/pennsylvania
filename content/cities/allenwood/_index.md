@@ -1,6 +1,6 @@
 ---
 title: Allenwood
 url: /allenwood/
-latitude: 41.108604
-longitude: -76.89727090000001
+latitude: 41.107
+longitude: -76.897
 ---

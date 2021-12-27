@@ -1,6 +1,6 @@
 ---
 title: Schellsburg
 url: /schellsburg/
-latitude: 40.048969
-longitude: -78.64418570000001
+latitude: 40.049
+longitude: -78.645
 ---

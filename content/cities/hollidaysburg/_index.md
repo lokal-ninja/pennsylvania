@@ -1,6 +1,6 @@
 ---
 title: Hollidaysburg
 url: /hollidaysburg/
-latitude: 40.430774
-longitude: -78.3900826
+latitude: 40.43
+longitude: -78.387
 ---

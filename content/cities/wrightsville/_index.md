@@ -1,6 +1,6 @@
 ---
 title: Wrightsville
 url: /wrightsville/
-latitude: 41.9145016
-longitude: -79.4253278
+latitude: 40.021
+longitude: -76.546
 ---

@@ -1,6 +1,6 @@
 ---
 title: Crescent
 url: /crescent/
-latitude: 
-longitude: 
+latitude: 40.56
+longitude: -80.223
 ---

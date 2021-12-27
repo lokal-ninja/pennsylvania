@@ -1,5 +1,5 @@
 ---
 title: "EarthBox"
 url: /scranton/earthbox/
-shop: garden centre
+shop: Garten-Center
 ---

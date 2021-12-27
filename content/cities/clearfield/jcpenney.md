@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /clearfield/jcpenney/
-shop: department store
+shop: Warenhaus
 ---

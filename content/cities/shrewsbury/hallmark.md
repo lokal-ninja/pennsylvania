@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /shrewsbury/hallmark/
-shop: shop
+shop: Allgemein
 ---

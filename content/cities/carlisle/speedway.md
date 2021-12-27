@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /carlisle/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

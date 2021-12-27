@@ -1,6 +1,6 @@
 ---
 title: Hallstead
 url: /hallstead/
-latitude: 41.9612241
-longitude: -75.74308710000001
+latitude: 41.954
+longitude: -75.743
 ---

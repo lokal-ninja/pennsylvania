@@ -1,5 +1,5 @@
 ---
 title: "Commonwealth Press"
 url: /pittsburgh/commonwealth-press/
-shop: copyshop
+shop: Kopieren
 ---

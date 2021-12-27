@@ -1,6 +1,6 @@
 ---
 title: Lansford
 url: /lansford/
-latitude: 40.8319017
-longitude: -75.8823758
+latitude: 40.83
+longitude: -75.883
 ---

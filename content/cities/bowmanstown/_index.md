@@ -1,6 +1,6 @@
 ---
 title: Bowmanstown
 url: /bowmanstown/
-latitude: 40.8000471
-longitude: -75.6643404
+latitude: 40.8
+longitude: -75.668
 ---

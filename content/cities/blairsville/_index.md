@@ -1,6 +1,6 @@
 ---
 title: Blairsville
 url: /blairsville/
-latitude: 40.4311796
-longitude: -79.260869
+latitude: 40.442
+longitude: -79.227
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pietro Hair Salon"
 url: /state-college/pietro-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

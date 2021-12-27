@@ -1,6 +1,6 @@
 ---
 title: Lenni
 url: /lenni/
-latitude: 39.8940002
-longitude: -75.447697
+latitude: 39.895
+longitude: -75.447
 ---

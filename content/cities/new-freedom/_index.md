@@ -1,6 +1,6 @@
 ---
 title: New Freedom
 url: /new-freedom/
-latitude: 39.7378811
-longitude: -76.70136090000001
+latitude: 39.775
+longitude: -76.668
 ---

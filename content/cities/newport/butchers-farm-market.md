@@ -1,5 +1,5 @@
 ---
 title: "Butchers Farm Market"
 url: /newport/butchers-farm-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "South Mountain Cycle Shop"
 url: /dillsburg/south-mountain-cycle-shop/
-shop: motorcycle
+shop: Motorrad
 ---

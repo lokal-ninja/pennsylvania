@@ -1,5 +1,5 @@
 ---
 title: "The Thrift Shopper"
 url: /erie/the-thrift-shopper/
-shop: charity
+shop: Gebrauchtwaren
 ---

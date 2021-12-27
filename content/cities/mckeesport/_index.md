@@ -1,6 +1,6 @@
 ---
 title: McKeesport
 url: /mckeesport/
-latitude: 40.347847200000004
-longitude: -79.864215
+latitude: 40.351
+longitude: -79.867
 ---

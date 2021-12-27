@@ -1,5 +1,5 @@
 ---
 title: "Buddha's Body Art"
 url: /erie/buddhas-body-art/
-shop: tattoo
+shop: Tattoo
 ---

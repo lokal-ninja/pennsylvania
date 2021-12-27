@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /limerick-township/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

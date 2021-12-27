@@ -1,5 +1,5 @@
 ---
 title: "Thermax Floor Care"
 url: /meadville/thermax-floor-care/
-shop: carpet
+shop: Teppiche
 ---

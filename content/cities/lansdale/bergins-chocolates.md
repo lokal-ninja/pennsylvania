@@ -1,5 +1,5 @@
 ---
 title: "Bergin's Chocolates"
 url: /lansdale/bergins-chocolates/
-shop: chocolate
+shop: Schokolade
 ---

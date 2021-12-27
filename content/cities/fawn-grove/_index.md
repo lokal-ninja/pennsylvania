@@ -1,6 +1,6 @@
 ---
 title: Fawn Grove
 url: /fawn-grove/
-latitude: 39.727882
-longitude: -76.4519078
+latitude: 39.729
+longitude: -76.454
 ---

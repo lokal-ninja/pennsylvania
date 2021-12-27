@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /langhorne/jared/
-shop: jewelry
+shop: Schmuck
 ---

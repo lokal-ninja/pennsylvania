@@ -1,6 +1,6 @@
 ---
 title: Bryn Mawr
 url: /bryn-mawr/
-latitude: 40.019833500000004
-longitude: -75.30462990000001
+latitude: 40.026
+longitude: -75.329
 ---

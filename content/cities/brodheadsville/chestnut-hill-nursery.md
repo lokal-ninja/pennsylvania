@@ -1,5 +1,5 @@
 ---
 title: "Chestnut Hill Nursery"
 url: /brodheadsville/chestnut-hill-nursery/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /upper-darby/launderette/
-shop: laundry
+shop: Wäscherei
 ---

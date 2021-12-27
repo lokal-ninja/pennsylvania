@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /malvern/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /horsham/acme/
-shop: supermarket
+shop: Supermarkt
 ---

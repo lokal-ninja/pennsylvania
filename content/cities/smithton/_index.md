@@ -1,6 +1,6 @@
 ---
 title: Smithton
 url: /smithton/
-latitude: 40.153961300000006
-longitude: -79.74115350000001
+latitude: 40.171
+longitude: -79.734
 ---

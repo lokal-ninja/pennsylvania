@@ -1,6 +1,6 @@
 ---
 title: Belle Vernon
 url: /belle-vernon/
-latitude: 40.1250725
-longitude: -79.8664356
+latitude: 40.135
+longitude: -79.841
 ---

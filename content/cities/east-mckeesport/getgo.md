@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /east-mckeesport/getgo/
-shop: convenience
+shop: Lebensmittel
 ---

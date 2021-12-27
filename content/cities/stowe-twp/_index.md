@@ -1,6 +1,6 @@
 ---
 title: Stowe Twp
 url: /stowe-twp/
-latitude: 
-longitude: 
+latitude: 40.472
+longitude: -80.071
 ---

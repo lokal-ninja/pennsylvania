@@ -1,6 +1,6 @@
 ---
 title: Neffs
 url: /neffs/
-latitude: 40.6945399
-longitude: -75.60963100000001
+latitude: 40.7
+longitude: -75.609
 ---

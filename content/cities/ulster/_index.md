@@ -1,6 +1,6 @@
 ---
 title: Ulster
 url: /ulster/
-latitude: 41.8460199
-longitude: -76.50228460000001
+latitude: 41.894
+longitude: -76.344
 ---

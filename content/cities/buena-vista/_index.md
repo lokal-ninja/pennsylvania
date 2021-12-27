@@ -1,6 +1,6 @@
 ---
 title: Buena Vista
 url: /buena-vista/
-latitude: 40.3222183
-longitude: -79.679471
+latitude: 40.273
+longitude: -79.802
 ---

@@ -1,6 +1,6 @@
 ---
 title: Snow Shoe
 url: /snow-shoe/
-latitude: 41.0308914
-longitude: -77.94944890000001
+latitude: 41.026
+longitude: -77.938
 ---

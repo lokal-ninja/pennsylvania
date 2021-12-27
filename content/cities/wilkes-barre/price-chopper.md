@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /wilkes-barre/price-chopper/
-shop: supermarket
+shop: Supermarkt
 ---

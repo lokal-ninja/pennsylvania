@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /philipsburg/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eynon
 url: /eynon/
-latitude: 41.4956364
-longitude: -75.5743534
+latitude: 41.523
+longitude: -75.57
 ---

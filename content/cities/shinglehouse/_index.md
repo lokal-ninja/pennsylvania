@@ -1,6 +1,6 @@
 ---
 title: Shinglehouse
 url: /shinglehouse/
-latitude: 41.9636768
-longitude: -78.1908437
+latitude: 41.963
+longitude: -78.194
 ---

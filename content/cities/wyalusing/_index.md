@@ -1,6 +1,6 @@
 ---
 title: Wyalusing
 url: /wyalusing/
-latitude: 41.6681309
-longitude: -76.2618786
+latitude: 41.667
+longitude: -76.265
 ---

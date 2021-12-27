@@ -1,6 +1,6 @@
 ---
 title: Great Bend
 url: /great-bend/
-latitude: 
-longitude: 
+latitude: 41.97
+longitude: -75.743
 ---

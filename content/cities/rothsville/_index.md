@@ -1,6 +1,6 @@
 ---
 title: Rothsville
 url: /rothsville/
-latitude: 40.151406800000004
-longitude: -76.2511023
+latitude: 40.152
+longitude: -76.246
 ---

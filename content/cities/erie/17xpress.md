@@ -1,5 +1,5 @@
 ---
 title: "17xpress"
 url: /erie/17xpress/
-shop: convenience
+shop: Lebensmittel
 ---

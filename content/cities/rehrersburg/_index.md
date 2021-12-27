@@ -1,6 +1,6 @@
 ---
 title: Rehrersburg
 url: /rehrersburg/
-latitude: 40.4575923
-longitude: -76.2443944
+latitude: 40.459
+longitude: -76.249
 ---

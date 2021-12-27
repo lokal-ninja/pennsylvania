@@ -1,6 +1,6 @@
 ---
 title: Trumbauersville
 url: /trumbauersville/
-latitude: 40.4106569
-longitude: -75.3782339
+latitude: 40.409
+longitude: -75.389
 ---

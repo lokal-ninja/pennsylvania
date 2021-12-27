@@ -1,6 +1,6 @@
 ---
 title: New Ringgold
 url: /new-ringgold/
-latitude: 40.6860663
-longitude: -75.99908710000001
+latitude: 40.686
+longitude: -75.998
 ---

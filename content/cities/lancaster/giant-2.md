@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /lancaster/giant-2/
-shop: supermarket
+shop: Supermarkt
 ---

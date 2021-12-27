@@ -1,5 +1,5 @@
 ---
 title: "Freedom Hyundai"
 url: /hamburg/freedom-hyundai/
-shop: car
+shop: Autohaus
 ---

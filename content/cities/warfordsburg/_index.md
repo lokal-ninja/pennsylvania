@@ -1,6 +1,6 @@
 ---
 title: Warfordsburg
 url: /warfordsburg/
-latitude: 39.7517573
-longitude: -78.1875081
+latitude: 39.757
+longitude: -78.192
 ---

@@ -1,6 +1,6 @@
 ---
 title: Coatesville
 url: /coatesville/
-latitude: 39.9831616
-longitude: -75.8238355
+latitude: 39.989
+longitude: -75.786
 ---

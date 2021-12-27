@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /erie/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

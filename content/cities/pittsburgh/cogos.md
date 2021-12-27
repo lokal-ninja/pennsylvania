@@ -1,5 +1,5 @@
 ---
 title: "Cogos"
 url: /pittsburgh/cogos/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Falls Creek
 url: /falls-creek/
-latitude: 
-longitude: 
+latitude: 41.183
+longitude: -78.865
 ---

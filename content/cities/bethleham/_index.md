@@ -1,6 +1,6 @@
 ---
 title: Bethleham
 url: /bethleham/
-latitude: 
-longitude: 
+latitude: 40.623
+longitude: -75.39
 ---

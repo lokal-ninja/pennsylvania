@@ -1,6 +1,6 @@
 ---
 title: Lemont Furnace
 url: /lemont-furnace/
-latitude: 39.9142424
-longitude: -79.6697642
+latitude: 39.941
+longitude: -79.659
 ---

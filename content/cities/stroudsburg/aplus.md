@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /stroudsburg/aplus/
-shop: convenience
+shop: Lebensmittel
 ---

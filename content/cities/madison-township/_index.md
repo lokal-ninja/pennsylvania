@@ -1,6 +1,6 @@
 ---
 title: Madison Township
 url: /madison-township/
-latitude: 
-longitude: 
+latitude: 41.356
+longitude: -75.457
 ---

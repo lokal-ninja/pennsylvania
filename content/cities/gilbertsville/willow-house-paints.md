@@ -1,5 +1,5 @@
 ---
 title: "Willow House Paints"
 url: /gilbertsville/willow-house-paints/
-shop: paint
+shop: Farben
 ---

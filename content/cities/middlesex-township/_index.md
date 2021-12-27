@@ -1,6 +1,6 @@
 ---
 title: Middlesex Township
 url: /middlesex-township/
-latitude: 
-longitude: 
+latitude: 40.221
+longitude: -77.163
 ---

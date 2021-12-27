@@ -1,5 +1,5 @@
 ---
 title: "Frank's Cleaners"
 url: /erie/franks-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

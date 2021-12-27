@@ -1,6 +1,6 @@
 ---
 title: Milesburg
 url: /milesburg/
-latitude: 40.9417272
-longitude: -77.78500220000001
+latitude: 40.942
+longitude: -77.786
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /waterford/tops/
-shop: supermarket
+shop: Supermarkt
 ---

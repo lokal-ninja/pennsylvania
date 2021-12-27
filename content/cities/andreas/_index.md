@@ -1,6 +1,6 @@
 ---
 title: Andreas
 url: /andreas/
-latitude: 40.7517604
-longitude: -75.7924148
+latitude: 40.721
+longitude: -75.859
 ---

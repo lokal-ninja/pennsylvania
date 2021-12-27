@@ -1,5 +1,5 @@
 ---
 title: "Phatso's Bakery"
 url: /chester/phatsos-bakery/
-shop: bakery
+shop: Bäckerei
 ---

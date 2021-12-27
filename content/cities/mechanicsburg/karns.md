@@ -1,5 +1,5 @@
 ---
 title: "Karns"
 url: /mechanicsburg/karns/
-shop: supermarket
+shop: Supermarkt
 ---

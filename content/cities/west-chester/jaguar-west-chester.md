@@ -1,5 +1,5 @@
 ---
 title: "Jaguar West Chester"
 url: /west-chester/jaguar-west-chester/
-shop: car
+shop: Autohaus
 ---

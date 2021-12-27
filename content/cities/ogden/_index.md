@@ -1,6 +1,6 @@
 ---
 title: Ogden
 url: /ogden/
-latitude: 39.829834600000005
-longitude: -75.45630750000001
+latitude: 39.828
+longitude: -75.453
 ---

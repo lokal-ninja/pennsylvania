@@ -1,5 +1,5 @@
 ---
 title: "Buckingham Deli"
 url: /holicong/buckingham-deli/
-shop: deli
+shop: Feinkost
 ---

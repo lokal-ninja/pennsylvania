@@ -1,6 +1,6 @@
 ---
 title: Clairton
 url: /clairton/
-latitude: 40.2922938
-longitude: -79.8817181
+latitude: 40.299
+longitude: -79.875
 ---

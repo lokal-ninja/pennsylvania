@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /allentown/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

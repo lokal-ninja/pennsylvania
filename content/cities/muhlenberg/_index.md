@@ -1,6 +1,6 @@
 ---
 title: Muhlenberg
 url: /muhlenberg/
-latitude: 
-longitude: 
+latitude: 40.389
+longitude: -75.936
 ---

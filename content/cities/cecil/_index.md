@@ -1,6 +1,6 @@
 ---
 title: Cecil
 url: /cecil/
-latitude: 40.3283542
-longitude: -80.182406
+latitude: 40.33
+longitude: -80.185
 ---

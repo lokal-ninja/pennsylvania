@@ -1,6 +1,6 @@
 ---
 title: Slatedale
 url: /slatedale/
-latitude: 40.7445394
-longitude: -75.6565762
+latitude: 40.743
+longitude: -75.662
 ---

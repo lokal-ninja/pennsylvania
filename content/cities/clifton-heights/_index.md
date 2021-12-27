@@ -1,6 +1,6 @@
 ---
 title: Clifton Heights
 url: /clifton-heights/
-latitude: 39.9292791
-longitude: -75.2962972
+latitude: 39.929
+longitude: -75.299
 ---

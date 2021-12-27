@@ -1,6 +1,6 @@
 ---
 title: Lucinda
 url: /lucinda/
-latitude: 41.308396
-longitude: -79.36976650000001
+latitude: 41.308
+longitude: -79.37
 ---

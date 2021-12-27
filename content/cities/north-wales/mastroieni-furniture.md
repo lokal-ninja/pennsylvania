@@ -1,5 +1,5 @@
 ---
 title: "Mastroieni Furniture"
 url: /north-wales/mastroieni-furniture/
-shop: furniture
+shop: Möbel
 ---

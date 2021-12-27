@@ -1,5 +1,5 @@
 ---
 title: "Ikonik"
 url: /erie/ikonik/
-shop: clothes
+shop: Kleidung
 ---

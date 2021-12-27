@@ -1,6 +1,6 @@
 ---
 title: Wernersville
 url: /wernersville/
-latitude: 40.330092400000005
-longitude: -76.08049720000001
+latitude: 40.328
+longitude: -76.073
 ---

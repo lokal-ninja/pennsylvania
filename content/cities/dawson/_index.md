@@ -1,6 +1,6 @@
 ---
 title: Dawson
 url: /dawson/
-latitude: 40.0470291
-longitude: -79.65553840000001
+latitude: 40.088
+longitude: -79.697
 ---

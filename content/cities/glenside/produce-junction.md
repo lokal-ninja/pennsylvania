@@ -1,5 +1,5 @@
 ---
 title: "Produce Junction"
 url: /glenside/produce-junction/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

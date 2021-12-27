@@ -1,6 +1,6 @@
 ---
 title: Duncannon
 url: /duncannon/
-latitude: 40.393143300000006
-longitude: -77.0325751
+latitude: 40.356
+longitude: -76.987
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nescopeck
 url: /nescopeck/
-latitude: 41.0520964
-longitude: -76.2205418
+latitude: 41.018
+longitude: -76.204
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /glenolden/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

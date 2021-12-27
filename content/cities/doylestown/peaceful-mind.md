@@ -1,5 +1,5 @@
 ---
 title: "Peaceful Mind"
 url: /doylestown/peaceful-mind/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eagleville
 url: /eagleville/
-latitude: 41.0564538
-longitude: -77.5927705
+latitude: 40.154
+longitude: -75.376
 ---

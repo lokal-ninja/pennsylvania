@@ -1,6 +1,6 @@
 ---
 title: Jonestown
 url: /jonestown/
-latitude: 41.129251000000004
-longitude: -76.3041041
+latitude: 40.418
+longitude: -76.495
 ---

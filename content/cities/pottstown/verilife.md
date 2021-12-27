@@ -1,5 +1,5 @@
 ---
 title: "Verilife"
 url: /pottstown/verilife/
-shop: cannabis
+shop: Hanf
 ---

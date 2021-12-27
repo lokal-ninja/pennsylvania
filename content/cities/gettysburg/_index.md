@@ -1,6 +1,6 @@
 ---
 title: Gettysburg
 url: /gettysburg/
-latitude: 39.830897300000004
-longitude: -77.231012
+latitude: 39.831
+longitude: -77.231
 ---

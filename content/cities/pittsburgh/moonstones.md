@@ -1,5 +1,5 @@
 ---
 title: "Moonstones"
 url: /pittsburgh/moonstones/
-shop: shop
+shop: Allgemein
 ---

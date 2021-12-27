@@ -1,5 +1,5 @@
 ---
 title: "Erie Beer Company"
 url: /erie/erie-beer-company/
-shop: beverages
+shop: Getränke
 ---

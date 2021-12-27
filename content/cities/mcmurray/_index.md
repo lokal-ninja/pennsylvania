@@ -1,6 +1,6 @@
 ---
 title: McMurray
 url: /mcmurray/
-latitude: 40.2790046
-longitude: -80.0838612
+latitude: 40.268
+longitude: -80.083
 ---

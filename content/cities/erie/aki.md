@@ -1,5 +1,5 @@
 ---
 title: "Aki"
 url: /erie/aki/
-shop: beauty
+shop: Kosmetik
 ---

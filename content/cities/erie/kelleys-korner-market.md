@@ -1,5 +1,5 @@
 ---
 title: "Kelley's Korner Market"
 url: /erie/kelleys-korner-market/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Barnesville
 url: /barnesville/
-latitude: 40.814786600000005
-longitude: -76.0312371
+latitude: 40.818
+longitude: -76.063
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fashionable Mens Clothing"
 url: /erie/fashionable-mens-clothing/
-shop: clothes
+shop: Kleidung
 ---

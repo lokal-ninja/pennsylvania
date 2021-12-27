@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /media/trader-joes/
-shop: supermarket
+shop: Supermarkt
 ---

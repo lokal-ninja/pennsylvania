@@ -1,6 +1,6 @@
 ---
 title: Charleroi
 url: /charleroi/
-latitude: 40.1378499
-longitude: -79.8981035
+latitude: 40.136
+longitude: -79.895
 ---

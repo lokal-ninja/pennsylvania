@@ -1,6 +1,6 @@
 ---
 title: New Bethlehem
 url: /new-bethlehem/
-latitude: 41.001732000000004
-longitude: -79.3314297
+latitude: 40.974
+longitude: -79.35
 ---

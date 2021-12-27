@@ -1,5 +1,5 @@
 ---
 title: "Luxe"
 url: /pittsburgh/luxe/
-shop: kitchen
+shop: Küchen
 ---

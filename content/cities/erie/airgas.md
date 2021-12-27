@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /erie/airgas/
-shop: gas
+shop: Gasflaschen
 ---

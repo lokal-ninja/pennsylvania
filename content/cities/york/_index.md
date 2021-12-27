@@ -1,6 +1,6 @@
 ---
 title: York
 url: /york/
-latitude: 39.962398
-longitude: -76.72739200000001
+latitude: 39.934
+longitude: -76.682
 ---

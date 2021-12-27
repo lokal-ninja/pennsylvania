@@ -1,5 +1,5 @@
 ---
 title: "Andrew A Inc."
 url: /philadelphia/andrew-a-inc/
-shop: convenience
+shop: Lebensmittel
 ---

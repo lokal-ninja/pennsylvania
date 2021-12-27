@@ -1,5 +1,5 @@
 ---
 title: "Bartman Auto Sales"
 url: /gilbertsville/bartman-auto-sales/
-shop: car
+shop: Autohaus
 ---

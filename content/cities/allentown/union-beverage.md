@@ -1,5 +1,5 @@
 ---
 title: "Union Beverage"
 url: /allentown/union-beverage/
-shop: beverages
+shop: Getränke
 ---

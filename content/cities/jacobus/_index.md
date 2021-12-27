@@ -1,6 +1,6 @@
 ---
 title: Jacobus
 url: /jacobus/
-latitude: 39.883155800000004
-longitude: -76.7105245
+latitude: 39.883
+longitude: -76.71
 ---

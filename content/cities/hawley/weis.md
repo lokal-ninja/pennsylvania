@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /hawley/weis/
-shop: supermarket
+shop: Supermarkt
 ---

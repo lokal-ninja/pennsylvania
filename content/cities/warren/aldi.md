@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /warren/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

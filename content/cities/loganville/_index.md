@@ -1,6 +1,6 @@
 ---
 title: Loganville
 url: /loganville/
-latitude: 39.8556564
-longitude: -76.70746960000001
+latitude: 39.864
+longitude: -76.704
 ---

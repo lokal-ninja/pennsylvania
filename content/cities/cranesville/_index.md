@@ -1,6 +1,6 @@
 ---
 title: Cranesville
 url: /cranesville/
-latitude: 41.905055700000005
-longitude: -80.3436755
+latitude: 41.905
+longitude: -80.343
 ---

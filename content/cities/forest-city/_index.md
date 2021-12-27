@@ -1,6 +1,6 @@
 ---
 title: Forest City
 url: /forest-city/
-latitude: 41.6514722
-longitude: -75.4665719
+latitude: 41.647
+longitude: -75.467
 ---

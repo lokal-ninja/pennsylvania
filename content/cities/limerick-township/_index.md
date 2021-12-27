@@ -1,6 +1,6 @@
 ---
 title: Limerick Township
 url: /limerick-township/
-latitude: 
-longitude: 
+latitude: 40.193
+longitude: -75.529
 ---

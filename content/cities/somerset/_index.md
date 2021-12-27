@@ -1,6 +1,6 @@
 ---
 title: Somerset
 url: /somerset/
-latitude: 40.7361723
-longitude: -77.8883275
+latitude: 40.053
+longitude: -79.074
 ---

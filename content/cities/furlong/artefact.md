@@ -1,5 +1,5 @@
 ---
 title: "Artefact"
 url: /furlong/artefact/
-shop: antiques
+shop: Antiquitäten
 ---

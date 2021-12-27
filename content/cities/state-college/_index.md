@@ -1,6 +1,6 @@
 ---
 title: State College
 url: /state-college/
-latitude: 40.7944504
-longitude: -77.8616386
+latitude: 40.798
+longitude: -77.857
 ---

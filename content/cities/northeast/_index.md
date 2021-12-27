@@ -1,6 +1,6 @@
 ---
 title: NorthEast
 url: /northeast/
-latitude: 
-longitude: 
+latitude: 42.101
+longitude: -79.814
 ---

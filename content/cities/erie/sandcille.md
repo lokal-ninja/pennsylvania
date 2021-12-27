@@ -1,5 +1,5 @@
 ---
 title: "SandCille"
 url: /erie/sandcille/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mifflinburg
 url: /mifflinburg/
-latitude: 40.917582
-longitude: -77.0477501
+latitude: 40.927
+longitude: -77.025
 ---

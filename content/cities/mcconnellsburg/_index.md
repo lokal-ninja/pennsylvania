@@ -1,6 +1,6 @@
 ---
 title: McConnellsburg
 url: /mcconnellsburg/
-latitude: 39.932589
-longitude: -77.99889060000001
+latitude: 39.944
+longitude: -77.991
 ---

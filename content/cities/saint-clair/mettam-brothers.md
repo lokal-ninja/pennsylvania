@@ -1,5 +1,5 @@
 ---
 title: "Mettam Brothers"
 url: /saint-clair/mettam-brothers/
-shop: hardware
+shop: Eisenwaren
 ---

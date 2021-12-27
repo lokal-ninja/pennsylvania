@@ -1,5 +1,5 @@
 ---
 title: "New Mainstream Massage"
 url: /pittsburgh/new-mainstream-massage/
-shop: massage
+shop: Massage
 ---

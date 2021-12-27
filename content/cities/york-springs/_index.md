@@ -1,6 +1,6 @@
 ---
 title: York Springs
 url: /york-springs/
-latitude: 40.008982700000004
-longitude: -77.11553590000001
+latitude: 40.027
+longitude: -77.117
 ---

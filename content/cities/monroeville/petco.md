@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /monroeville/petco/
-shop: pet
+shop: Tiere
 ---

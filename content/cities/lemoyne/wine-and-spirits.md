@@ -1,5 +1,5 @@
 ---
 title: "Wine and Spirits"
 url: /lemoyne/wine-and-spirits/
-shop: alcohol
+shop: Spirituosen
 ---

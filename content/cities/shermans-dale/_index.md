@@ -1,6 +1,6 @@
 ---
 title: Shermans Dale
 url: /shermans-dale/
-latitude: 40.3242526
-longitude: -77.1730371
+latitude: 40.309
+longitude: -77.153
 ---

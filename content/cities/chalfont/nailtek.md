@@ -1,5 +1,5 @@
 ---
 title: "Nailtek"
 url: /chalfont/nailtek/
-shop: beauty
+shop: Kosmetik
 ---

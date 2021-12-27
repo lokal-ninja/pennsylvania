@@ -1,6 +1,6 @@
 ---
 title: Warminster
 url: /warminster/
-latitude: 40.2067751
-longitude: -75.0996159
+latitude: 40.206
+longitude: -75.102
 ---

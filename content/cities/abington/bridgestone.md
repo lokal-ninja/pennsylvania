@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /abington/bridgestone/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /hatfield-township/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

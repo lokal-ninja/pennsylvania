@@ -1,5 +1,5 @@
 ---
 title: "Riviera Jeweler"
 url: /pittsburgh/riviera-jeweler/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /kutztown/weis/
-shop: supermarket
+shop: Supermarkt
 ---

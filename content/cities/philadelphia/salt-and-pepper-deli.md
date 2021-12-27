@@ -1,5 +1,5 @@
 ---
 title: "Salt and Pepper Deli"
 url: /philadelphia/salt-and-pepper-deli/
-shop: convenience
+shop: Lebensmittel
 ---

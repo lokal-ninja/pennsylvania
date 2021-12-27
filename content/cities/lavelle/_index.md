@@ -1,6 +1,6 @@
 ---
 title: Lavelle
 url: /lavelle/
-latitude: 40.7634205
-longitude: -76.3827294
+latitude: 40.76
+longitude: -76.383
 ---

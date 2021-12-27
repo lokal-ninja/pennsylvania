@@ -1,5 +1,5 @@
 ---
 title: "Lifelife Rescue"
 url: /waynesboro/lifelife-rescue/
-shop: computer
+shop: Computer
 ---

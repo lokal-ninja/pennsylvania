@@ -1,5 +1,5 @@
 ---
 title: "Wine and Spirits"
 url: /philadelphia/wine-and-spirits/
-shop: alcohol
+shop: Spirituosen
 ---

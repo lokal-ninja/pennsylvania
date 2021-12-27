@@ -1,5 +1,5 @@
 ---
 title: "Thomasville"
 url: /montgomeryville/thomasville/
-shop: furniture
+shop: Möbel
 ---

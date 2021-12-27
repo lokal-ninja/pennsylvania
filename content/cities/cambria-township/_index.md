@@ -1,6 +1,6 @@
 ---
 title: Cambria Township
 url: /cambria-township/
-latitude: 
-longitude: 
+latitude: 40.468
+longitude: -78.756
 ---

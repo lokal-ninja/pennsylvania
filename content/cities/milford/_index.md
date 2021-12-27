@@ -1,6 +1,6 @@
 ---
 title: Milford
 url: /milford/
-latitude: 41.322316
-longitude: -74.80238820000001
+latitude: 41.322
+longitude: -74.803
 ---

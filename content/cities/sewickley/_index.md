@@ -1,6 +1,6 @@
 ---
 title: Sewickley
 url: /sewickley/
-latitude: 40.5364566
-longitude: -80.1845031
+latitude: 40.54
+longitude: -80.18
 ---

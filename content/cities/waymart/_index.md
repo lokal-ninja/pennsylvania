@@ -1,6 +1,6 @@
 ---
 title: Waymart
 url: /waymart/
-latitude: 41.5803625
-longitude: -75.40823660000001
+latitude: 41.589
+longitude: -75.405
 ---

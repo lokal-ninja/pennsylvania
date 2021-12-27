@@ -1,6 +1,6 @@
 ---
 title: Burgettstown
 url: /burgettstown/
-latitude: 40.382013300000004
-longitude: -80.3928423
+latitude: 40.427
+longitude: -80.367
 ---

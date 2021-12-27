@@ -1,5 +1,5 @@
 ---
 title: "Rodriguez Grocery"
 url: /allentown/rodriguez-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

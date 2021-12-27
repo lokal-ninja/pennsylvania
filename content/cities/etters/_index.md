@@ -1,6 +1,6 @@
 ---
 title: Etters
 url: /etters/
-latitude: 
-longitude: 
+latitude: 40.154
+longitude: -76.82
 ---

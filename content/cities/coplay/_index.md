@@ -1,6 +1,6 @@
 ---
 title: Coplay
 url: /coplay/
-latitude: 40.6700965
-longitude: -75.49546120000001
+latitude: 40.675
+longitude: -75.494
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /quakertown/fastenal/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Larry's Laundromutt"
 url: /edgeworth/larrys-laundromutt/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,6 +1,6 @@
 ---
 title: New Alexandria
 url: /new-alexandria/
-latitude: 40.3986791
-longitude: -79.42198330000001
+latitude: 40.396
+longitude: -79.443
 ---

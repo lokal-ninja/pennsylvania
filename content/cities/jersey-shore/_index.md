@@ -1,6 +1,6 @@
 ---
 title: Jersey Shore
 url: /jersey-shore/
-latitude: 41.2020171
-longitude: -77.2644152
+latitude: 41.203
+longitude: -77.255
 ---

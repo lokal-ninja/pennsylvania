@@ -1,6 +1,6 @@
 ---
 title: Annville
 url: /annville/
-latitude: 40.329590100000004
-longitude: -76.515226
+latitude: 40.422
+longitude: -76.576
 ---

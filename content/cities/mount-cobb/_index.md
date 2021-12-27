@@ -1,6 +1,6 @@
 ---
 title: Mount Cobb
 url: /mount-cobb/
-latitude: 41.4134163
-longitude: -75.49324010000001
+latitude: 41.4
+longitude: -75.469
 ---

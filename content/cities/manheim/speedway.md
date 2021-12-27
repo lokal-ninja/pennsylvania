@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /manheim/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

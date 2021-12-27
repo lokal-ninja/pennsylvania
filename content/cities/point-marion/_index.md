@@ -1,6 +1,6 @@
 ---
 title: Point Marion
 url: /point-marion/
-latitude: 39.7389671
-longitude: -79.8986685
+latitude: 39.741
+longitude: -79.9
 ---

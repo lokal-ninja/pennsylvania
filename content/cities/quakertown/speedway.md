@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /quakertown/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

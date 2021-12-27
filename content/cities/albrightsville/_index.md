@@ -1,6 +1,6 @@
 ---
 title: Albrightsville
 url: /albrightsville/
-latitude: 41.016468100000004
-longitude: -75.613172
+latitude: 41.018
+longitude: -75.605
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Majical Asian Massage"
 url: /nanticoke/majical-asian-massage/
-shop: massage
+shop: Massage
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wampum
 url: /wampum/
-latitude: 40.8881184
-longitude: -80.3381195
+latitude: 40.835
+longitude: -80.329
 ---

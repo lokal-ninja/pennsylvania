@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /bensalem/giant/
-shop: supermarket
+shop: Supermarkt
 ---

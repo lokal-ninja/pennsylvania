@@ -1,6 +1,6 @@
 ---
 title: Zion
 url: /zion/
-latitude: 40.9142294
-longitude: -77.6847211
+latitude: 40.934
+longitude: -77.653
 ---

@@ -1,6 +1,6 @@
 ---
 title: Trevorton
 url: /trevorton/
-latitude: 40.7813188
-longitude: -76.67308460000001
+latitude: 40.784
+longitude: -76.655
 ---

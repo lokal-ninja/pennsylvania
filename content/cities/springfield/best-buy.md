@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /springfield/best-buy/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pocono Summit
 url: /pocono-summit/
-latitude: 41.1112446
-longitude: -75.3863812
+latitude: 41.116
+longitude: -75.385
 ---

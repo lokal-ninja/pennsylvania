@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /willow-grove/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

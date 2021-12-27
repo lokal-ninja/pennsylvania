@@ -1,6 +1,6 @@
 ---
 title: Weissport
 url: /weissport/
-latitude: 40.828991900000005
-longitude: -75.6985473
+latitude: 40.83
+longitude: -75.703
 ---

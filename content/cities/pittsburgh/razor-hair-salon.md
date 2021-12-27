@@ -1,5 +1,5 @@
 ---
 title: "Razor Hair Salon"
 url: /pittsburgh/razor-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

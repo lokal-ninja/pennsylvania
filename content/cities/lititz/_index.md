@@ -1,6 +1,6 @@
 ---
 title: Lititz
 url: /lititz/
-latitude: 40.1571252
-longitude: -76.30721030000001
+latitude: 40.135
+longitude: -76.303
 ---

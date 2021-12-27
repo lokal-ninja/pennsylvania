@@ -1,6 +1,6 @@
 ---
 title: Johnstown
 url: /johnstown/
-latitude: 40.278425600000006
-longitude: -76.3163447
+latitude: 40.328
+longitude: -78.919
 ---

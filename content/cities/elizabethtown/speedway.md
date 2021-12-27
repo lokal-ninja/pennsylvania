@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /elizabethtown/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

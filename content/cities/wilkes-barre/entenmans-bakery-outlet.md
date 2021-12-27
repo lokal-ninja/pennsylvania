@@ -1,5 +1,5 @@
 ---
 title: "Entenman's Bakery Outlet"
 url: /wilkes-barre/entenmans-bakery-outlet/
-shop: bakery
+shop: Bäckerei
 ---

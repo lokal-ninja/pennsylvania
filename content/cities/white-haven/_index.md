@@ -1,6 +1,6 @@
 ---
 title: White Haven
 url: /white-haven/
-latitude: 41.06064
-longitude: -75.774082
+latitude: 41.061
+longitude: -75.773
 ---

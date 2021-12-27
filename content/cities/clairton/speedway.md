@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /clairton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

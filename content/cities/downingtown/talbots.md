@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /downingtown/talbots/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Doylestown Township
 url: /doylestown-township/
-latitude: 
-longitude: 
+latitude: 40.272
+longitude: -75.127
 ---

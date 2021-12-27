@@ -1,6 +1,6 @@
 ---
 title: Greencastle
 url: /greencastle/
-latitude: 39.790371
-longitude: -77.72777140000001
+latitude: 39.757
+longitude: -77.848
 ---

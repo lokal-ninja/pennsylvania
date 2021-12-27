@@ -1,6 +1,6 @@
 ---
 title: Pleasant Unity
 url: /pleasant-unity/
-latitude: 40.2395149
-longitude: -79.4508704
+latitude: 40.243
+longitude: -79.458
 ---

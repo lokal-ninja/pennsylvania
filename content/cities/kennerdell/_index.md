@@ -1,6 +1,6 @@
 ---
 title: Kennerdell
 url: /kennerdell/
-latitude: 41.2664484
-longitude: -79.8406089
+latitude: 41.268
+longitude: -79.843
 ---

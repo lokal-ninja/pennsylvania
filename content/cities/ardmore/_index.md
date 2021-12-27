@@ -1,6 +1,6 @@
 ---
 title: Ardmore
 url: /ardmore/
-latitude: 40.006778600000004
-longitude: -75.2854622
+latitude: 40.008
+longitude: -75.291
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /stroudsburg/kia/
-shop: car
+shop: Autohaus
 ---

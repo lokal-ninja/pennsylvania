@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /doylestown/acme/
-shop: supermarket
+shop: Supermarkt
 ---

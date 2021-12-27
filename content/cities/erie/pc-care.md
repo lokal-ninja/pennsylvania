@@ -1,5 +1,5 @@
 ---
 title: "PC Care"
 url: /erie/pc-care/
-shop: computer
+shop: Computer
 ---

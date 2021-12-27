@@ -1,6 +1,6 @@
 ---
 title: Girardville
 url: /girardville/
-latitude: 40.7914769
-longitude: -76.28355690000001
+latitude: 40.792
+longitude: -76.281
 ---

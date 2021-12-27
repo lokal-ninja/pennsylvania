@@ -1,6 +1,6 @@
 ---
 title: Parkesburg
 url: /parkesburg/
-latitude: 39.958716100000004
-longitude: -75.91939280000001
+latitude: 39.983
+longitude: -75.937
 ---

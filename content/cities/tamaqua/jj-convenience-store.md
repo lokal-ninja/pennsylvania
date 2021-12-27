@@ -1,5 +1,5 @@
 ---
 title: "JJ Convenience Store"
 url: /tamaqua/jj-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

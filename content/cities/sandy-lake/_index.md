@@ -1,6 +1,6 @@
 ---
 title: Sandy Lake
 url: /sandy-lake/
-latitude: 41.348667400000004
-longitude: -80.08228220000001
+latitude: 41.351
+longitude: -80.079
 ---

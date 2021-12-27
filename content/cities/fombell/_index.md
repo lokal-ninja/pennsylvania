@@ -1,6 +1,6 @@
 ---
 title: Fombell
 url: /fombell/
-latitude: 40.8095093
-longitude: -80.2017277
+latitude: 40.85
+longitude: -80.217
 ---

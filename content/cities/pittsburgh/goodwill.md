@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /pittsburgh/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

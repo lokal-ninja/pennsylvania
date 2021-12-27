@@ -1,5 +1,5 @@
 ---
 title: "Auto Express Kia"
 url: /erie/auto-express-kia/
-shop: car
+shop: Autohaus
 ---

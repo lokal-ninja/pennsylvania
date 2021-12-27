@@ -1,6 +1,6 @@
 ---
 title: Canadensis
 url: /canadensis/
-latitude: 41.192035100000005
-longitude: -75.2512923
+latitude: 41.209
+longitude: -75.265
 ---

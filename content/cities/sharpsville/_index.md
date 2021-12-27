@@ -1,6 +1,6 @@
 ---
 title: Sharpsville
 url: /sharpsville/
-latitude: 41.2592225
-longitude: -80.47201410000001
+latitude: 41.279
+longitude: -80.434
 ---

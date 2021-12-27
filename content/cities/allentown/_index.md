@@ -1,6 +1,6 @@
 ---
 title: Allentown
 url: /allentown/
-latitude: 40.4226177
-longitude: -79.993086
+latitude: 40.592
+longitude: -75.574
 ---

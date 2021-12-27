@@ -1,5 +1,5 @@
 ---
 title: "Park Mart"
 url: /east-stroudsburg/park-mart/
-shop: convenience
+shop: Lebensmittel
 ---

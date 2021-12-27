@@ -1,5 +1,5 @@
 ---
 title: "Forbes Tobacco"
 url: /pittsburgh/forbes-tobacco/
-shop: tobacco
+shop: Tabak
 ---

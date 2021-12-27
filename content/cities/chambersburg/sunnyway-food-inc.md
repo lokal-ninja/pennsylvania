@@ -1,5 +1,5 @@
 ---
 title: "Sunnyway Food Inc"
 url: /chambersburg/sunnyway-food-inc/
-shop: supermarket
+shop: Supermarkt
 ---

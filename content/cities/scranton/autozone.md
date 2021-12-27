@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /scranton/autozone/
-shop: car parts
+shop: Autoteile
 ---

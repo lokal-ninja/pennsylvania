@@ -1,5 +1,5 @@
 ---
 title: "Aardvark Sports Shop"
 url: /bethlehem/aardvark-sports-shop/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /erie/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

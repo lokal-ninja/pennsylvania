@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /mechanicsburg/giant-2/
-shop: supermarket
+shop: Supermarkt
 ---

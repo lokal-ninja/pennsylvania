@@ -1,5 +1,5 @@
 ---
 title: "Bella's Boutique"
 url: /doylestown/bellas-boutique/
-shop: clothes
+shop: Kleidung
 ---

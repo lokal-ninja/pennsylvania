@@ -1,5 +1,5 @@
 ---
 title: "Cole's Hardware"
 url: /bloomsburg/coles-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

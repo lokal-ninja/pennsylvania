@@ -1,5 +1,5 @@
 ---
 title: "KPI Tactical"
 url: /lancaster/kpi-tactical/
-shop: shop
+shop: Allgemein
 ---

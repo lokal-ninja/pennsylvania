@@ -1,5 +1,5 @@
 ---
 title: "Venus Nail and Spa"
 url: /narberth/venus-nail-and-spa/
-shop: beauty
+shop: Kosmetik
 ---

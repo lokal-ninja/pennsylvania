@@ -1,6 +1,6 @@
 ---
 title: King Of Prussia
 url: /king-of-prussia/
-latitude: 
-longitude: 
+latitude: 40.079
+longitude: -75.359
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glen Mills
 url: /glen-mills/
-latitude: 39.919698000000004
-longitude: -75.49043230000001
+latitude: 39.881
+longitude: -75.527
 ---

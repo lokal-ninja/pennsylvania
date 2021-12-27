@@ -1,6 +1,6 @@
 ---
 title: Steelton
 url: /steelton/
-latitude: 40.2353679
-longitude: -76.8413613
+latitude: 40.225
+longitude: -76.827
 ---

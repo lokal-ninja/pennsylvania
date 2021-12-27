@@ -1,6 +1,6 @@
 ---
 title: Levittown
 url: /levittown/
-latitude: 40.1541257
-longitude: -74.8408768
+latitude: 40.16
+longitude: -74.849
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /erie/cosmoprof/
-shop: beauty
+shop: Kosmetik
 ---

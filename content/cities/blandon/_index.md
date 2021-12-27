@@ -1,6 +1,6 @@
 ---
 title: Blandon
 url: /blandon/
-latitude: 40.4412047
-longitude: -75.886871
+latitude: 40.444
+longitude: -75.859
 ---

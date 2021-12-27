@@ -1,5 +1,5 @@
 ---
 title: "MyEyeDr"
 url: /carlisle/myeyedr/
-shop: optician
+shop: Optiker
 ---

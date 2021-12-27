@@ -1,5 +1,5 @@
 ---
 title: "Riverside Family Market"
 url: /point-marion/riverside-family-market/
-shop: supermarket
+shop: Supermarkt
 ---

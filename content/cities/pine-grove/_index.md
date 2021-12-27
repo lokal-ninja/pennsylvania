@@ -1,6 +1,6 @@
 ---
 title: Pine Grove
 url: /pine-grove/
-latitude: 40.485348900000005
-longitude: -78.6205734
+latitude: 40.538
+longitude: -76.399
 ---

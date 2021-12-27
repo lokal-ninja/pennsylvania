@@ -1,6 +1,6 @@
 ---
 title: Fountain Springs
 url: /fountain-springs/
-latitude: 40.7711989
-longitude: -76.3246708
+latitude: 40.771
+longitude: -76.326
 ---

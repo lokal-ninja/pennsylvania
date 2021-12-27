@@ -1,6 +1,6 @@
 ---
 title: Confluence
 url: /confluence/
-latitude: 39.812854800000004
-longitude: -79.35670160000001
+latitude: 39.812
+longitude: -79.356
 ---

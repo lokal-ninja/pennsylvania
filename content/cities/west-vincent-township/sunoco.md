@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /west-vincent-township/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

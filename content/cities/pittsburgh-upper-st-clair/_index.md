@@ -1,6 +1,6 @@
 ---
 title: Pittsburgh;Upper St. Clair
 url: /pittsburgh-upper-st-clair/
-latitude: 
-longitude: 
+latitude: 40.346
+longitude: -80.059
 ---

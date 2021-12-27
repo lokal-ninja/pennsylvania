@@ -1,6 +1,6 @@
 ---
 title: Milton
 url: /milton/
-latitude: 40.9097875
-longitude: -79.21670470000001
+latitude: 41.012
+longitude: -76.844
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EuroOptic"
 url: /montoursville/eurooptic/
-shop: weapons
+shop: Waffen
 ---

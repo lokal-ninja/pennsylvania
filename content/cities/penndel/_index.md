@@ -1,6 +1,6 @@
 ---
 title: Penndel
 url: /penndel/
-latitude: 40.1520541
-longitude: -74.9165553
+latitude: 40.166
+longitude: -74.903
 ---

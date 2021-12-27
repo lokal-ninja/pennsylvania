@@ -1,5 +1,5 @@
 ---
 title: "Neon Nails"
 url: /erie/neon-nails/
-shop: beauty
+shop: Kosmetik
 ---

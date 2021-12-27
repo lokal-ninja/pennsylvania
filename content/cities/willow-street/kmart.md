@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /willow-street/kmart/
-shop: department store
+shop: Warenhaus
 ---

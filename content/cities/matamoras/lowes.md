@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /matamoras/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

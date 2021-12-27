@@ -1,5 +1,5 @@
 ---
 title: "Mac Motors"
 url: /saint-clair/mac-motors/
-shop: car
+shop: Autohaus
 ---

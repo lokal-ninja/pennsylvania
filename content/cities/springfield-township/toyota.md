@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /springfield-township/toyota/
-shop: car
+shop: Autohaus
 ---

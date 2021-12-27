@@ -1,6 +1,6 @@
 ---
 title: Wynnewood
 url: /wynnewood/
-latitude: 40.002851400000004
-longitude: -75.2707469
+latitude: 40.004
+longitude: -75.284
 ---

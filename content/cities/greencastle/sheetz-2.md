@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /greencastle/sheetz-2/
-shop: convenience
+shop: Lebensmittel
 ---

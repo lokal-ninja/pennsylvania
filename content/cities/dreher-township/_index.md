@@ -1,6 +1,6 @@
 ---
 title: Dreher Township
 url: /dreher-township/
-latitude: 
-longitude: 
+latitude: 41.312
+longitude: -75.32
 ---

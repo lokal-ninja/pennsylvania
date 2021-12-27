@@ -1,6 +1,6 @@
 ---
 title: Perryopolis
 url: /perryopolis/
-latitude: 40.0871147
-longitude: -79.7507138
+latitude: 40.086
+longitude: -79.762
 ---

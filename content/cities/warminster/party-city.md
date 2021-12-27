@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /warminster/party-city/
-shop: party
+shop: Partyzubehör
 ---

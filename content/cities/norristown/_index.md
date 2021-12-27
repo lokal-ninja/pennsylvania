@@ -1,6 +1,6 @@
 ---
 title: Norristown
 url: /norristown/
-latitude: 40.121497000000005
-longitude: -75.3399048
+latitude: 40.129
+longitude: -75.358
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pittsburgh/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

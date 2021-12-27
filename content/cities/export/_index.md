@@ -1,6 +1,6 @@
 ---
 title: Export
 url: /export/
-latitude: 40.4181235
-longitude: -79.62559900000001
+latitude: 40.47
+longitude: -79.591
 ---

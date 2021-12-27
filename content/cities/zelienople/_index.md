@@ -1,6 +1,6 @@
 ---
 title: Zelienople
 url: /zelienople/
-latitude: 40.795762200000006
-longitude: -80.1370795
+latitude: 40.798
+longitude: -80.148
 ---

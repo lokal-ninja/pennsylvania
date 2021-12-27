@@ -1,6 +1,6 @@
 ---
 title: Erie
 url: /erie/
-latitude: 42.129471200000005
-longitude: -80.08526950000001
+latitude: 42.071
+longitude: -80.043
 ---

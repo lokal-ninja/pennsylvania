@@ -1,6 +1,6 @@
 ---
 title: DuBois
 url: /dubois/
-latitude: 41.118651
-longitude: -78.76223420000001
+latitude: 41.119
+longitude: -78.761
 ---

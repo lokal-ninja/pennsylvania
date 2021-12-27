@@ -1,6 +1,6 @@
 ---
 title: Williamsport
 url: /williamsport/
-latitude: 40.6812101
-longitude: -75.2012873
+latitude: 41.227
+longitude: -76.985
 ---

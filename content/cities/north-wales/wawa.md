@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /north-wales/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

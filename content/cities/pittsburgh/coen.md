@@ -1,5 +1,5 @@
 ---
 title: "Coen"
 url: /pittsburgh/coen/
-shop: convenience
+shop: Lebensmittel
 ---

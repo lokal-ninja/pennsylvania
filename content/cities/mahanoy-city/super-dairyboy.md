@@ -1,5 +1,5 @@
 ---
 title: "Super Dairyboy"
 url: /mahanoy-city/super-dairyboy/
-shop: toys
+shop: Spielzeug
 ---

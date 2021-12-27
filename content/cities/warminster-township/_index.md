@@ -1,6 +1,6 @@
 ---
 title: Warminster Township
 url: /warminster-township/
-latitude: 
-longitude: 
+latitude: 40.229
+longitude: -75.132
 ---

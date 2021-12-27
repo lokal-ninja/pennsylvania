@@ -1,5 +1,5 @@
 ---
 title: "Simon Haircuts"
 url: /north-wales/simon-haircuts/
-shop: hairdresser
+shop: Friseur
 ---

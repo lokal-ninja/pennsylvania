@@ -1,6 +1,6 @@
 ---
 title: Latrobe
 url: /latrobe/
-latitude: 40.317287
-longitude: -79.3840301
+latitude: 40.282
+longitude: -79.383
 ---

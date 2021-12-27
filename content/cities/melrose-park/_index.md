@@ -1,6 +1,6 @@
 ---
 title: Melrose Park
 url: /melrose-park/
-latitude: 40.0617779
-longitude: -75.1318418
+latitude: 40.064
+longitude: -75.139
 ---

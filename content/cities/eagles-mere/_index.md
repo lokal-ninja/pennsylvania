@@ -1,6 +1,6 @@
 ---
 title: Eagles Mere
 url: /eagles-mere/
-latitude: 41.4109919
-longitude: -76.5842439
+latitude: 41.411
+longitude: -76.584
 ---

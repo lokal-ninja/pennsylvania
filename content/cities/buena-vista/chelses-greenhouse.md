@@ -1,5 +1,5 @@
 ---
 title: "Chelse's Greenhouse"
 url: /buena-vista/chelses-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

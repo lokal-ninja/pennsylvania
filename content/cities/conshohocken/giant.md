@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /conshohocken/giant/
-shop: supermarket
+shop: Supermarkt
 ---

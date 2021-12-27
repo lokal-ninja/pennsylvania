@@ -1,5 +1,5 @@
 ---
 title: "MVP Sport"
 url: /wilkes-barre/mvp-sport/
-shop: sports
+shop: Sport
 ---

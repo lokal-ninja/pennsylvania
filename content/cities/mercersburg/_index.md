@@ -1,6 +1,6 @@
 ---
 title: mercersburg
 url: /mercersburg/
-latitude: 
-longitude: 
+latitude: 39.742
+longitude: -77.933
 ---

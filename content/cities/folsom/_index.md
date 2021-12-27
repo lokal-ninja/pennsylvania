@@ -1,6 +1,6 @@
 ---
 title: Folsom
 url: /folsom/
-latitude: 39.8898346
-longitude: -75.32518830000001
+latitude: 39.895
+longitude: -75.316
 ---

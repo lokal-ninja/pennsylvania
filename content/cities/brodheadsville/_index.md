@@ -1,6 +1,6 @@
 ---
 title: Brodheadsville
 url: /brodheadsville/
-latitude: 40.9239703
-longitude: -75.3937485
+latitude: 40.917
+longitude: -75.416
 ---

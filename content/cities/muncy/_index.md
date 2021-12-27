@@ -1,6 +1,6 @@
 ---
 title: Muncy
 url: /muncy/
-latitude: 41.204840000000004
-longitude: -76.7870991
+latitude: 41.206
+longitude: -76.784
 ---

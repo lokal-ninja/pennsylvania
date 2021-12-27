@@ -1,6 +1,6 @@
 ---
 title: Cranberry
 url: /cranberry/
-latitude: 40.7099343
-longitude: -80.1060506
+latitude: 41.351
+longitude: -79.717
 ---

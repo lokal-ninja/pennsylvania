@@ -1,6 +1,6 @@
 ---
 title: Warrington
 url: /warrington/
-latitude: 40.2492741
-longitude: -75.13406040000001
+latitude: 40.27
+longitude: -75.128
 ---

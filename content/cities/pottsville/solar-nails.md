@@ -1,5 +1,5 @@
 ---
 title: "Solar Nails"
 url: /pottsville/solar-nails/
-shop: beauty
+shop: Kosmetik
 ---

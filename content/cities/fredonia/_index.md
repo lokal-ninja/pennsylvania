@@ -1,6 +1,6 @@
 ---
 title: Fredonia
 url: /fredonia/
-latitude: 41.3217232
-longitude: -80.2586747
+latitude: 41.366
+longitude: -80.209
 ---

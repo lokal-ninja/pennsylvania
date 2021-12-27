@@ -1,6 +1,6 @@
 ---
 title: Yatesville
 url: /yatesville/
-latitude: 40.8250879
-longitude: -76.171327
+latitude: 41.304
+longitude: -75.784
 ---

@@ -1,6 +1,6 @@
 ---
 title: Limeport
 url: /limeport/
-latitude: 40.508987700000006
-longitude: -75.4471264
+latitude: 40.508
+longitude: -75.444
 ---

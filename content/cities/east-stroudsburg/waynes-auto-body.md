@@ -1,5 +1,5 @@
 ---
 title: "Wayne's Auto Body"
 url: /east-stroudsburg/waynes-auto-body/
-shop: car repair
+shop: Autowerkstatt
 ---

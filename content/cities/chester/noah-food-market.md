@@ -1,5 +1,5 @@
 ---
 title: "Noah Food Market"
 url: /chester/noah-food-market/
-shop: convenience
+shop: Lebensmittel
 ---

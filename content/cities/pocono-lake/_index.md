@@ -1,6 +1,6 @@
 ---
 title: Pocono Lake
 url: /pocono-lake/
-latitude: 41.1053652
-longitude: -75.4760193
+latitude: 41.104
+longitude: -75.572
 ---

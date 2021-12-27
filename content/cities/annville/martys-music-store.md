@@ -1,5 +1,5 @@
 ---
 title: "Marty's Music Store"
 url: /annville/martys-music-store/
-shop: music
+shop: Musik
 ---

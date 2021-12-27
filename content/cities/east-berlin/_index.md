@@ -1,6 +1,6 @@
 ---
 title: East Berlin
 url: /east-berlin/
-latitude: 39.937597000000004
-longitude: -76.9785892
+latitude: 39.928
+longitude: -77.034
 ---

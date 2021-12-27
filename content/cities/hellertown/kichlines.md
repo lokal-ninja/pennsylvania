@@ -1,5 +1,5 @@
 ---
 title: "Kichlines"
 url: /hellertown/kichlines/
-shop: car repair
+shop: Autowerkstatt
 ---

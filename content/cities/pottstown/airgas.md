@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /pottstown/airgas/
-shop: gas
+shop: Gasflaschen
 ---

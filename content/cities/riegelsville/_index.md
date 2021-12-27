@@ -1,6 +1,6 @@
 ---
 title: Riegelsville
 url: /riegelsville/
-latitude: 40.5943218
-longitude: -75.19516730000001
+latitude: 40.594
+longitude: -75.193
 ---

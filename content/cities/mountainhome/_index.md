@@ -1,6 +1,6 @@
 ---
 title: Mountainhome
 url: /mountainhome/
-latitude: 41.1737016
-longitude: -75.271015
+latitude: 41.178
+longitude: -75.27
 ---

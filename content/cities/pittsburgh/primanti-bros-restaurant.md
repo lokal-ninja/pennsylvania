@@ -1,5 +1,5 @@
 ---
 title: "Primanti Bros. Restaurant"
 url: /pittsburgh/primanti-bros-restaurant/
-shop: kiosk
+shop: Kiosk
 ---

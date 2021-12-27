@@ -1,6 +1,6 @@
 ---
 title: Moon Township
 url: /moon-township/
-latitude: 40.5061
-longitude: -80.2082
+latitude: 40.52
+longitude: -80.225
 ---

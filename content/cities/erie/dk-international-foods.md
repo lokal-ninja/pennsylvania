@@ -1,5 +1,5 @@
 ---
 title: "DK International Foods"
 url: /erie/dk-international-foods/
-shop: supermarket
+shop: Supermarkt
 ---

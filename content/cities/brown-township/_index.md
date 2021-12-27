@@ -1,6 +1,6 @@
 ---
 title: Brown Township
 url: /brown-township/
-latitude: 
-longitude: 
+latitude: 41.472
+longitude: -77.502
 ---

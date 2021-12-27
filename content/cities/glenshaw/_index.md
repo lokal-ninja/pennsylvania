@@ -1,6 +1,6 @@
 ---
 title: Glenshaw
 url: /glenshaw/
-latitude: 40.5328462
-longitude: -79.9675536
+latitude: 40.55
+longitude: -79.915
 ---

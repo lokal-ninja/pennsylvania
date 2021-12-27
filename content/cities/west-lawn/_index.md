@@ -1,6 +1,6 @@
 ---
 title: West Lawn
 url: /west-lawn/
-latitude: 40.3298147
-longitude: -75.994381
+latitude: 40.345
+longitude: -76.002
 ---

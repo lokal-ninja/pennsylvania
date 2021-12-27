@@ -1,6 +1,6 @@
 ---
 title: Lemoyne
 url: /lemoyne/
-latitude: 40.2412143
-longitude: -76.894272
+latitude: 40.241
+longitude: -76.908
 ---

@@ -1,6 +1,6 @@
 ---
 title: Yeadon
 url: /yeadon/
-latitude: 39.939001700000006
-longitude: -75.2554605
+latitude: 39.938
+longitude: -75.255
 ---

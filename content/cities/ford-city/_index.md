@@ -1,6 +1,6 @@
 ---
 title: Ford City
 url: /ford-city/
-latitude: 40.7694379
-longitude: -79.5317734
+latitude: 40.77
+longitude: -79.532
 ---

@@ -1,6 +1,6 @@
 ---
 title: Skippack,
 url: /skippack/
-latitude: 
-longitude: 
+latitude: 40.225
+longitude: -75.403
 ---

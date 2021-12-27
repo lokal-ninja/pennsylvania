@@ -1,6 +1,6 @@
 ---
 title: Newberry Township
 url: /newberry-township/
-latitude: 
-longitude: 
+latitude: 40.128
+longitude: -76.754
 ---

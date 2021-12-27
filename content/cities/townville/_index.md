@@ -1,6 +1,6 @@
 ---
 title: Townville
 url: /townville/
-latitude: 41.677835
-longitude: -79.87977670000001
+latitude: 41.679
+longitude: -79.881
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fuller's Fabrications"
 url: /brodheadsville/fullers-fabrications/
-shop: shop
+shop: Allgemein
 ---

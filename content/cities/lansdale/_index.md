@@ -1,6 +1,6 @@
 ---
 title: Lansdale
 url: /lansdale/
-latitude: 40.2414952
-longitude: -75.28378620000001
+latitude: 40.236
+longitude: -75.289
 ---

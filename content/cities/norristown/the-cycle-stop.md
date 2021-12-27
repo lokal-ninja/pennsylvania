@@ -1,5 +1,5 @@
 ---
 title: "The Cycle Stop"
 url: /norristown/the-cycle-stop/
-shop: motorcycle
+shop: Motorrad
 ---

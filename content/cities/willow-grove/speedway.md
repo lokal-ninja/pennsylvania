@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /willow-grove/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

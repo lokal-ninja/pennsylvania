@@ -1,6 +1,6 @@
 ---
 title: Sinking Springs
 url: /sinking-springs/
-latitude: 
-longitude: 
+latitude: 40.323
+longitude: -76.013
 ---

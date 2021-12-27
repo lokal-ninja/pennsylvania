@@ -1,6 +1,6 @@
 ---
 title: Collingdale
 url: /collingdale/
-latitude: 39.9117794
-longitude: -75.2771292
+latitude: 39.908
+longitude: -75.286
 ---

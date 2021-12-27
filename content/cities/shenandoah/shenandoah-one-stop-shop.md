@@ -1,5 +1,5 @@
 ---
 title: "Shenandoah One Stop Shop"
 url: /shenandoah/shenandoah-one-stop-shop/
-shop: convenience
+shop: Lebensmittel
 ---

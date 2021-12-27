@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /homestead/petco/
-shop: pet
+shop: Tiere
 ---

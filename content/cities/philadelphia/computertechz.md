@@ -1,5 +1,5 @@
 ---
 title: "Computertechz"
 url: /philadelphia/computertechz/
-shop: computer
+shop: Computer
 ---

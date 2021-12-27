@@ -1,5 +1,5 @@
 ---
 title: "Hair Synergy"
 url: /north-wales/hair-synergy/
-shop: hairdresser
+shop: Friseur
 ---

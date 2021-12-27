@@ -1,6 +1,6 @@
 ---
 title: Patton
 url: /patton/
-latitude: 40.4657891
-longitude: -79.50094680000001
+latitude: 40.634
+longitude: -78.649
 ---

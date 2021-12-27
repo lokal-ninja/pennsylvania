@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /doylestown/radioshack/
-shop: electronics
+shop: Elektronik
 ---

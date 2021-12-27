@@ -1,6 +1,6 @@
 ---
 title: Campbelltown
 url: /campbelltown/
-latitude: 40.2775915
-longitude: -76.5852462
+latitude: 40.278
+longitude: -76.59
 ---

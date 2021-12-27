@@ -1,6 +1,6 @@
 ---
 title: West Middletown
 url: /west-middletown/
-latitude: 40.2428487
-longitude: -80.4272882
+latitude: 40.243
+longitude: -80.427
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boyertown
 url: /boyertown/
-latitude: 40.3337075
-longitude: -75.6374083
+latitude: 40.351
+longitude: -75.628
 ---

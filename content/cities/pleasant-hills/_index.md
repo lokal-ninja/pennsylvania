@@ -1,6 +1,6 @@
 ---
 title: Pleasant Hills
 url: /pleasant-hills/
-latitude: 40.3356252
-longitude: -79.9606066
+latitude: 40.332
+longitude: -79.944
 ---

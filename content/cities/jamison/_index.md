@@ -1,6 +1,6 @@
 ---
 title: Jamison
 url: /jamison/
-latitude: 41.5131177
-longitude: -79.45310210000001
+latitude: 40.259
+longitude: -75.085
 ---

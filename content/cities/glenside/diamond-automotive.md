@@ -1,5 +1,5 @@
 ---
 title: "Diamond Automotive"
 url: /glenside/diamond-automotive/
-shop: car
+shop: Autohaus
 ---

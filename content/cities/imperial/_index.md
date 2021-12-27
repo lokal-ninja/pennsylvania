@@ -1,6 +1,6 @@
 ---
 title: imperial
 url: /imperial/
-latitude: 
-longitude: 
+latitude: 40.455
+longitude: -80.234
 ---

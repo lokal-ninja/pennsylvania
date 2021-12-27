@@ -1,6 +1,6 @@
 ---
 title: Mifflintown
 url: /mifflintown/
-latitude: 40.5697996
-longitude: -77.39693390000001
+latitude: 40.583
+longitude: -77.295
 ---

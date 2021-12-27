@@ -1,6 +1,6 @@
 ---
 title: Leraysville
 url: /leraysville/
-latitude: 
-longitude: 
+latitude: 41.842
+longitude: -76.182
 ---

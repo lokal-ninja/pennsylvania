@@ -1,6 +1,6 @@
 ---
 title: Henryville
 url: /henryville/
-latitude: 41.0937032
-longitude: -75.2412927
+latitude: 41.094
+longitude: -75.244
 ---

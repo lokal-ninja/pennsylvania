@@ -1,5 +1,5 @@
 ---
 title: "SupplySource"
 url: /state-college/supplysource/
-shop: furniture
+shop: Möbel
 ---

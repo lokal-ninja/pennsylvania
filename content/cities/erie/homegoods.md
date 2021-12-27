@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /erie/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Quakertown
 url: /quakertown/
-latitude: 40.441768200000006
-longitude: -75.3415667
+latitude: 40.417
+longitude: -75.343
 ---

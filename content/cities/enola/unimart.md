@@ -1,5 +1,5 @@
 ---
 title: "Unimart"
 url: /enola/unimart/
-shop: convenience
+shop: Lebensmittel
 ---

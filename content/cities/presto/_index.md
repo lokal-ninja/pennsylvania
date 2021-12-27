@@ -1,6 +1,6 @@
 ---
 title: Presto
 url: /presto/
-latitude: 40.373680400000005
-longitude: -80.1178337
+latitude: 40.373
+longitude: -80.119
 ---

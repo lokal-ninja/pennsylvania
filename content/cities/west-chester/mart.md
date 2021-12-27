@@ -1,5 +1,5 @@
 ---
 title: "Mart"
 url: /west-chester/mart/
-shop: convenience
+shop: Lebensmittel
 ---

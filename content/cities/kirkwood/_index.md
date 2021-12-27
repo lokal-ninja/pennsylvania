@@ -1,6 +1,6 @@
 ---
 title: Kirkwood
 url: /kirkwood/
-latitude: 
-longitude: 
+latitude: 39.857
+longitude: -76.079
 ---

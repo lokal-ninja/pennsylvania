@@ -1,6 +1,6 @@
 ---
 title: Millersville
 url: /millersville/
-latitude: 39.997998
-longitude: -76.35453720000001
+latitude: 40.011
+longitude: -76.354
 ---

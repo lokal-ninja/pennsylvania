@@ -1,6 +1,6 @@
 ---
 title: New Hope
 url: /new-hope/
-latitude: 40.3642728
-longitude: -74.9512785
+latitude: 40.363
+longitude: -74.966
 ---

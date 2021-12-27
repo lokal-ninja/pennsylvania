@@ -1,5 +1,5 @@
 ---
 title: "Sander's Markets"
 url: /north-east/sanders-markets/
-shop: supermarket
+shop: Supermarkt
 ---

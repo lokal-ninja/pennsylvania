@@ -1,6 +1,6 @@
 ---
 title: Barkeyville
 url: /barkeyville/
-latitude: 41.1920042
-longitude: -79.9756122
+latitude: 41.204
+longitude: -79.974
 ---

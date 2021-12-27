@@ -1,6 +1,6 @@
 ---
 title: York Haven
 url: /york-haven/
-latitude: 40.110137
-longitude: -76.7134496
+latitude: 40.107
+longitude: -76.712
 ---

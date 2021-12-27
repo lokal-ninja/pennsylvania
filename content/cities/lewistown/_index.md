@@ -1,6 +1,6 @@
 ---
 title: Lewistown
 url: /lewistown/
-latitude: 40.7325649
-longitude: -76.02871160000001
+latitude: 40.593
+longitude: -77.592
 ---

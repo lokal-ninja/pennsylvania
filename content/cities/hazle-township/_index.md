@@ -1,6 +1,6 @@
 ---
 title: Hazle Township
 url: /hazle-township/
-latitude: 
-longitude: 
+latitude: 40.987
+longitude: -76.014
 ---

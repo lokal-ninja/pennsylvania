@@ -1,6 +1,6 @@
 ---
 title: Dormont
 url: /dormont/
-latitude: 40.3959026
-longitude: -80.0331092
+latitude: 40.395
+longitude: -80.035
 ---

@@ -1,6 +1,6 @@
 ---
 title: Johnsonburg
 url: /johnsonburg/
-latitude: 40.886175
-longitude: -78.8778097
+latitude: 41.499
+longitude: -78.681
 ---

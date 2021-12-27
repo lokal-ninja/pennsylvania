@@ -1,6 +1,6 @@
 ---
 title: Lake City
 url: /lake-city/
-latitude: 41.3647839
-longitude: -78.8855882
+latitude: 42.02
+longitude: -80.346
 ---

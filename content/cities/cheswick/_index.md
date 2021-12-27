@@ -1,6 +1,6 @@
 ---
 title: cheswick
 url: /cheswick/
-latitude: 
-longitude: 
+latitude: 40.588
+longitude: -79.822
 ---

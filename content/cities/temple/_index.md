@@ -1,6 +1,6 @@
 ---
 title: Temple
 url: /temple/
-latitude: 40.408704300000004
-longitude: -75.92159620000001
+latitude: 40.418
+longitude: -75.922
 ---

@@ -1,6 +1,6 @@
 ---
 title: Breinigsville
 url: /breinigsville/
-latitude: 
-longitude: 
+latitude: 40.544
+longitude: -75.679
 ---

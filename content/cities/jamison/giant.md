@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /jamison/giant/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dresher
 url: /dresher/
-latitude: 40.140942800000005
-longitude: -75.16684140000001
+latitude: 40.131
+longitude: -75.166
 ---

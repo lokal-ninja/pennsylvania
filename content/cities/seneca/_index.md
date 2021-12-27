@@ -1,6 +1,6 @@
 ---
 title: Seneca
 url: /seneca/
-latitude: 41.378671000000004
-longitude: -79.7039405
+latitude: 41.375
+longitude: -79.703
 ---

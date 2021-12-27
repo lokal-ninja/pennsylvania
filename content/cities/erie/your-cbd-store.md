@@ -1,5 +1,5 @@
 ---
 title: "Your CBD Store"
 url: /erie/your-cbd-store/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /warminster/sprint/
-shop: mobile phone
+shop: Handy
 ---

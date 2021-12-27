@@ -1,6 +1,6 @@
 ---
 title: Oil City
 url: /oil-city/
-latitude: 40.4022954
-longitude: -78.6400182
+latitude: 41.437
+longitude: -79.707
 ---

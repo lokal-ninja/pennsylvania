@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /downingtown/carquest/
-shop: car parts
+shop: Autoteile
 ---

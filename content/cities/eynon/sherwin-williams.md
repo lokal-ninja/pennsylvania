@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /eynon/sherwin-williams/
-shop: paint
+shop: Farben
 ---

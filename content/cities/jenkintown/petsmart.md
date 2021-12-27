@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /jenkintown/petsmart/
-shop: pet
+shop: Tiere
 ---

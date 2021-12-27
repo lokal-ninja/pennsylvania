@@ -1,6 +1,6 @@
 ---
 title: Saylorsburg
 url: /saylorsburg/
-latitude: 40.895636100000004
-longitude: -75.32352130000001
+latitude: 40.899
+longitude: -75.324
 ---

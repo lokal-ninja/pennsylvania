@@ -1,5 +1,5 @@
 ---
 title: "Beaver Supermarket"
 url: /beaver/beaver-supermarket-2/
-shop: supermarket
+shop: Supermarkt
 ---

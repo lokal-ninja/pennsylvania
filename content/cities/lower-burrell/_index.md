@@ -1,6 +1,6 @@
 ---
 title: Lower Burrell
 url: /lower-burrell/
-latitude: 40.5882821
-longitude: -79.72981870000001
+latitude: 40.585
+longitude: -79.711
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Figleaf"
 url: /pittsburgh/figleaf/
-shop: clothes
+shop: Kleidung
 ---

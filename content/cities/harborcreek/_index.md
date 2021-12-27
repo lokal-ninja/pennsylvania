@@ -1,6 +1,6 @@
 ---
 title: Harborcreek
 url: /harborcreek/
-latitude: 
-longitude: 
+latitude: 42.19
+longitude: -79.915
 ---

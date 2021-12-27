@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /west-chester/giant/
-shop: supermarket
+shop: Supermarkt
 ---
