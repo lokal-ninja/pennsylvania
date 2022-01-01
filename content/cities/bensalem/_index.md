@@ -1,6 +1,6 @@
 ---
 title: Bensalem
 url: /bensalem/
-latitude: 40.135
-longitude: -74.955
+latitude: 40.104
+longitude: -74.947
 ---
