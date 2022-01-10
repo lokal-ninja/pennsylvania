@@ -1,5 +1,5 @@
 ---
 title: "Lush Cosmetics"
 url: /philadelphia/lush-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

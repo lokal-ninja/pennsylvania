@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
 url: /pittsburgh/barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Cakery"
 url: /bellefonte/the-cakery/
-shop: Konditorei
+shop: pastry
 ---

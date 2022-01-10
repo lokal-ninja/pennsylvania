@@ -1,5 +1,5 @@
 ---
 title: "Original Mattress Factory"
 url: /pittsburgh/original-mattress-factory/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /plymouth-meeting/target/
-shop: Warenhaus
+shop: department store
 ---

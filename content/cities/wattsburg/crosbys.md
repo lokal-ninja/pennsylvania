@@ -1,5 +1,5 @@
 ---
 title: "Crosby's"
 url: /wattsburg/crosbys/
-shop: Lebensmittel
+shop: convenience
 ---

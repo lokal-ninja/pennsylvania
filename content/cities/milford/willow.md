@@ -1,5 +1,5 @@
 ---
 title: "Willow"
 url: /milford/willow/
-shop: Allgemein
+shop: shop
 ---

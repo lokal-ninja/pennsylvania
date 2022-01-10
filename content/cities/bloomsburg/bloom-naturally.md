@@ -1,5 +1,5 @@
 ---
 title: "Bloom Naturally"
 url: /bloomsburg/bloom-naturally/
-shop: Bioladen
+shop: health food
 ---

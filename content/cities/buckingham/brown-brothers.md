@@ -1,5 +1,5 @@
 ---
 title: "Brown Brothers"
 url: /buckingham/brown-brothers/
-shop: Auktionshaus
+shop: auction house
 ---

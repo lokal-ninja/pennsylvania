@@ -1,5 +1,5 @@
 ---
 title: "Sanducci’s Barbershop"
 url: /milford/sanduccis-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

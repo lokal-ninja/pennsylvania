@@ -1,5 +1,5 @@
 ---
 title: "The Avenue Delicatessen"
 url: /lansdowne/the-avenue-delicatessen/
-shop: Feinkost
+shop: deli
 ---

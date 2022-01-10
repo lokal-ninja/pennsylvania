@@ -1,5 +1,5 @@
 ---
 title: "Sandra Beauty Salon"
 url: /stroudsburg/sandra-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

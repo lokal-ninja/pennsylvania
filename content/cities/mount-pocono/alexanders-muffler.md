@@ -1,5 +1,5 @@
 ---
 title: "Alexander's Muffler"
 url: /mount-pocono/alexanders-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

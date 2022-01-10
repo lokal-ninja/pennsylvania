@@ -1,5 +1,5 @@
 ---
 title: "El Barriu Mini Market"
 url: /bethlehem/el-barriu-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

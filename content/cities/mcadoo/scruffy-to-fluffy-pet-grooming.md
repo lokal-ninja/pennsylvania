@@ -1,5 +1,5 @@
 ---
 title: "Scruffy to Fluffy Pet Grooming"
 url: /mcadoo/scruffy-to-fluffy-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

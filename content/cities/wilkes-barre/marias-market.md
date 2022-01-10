@@ -1,5 +1,5 @@
 ---
 title: "Maria's Market"
 url: /wilkes-barre/marias-market/
-shop: Lebensmittel
+shop: convenience
 ---

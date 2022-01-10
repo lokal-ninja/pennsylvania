@@ -1,5 +1,5 @@
 ---
 title: "Wilderness Voyageurs"
 url: /ohiopyle/wilderness-voyageurs/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "You're Invited"
 url: /pittsburgh/youre-invited/
-shop: Schreibwaren
+shop: office supplies
 ---

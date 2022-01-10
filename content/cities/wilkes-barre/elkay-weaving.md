@@ -1,5 +1,5 @@
 ---
 title: "Elkay Weaving"
 url: /wilkes-barre/elkay-weaving/
-shop: Basteln
+shop: craft
 ---

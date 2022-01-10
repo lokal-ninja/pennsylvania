@@ -1,5 +1,5 @@
 ---
 title: "Eagle Rubber Products"
 url: /zelienople/eagle-rubber-products/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Susquehana Valley Sports"
 url: /hughesville/susquehana-valley-sports/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /leola/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

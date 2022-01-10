@@ -1,5 +1,5 @@
 ---
 title: "Cathy Nails"
 url: /chester/cathy-nails/
-shop: Kosmetik
+shop: beauty
 ---

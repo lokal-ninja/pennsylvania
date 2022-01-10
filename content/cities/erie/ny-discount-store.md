@@ -1,5 +1,5 @@
 ---
 title: "NY Discount Store"
 url: /erie/ny-discount-store/
-shop: Kramladen
+shop: variety store
 ---

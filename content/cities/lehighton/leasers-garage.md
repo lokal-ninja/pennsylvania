@@ -1,5 +1,5 @@
 ---
 title: "Leaser's Garage"
 url: /lehighton/leasers-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norristown Food Mart"
 url: /norristown/norristown-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

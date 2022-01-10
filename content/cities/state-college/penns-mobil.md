@@ -1,5 +1,5 @@
 ---
 title: "Penns Mobil"
 url: /state-college/penns-mobil/
-shop: Autowerkstatt
+shop: car repair
 ---

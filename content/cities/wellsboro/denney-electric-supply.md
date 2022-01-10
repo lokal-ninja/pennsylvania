@@ -1,5 +1,5 @@
 ---
 title: "Denney Electric Supply"
 url: /wellsboro/denney-electric-supply/
-shop: Baumarkt
+shop: doityourself
 ---

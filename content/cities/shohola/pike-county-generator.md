@@ -1,5 +1,5 @@
 ---
 title: "Pike County Generator"
 url: /shohola/pike-county-generator/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Car Factory"
 url: /erie/car-factory/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doylestown Deli"
 url: /doylestown/doylestown-deli/
-shop: Feinkost
+shop: deli
 ---

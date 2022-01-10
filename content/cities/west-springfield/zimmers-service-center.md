@@ -1,5 +1,5 @@
 ---
 title: "Zimmer's Service Center"
 url: /west-springfield/zimmers-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coraopolis Floor Covering"
 url: /coraopolis/coraopolis-floor-covering/
-shop: Raumausstattung
+shop: interior decoration
 ---

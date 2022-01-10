@@ -1,5 +1,5 @@
 ---
 title: "The Medicine Shoppe"
 url: /milford/the-medicine-shoppe/
-shop: Drogerie
+shop: chemist
 ---

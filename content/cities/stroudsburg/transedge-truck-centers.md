@@ -1,5 +1,5 @@
 ---
 title: "TransEdge Truck Centers"
 url: /stroudsburg/transedge-truck-centers/
-shop: Autohaus
+shop: car
 ---

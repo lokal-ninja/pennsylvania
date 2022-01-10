@@ -1,5 +1,5 @@
 ---
 title: "Keystone Propane Service"
 url: /greentown/keystone-propane-service/
-shop: Gasflaschen
+shop: gas
 ---

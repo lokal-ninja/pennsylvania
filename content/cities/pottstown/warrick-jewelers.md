@@ -1,5 +1,5 @@
 ---
 title: "Warrick Jewelers"
 url: /pottstown/warrick-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

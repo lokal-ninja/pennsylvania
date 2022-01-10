@@ -1,5 +1,5 @@
 ---
 title: "Dutch's Supermarket"
 url: /greentown/dutchs-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

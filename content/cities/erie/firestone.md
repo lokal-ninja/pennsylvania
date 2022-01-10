@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /erie/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

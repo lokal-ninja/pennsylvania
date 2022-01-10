@@ -1,5 +1,5 @@
 ---
 title: "Lehigh Products LLC"
 url: /bethlehem/lehigh-products-llc/
-shop: Allgemein
+shop: shop
 ---

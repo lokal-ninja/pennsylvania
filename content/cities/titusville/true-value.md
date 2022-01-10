@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /titusville/true-value/
-shop: Baumarkt
+shop: doityourself
 ---

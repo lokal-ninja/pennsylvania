@@ -1,5 +1,5 @@
 ---
 title: "Pachter Auto Suply"
 url: /wilkes-barre/pachter-auto-suply/
-shop: Autoteile
+shop: car parts
 ---

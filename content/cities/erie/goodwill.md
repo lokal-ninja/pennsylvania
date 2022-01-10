@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /erie/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

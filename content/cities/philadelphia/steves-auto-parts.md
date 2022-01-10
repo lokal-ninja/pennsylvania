@@ -1,5 +1,5 @@
 ---
 title: "Steve's Auto Parts"
 url: /philadelphia/steves-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross Auto"
 url: /philadelphia/ross-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

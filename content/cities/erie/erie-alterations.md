@@ -1,5 +1,5 @@
 ---
 title: "Erie Alterations"
 url: /erie/erie-alterations/
-shop: Schneiderei
+shop: tailor
 ---

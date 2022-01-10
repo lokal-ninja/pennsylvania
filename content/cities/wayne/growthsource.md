@@ -1,5 +1,5 @@
 ---
 title: "GrowthSource"
 url: /wayne/growthsource/
-shop: Hanf
+shop: cannabis
 ---

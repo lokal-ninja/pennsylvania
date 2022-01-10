@@ -1,5 +1,5 @@
 ---
 title: "Caln Automotive Services"
 url: /downingtown/caln-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nothstein Auto"
 url: /tamaqua/nothstein-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

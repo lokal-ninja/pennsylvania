@@ -1,5 +1,5 @@
 ---
 title: "JP Automotive"
 url: /kirkwood/jp-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

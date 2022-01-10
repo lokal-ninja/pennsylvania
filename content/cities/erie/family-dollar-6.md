@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /erie/family-dollar-6/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurotech"
 url: /wilkes-barre/eurotech/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /tamaqua/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /mckeesport/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

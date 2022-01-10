@@ -1,5 +1,5 @@
 ---
 title: "Starner's Quik Shoppe"
 url: /mountainhome/starners-quik-shoppe/
-shop: Lebensmittel
+shop: convenience
 ---

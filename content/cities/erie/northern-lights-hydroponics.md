@@ -1,5 +1,5 @@
 ---
 title: "Northern Lights Hydroponics"
 url: /erie/northern-lights-hydroponics/
-shop: Sanitätshaus
+shop: medical supply
 ---

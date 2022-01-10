@@ -1,5 +1,5 @@
 ---
 title: "Spectra Wood"
 url: /state-college/spectra-wood/
-shop: Möbel
+shop: furniture
 ---

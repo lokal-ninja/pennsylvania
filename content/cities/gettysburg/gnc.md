@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /gettysburg/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

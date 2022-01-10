@@ -1,5 +1,5 @@
 ---
 title: "M.J. McLaughlin"
 url: /wilkes-barre/m-j-mclaughlin/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Room with a View"
 url: /mount-joy/room-with-a-view/
-shop: Raumausstattung
+shop: interior decoration
 ---

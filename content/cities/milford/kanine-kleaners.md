@@ -1,5 +1,5 @@
 ---
 title: "Kanine Kleaners"
 url: /milford/kanine-kleaners/
-shop: Tiersalon
+shop: pet grooming
 ---

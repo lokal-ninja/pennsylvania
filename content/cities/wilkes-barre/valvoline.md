@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /wilkes-barre/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

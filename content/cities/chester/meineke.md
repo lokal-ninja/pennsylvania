@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /chester/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

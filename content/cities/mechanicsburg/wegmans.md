@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /mechanicsburg/wegmans/
-shop: Supermarkt
+shop: supermarket
 ---

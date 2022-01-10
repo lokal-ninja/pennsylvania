@@ -1,5 +1,5 @@
 ---
 title: "Mad Momma Designs"
 url: /pittsburgh/mad-momma-designs/
-shop: Kunst
+shop: art
 ---

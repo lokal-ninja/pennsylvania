@@ -1,5 +1,5 @@
 ---
 title: "Erie Gold Exchange"
 url: /erie/erie-gold-exchange/
-shop: Schmuck
+shop: jewelry
 ---

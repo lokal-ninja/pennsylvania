@@ -1,5 +1,5 @@
 ---
 title: "Bitplaza"
 url: /reading/bitplaza/
-shop: Einkaufszentrum
+shop: mall
 ---

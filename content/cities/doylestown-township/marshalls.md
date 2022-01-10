@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /doylestown-township/marshalls/
-shop: Warenhaus
+shop: department store
 ---

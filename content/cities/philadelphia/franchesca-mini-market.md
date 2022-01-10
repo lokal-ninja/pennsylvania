@@ -1,5 +1,5 @@
 ---
 title: "Franchesca Mini Market"
 url: /philadelphia/franchesca-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

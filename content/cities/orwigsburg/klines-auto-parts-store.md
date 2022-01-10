@@ -1,5 +1,5 @@
 ---
 title: "Kline's Auto Parts Store"
 url: /orwigsburg/klines-auto-parts-store/
-shop: Autowerkstatt
+shop: car repair
 ---

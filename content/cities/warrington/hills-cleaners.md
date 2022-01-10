@@ -1,5 +1,5 @@
 ---
 title: "Hill's Cleaners"
 url: /warrington/hills-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

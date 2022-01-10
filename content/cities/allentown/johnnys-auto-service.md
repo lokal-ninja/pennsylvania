@@ -1,5 +1,5 @@
 ---
 title: "Johnny's Auto Service"
 url: /allentown/johnnys-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

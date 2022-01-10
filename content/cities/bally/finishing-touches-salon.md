@@ -1,5 +1,5 @@
 ---
 title: "Finishing Touches Salon"
 url: /bally/finishing-touches-salon/
-shop: Friseur
+shop: hairdresser
 ---

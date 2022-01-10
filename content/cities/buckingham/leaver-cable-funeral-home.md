@@ -1,5 +1,5 @@
 ---
 title: "Leaver-Cable Funeral Home"
 url: /buckingham/leaver-cable-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

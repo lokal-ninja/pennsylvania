@@ -1,5 +1,5 @@
 ---
 title: "Sandrose Trophies"
 url: /chester/sandrose-trophies/
-shop: Allgemein
+shop: shop
 ---

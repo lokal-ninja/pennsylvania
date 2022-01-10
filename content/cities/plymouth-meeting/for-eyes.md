@@ -1,5 +1,5 @@
 ---
 title: "For Eyes"
 url: /plymouth-meeting/for-eyes/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /gilbertsville/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

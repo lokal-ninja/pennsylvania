@@ -1,5 +1,5 @@
 ---
 title: "Lawrence Music"
 url: /pittsburgh/lawrence-music/
-shop: Instrumente
+shop: musical instrument
 ---

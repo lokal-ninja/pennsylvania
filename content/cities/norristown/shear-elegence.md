@@ -1,5 +1,5 @@
 ---
 title: "Shear Elegence"
 url: /norristown/shear-elegence/
-shop: Friseur
+shop: hairdresser
 ---

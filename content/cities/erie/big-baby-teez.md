@@ -1,5 +1,5 @@
 ---
 title: "Big Baby Teez"
 url: /erie/big-baby-teez/
-shop: Kleidung
+shop: clothes
 ---

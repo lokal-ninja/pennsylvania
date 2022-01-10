@@ -1,5 +1,5 @@
 ---
 title: "Clawson Funeral Home"
 url: /leechburg/clawson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

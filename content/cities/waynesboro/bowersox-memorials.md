@@ -1,5 +1,5 @@
 ---
 title: "Bowersox Memorials"
 url: /waynesboro/bowersox-memorials/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Braddock Avenue Express"
 url: /pittsburgh/braddock-avenue-express/
-shop: Lebensmittel
+shop: convenience
 ---

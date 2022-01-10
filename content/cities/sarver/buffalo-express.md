@@ -1,5 +1,5 @@
 ---
 title: "Buffalo Express"
 url: /sarver/buffalo-express/
-shop: Autowerkstatt
+shop: car repair
 ---

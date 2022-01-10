@@ -1,5 +1,5 @@
 ---
 title: "Color Me Mine"
 url: /wayne/color-me-mine/
-shop: Basteln
+shop: craft
 ---

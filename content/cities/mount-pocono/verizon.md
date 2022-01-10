@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mount-pocono/verizon/
-shop: Handy
+shop: mobile phone
 ---

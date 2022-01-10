@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /willow-grove/sears/
-shop: Warenhaus
+shop: department store
 ---

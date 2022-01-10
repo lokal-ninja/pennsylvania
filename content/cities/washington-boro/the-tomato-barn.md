@@ -1,5 +1,5 @@
 ---
 title: "The Tomato Barn"
 url: /washington-boro/the-tomato-barn/
-shop: Hofladen
+shop: farm
 ---

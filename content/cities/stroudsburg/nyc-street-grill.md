@@ -1,5 +1,5 @@
 ---
 title: "NYC Street Grill"
 url: /stroudsburg/nyc-street-grill/
-shop: Feinkost
+shop: deli
 ---

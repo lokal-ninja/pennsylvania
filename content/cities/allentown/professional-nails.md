@@ -1,5 +1,5 @@
 ---
 title: "Professional Nails"
 url: /allentown/professional-nails/
-shop: Kosmetik
+shop: beauty
 ---

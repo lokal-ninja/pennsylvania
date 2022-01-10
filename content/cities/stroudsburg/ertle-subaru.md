@@ -1,5 +1,5 @@
 ---
 title: "Ertle Subaru"
 url: /stroudsburg/ertle-subaru/
-shop: Autowerkstatt
+shop: car repair
 ---

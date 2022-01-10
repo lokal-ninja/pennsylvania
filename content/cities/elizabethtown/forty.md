@@ -1,5 +1,5 @@
 ---
 title: "Forty"
 url: /elizabethtown/forty/
-shop: Friseur
+shop: hairdresser
 ---

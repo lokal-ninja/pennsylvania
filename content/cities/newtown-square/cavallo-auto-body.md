@@ -1,5 +1,5 @@
 ---
 title: "Cavallo Auto Body"
 url: /newtown-square/cavallo-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /conshohocken/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

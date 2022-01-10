@@ -1,5 +1,5 @@
 ---
 title: "B Spec Autosports"
 url: /philadelphia/b-spec-autosports/
-shop: Autowerkstatt
+shop: car repair
 ---

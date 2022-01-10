@@ -1,5 +1,5 @@
 ---
 title: "Autotouch Automotive"
 url: /philadelphia/autotouch-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

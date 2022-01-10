@@ -1,5 +1,5 @@
 ---
 title: "Romig's Auto Repair"
 url: /tamaqua/romigs-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

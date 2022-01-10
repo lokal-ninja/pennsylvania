@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /philadelphia/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autotexs"
 url: /canadensis/autotexs/
-shop: Autowerkstatt
+shop: car repair
 ---

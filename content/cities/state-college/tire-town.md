@@ -1,5 +1,5 @@
 ---
 title: "Tire Town"
 url: /state-college/tire-town/
-shop: Reifen
+shop: tyres
 ---

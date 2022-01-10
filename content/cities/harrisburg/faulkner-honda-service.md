@@ -1,5 +1,5 @@
 ---
 title: "Faulkner Honda Service"
 url: /harrisburg/faulkner-honda-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /emlenton/shell/
-shop: Lebensmittel
+shop: convenience
 ---

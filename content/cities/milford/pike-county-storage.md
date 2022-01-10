@@ -1,5 +1,5 @@
 ---
 title: "Pike County Storage"
 url: /milford/pike-county-storage/
-shop: Mieten
+shop: storage rental
 ---

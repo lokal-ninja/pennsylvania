@@ -1,5 +1,5 @@
 ---
 title: "Pittsburgh Jeans Company"
 url: /pittsburgh/pittsburgh-jeans-company/
-shop: Kleidung
+shop: clothes
 ---

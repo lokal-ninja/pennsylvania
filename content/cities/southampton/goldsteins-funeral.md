@@ -1,5 +1,5 @@
 ---
 title: "Goldstein's Funeral"
 url: /southampton/goldsteins-funeral/
-shop: Bestattungen
+shop: funeral directors
 ---

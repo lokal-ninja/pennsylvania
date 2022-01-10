@@ -1,5 +1,5 @@
 ---
 title: "Scolio Fruit Baskets"
 url: /erie/scolio-fruit-baskets/
-shop: Andenken
+shop: gift
 ---

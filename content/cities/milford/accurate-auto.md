@@ -1,5 +1,5 @@
 ---
 title: "Accurate Auto"
 url: /milford/accurate-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Fair"
 url: /edinboro/country-fair/
-shop: Lebensmittel
+shop: convenience
 ---

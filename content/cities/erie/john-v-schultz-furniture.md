@@ -1,5 +1,5 @@
 ---
 title: "John V. Schultz Furniture"
 url: /erie/john-v-schultz-furniture/
-shop: Möbel
+shop: furniture
 ---

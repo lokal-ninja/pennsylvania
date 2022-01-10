@@ -1,5 +1,5 @@
 ---
 title: "Kim A. Turner CMT"
 url: /erie/kim-a-turner-cmt/
-shop: Massage
+shop: massage
 ---

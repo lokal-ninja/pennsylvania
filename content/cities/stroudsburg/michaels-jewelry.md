@@ -1,5 +1,5 @@
 ---
 title: "Michael's Jewelry"
 url: /stroudsburg/michaels-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

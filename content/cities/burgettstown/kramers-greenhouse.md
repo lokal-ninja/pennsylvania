@@ -1,5 +1,5 @@
 ---
 title: "Kramer's Greenhouse"
 url: /burgettstown/kramers-greenhouse/
-shop: Garten-Center
+shop: garden centre
 ---

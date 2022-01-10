@@ -1,5 +1,5 @@
 ---
 title: "Dovecote"
 url: /aspinwall/dovecote/
-shop: Andenken
+shop: gift
 ---

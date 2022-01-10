@@ -1,5 +1,5 @@
 ---
 title: "Toyota of Scranton"
 url: /scranton/toyota-of-scranton/
-shop: Autohaus
+shop: car
 ---

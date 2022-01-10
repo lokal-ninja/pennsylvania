@@ -1,5 +1,5 @@
 ---
 title: "Dustkill"
 url: /ronks/dustkill/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

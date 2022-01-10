@@ -1,5 +1,5 @@
 ---
 title: "Mann's Towing"
 url: /pottstown/manns-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

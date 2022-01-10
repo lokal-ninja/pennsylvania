@@ -1,5 +1,5 @@
 ---
 title: "Floor Covering Concepts"
 url: /bethlehem/floor-covering-concepts/
-shop: Teppiche
+shop: carpet
 ---

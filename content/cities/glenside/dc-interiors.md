@@ -1,5 +1,5 @@
 ---
 title: "DC Interiors"
 url: /glenside/dc-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

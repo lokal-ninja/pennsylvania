@@ -1,5 +1,5 @@
 ---
 title: "Outlooks for Hair"
 url: /bethlehem/outlooks-for-hair/
-shop: Friseur
+shop: hairdresser
 ---

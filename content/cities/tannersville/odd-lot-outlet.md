@@ -1,5 +1,5 @@
 ---
 title: "Odd-Lot Outlet"
 url: /tannersville/odd-lot-outlet/
-shop: Kramladen
+shop: variety store
 ---

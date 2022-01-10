@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /philadelphia/dollar-tree-9/
-shop: Kramladen
+shop: variety store
 ---

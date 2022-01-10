@@ -1,5 +1,5 @@
 ---
 title: "Traditions Unlimited"
 url: /erie/traditions-unlimited/
-shop: Möbel
+shop: furniture
 ---

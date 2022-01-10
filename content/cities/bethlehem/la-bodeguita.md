@@ -1,5 +1,5 @@
 ---
 title: "La Bodeguita"
 url: /bethlehem/la-bodeguita/
-shop: Lebensmittel
+shop: convenience
 ---

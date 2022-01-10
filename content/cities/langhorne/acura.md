@@ -1,5 +1,5 @@
 ---
 title: "Acura"
 url: /langhorne/acura/
-shop: Autohaus
+shop: car
 ---

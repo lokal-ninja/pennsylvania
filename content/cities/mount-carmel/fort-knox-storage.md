@@ -1,5 +1,5 @@
 ---
 title: "Fort Knox Storage"
 url: /mount-carmel/fort-knox-storage/
-shop: Mieten
+shop: storage rental
 ---

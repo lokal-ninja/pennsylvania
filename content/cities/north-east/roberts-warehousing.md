@@ -1,5 +1,5 @@
 ---
 title: "Roberts Warehousing"
 url: /north-east/roberts-warehousing/
-shop: Großhandel
+shop: wholesale
 ---

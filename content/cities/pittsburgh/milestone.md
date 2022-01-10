@@ -1,5 +1,5 @@
 ---
 title: "Milestone"
 url: /pittsburgh/milestone/
-shop: Kunst
+shop: art
 ---

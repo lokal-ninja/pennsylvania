@@ -1,5 +1,5 @@
 ---
 title: "Amystika Spa"
 url: /hawley/amystika-spa/
-shop: Massage
+shop: massage
 ---

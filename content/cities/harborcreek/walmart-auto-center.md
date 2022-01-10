@@ -1,5 +1,5 @@
 ---
 title: "Walmart Auto Center"
 url: /harborcreek/walmart-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

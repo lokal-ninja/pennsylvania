@@ -1,5 +1,5 @@
 ---
 title: "LA Nails"
 url: /allentown/la-nails/
-shop: Kosmetik
+shop: beauty
 ---

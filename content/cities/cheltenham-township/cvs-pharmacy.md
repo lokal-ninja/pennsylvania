@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /cheltenham-township/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

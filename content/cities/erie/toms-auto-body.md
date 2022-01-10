@@ -1,5 +1,5 @@
 ---
 title: "Tom's Auto Body"
 url: /erie/toms-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

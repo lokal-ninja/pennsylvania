@@ -1,5 +1,5 @@
 ---
 title: "RentEquip"
 url: /shippensburg/rentequip/
-shop: Mieten
+shop: storage rental
 ---

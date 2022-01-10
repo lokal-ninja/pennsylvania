@@ -1,5 +1,5 @@
 ---
 title: "Mainstream Outfitters"
 url: /plumsteadville/mainstream-outfitters/
-shop: Sport
+shop: sports
 ---

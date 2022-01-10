@@ -1,5 +1,5 @@
 ---
 title: "Cigar Box Tobacconist"
 url: /saint-clair/cigar-box-tobacconist/
-shop: Tabak
+shop: tobacco
 ---

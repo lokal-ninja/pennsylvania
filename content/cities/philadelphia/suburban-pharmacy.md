@@ -1,5 +1,5 @@
 ---
 title: "Suburban Pharmacy"
 url: /philadelphia/suburban-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

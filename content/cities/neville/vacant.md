@@ -1,5 +1,5 @@
 ---
 title: "Vacant"
 url: /neville/vacant/
-shop: Lebensmittel
+shop: convenience
 ---

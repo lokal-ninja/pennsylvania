@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /north-coventry-township/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

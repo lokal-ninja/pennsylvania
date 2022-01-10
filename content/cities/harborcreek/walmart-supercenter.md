@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /harborcreek/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BJ's Wholesale Club"
 url: /york/bjs-wholesale-club/
-shop: Großhandel
+shop: wholesale
 ---

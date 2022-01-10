@@ -1,5 +1,5 @@
 ---
 title: "Weis Markets"
 url: /mount-joy/weis-markets/
-shop: Supermarkt
+shop: supermarket
 ---

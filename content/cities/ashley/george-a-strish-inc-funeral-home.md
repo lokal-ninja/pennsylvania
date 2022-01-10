@@ -1,5 +1,5 @@
 ---
 title: "George A. Strish, Inc. Funeral Home"
 url: /ashley/george-a-strish-inc-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

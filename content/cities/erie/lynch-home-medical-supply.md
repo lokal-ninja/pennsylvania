@@ -1,5 +1,5 @@
 ---
 title: "Lynch Home Medical Supply"
 url: /erie/lynch-home-medical-supply/
-shop: Sanitätshaus
+shop: medical supply
 ---

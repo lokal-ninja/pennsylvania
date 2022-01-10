@@ -1,5 +1,5 @@
 ---
 title: "Boof Central"
 url: /west-wyomissing/boof-central/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shohola Plaza"
 url: /shohola/shohola-plaza/
-shop: Autowerkstatt
+shop: car repair
 ---

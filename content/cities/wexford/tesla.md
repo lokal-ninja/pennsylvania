@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /wexford/tesla/
-shop: Autohaus
+shop: car
 ---

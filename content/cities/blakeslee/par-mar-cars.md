@@ -1,5 +1,5 @@
 ---
 title: "Par Mar Cars"
 url: /blakeslee/par-mar-cars/
-shop: Autowerkstatt
+shop: car repair
 ---

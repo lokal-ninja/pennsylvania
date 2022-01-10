@@ -1,5 +1,5 @@
 ---
 title: "Salon Limon"
 url: /hatboro/salon-limon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wyalusing Dandy MiniMart"
 url: /wyalusing/wyalusing-dandy-minimart/
-shop: Lebensmittel
+shop: convenience
 ---

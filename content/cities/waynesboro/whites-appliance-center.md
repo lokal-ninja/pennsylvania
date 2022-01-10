@@ -1,5 +1,5 @@
 ---
 title: "White's Appliance Center"
 url: /waynesboro/whites-appliance-center/
-shop: Küchen
+shop: kitchen
 ---

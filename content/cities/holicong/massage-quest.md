@@ -1,5 +1,5 @@
 ---
 title: "Massage Quest"
 url: /holicong/massage-quest/
-shop: Massage
+shop: massage
 ---

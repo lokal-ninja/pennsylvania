@@ -1,5 +1,5 @@
 ---
 title: "Serendipity"
 url: /pottsville/serendipity/
-shop: Andenken
+shop: gift
 ---

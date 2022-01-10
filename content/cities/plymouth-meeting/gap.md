@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /plymouth-meeting/gap/
-shop: Kleidung
+shop: clothes
 ---

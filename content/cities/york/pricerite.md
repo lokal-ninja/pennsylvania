@@ -1,5 +1,5 @@
 ---
 title: "Pricerite"
 url: /york/pricerite/
-shop: Supermarkt
+shop: supermarket
 ---

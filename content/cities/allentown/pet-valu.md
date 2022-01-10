@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
 url: /allentown/pet-valu/
-shop: Tiere
+shop: pet
 ---

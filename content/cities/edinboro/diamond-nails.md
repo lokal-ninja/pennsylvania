@@ -1,5 +1,5 @@
 ---
 title: "Diamond Nails"
 url: /edinboro/diamond-nails/
-shop: Kosmetik
+shop: beauty
 ---

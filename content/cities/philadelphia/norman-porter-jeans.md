@@ -1,5 +1,5 @@
 ---
 title: "Norman Porter Jeans"
 url: /philadelphia/norman-porter-jeans/
-shop: Kleidung
+shop: clothes
 ---

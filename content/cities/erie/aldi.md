@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /erie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

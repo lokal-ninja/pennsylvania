@@ -1,5 +1,5 @@
 ---
 title: "Botanica Chango"
 url: /allentown/botanica-chango/
-shop: Allgemein
+shop: shop
 ---

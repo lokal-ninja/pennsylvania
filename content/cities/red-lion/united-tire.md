@@ -1,5 +1,5 @@
 ---
 title: "United Tire"
 url: /red-lion/united-tire/
-shop: Autoteile
+shop: car parts
 ---

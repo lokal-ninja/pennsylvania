@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /dresher/acme/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /warrington/visionworks/
-shop: Optiker
+shop: optician
 ---

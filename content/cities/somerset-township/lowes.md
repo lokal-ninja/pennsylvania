@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /somerset-township/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

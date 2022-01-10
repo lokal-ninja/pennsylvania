@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /allentown/cosmoprof/
-shop: Kosmetik
+shop: beauty
 ---

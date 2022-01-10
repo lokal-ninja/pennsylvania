@@ -1,5 +1,5 @@
 ---
 title: "ADA African Hair Braiding"
 url: /chester/ada-african-hair-braiding/
-shop: Friseur
+shop: hairdresser
 ---

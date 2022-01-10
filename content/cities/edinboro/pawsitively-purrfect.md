@@ -1,5 +1,5 @@
 ---
 title: "Pawsitively Purrfect"
 url: /edinboro/pawsitively-purrfect/
-shop: Tiersalon
+shop: pet grooming
 ---

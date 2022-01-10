@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lancaster/target/
-shop: Warenhaus
+shop: department store
 ---

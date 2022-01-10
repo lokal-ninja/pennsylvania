@@ -1,5 +1,5 @@
 ---
 title: "Mobile Zone"
 url: /chester/mobile-zone/
-shop: Handy
+shop: mobile phone
 ---

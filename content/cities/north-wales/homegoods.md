@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /north-wales/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

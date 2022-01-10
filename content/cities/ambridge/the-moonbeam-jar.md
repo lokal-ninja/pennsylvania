@@ -1,5 +1,5 @@
 ---
 title: "The Moonbeam Jar"
 url: /ambridge/the-moonbeam-jar/
-shop: Gebrauchtwaren
+shop: charity
 ---

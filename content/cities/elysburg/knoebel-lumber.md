@@ -1,5 +1,5 @@
 ---
 title: "Knoebel Lumber"
 url: /elysburg/knoebel-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gertrude Hawk"
 url: /eynon/gertrude-hawk/
-shop: Schokolade
+shop: chocolate
 ---

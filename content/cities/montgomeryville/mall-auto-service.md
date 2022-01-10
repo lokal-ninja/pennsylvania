@@ -1,5 +1,5 @@
 ---
 title: "Mall Auto Service"
 url: /montgomeryville/mall-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

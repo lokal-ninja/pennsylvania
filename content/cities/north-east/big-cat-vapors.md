@@ -1,5 +1,5 @@
 ---
 title: "Big Cat Vapors"
 url: /north-east/big-cat-vapors/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

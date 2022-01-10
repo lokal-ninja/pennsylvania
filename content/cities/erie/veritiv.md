@@ -1,5 +1,5 @@
 ---
 title: "Veritiv"
 url: /erie/veritiv/
-shop: Großhandel
+shop: wholesale
 ---

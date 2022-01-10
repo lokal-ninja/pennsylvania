@@ -1,5 +1,5 @@
 ---
 title: "Tunnessen Auto Parts"
 url: /white-haven/tunnessen-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

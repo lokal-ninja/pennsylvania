@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /gettysburg/walmart/
-shop: Warenhaus
+shop: department store
 ---

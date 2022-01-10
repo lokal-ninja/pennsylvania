@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /willow-grove/best-buy/
-shop: Elektronik
+shop: electronics
 ---

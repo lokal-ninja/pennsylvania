@@ -1,5 +1,5 @@
 ---
 title: "Ashby Dry Cleaners"
 url: /doylestown/ashby-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /glenolden/sherwin-williams/
-shop: Farben
+shop: paint
 ---

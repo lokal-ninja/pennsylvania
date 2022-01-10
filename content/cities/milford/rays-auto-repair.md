@@ -1,5 +1,5 @@
 ---
 title: "Ray's Auto Repair"
 url: /milford/rays-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

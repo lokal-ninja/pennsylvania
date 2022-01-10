@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /stroudsburg/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

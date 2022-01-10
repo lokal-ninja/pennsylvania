@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /state-college/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

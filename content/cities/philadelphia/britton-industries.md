@@ -1,5 +1,5 @@
 ---
 title: "Britton Industries"
 url: /philadelphia/britton-industries/
-shop: Allgemein
+shop: shop
 ---

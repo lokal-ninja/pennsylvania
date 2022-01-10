@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bensalem/target/
-shop: Lebensmittel
+shop: convenience
 ---

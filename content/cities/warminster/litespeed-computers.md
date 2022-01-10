@@ -1,5 +1,5 @@
 ---
 title: "LiteSpeed Computers"
 url: /warminster/litespeed-computers/
-shop: Computer
+shop: computer
 ---

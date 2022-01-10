@@ -1,5 +1,5 @@
 ---
 title: "Govberg Jewelers"
 url: /philadelphia/govberg-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

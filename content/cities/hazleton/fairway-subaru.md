@@ -1,5 +1,5 @@
 ---
 title: "Fairway Subaru"
 url: /hazleton/fairway-subaru/
-shop: Autohaus
+shop: car
 ---

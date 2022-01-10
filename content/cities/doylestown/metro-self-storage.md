@@ -1,5 +1,5 @@
 ---
 title: "Metro Self Storage"
 url: /doylestown/metro-self-storage/
-shop: Mieten
+shop: storage rental
 ---

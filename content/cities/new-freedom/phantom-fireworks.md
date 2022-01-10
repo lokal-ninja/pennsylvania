@@ -1,5 +1,5 @@
 ---
 title: "Phantom Fireworks"
 url: /new-freedom/phantom-fireworks/
-shop: Allgemein
+shop: shop
 ---

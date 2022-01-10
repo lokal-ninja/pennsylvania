@@ -1,5 +1,5 @@
 ---
 title: "Mega Transmissions"
 url: /hatboro/mega-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

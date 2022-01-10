@@ -1,5 +1,5 @@
 ---
 title: "US Gas"
 url: /hatboro/us-gas/
-shop: Lebensmittel
+shop: convenience
 ---

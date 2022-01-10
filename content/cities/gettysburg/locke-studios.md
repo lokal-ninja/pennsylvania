@@ -1,5 +1,5 @@
 ---
 title: "Locke Studios"
 url: /gettysburg/locke-studios/
-shop: Tattoo
+shop: tattoo
 ---

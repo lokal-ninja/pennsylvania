@@ -1,5 +1,5 @@
 ---
 title: "Floor Store Inc"
 url: /scranton/floor-store-inc/
-shop: Teppiche
+shop: carpet
 ---

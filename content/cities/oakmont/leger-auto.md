@@ -1,5 +1,5 @@
 ---
 title: "Leger Auto"
 url: /oakmont/leger-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

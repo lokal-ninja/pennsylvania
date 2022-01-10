@@ -1,5 +1,5 @@
 ---
 title: "Peebles"
 url: /philipsburg/peebles/
-shop: Kleidung
+shop: clothes
 ---

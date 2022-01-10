@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /doylestown/trek/
-shop: Fahrrad
+shop: bicycle
 ---

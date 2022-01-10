@@ -1,5 +1,5 @@
 ---
 title: "Christmas City Printing"
 url: /bethlehem/christmas-city-printing/
-shop: Kopieren
+shop: copyshop
 ---

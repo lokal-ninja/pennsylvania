@@ -1,5 +1,5 @@
 ---
 title: "Espo Hair Salon"
 url: /philadelphia/espo-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

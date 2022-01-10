@@ -1,5 +1,5 @@
 ---
 title: "Boulder Designs"
 url: /crescent/boulder-designs/
-shop: Andenken
+shop: gift
 ---

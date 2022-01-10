@@ -1,5 +1,5 @@
 ---
 title: "Eastlake Auto Mart"
 url: /erie/eastlake-auto-mart/
-shop: Autohaus
+shop: car
 ---

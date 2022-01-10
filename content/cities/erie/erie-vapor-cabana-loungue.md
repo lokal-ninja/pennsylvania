@@ -1,5 +1,5 @@
 ---
 title: "Erie Vapor Cabana Loungue"
 url: /erie/erie-vapor-cabana-loungue/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

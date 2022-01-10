@@ -1,5 +1,5 @@
 ---
 title: "Piechota's Service Center"
 url: /allentown/piechotas-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

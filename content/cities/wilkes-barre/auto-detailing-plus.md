@@ -1,5 +1,5 @@
 ---
 title: "Auto Detailing Plus"
 url: /wilkes-barre/auto-detailing-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

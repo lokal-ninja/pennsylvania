@@ -1,5 +1,5 @@
 ---
 title: "Classic Automotive"
 url: /mars/classic-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

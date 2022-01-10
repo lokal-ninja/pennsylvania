@@ -1,5 +1,5 @@
 ---
 title: "Pearsall Complete Auto Care Plus"
 url: /ellwood-city/pearsall-complete-auto-care-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

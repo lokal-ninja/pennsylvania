@@ -1,5 +1,5 @@
 ---
 title: "Wish Wash Laundry"
 url: /coaldale/wish-wash-laundry/
-shop: Wäscherei
+shop: laundry
 ---

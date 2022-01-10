@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /penndel/toyota/
-shop: Autohaus
+shop: car
 ---

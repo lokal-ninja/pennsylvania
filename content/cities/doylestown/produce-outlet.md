@@ -1,5 +1,5 @@
 ---
 title: "Produce Outlet"
 url: /doylestown/produce-outlet/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /pottstown/fastenal/
-shop: Baustoffe
+shop: trade
 ---

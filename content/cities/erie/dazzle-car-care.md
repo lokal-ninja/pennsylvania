@@ -1,5 +1,5 @@
 ---
 title: "Dazzle Car Care"
 url: /erie/dazzle-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

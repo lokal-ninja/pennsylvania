@@ -1,5 +1,5 @@
 ---
 title: "Lion Mart"
 url: /state-college/lion-mart/
-shop: Lebensmittel
+shop: convenience
 ---

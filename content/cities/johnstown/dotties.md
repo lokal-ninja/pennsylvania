@@ -1,5 +1,5 @@
 ---
 title: "Dottie's"
 url: /johnstown/dotties/
-shop: Andenken
+shop: gift
 ---

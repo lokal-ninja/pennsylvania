@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /grove-city/walmart/
-shop: Warenhaus
+shop: department store
 ---

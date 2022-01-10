@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /richboro/acme-2/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Koch Funeral Home"
 url: /state-college/koch-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

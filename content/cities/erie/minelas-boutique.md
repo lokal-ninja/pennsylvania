@@ -1,5 +1,5 @@
 ---
 title: "Minelas Boutique"
 url: /erie/minelas-boutique/
-shop: Kleidung
+shop: clothes
 ---

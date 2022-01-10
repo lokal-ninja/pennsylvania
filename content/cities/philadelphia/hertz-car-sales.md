@@ -1,5 +1,5 @@
 ---
 title: "Hertz Car Sales"
 url: /philadelphia/hertz-car-sales/
-shop: Autohaus
+shop: car
 ---

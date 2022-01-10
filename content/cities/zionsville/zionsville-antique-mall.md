@@ -1,5 +1,5 @@
 ---
 title: "Zionsville Antique Mall"
 url: /zionsville/zionsville-antique-mall/
-shop: Antiquitäten
+shop: antiques
 ---

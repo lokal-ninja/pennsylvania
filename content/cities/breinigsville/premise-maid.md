@@ -1,5 +1,5 @@
 ---
 title: "Premise Maid"
 url: /breinigsville/premise-maid/
-shop: Süßwaren
+shop: confectionery
 ---

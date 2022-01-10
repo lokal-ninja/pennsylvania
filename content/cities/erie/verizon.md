@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /erie/verizon/
-shop: Handy
+shop: mobile phone
 ---

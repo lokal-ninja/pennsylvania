@@ -1,5 +1,5 @@
 ---
 title: "Holiday Hair"
 url: /philipsburg/holiday-hair/
-shop: Friseur
+shop: hairdresser
 ---

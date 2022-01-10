@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /whitehall/skechers/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yeosock Funeral Home"
 url: /plains/yeosock-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

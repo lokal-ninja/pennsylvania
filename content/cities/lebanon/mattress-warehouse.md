@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /lebanon/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

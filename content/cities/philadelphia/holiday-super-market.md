@@ -1,5 +1,5 @@
 ---
 title: "Holiday Super Market"
 url: /philadelphia/holiday-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

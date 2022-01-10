@@ -1,5 +1,5 @@
 ---
 title: "Kim Woo Store"
 url: /philadelphia/kim-woo-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mt. Wolf Service Center"
 url: /mount-wolf/mt-wolf-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grasshopper"
 url: /erie/grasshopper/
-shop: Andenken
+shop: gift
 ---

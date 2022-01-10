@@ -1,5 +1,5 @@
 ---
 title: "Stan's Auto Body"
 url: /centre-hall/stans-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

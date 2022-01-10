@@ -1,5 +1,5 @@
 ---
 title: "Helzberg Diamonds"
 url: /downingtown/helzberg-diamonds/
-shop: Schmuck
+shop: jewelry
 ---

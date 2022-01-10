@@ -1,5 +1,5 @@
 ---
 title: "Contemporary Concepts"
 url: /allison-park/contemporary-concepts/
-shop: Raumausstattung
+shop: interior decoration
 ---

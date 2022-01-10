@@ -1,5 +1,5 @@
 ---
 title: "Marzen Hardware"
 url: /jim-thorpe/marzen-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smokin' Joe's"
 url: /minersville/smokin-joes/
-shop: Tabak
+shop: tobacco
 ---

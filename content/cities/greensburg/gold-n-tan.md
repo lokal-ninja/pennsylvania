@@ -1,5 +1,5 @@
 ---
 title: "Gold 'N Tan"
 url: /greensburg/gold-n-tan/
-shop: Kosmetik
+shop: beauty
 ---

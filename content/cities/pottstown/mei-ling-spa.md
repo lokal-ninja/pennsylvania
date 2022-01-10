@@ -1,5 +1,5 @@
 ---
 title: "Mei Ling Spa"
 url: /pottstown/mei-ling-spa/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /doylestown-township/kohls/
-shop: Warenhaus
+shop: department store
 ---

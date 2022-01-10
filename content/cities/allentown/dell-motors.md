@@ -1,5 +1,5 @@
 ---
 title: "Dell Motors"
 url: /allentown/dell-motors/
-shop: Autohaus
+shop: car
 ---

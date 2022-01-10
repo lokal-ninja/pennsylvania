@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /willow-grove/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

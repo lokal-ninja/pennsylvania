@@ -1,5 +1,5 @@
 ---
 title: "MCP Marine"
 url: /erie/mcp-marine/
-shop: Boot
+shop: boat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress by Appointment"
 url: /shamokin/mattress-by-appointment/
-shop: Betten
+shop: bed
 ---

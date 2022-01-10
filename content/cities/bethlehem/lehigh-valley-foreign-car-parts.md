@@ -1,5 +1,5 @@
 ---
 title: "Lehigh Valley Foreign Car Parts"
 url: /bethlehem/lehigh-valley-foreign-car-parts/
-shop: Autoteile
+shop: car parts
 ---

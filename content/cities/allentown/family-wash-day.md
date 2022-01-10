@@ -1,5 +1,5 @@
 ---
 title: "Family Wash Day"
 url: /allentown/family-wash-day/
-shop: Wäscherei
+shop: laundry
 ---

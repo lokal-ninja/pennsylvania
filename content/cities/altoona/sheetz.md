@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /altoona/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

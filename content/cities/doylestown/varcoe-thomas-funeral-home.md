@@ -1,5 +1,5 @@
 ---
 title: "Varcoe Thomas Funeral Home"
 url: /doylestown/varcoe-thomas-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

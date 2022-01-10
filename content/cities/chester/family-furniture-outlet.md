@@ -1,5 +1,5 @@
 ---
 title: "Family Furniture Outlet"
 url: /chester/family-furniture-outlet/
-shop: Möbel
+shop: furniture
 ---

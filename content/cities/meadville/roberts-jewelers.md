@@ -1,5 +1,5 @@
 ---
 title: "Roberts Jewelers"
 url: /meadville/roberts-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

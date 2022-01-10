@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /willow-grove/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

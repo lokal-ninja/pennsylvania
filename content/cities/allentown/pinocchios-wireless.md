@@ -1,5 +1,5 @@
 ---
 title: "Pinocchio's Wireless"
 url: /allentown/pinocchios-wireless/
-shop: Handy
+shop: mobile phone
 ---

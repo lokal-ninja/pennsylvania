@@ -1,5 +1,5 @@
 ---
 title: "Beabout Auto"
 url: /east-brady/beabout-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

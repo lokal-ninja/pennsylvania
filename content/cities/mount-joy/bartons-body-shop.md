@@ -1,5 +1,5 @@
 ---
 title: "Barton's Body Shop"
 url: /mount-joy/bartons-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

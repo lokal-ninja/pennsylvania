@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /greene-township/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /tamaqua/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

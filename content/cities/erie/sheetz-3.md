@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /erie/sheetz-3/
-shop: Lebensmittel
+shop: convenience
 ---

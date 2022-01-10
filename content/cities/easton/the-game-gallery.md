@@ -1,5 +1,5 @@
 ---
 title: "The Game Gallery"
 url: /easton/the-game-gallery/
-shop: Videospiele
+shop: video games
 ---

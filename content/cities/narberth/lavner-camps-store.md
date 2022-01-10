@@ -1,5 +1,5 @@
 ---
 title: "Lavner Camps Store"
 url: /narberth/lavner-camps-store/
-shop: Spielzeug
+shop: toys
 ---

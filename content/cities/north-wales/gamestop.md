@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /north-wales/gamestop/
-shop: Videospiele
+shop: video games
 ---

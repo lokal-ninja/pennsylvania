@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /meadville/sherwin-williams/
-shop: Farben
+shop: paint
 ---

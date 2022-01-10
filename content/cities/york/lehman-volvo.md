@@ -1,5 +1,5 @@
 ---
 title: "Lehman Volvo"
 url: /york/lehman-volvo/
-shop: Autohaus
+shop: car
 ---

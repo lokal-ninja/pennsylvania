@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /bethlehem/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

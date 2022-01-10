@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /hanover-township/metropcs/
-shop: Handy
+shop: mobile phone
 ---

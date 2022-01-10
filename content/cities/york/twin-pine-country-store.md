@@ -1,5 +1,5 @@
 ---
 title: "Twin Pine Country Store"
 url: /york/twin-pine-country-store/
-shop: Kramladen
+shop: variety store
 ---

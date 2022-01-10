@@ -1,5 +1,5 @@
 ---
 title: "Winged Beauty Studio"
 url: /bellefonte/winged-beauty-studio/
-shop: Kosmetik
+shop: beauty
 ---

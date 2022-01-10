@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /mars/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CardSmart"
 url: /matamoras/cardsmart/
-shop: Andenken
+shop: gift
 ---

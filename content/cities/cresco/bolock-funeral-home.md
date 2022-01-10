@@ -1,5 +1,5 @@
 ---
 title: "Bolock Funeral Home"
 url: /cresco/bolock-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

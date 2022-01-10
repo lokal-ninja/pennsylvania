@@ -1,5 +1,5 @@
 ---
 title: "The Preppy Pickle"
 url: /erie/the-preppy-pickle/
-shop: Allgemein
+shop: shop
 ---

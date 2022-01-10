@@ -1,5 +1,5 @@
 ---
 title: "Moll's Garage"
 url: /macungie/molls-garage-2/
-shop: Autowerkstatt
+shop: car repair
 ---

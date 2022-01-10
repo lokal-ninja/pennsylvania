@@ -1,5 +1,5 @@
 ---
 title: "Johnny's"
 url: /greensburg/johnnys/
-shop: Friseur
+shop: hairdresser
 ---

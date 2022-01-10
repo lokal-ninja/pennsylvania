@@ -1,5 +1,5 @@
 ---
 title: "Spring Cleaners"
 url: /spring-house/spring-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

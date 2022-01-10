@@ -1,5 +1,5 @@
 ---
 title: "Storage King"
 url: /hawley/storage-king/
-shop: Mieten
+shop: storage rental
 ---

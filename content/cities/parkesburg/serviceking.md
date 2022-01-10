@@ -1,5 +1,5 @@
 ---
 title: "ServiceKing"
 url: /parkesburg/serviceking/
-shop: Autowerkstatt
+shop: car repair
 ---

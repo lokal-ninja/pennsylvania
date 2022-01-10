@@ -1,5 +1,5 @@
 ---
 title: "Lexus"
 url: /wilkes-barre/lexus/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DelBalso Collision Center"
 url: /wilkes-barre/delbalso-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

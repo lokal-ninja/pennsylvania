@@ -1,5 +1,5 @@
 ---
 title: "Bob's Auto Services Center"
 url: /shenandoah/bobs-auto-services-center/
-shop: Autowerkstatt
+shop: car repair
 ---

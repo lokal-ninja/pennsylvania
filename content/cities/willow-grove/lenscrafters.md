@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /willow-grove/lenscrafters/
-shop: Optiker
+shop: optician
 ---

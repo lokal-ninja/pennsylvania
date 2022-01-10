@@ -1,5 +1,5 @@
 ---
 title: "Star Automotive"
 url: /neffs/star-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mavis Tire"
 url: /whitehall/mavis-tire/
-shop: Reifen
+shop: tyres
 ---

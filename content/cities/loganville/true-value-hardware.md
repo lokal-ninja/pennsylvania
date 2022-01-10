@@ -1,5 +1,5 @@
 ---
 title: "True Value Hardware"
 url: /loganville/true-value-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

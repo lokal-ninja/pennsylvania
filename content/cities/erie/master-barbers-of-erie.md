@@ -1,5 +1,5 @@
 ---
 title: "Master Barbers of Erie"
 url: /erie/master-barbers-of-erie/
-shop: Friseur
+shop: hairdresser
 ---

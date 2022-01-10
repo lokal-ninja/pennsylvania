@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /girard/giant-eagle/
-shop: Supermarkt
+shop: supermarket
 ---

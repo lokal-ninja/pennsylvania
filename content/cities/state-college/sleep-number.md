@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /state-college/sleep-number/
-shop: Betten
+shop: bed
 ---

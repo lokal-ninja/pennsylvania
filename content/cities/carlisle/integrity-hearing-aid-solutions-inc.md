@@ -1,5 +1,5 @@
 ---
 title: "Integrity Hearing Aid Solutions, Inc"
 url: /carlisle/integrity-hearing-aid-solutions-inc/
-shop: Hörgeräte
+shop: hearing aids
 ---

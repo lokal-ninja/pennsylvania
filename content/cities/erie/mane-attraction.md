@@ -1,5 +1,5 @@
 ---
 title: "Mane Attraction"
 url: /erie/mane-attraction/
-shop: Friseur
+shop: hairdresser
 ---

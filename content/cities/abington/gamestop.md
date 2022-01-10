@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /abington/gamestop/
-shop: Videospiele
+shop: video games
 ---

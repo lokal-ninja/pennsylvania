@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /allentown/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

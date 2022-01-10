@@ -1,5 +1,5 @@
 ---
 title: "National Auto"
 url: /gilbertsville/national-auto/
-shop: Autoteile
+shop: car parts
 ---

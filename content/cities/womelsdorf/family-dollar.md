@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /womelsdorf/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

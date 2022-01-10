@@ -1,5 +1,5 @@
 ---
 title: "Liquid Technologies"
 url: /shamokin/liquid-technologies/
-shop: Computer
+shop: computer
 ---

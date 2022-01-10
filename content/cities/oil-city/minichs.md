@@ -1,5 +1,5 @@
 ---
 title: "Minichs"
 url: /oil-city/minichs/
-shop: Autowerkstatt
+shop: car repair
 ---

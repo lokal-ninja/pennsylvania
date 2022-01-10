@@ -1,5 +1,5 @@
 ---
 title: "Able Auto Specialist"
 url: /tobyhanna/able-auto-specialist/
-shop: Autowerkstatt
+shop: car repair
 ---

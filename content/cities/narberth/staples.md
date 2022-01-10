@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /narberth/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

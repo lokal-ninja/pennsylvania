@@ -1,5 +1,5 @@
 ---
 title: "Anderson Automotive"
 url: /harborcreek/anderson-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

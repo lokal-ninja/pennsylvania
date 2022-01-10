@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /quakertown/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

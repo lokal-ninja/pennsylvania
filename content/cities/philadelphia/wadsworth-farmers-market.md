@@ -1,5 +1,5 @@
 ---
 title: "Wadsworth Farmers Market"
 url: /philadelphia/wadsworth-farmers-market/
-shop: Hofladen
+shop: farm
 ---

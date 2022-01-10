@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /wilkes-barre/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

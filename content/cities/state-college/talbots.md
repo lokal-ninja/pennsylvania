@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /state-college/talbots/
-shop: Kleidung
+shop: clothes
 ---

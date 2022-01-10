@@ -1,5 +1,5 @@
 ---
 title: "Domaki Leathers"
 url: /leola/domaki-leathers/
-shop: Leder
+shop: leather
 ---

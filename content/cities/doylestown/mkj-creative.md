@@ -1,5 +1,5 @@
 ---
 title: "MKJ Creative"
 url: /doylestown/mkj-creative/
-shop: Allgemein
+shop: shop
 ---

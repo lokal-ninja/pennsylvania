@@ -1,5 +1,5 @@
 ---
 title: "Auto Addictions"
 url: /whitehall/auto-addictions/
-shop: Autoteile
+shop: car parts
 ---

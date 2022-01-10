@@ -1,5 +1,5 @@
 ---
 title: "Cholo's Garage"
 url: /bethlehem/cholos-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

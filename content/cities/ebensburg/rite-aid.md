@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /ebensburg/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

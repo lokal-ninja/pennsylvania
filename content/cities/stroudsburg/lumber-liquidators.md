@@ -1,5 +1,5 @@
 ---
 title: "Lumber Liquidators"
 url: /stroudsburg/lumber-liquidators/
-shop: Eisenwaren
+shop: hardware
 ---

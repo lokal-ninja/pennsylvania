@@ -1,5 +1,5 @@
 ---
 title: "Hauser Estate Winery"
 url: /gettysburg/hauser-estate-winery/
-shop: Wein
+shop: wine
 ---

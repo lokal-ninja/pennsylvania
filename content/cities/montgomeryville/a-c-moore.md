@@ -1,5 +1,5 @@
 ---
 title: "A.C. Moore"
 url: /montgomeryville/a-c-moore/
-shop: Basteln
+shop: craft
 ---

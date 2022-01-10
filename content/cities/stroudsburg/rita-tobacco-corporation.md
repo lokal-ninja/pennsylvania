@@ -1,5 +1,5 @@
 ---
 title: "Rita Tobacco Corporation"
 url: /stroudsburg/rita-tobacco-corporation/
-shop: Tabak
+shop: tobacco
 ---

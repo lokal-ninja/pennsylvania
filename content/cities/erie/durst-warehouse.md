@@ -1,5 +1,5 @@
 ---
 title: "Durst Warehouse"
 url: /erie/durst-warehouse/
-shop: Mieten
+shop: storage rental
 ---

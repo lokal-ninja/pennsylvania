@@ -1,5 +1,5 @@
 ---
 title: "Gabe's"
 url: /erie/gabes/
-shop: Kleidung
+shop: clothes
 ---

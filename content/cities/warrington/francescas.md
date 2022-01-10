@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /warrington/francescas/
-shop: Kleidung
+shop: clothes
 ---

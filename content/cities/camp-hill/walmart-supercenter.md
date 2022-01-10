@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /camp-hill/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yankee Candle"
 url: /warrington/yankee-candle/
-shop: Kerzen
+shop: candles
 ---

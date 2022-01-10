@@ -1,5 +1,5 @@
 ---
 title: "LLG Grocery"
 url: /philadelphia/llg-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

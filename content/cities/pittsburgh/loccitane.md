@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /pittsburgh/loccitane/
-shop: Kosmetik
+shop: beauty
 ---

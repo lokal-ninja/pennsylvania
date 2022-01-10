@@ -1,5 +1,5 @@
 ---
 title: "Salvelosity"
 url: /chester/salvelosity/
-shop: Kleidung
+shop: clothes
 ---

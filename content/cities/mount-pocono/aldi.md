@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /mount-pocono/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /erie/dollar-general-5/
-shop: Kramladen
+shop: variety store
 ---

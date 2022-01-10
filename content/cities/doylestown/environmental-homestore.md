@@ -1,5 +1,5 @@
 ---
 title: "Environmental Homestore"
 url: /doylestown/environmental-homestore/
-shop: Baumarkt
+shop: doityourself
 ---

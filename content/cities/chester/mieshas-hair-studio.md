@@ -1,5 +1,5 @@
 ---
 title: "Miesha's Hair Studio"
 url: /chester/mieshas-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

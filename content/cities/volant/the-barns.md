@@ -1,5 +1,5 @@
 ---
 title: "The Barns"
 url: /volant/the-barns/
-shop: Teppiche
+shop: carpet
 ---

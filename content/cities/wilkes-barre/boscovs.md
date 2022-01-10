@@ -1,5 +1,5 @@
 ---
 title: "Boscov's"
 url: /wilkes-barre/boscovs/
-shop: Warenhaus
+shop: department store
 ---

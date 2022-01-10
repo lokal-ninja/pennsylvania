@@ -1,5 +1,5 @@
 ---
 title: "Abdo's Furniture"
 url: /port-carbon/abdos-furniture/
-shop: Möbel
+shop: furniture
 ---

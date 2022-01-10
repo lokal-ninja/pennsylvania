@@ -1,5 +1,5 @@
 ---
 title: "Thompson BMW Service"
 url: /doylestown/thompson-bmw-service/
-shop: Autowerkstatt
+shop: car repair
 ---

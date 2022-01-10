@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /north-wales/sears/
-shop: Warenhaus
+shop: department store
 ---

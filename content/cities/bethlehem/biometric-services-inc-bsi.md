@@ -1,5 +1,5 @@
 ---
 title: "Biometric Services, Inc. (BSI)"
 url: /bethlehem/biometric-services-inc-bsi/
-shop: Computer
+shop: computer
 ---

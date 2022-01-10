@@ -1,5 +1,5 @@
 ---
 title: "Sam's Super Market"
 url: /philadelphia/sams-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

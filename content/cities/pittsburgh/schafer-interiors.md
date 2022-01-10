@@ -1,5 +1,5 @@
 ---
 title: "Schafer Interiors"
 url: /pittsburgh/schafer-interiors/
-shop: Kunst
+shop: art
 ---

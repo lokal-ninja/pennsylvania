@@ -1,5 +1,5 @@
 ---
 title: "JJ Automotive"
 url: /milford/jj-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

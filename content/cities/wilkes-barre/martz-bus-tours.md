@@ -1,5 +1,5 @@
 ---
 title: "Martz Bus Tours"
 url: /wilkes-barre/martz-bus-tours/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unique Ink"
 url: /greensburg/unique-ink/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walter J. Zalewski Funeral Homes, In"
 url: /pittsburgh/walter-j-zalewski-funeral-homes-in/
-shop: Bestattungen
+shop: funeral directors
 ---

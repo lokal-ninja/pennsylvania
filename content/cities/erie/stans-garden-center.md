@@ -1,5 +1,5 @@
 ---
 title: "Stan's Garden Center"
 url: /erie/stans-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

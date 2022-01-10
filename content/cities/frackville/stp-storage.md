@@ -1,5 +1,5 @@
 ---
 title: "STP Storage"
 url: /frackville/stp-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
 url: /monroeville/dicks-sporting-goods-2/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Akilah Fashions"
 url: /chester/akilah-fashions/
-shop: Kleidung
+shop: clothes
 ---

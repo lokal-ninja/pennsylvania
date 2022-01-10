@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /moon-township/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

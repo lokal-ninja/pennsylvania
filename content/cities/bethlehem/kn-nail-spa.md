@@ -1,5 +1,5 @@
 ---
 title: "KN Nail Spa"
 url: /bethlehem/kn-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

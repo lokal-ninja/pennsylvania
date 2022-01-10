@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /canonsburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

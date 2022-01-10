@@ -1,5 +1,5 @@
 ---
 title: "Dave Hallman Chevrolet"
 url: /erie/dave-hallman-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bennett Compost"
 url: /philadelphia/bennett-compost/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /mckees-rocks/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

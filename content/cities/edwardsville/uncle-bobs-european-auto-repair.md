@@ -1,5 +1,5 @@
 ---
 title: "Uncle Bob's European Auto Repair"
 url: /edwardsville/uncle-bobs-european-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

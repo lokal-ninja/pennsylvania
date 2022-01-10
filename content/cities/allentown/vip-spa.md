@@ -1,5 +1,5 @@
 ---
 title: "VIP Spa"
 url: /allentown/vip-spa/
-shop: Massage
+shop: massage
 ---

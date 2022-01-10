@@ -1,5 +1,5 @@
 ---
 title: "Suspension Repair"
 url: /gilberton/suspension-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

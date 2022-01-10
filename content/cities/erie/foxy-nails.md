@@ -1,5 +1,5 @@
 ---
 title: "Foxy Nails"
 url: /erie/foxy-nails/
-shop: Kosmetik
+shop: beauty
 ---

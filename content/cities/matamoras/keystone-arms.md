@@ -1,5 +1,5 @@
 ---
 title: "Keystone Arms"
 url: /matamoras/keystone-arms/
-shop: Waffen
+shop: weapons
 ---

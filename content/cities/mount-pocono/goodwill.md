@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /mount-pocono/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

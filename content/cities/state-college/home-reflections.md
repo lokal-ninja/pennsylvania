@@ -1,5 +1,5 @@
 ---
 title: "Home Reflections"
 url: /state-college/home-reflections/
-shop: Andenken
+shop: gift
 ---

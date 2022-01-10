@@ -1,5 +1,5 @@
 ---
 title: "Red Devil"
 url: /carlisle/red-devil/
-shop: Lebensmittel
+shop: convenience
 ---

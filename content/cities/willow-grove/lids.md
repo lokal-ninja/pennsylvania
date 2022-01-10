@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /willow-grove/lids/
-shop: Kleidung
+shop: clothes
 ---

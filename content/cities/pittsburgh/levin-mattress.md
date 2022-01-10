@@ -1,5 +1,5 @@
 ---
 title: "Levin Mattress"
 url: /pittsburgh/levin-mattress/
-shop: Betten
+shop: bed
 ---

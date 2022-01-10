@@ -1,5 +1,5 @@
 ---
 title: "Gochalla Auto Body"
 url: /mcadoo/gochalla-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

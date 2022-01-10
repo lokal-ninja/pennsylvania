@@ -1,5 +1,5 @@
 ---
 title: "Sprankles Neighborhood Market"
 url: /kittanning/sprankles-neighborhood-market/
-shop: Supermarkt
+shop: supermarket
 ---

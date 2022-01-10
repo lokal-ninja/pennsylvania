@@ -1,5 +1,5 @@
 ---
 title: "American Auto Parts"
 url: /philadelphia/american-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

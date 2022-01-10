@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /springfield-township/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

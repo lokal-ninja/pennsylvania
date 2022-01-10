@@ -1,5 +1,5 @@
 ---
 title: "Mavis Discount Tire"
 url: /glenolden/mavis-discount-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

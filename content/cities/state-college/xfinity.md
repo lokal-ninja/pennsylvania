@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /state-college/xfinity/
-shop: Handy
+shop: mobile phone
 ---

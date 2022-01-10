@@ -1,5 +1,5 @@
 ---
 title: "Get-Go"
 url: /pittsburgh/get-go/
-shop: Lebensmittel
+shop: convenience
 ---

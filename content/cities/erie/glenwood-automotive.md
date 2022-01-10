@@ -1,5 +1,5 @@
 ---
 title: "Glenwood Automotive"
 url: /erie/glenwood-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /doylestown/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

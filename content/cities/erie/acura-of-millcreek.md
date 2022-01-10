@@ -1,5 +1,5 @@
 ---
 title: "Acura of Millcreek"
 url: /erie/acura-of-millcreek/
-shop: Autohaus
+shop: car
 ---

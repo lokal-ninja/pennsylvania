@@ -1,5 +1,5 @@
 ---
 title: "Lehigh Valley Chevelle Parts"
 url: /bethlehem/lehigh-valley-chevelle-parts/
-shop: Autoteile
+shop: car parts
 ---

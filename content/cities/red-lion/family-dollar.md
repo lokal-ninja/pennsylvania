@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /red-lion/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

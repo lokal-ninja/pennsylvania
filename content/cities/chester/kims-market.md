@@ -1,5 +1,5 @@
 ---
 title: "Kim's Market"
 url: /chester/kims-market/
-shop: Lebensmittel
+shop: convenience
 ---

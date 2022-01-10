@@ -1,5 +1,5 @@
 ---
 title: "Nature's Trail"
 url: /jim-thorpe/natures-trail/
-shop: Andenken
+shop: gift
 ---

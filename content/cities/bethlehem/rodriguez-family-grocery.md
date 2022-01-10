@@ -1,5 +1,5 @@
 ---
 title: "Rodriguez Family Grocery"
 url: /bethlehem/rodriguez-family-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

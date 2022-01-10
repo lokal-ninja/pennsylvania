@@ -1,5 +1,5 @@
 ---
 title: "Scanlan Beverage"
 url: /pottsville/scanlan-beverage/
-shop: Getränke
+shop: beverages
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scanlin Funeral Home"
 url: /chalfont/scanlin-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

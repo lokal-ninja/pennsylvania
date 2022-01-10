@@ -1,5 +1,5 @@
 ---
 title: "La Tienda Grocery"
 url: /bethlehem/la-tienda-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

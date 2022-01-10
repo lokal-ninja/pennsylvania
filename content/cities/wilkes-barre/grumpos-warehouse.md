@@ -1,5 +1,5 @@
 ---
 title: "Grumpo's Warehouse"
 url: /wilkes-barre/grumpos-warehouse/
-shop: Kramladen
+shop: variety store
 ---

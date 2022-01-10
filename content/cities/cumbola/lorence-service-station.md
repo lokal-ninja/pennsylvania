@@ -1,5 +1,5 @@
 ---
 title: "Lorence Service Station"
 url: /cumbola/lorence-service-station/
-shop: Autowerkstatt
+shop: car repair
 ---

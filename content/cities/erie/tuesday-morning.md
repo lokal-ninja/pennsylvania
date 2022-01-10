@@ -1,5 +1,5 @@
 ---
 title: "Tuesday Morning"
 url: /erie/tuesday-morning/
-shop: Haushaltsartikel
+shop: houseware
 ---

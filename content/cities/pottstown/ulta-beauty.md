@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /pottstown/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

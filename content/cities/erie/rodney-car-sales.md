@@ -1,5 +1,5 @@
 ---
 title: "Rodney Car Sales"
 url: /erie/rodney-car-sales/
-shop: Autohaus
+shop: car
 ---

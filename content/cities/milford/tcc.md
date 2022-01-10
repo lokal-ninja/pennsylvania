@@ -1,5 +1,5 @@
 ---
 title: "TCC"
 url: /milford/tcc/
-shop: Handy
+shop: mobile phone
 ---

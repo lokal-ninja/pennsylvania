@@ -1,5 +1,5 @@
 ---
 title: "Fairmount Bicycles"
 url: /philadelphia/fairmount-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

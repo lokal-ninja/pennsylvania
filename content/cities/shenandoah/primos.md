@@ -1,5 +1,5 @@
 ---
 title: "Primos"
 url: /shenandoah/primos/
-shop: Autowerkstatt
+shop: car repair
 ---

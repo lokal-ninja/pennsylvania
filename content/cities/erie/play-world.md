@@ -1,5 +1,5 @@
 ---
 title: "Play World"
 url: /erie/play-world/
-shop: Videospiele
+shop: video games
 ---

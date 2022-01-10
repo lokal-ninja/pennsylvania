@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /bethel-park/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

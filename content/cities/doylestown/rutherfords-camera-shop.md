@@ -1,5 +1,5 @@
 ---
 title: "Rutherford's Camera Shop"
 url: /doylestown/rutherfords-camera-shop/
-shop: Foto
+shop: photo
 ---

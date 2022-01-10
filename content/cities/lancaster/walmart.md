@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /lancaster/walmart/
-shop: Warenhaus
+shop: department store
 ---

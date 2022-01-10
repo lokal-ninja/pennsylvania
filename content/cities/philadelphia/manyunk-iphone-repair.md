@@ -1,5 +1,5 @@
 ---
 title: "Manyunk iPhone Repair"
 url: /philadelphia/manyunk-iphone-repair/
-shop: Handy
+shop: mobile phone
 ---

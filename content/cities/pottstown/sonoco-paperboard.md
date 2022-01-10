@@ -1,5 +1,5 @@
 ---
 title: "Sonoco Paperboard"
 url: /pottstown/sonoco-paperboard/
-shop: Allgemein
+shop: shop
 ---

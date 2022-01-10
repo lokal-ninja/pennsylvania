@@ -1,5 +1,5 @@
 ---
 title: "Okey's Automotive"
 url: /erie/okeys-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

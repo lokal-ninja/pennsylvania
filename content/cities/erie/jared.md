@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /erie/jared/
-shop: Schmuck
+shop: jewelry
 ---

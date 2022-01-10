@@ -1,5 +1,5 @@
 ---
 title: "Keystone Pet Place"
 url: /mount-joy/keystone-pet-place/
-shop: Tiere
+shop: pet
 ---

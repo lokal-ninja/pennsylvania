@@ -1,5 +1,5 @@
 ---
 title: "Oreck"
 url: /doylestown/oreck/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

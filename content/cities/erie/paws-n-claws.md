@@ -1,5 +1,5 @@
 ---
 title: "Paws 'n Claws"
 url: /erie/paws-n-claws/
-shop: Tiersalon
+shop: pet grooming
 ---

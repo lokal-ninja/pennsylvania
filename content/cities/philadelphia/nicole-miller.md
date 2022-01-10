@@ -1,5 +1,5 @@
 ---
 title: "Nicole Miller"
 url: /philadelphia/nicole-miller/
-shop: Kleidung
+shop: clothes
 ---

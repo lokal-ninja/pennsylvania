@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /greensburg/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

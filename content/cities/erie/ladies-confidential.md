@@ -1,5 +1,5 @@
 ---
 title: "Ladies Confidential"
 url: /erie/ladies-confidential/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /warrington/gamestop/
-shop: Videospiele
+shop: video games
 ---

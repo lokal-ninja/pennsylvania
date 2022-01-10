@@ -1,5 +1,5 @@
 ---
 title: "Ferack's Auto Services"
 url: /plains/feracks-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

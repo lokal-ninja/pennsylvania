@@ -1,5 +1,5 @@
 ---
 title: "Popcorn Buddha"
 url: /stroudsburg/popcorn-buddha/
-shop: Süßwaren
+shop: confectionery
 ---

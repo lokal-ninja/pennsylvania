@@ -1,5 +1,5 @@
 ---
 title: "Bob Wilson Gulf"
 url: /conshohocken/bob-wilson-gulf/
-shop: Autowerkstatt
+shop: car repair
 ---

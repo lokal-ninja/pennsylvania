@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /houtzdale/carquest/
-shop: Autoteile
+shop: car parts
 ---

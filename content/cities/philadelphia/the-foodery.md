@@ -1,5 +1,5 @@
 ---
 title: "The Foodery"
 url: /philadelphia/the-foodery/
-shop: Feinkost
+shop: deli
 ---

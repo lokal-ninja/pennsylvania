@@ -1,5 +1,5 @@
 ---
 title: "Ninh's Auto"
 url: /philadelphia/ninhs-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Russo's Barber Shop"
 url: /erie/russos-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

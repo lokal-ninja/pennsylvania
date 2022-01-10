@@ -1,5 +1,5 @@
 ---
 title: "Flavr"
 url: /lancaster/flavr/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

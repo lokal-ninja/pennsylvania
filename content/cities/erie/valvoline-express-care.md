@@ -1,5 +1,5 @@
 ---
 title: "Valvoline Express Care"
 url: /erie/valvoline-express-care/
-shop: Autowerkstatt
+shop: car repair
 ---

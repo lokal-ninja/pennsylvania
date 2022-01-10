@@ -1,5 +1,5 @@
 ---
 title: "Don's Appliances"
 url: /pittsburgh/dons-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

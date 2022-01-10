@@ -1,5 +1,5 @@
 ---
 title: "Norristown Brick"
 url: /norristown/norristown-brick/
-shop: Allgemein
+shop: shop
 ---

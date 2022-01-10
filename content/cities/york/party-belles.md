@@ -1,5 +1,5 @@
 ---
 title: "Party Belles"
 url: /york/party-belles/
-shop: Allgemein
+shop: shop
 ---

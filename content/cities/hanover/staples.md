@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hanover/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

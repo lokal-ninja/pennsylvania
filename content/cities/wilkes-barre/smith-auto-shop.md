@@ -1,5 +1,5 @@
 ---
 title: "Smith Auto Shop"
 url: /wilkes-barre/smith-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

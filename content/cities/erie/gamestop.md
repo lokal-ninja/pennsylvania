@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /erie/gamestop/
-shop: Videospiele
+shop: video games
 ---

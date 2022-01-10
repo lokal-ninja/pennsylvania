@@ -1,5 +1,5 @@
 ---
 title: "International Market"
 url: /philadelphia/international-market/
-shop: Lebensmittel
+shop: convenience
 ---

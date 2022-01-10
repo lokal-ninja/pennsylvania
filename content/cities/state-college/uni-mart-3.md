@@ -1,5 +1,5 @@
 ---
 title: "Uni-Mart"
 url: /state-college/uni-mart-3/
-shop: Lebensmittel
+shop: convenience
 ---

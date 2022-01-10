@@ -1,5 +1,5 @@
 ---
 title: "Sheetz #610"
 url: /pittsburgh/sheetz-610/
-shop: Lebensmittel
+shop: convenience
 ---

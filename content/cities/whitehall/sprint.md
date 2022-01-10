@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /whitehall/sprint/
-shop: Handy
+shop: mobile phone
 ---

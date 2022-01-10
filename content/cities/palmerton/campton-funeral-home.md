@@ -1,5 +1,5 @@
 ---
 title: "Campton Funeral Home"
 url: /palmerton/campton-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

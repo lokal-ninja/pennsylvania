@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /warren/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

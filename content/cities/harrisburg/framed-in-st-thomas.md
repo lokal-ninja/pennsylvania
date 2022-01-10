@@ -1,5 +1,5 @@
 ---
 title: "Framed! in St. Thomas"
 url: /harrisburg/framed-in-st-thomas/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kim's Electronics"
 url: /tower-city/kims-electronics/
-shop: Haushaltsgeräte
+shop: appliance
 ---

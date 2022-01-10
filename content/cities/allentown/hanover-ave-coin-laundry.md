@@ -1,5 +1,5 @@
 ---
 title: "Hanover Ave. Coin Laundry"
 url: /allentown/hanover-ave-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

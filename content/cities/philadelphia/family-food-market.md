@@ -1,5 +1,5 @@
 ---
 title: "Family Food Market"
 url: /philadelphia/family-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

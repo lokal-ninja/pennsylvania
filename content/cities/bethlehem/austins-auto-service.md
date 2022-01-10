@@ -1,5 +1,5 @@
 ---
 title: "Austin's Auto Service"
 url: /bethlehem/austins-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mantini Funeral Home"
 url: /ford-city/mantini-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

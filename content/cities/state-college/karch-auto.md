@@ -1,5 +1,5 @@
 ---
 title: "Karch Auto"
 url: /state-college/karch-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

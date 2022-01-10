@@ -1,5 +1,5 @@
 ---
 title: "Musical Energi"
 url: /wilkes-barre/musical-energi/
-shop: Musik
+shop: music
 ---

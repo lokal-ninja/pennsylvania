@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /warrington/autozone/
-shop: Autoteile
+shop: car parts
 ---

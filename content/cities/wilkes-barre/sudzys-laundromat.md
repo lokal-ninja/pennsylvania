@@ -1,5 +1,5 @@
 ---
 title: "Sudzy's Laundromat"
 url: /wilkes-barre/sudzys-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

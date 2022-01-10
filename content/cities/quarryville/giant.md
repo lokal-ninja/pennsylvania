@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /quarryville/giant/
-shop: Supermarkt
+shop: supermarket
 ---

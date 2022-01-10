@@ -1,5 +1,5 @@
 ---
 title: "Daughenbaugh Funeral Home"
 url: /centre-hall/daughenbaugh-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

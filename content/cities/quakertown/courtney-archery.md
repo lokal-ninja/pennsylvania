@@ -1,5 +1,5 @@
 ---
 title: "Courtney Archery"
 url: /quakertown/courtney-archery/
-shop: Waffen
+shop: weapons
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /conshohocken/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

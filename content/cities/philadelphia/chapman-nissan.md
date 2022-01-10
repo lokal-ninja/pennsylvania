@@ -1,5 +1,5 @@
 ---
 title: "Chapman Nissan"
 url: /philadelphia/chapman-nissan/
-shop: Autohaus
+shop: car
 ---

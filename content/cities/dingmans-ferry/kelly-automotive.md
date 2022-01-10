@@ -1,5 +1,5 @@
 ---
 title: "Kelly Automotive"
 url: /dingmans-ferry/kelly-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

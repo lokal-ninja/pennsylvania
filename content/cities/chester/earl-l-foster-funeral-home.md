@@ -1,5 +1,5 @@
 ---
 title: "Earl L. Foster Funeral Home"
 url: /chester/earl-l-foster-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

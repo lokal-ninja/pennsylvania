@@ -1,5 +1,5 @@
 ---
 title: "Golden Sage Tattoo"
 url: /doylestown/golden-sage-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

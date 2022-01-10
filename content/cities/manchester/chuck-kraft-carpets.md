@@ -1,5 +1,5 @@
 ---
 title: "Chuck Kraft Carpets"
 url: /manchester/chuck-kraft-carpets/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christian Layman Thrift Store"
 url: /greensburg/christian-layman-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

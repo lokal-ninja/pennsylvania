@@ -1,5 +1,5 @@
 ---
 title: "Interstate Battery System"
 url: /gilbertsville/interstate-battery-system/
-shop: Autoteile
+shop: car parts
 ---

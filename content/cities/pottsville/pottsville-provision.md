@@ -1,5 +1,5 @@
 ---
 title: "Pottsville Provision"
 url: /pottsville/pottsville-provision/
-shop: Feinkost
+shop: deli
 ---

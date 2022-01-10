@@ -1,5 +1,5 @@
 ---
 title: "Produce Junction"
 url: /whitehall/produce-junction/
-shop: Hofladen
+shop: farm
 ---

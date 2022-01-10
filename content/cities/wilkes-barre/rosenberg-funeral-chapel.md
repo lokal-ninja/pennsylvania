@@ -1,5 +1,5 @@
 ---
 title: "Rosenberg Funeral Chapel"
 url: /wilkes-barre/rosenberg-funeral-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

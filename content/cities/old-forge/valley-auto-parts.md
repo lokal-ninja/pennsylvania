@@ -1,5 +1,5 @@
 ---
 title: "Valley Auto Parts"
 url: /old-forge/valley-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

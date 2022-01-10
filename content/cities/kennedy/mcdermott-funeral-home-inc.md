@@ -1,5 +1,5 @@
 ---
 title: "McDermott Funeral Home, Inc."
 url: /kennedy/mcdermott-funeral-home-inc/
-shop: Bestattungen
+shop: funeral directors
 ---

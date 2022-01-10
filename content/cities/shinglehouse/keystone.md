@@ -1,5 +1,5 @@
 ---
 title: "Keystone"
 url: /shinglehouse/keystone/
-shop: Lebensmittel
+shop: convenience
 ---

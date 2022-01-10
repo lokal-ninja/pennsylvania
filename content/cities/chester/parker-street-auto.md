@@ -1,5 +1,5 @@
 ---
 title: "Parker Street Auto"
 url: /chester/parker-street-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

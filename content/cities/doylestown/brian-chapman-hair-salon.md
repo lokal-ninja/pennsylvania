@@ -1,5 +1,5 @@
 ---
 title: "Brian Chapman Hair Salon"
 url: /doylestown/brian-chapman-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

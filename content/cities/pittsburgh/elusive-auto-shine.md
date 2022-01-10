@@ -1,5 +1,5 @@
 ---
 title: "Elusive Auto Shine"
 url: /pittsburgh/elusive-auto-shine/
-shop: Autowerkstatt
+shop: car repair
 ---

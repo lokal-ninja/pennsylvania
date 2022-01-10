@@ -1,5 +1,5 @@
 ---
 title: "Pottstown Florist"
 url: /pottstown/pottstown-florist/
-shop: Blumen
+shop: florist
 ---

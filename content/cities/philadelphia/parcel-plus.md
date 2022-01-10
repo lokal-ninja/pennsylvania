@@ -1,5 +1,5 @@
 ---
 title: "Parcel Plus"
 url: /philadelphia/parcel-plus/
-shop: Allgemein
+shop: shop
 ---

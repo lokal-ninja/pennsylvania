@@ -1,5 +1,5 @@
 ---
 title: "Happy Valley Refreshment"
 url: /boalsburg/happy-valley-refreshment/
-shop: Getränke
+shop: beverages
 ---

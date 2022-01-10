@@ -1,5 +1,5 @@
 ---
 title: "KL Auto Repair"
 url: /philadelphia/kl-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

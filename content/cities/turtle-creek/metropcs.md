@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /turtle-creek/metropcs/
-shop: Handy
+shop: mobile phone
 ---

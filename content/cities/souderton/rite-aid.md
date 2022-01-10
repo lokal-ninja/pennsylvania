@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /souderton/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

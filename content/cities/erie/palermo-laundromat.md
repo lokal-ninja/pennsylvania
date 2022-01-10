@@ -1,5 +1,5 @@
 ---
 title: "Palermo Laundromat"
 url: /erie/palermo-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hurst Repair"
 url: /womelsdorf/hurst-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

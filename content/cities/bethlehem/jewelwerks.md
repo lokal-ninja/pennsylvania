@@ -1,5 +1,5 @@
 ---
 title: "JewelWerks"
 url: /bethlehem/jewelwerks/
-shop: Schmuck
+shop: jewelry
 ---

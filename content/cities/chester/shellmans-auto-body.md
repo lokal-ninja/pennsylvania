@@ -1,5 +1,5 @@
 ---
 title: "Shellman's Auto Body"
 url: /chester/shellmans-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

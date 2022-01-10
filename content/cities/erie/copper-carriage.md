@@ -1,5 +1,5 @@
 ---
 title: "Copper Carriage"
 url: /erie/copper-carriage/
-shop: Antiquitäten
+shop: antiques
 ---

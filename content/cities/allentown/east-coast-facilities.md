@@ -1,5 +1,5 @@
 ---
 title: "East Coast Facilities"
 url: /allentown/east-coast-facilities/
-shop: Allgemein
+shop: shop
 ---

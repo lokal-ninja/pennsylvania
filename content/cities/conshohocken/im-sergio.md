@@ -1,5 +1,5 @@
 ---
 title: "I'm Sergio"
 url: /conshohocken/im-sergio/
-shop: Friseur
+shop: hairdresser
 ---

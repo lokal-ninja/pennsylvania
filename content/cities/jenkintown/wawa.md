@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /jenkintown/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

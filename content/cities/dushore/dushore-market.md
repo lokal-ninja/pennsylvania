@@ -1,5 +1,5 @@
 ---
 title: "Dushore Market"
 url: /dushore/dushore-market/
-shop: Supermarkt
+shop: supermarket
 ---

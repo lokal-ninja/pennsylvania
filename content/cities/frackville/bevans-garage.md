@@ -1,5 +1,5 @@
 ---
 title: "Bevan's Garage"
 url: /frackville/bevans-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

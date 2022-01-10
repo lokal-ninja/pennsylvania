@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /waynesboro/autozone/
-shop: Autoteile
+shop: car parts
 ---

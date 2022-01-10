@@ -1,5 +1,5 @@
 ---
 title: "Campus Copy Center"
 url: /philadelpha/campus-copy-center/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fill"
 url: /north-east/kwik-fill/
-shop: Lebensmittel
+shop: convenience
 ---

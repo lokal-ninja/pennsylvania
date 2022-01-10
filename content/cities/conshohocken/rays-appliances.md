@@ -1,5 +1,5 @@
 ---
 title: "Ray's Appliances"
 url: /conshohocken/rays-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

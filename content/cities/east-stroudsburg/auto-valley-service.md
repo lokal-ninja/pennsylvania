@@ -1,5 +1,5 @@
 ---
 title: "Auto Valley Service"
 url: /east-stroudsburg/auto-valley-service/
-shop: Autowerkstatt
+shop: car repair
 ---

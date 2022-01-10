@@ -1,5 +1,5 @@
 ---
 title: "Menchey Music Service, Inc."
 url: /lancaster/menchey-music-service-inc/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chuchu Mini Market"
 url: /philadelphia/chuchu-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

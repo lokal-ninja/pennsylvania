@@ -1,5 +1,5 @@
 ---
 title: "Blurryrobot Retrocade"
 url: /erie/blurryrobot-retrocade/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schwartz Auto Parts"
 url: /johnstown/schwartz-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

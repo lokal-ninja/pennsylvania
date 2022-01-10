@@ -1,5 +1,5 @@
 ---
 title: "Golden Dragon Market"
 url: /state-college/golden-dragon-market/
-shop: Supermarkt
+shop: supermarket
 ---

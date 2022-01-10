@@ -1,5 +1,5 @@
 ---
 title: "Amity Car Smart"
 url: /douglassville/amity-car-smart/
-shop: Autohaus
+shop: car
 ---

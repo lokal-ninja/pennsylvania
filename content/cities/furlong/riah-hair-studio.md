@@ -1,5 +1,5 @@
 ---
 title: "RIAH Hair Studio"
 url: /furlong/riah-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

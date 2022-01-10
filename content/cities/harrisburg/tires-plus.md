@@ -1,5 +1,5 @@
 ---
 title: "Tires Plus"
 url: /harrisburg/tires-plus/
-shop: Reifen
+shop: tyres
 ---

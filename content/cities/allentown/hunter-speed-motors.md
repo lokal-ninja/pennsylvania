@@ -1,5 +1,5 @@
 ---
 title: "Hunter Speed Motors"
 url: /allentown/hunter-speed-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sterling Auto"
 url: /whitehall/sterling-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

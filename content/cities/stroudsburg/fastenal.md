@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /stroudsburg/fastenal/
-shop: Baustoffe
+shop: trade
 ---

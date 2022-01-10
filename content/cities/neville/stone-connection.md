@@ -1,5 +1,5 @@
 ---
 title: "Stone Connection"
 url: /neville/stone-connection/
-shop: Küchen
+shop: kitchen
 ---

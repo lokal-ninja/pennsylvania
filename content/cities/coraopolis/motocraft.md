@@ -1,5 +1,5 @@
 ---
 title: "Motocraft"
 url: /coraopolis/motocraft/
-shop: Autoteile
+shop: car parts
 ---

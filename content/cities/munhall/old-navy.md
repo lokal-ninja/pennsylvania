@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /munhall/old-navy/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridal Hair Boutique"
 url: /doylestown/bridal-hair-boutique/
-shop: Friseur
+shop: hairdresser
 ---

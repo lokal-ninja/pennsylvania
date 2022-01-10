@@ -1,5 +1,5 @@
 ---
 title: "Timeline Arcade"
 url: /hanover/timeline-arcade/
-shop: Videospiele
+shop: video games
 ---

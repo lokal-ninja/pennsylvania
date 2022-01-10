@@ -1,5 +1,5 @@
 ---
 title: "Luvz Nails"
 url: /bethlehem/luvz-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dillener Convenience Store"
 url: /dillener/dillener-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

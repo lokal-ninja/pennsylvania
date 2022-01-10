@@ -1,5 +1,5 @@
 ---
 title: "FleetPride"
 url: /scranton/fleetpride/
-shop: Autoteile
+shop: car parts
 ---

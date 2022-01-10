@@ -1,5 +1,5 @@
 ---
 title: "Wreck-A-Mend Collision Center"
 url: /brodheadsville/wreck-a-mend-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

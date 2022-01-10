@@ -1,5 +1,5 @@
 ---
 title: "Harpers"
 url: /state-college/harpers/
-shop: Kleidung
+shop: clothes
 ---

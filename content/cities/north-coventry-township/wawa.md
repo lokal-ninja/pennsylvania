@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /north-coventry-township/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

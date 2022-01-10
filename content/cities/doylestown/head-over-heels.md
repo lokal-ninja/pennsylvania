@@ -1,5 +1,5 @@
 ---
 title: "Head Over Heels"
 url: /doylestown/head-over-heels/
-shop: Kleidung
+shop: clothes
 ---

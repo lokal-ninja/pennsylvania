@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /brodheadsville/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /mount-pocono/gamestop/
-shop: Videospiele
+shop: video games
 ---

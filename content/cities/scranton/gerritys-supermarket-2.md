@@ -1,5 +1,5 @@
 ---
 title: "Gerrity's Supermarket"
 url: /scranton/gerritys-supermarket-2/
-shop: Supermarkt
+shop: supermarket
 ---

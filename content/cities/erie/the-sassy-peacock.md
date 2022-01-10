@@ -1,5 +1,5 @@
 ---
 title: "The Sassy Peacock"
 url: /erie/the-sassy-peacock/
-shop: Gebrauchtwaren
+shop: charity
 ---

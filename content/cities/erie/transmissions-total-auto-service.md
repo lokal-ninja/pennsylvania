@@ -1,5 +1,5 @@
 ---
 title: "Transmissions Total Auto Service"
 url: /erie/transmissions-total-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

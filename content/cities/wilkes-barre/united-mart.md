@@ -1,5 +1,5 @@
 ---
 title: "United Mart"
 url: /wilkes-barre/united-mart/
-shop: Lebensmittel
+shop: convenience
 ---

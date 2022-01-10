@@ -1,5 +1,5 @@
 ---
 title: "Hair Vyce Studio"
 url: /philadelphia/hair-vyce-studio/
-shop: Friseur
+shop: hairdresser
 ---

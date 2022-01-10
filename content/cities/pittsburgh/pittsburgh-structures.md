@@ -1,5 +1,5 @@
 ---
 title: "Pittsburgh Structures"
 url: /pittsburgh/pittsburgh-structures/
-shop: Gartenmöbel
+shop: garden furniture
 ---

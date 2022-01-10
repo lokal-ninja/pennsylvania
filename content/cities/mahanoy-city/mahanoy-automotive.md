@@ -1,5 +1,5 @@
 ---
 title: "Mahanoy Automotive"
 url: /mahanoy-city/mahanoy-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

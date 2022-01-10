@@ -1,5 +1,5 @@
 ---
 title: "Brady's Train Outlet"
 url: /greensburg/bradys-train-outlet/
-shop: Modellbau
+shop: model
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taylor Family Fuel"
 url: /bethlehem/taylor-family-fuel/
-shop: Lebensmittel
+shop: convenience
 ---

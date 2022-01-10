@@ -1,5 +1,5 @@
 ---
 title: "Valley Gun Works"
 url: /north-east/valley-gun-works/
-shop: Waffen
+shop: weapons
 ---

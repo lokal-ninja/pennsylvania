@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /folsom/autozone/
-shop: Autoteile
+shop: car parts
 ---

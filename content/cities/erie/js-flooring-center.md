@@ -1,5 +1,5 @@
 ---
 title: "J's Flooring Center"
 url: /erie/js-flooring-center/
-shop: Teppiche
+shop: carpet
 ---

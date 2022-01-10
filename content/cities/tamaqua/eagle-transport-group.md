@@ -1,5 +1,5 @@
 ---
 title: "Eagle Transport Group"
 url: /tamaqua/eagle-transport-group/
-shop: Autowerkstatt
+shop: car repair
 ---

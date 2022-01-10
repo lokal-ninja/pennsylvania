@@ -1,5 +1,5 @@
 ---
 title: "Brickey Storage"
 url: /pottsville/brickey-storage/
-shop: Mieten
+shop: storage rental
 ---

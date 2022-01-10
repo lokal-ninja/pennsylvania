@@ -1,5 +1,5 @@
 ---
 title: "Valu Home Center"
 url: /erie/valu-home-center/
-shop: Eisenwaren
+shop: hardware
 ---

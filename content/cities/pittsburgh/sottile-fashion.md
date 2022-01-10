@@ -1,5 +1,5 @@
 ---
 title: "Sottile Fashion"
 url: /pittsburgh/sottile-fashion/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cash for Cars York Haven"
 url: /york-haven/cash-for-cars-york-haven/
-shop: Autohaus
+shop: car
 ---

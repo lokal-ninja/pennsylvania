@@ -1,5 +1,5 @@
 ---
 title: "Happy Nails"
 url: /milford/happy-nails/
-shop: Kosmetik
+shop: beauty
 ---

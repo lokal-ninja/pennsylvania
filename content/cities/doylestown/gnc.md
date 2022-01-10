@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /doylestown/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

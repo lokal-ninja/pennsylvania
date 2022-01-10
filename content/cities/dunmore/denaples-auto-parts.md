@@ -1,5 +1,5 @@
 ---
 title: "Denaples Auto Parts"
 url: /dunmore/denaples-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

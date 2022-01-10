@@ -1,5 +1,5 @@
 ---
 title: "Passyunk Market"
 url: /philadelphia/passyunk-market/
-shop: Supermarkt
+shop: supermarket
 ---

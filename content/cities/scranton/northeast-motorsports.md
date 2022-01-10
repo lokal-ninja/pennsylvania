@@ -1,5 +1,5 @@
 ---
 title: "Northeast Motorsports"
 url: /scranton/northeast-motorsports/
-shop: Motorrad
+shop: motorcycle
 ---

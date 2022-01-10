@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /holmes/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

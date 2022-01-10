@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /east-stroudsburg/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

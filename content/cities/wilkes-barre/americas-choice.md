@@ -1,5 +1,5 @@
 ---
 title: "America's Choice"
 url: /wilkes-barre/americas-choice/
-shop: Autohaus
+shop: car
 ---

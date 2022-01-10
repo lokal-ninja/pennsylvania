@@ -1,5 +1,5 @@
 ---
 title: "Sensational Styles"
 url: /bethlehem/sensational-styles/
-shop: Friseur
+shop: hairdresser
 ---

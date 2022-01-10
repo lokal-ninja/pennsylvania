@@ -1,5 +1,5 @@
 ---
 title: "Music and Arts"
 url: /doylestown/music-and-arts/
-shop: Musik
+shop: music
 ---

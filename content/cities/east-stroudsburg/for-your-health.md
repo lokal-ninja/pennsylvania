@@ -1,5 +1,5 @@
 ---
 title: "For Your Health"
 url: /east-stroudsburg/for-your-health/
-shop: Sanitätshaus
+shop: medical supply
 ---

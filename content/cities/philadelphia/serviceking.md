@@ -1,5 +1,5 @@
 ---
 title: "ServiceKing"
 url: /philadelphia/serviceking/
-shop: Autowerkstatt
+shop: car repair
 ---

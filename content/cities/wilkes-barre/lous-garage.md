@@ -1,5 +1,5 @@
 ---
 title: "Lou's Garage"
 url: /wilkes-barre/lous-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "En Arabesque"
 url: /doylestown/en-arabesque/
-shop: Kleidung
+shop: clothes
 ---

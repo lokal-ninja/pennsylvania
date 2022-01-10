@@ -1,5 +1,5 @@
 ---
 title: "Amazing Cool Music Place"
 url: /coraopolis/amazing-cool-music-place/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big LouTires"
 url: /north-hills/big-loutires/
-shop: Reifen
+shop: tyres
 ---

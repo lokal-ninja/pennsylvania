@@ -1,5 +1,5 @@
 ---
 title: "Nail Studio II"
 url: /pittsburgh/nail-studio-ii/
-shop: Kosmetik
+shop: beauty
 ---

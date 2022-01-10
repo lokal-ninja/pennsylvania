@@ -1,5 +1,5 @@
 ---
 title: "Kline's Garage"
 url: /pine-grove-mills/klines-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

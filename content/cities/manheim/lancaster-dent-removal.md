@@ -1,5 +1,5 @@
 ---
 title: "Lancaster Dent Removal"
 url: /manheim/lancaster-dent-removal/
-shop: Autowerkstatt
+shop: car repair
 ---

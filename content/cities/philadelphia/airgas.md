@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /philadelphia/airgas/
-shop: Gasflaschen
+shop: gas
 ---

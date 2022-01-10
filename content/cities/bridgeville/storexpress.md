@@ -1,5 +1,5 @@
 ---
 title: "STORExpress"
 url: /bridgeville/storexpress/
-shop: Mieten
+shop: storage rental
 ---

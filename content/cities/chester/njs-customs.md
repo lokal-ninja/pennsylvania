@@ -1,5 +1,5 @@
 ---
 title: "NJS Customs"
 url: /chester/njs-customs/
-shop: Autowerkstatt
+shop: car repair
 ---
