@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /bridgeville/burlington/
+url: /erie/burlington/
 shop: department store
 ---
