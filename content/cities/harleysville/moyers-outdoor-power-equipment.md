@@ -1,5 +1,5 @@
 ---
 title: "Moyer's Outdoor Power Equipment"
 url: /harleysville/moyers-outdoor-power-equipment/
-shop: shop
+shop: groundskeeping
 ---
