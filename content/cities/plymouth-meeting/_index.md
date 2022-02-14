@@ -1,6 +1,6 @@
 ---
 title: Plymouth Meeting
 url: /plymouth-meeting/
-latitude: 40.105
-longitude: -75.297
+latitude: 40.108
+longitude: -75.274
 ---
