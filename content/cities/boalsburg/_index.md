@@ -1,6 +1,6 @@
 ---
 title: Boalsburg
 url: /boalsburg/
-latitude: 40.778
-longitude: -77.791
+latitude: 40.776
+longitude: -77.793
 ---
