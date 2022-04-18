@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /curwensville/dollar-general/
+url: /monroeville/dollar-general-2/
 shop: variety store
 ---
