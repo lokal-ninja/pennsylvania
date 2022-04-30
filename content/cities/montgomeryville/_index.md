@@ -2,5 +2,5 @@
 title: Montgomeryville
 url: /montgomeryville/
 latitude: 40.227
-longitude: -75.237
+longitude: -75.236
 ---
