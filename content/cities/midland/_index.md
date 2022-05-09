@@ -1,6 +1,6 @@
 ---
 title: Midland
 url: /midland/
-latitude: 40.633
-longitude: -80.447
+latitude: 40.639
+longitude: -80.457
 ---
