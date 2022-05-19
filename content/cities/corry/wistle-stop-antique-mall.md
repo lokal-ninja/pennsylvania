@@ -1,5 +1,5 @@
 ---
 title: "Wistle Stop Antique Mall"
 url: /corry/wistle-stop-antique-mall/
-shop: antiques
+shop: charity
 ---
