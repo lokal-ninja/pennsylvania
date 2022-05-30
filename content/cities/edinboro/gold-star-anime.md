@@ -1,5 +1,5 @@
 ---
 title: "Gold Star Anime"
 url: /edinboro/gold-star-anime/
-shop: toys
+shop: anime
 ---

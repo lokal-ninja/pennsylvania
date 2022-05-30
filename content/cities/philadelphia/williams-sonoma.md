@@ -1,5 +1,5 @@
 ---
-title: "Williams Sonoma"
+title: "Williams-Sonoma"
 url: /philadelphia/williams-sonoma/
-shop: shop
+shop: houseware
 ---
