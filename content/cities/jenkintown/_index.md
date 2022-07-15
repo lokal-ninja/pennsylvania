@@ -1,6 +1,6 @@
 ---
 title: Jenkintown
 url: /jenkintown/
-latitude: 40.096
-longitude: -75.126
+latitude: 40.092
+longitude: -75.125
 ---

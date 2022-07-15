@@ -1,6 +1,6 @@
 ---
 title: Walnutport
 url: /walnutport/
-latitude: 40.753
-longitude: -75.592
+latitude: 40.769
+longitude: -75.574
 ---
