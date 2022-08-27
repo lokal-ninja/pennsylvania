@@ -1,6 +1,6 @@
 ---
 title: Slippery Rock
 url: /slippery-rock/
-latitude: 41.065
-longitude: -80.057
+latitude: 41.071
+longitude: -80.054
 ---
