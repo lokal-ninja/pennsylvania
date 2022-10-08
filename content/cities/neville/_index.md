@@ -1,6 +1,6 @@
 ---
 title: Neville
 url: /neville/
-latitude: 40.505
-longitude: -80.104
+latitude: 40.517
+longitude: -80.148
 ---
