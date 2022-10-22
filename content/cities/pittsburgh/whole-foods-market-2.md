@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
-url: /pittsburgh-upper-st-clair/whole-foods-market/
+url: /pittsburgh/whole-foods-market-2/
 shop: supermarket
 ---
