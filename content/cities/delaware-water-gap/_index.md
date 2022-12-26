@@ -1,6 +1,6 @@
 ---
 title: Delaware Water Gap
 url: /delaware-water-gap/
-latitude: 40.985
-longitude: -75.145
+latitude: 40.986
+longitude: -75.153
 ---

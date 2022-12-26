@@ -1,5 +1,5 @@
 ---
-title: "Monkey's Uncle"
+title: "Monkeys Uncle"
 url: /doylestown/monkeys-uncle/
-shop: clothes
+shop: shop
 ---

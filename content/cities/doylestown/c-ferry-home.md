@@ -1,5 +1,5 @@
 ---
-title: "C. Ferry Home"
+title: "C Ferry Home"
 url: /doylestown/c-ferry-home/
-shop: shop
+shop: clothes
 ---
