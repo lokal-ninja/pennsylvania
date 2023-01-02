@@ -1,6 +1,6 @@
 ---
 title: Elizabeth
 url: /elizabeth/
-latitude: 40.28
-longitude: -79.875
+latitude: 40.273
+longitude: -79.887
 ---

@@ -1,11 +1,11 @@
-id: 381330200
-type: way
-latitude: 40.06292
-longitude: -75.23745
-postcode: "19128"
+id: 5861720356
+type: node
+latitude: 40.10242
+longitude: -75.00883
+postcode: "19116"
 city: Philadelphia
-street: "Henry Avenue"
-housenumber: 8500 #8
+street: "Roosevelt Boulevard"
+housenumber: 11000
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Collegeville
 url: /collegeville/
-latitude: 40.167
-longitude: -75.478
+latitude: 40.18
+longitude: -75.454
 ---
