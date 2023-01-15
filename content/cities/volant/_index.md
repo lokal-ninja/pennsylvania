@@ -1,6 +1,6 @@
 ---
 title: Volant
 url: /volant/
-latitude: 41.112
-longitude: -80.258
+latitude: 41.134
+longitude: -80.243
 ---
