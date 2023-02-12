@@ -1,6 +1,6 @@
 ---
 title: Sellersville
 url: /sellersville/
-latitude: 40.39
-longitude: -75.325
+latitude: 40.391
+longitude: -75.294
 ---

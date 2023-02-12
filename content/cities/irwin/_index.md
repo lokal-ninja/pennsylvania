@@ -1,6 +1,6 @@
 ---
 title: Irwin
 url: /irwin/
-latitude: 40.328
-longitude: -79.701
+latitude: 40.327
+longitude: -79.715
 ---

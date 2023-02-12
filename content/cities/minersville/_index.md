@@ -1,6 +1,6 @@
 ---
 title: Minersville
 url: /minersville/
-latitude: 40.681
-longitude: -76.253
+latitude: 40.693
+longitude: -76.26
 ---

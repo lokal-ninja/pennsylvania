@@ -1,5 +1,5 @@
 ---
-title: "Akins Auto  Sales"
+title: "Akins Auto Sales"
 url: /bechtelsville/akins-auto-sales/
 shop: car
 ---
