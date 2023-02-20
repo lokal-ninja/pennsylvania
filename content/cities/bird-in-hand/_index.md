@@ -1,6 +1,6 @@
 ---
-title: Bird-in-Hand
+title: Bird In Hand
 url: /bird-in-hand/
-latitude: 40.039
-longitude: -76.145
+latitude: 40.054
+longitude: -76.185
 ---
