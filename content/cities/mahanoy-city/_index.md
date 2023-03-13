@@ -1,6 +1,6 @@
 ---
 title: Mahanoy City
 url: /mahanoy-city/
-latitude: 40.814
-longitude: -76.133
+latitude: 40.811
+longitude: -76.15
 ---
