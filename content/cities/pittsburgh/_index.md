@@ -1,6 +1,6 @@
 ---
 title: Pittsburgh
 url: /pittsburgh/
-latitude: 40.461
-longitude: -79.947
+latitude: 40.457
+longitude: -79.936
 ---

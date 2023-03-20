@@ -1,6 +1,6 @@
 ---
 title: Hershey
 url: /hershey/
-latitude: 40.29
-longitude: -76.652
+latitude: 40.295
+longitude: -76.649
 ---
