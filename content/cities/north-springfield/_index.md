@@ -1,6 +1,6 @@
 ---
 title: North Springfield
 url: /north-springfield/
-latitude: 42.003
-longitude: -80.434
+latitude: 41.995
+longitude: -80.426
 ---
