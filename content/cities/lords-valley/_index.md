@@ -1,6 +1,6 @@
 ---
 title: Lords Valley
 url: /lords-valley/
-latitude: 41.35
-longitude: -75.048
+latitude: 41.345
+longitude: -75.042
 ---

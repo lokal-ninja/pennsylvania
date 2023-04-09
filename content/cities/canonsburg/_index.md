@@ -1,6 +1,6 @@
 ---
 title: Canonsburg
 url: /canonsburg/
-latitude: 40.261
-longitude: -80.179
+latitude: 40.258
+longitude: -80.144
 ---

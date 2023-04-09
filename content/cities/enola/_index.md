@@ -1,6 +1,6 @@
 ---
 title: Enola
 url: /enola/
-latitude: 40.281
-longitude: -76.927
+latitude: 40.282
+longitude: -76.931
 ---

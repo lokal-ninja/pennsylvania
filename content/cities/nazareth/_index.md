@@ -1,6 +1,6 @@
 ---
 title: Nazareth
 url: /nazareth/
-latitude: 40.733
-longitude: -75.312
+latitude: 40.748
+longitude: -75.302
 ---
