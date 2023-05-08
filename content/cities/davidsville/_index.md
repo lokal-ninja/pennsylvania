@@ -1,6 +1,6 @@
 ---
 title: Davidsville
 url: /davidsville/
-latitude: 40.224
-longitude: -78.938
+latitude: 40.228
+longitude: -78.936
 ---

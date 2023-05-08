@@ -1,6 +1,6 @@
 ---
 title: Peters Township
 url: /peters-township/
-latitude: 39.917
-longitude: -77.91
+latitude: 40.267
+longitude: -80.127
 ---
