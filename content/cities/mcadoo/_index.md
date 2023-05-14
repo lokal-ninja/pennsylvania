@@ -1,6 +1,6 @@
 ---
 title: McAdoo
 url: /mcadoo/
-latitude: 40.894
-longitude: -75.996
+latitude: 40.869
+longitude: -76.028
 ---
