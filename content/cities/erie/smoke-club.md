@@ -1,5 +1,5 @@
 ---
 title: "Smoke Club"
 url: /erie/smoke-club/
-shop: tobacco
+shop: e-cigarette
 ---

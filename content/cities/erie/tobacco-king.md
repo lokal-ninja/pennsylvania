@@ -1,5 +1,5 @@
 ---
 title: "Tobacco King"
 url: /erie/tobacco-king/
-shop: tobacco
+shop: e-cigarette
 ---
