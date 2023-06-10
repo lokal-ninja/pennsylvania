@@ -1,6 +1,6 @@
 ---
 title: Newtown Square
 url: /newtown-square/
-latitude: 39.977
-longitude: -75.399
+latitude: 39.976
+longitude: -75.44
 ---
