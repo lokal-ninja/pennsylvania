@@ -1,6 +1,6 @@
 ---
 title: Montoursville
 url: /montoursville/
-latitude: 41.263
-longitude: -76.919
+latitude: 41.257
+longitude: -76.926
 ---

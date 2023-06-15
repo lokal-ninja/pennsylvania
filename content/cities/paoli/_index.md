@@ -1,6 +1,6 @@
 ---
 title: Paoli
 url: /paoli/
-latitude: 40.042
-longitude: -75.477
+latitude: 40.043
+longitude: -75.488
 ---
