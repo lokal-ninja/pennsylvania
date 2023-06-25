@@ -1,6 +1,6 @@
 ---
 title: Tamaqua
 url: /tamaqua/
-latitude: 40.826
-longitude: -75.982
+latitude: 40.822
+longitude: -75.988
 ---
