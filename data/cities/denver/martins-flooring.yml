@@ -7,5 +7,5 @@ city: Denver
 street: "Dwight Road"
 housenumber: 608
 phone: "717-445-7799"
-opening_hours: "Mon-Tue: 08:00-19:00 | Wed: 08:00-17:00 | Thu: 08:00-19:00 | Fri: 08:00-17:00 | Sat: 09:00-15:00 | Sun: Closed"
+opening_hours: "Mo-Tu,Th 08:00-19:00; We,Fr 08:00-17:00; Sa 09:00-15:00; Su off"
 website: "https://www.martinsflooring.com/"

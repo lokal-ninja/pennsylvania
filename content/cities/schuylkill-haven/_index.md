@@ -1,6 +1,6 @@
 ---
 title: Schuylkill Haven
 url: /schuylkill-haven/
-latitude: 40.628
-longitude: -76.174
+latitude: 40.638
+longitude: -76.179
 ---
