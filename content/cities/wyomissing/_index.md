@@ -1,6 +1,6 @@
 ---
 title: Wyomissing
 url: /wyomissing/
-latitude: 40.35
-longitude: -75.965
+latitude: 40.345
+longitude: -75.972
 ---
