@@ -1,6 +1,6 @@
 ---
 title: Nanticoke
 url: /nanticoke/
-latitude: 41.203
-longitude: -76.003
+latitude: 41.196
+longitude: -76
 ---
