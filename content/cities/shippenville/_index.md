@@ -1,6 +1,6 @@
 ---
 title: Shippenville
 url: /shippenville/
-latitude: 41.255
-longitude: -79.399
+latitude: 41.243
+longitude: -79.426
 ---
