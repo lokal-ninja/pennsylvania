@@ -1,6 +1,6 @@
 ---
 title: Chadds Ford
 url: /chadds-ford/
-latitude: 39.874
-longitude: -75.636
+latitude: 39.854
+longitude: -75.539
 ---
