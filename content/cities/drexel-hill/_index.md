@@ -1,6 +1,6 @@
 ---
 title: Drexel Hill
 url: /drexel-hill/
-latitude: 39.945
-longitude: -75.297
+latitude: 39.959
+longitude: -75.288
 ---
