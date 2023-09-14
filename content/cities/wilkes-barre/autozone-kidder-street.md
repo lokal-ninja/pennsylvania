@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /wilkes-barre/autozone/
+url: /wilkes-barre/autozone-kidder-street/
 shop: car parts
 ---

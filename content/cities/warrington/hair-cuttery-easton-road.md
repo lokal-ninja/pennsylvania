@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
-url: /warrington/hair-cuttery/
+url: /warrington/hair-cuttery-easton-road/
 shop: hairdresser
 ---

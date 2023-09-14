@@ -1,5 +1,5 @@
 ---
 title: "Dunn Tire"
-url: /erie/dunn-tire/
+url: /erie/dunn-tire-peach-street/
 shop: tyres
 ---

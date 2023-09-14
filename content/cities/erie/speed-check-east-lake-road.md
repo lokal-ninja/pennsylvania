@@ -1,5 +1,5 @@
 ---
 title: "Speed Check"
-url: /erie/speed-check/
+url: /erie/speed-check-east-lake-road/
 shop: convenience
 ---

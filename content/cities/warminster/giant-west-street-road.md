@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /warminster/giant/
+url: /warminster/giant-west-street-road/
 shop: supermarket
 ---

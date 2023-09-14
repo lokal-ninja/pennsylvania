@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lancaster/speedway/
+url: /lancaster/speedway-hartman-bridge-road/
 shop: convenience
 ---

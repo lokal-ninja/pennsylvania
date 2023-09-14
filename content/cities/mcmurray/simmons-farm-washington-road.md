@@ -1,5 +1,5 @@
 ---
 title: "Simmons Farm"
-url: /mcmurray/simmons-farm/
+url: /mcmurray/simmons-farm-washington-road/
 shop: farm
 ---

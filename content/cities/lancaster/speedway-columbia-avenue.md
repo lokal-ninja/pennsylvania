@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lancaster/speedway/
+url: /lancaster/speedway-columbia-avenue/
 shop: convenience
 ---

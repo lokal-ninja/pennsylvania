@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
-url: /york/big-lots/
+url: /york/big-lots-white-street/
 shop: department store
 ---

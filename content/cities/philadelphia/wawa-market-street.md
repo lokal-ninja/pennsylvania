@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /philadelphia/wawa/
+url: /philadelphia/wawa-market-street/
 shop: convenience
 ---

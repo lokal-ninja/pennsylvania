@@ -1,5 +1,5 @@
 ---
 title: "Turkey Hill"
-url: /lancaster/turkey-hill/
+url: /lancaster/turkey-hill-state-road/
 shop: convenience
 ---

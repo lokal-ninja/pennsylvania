@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
-url: /pittsburgh/getgo/
+url: /pittsburgh/getgo-south-braddock-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /manheim/speedway/
+url: /manheim/speedway-lebanon-road/
 shop: convenience
 ---

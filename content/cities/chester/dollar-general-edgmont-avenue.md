@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /chester/dollar-general/
+url: /chester/dollar-general-edgmont-avenue/
 shop: variety store
 ---

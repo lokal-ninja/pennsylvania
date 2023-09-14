@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /erie/sherwin-williams/
+url: /erie/sherwin-williams-peach-street-2/
 shop: paint
 ---

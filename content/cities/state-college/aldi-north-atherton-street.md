@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /state-college/aldi/
+url: /state-college/aldi-north-atherton-street/
 shop: supermarket
 ---

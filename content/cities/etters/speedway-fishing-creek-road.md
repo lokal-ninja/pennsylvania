@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /etters/speedway/
+url: /etters/speedway-fishing-creek-road/
 shop: convenience
 ---

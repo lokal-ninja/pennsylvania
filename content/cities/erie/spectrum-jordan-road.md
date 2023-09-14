@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
-url: /erie/spectrum/
+url: /erie/spectrum-jordan-road/
 shop: mobile phone
 ---

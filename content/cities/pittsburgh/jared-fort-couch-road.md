@@ -1,5 +1,5 @@
 ---
 title: "Jared"
-url: /pittsburgh/jared/
+url: /pittsburgh/jared-fort-couch-road/
 shop: jewelry
 ---

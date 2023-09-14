@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /bridgeville/sheetz/
+url: /bridgeville/sheetz-washington-pike/
 shop: convenience
 ---

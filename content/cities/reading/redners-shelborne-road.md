@@ -1,5 +1,5 @@
 ---
 title: "Redner's"
-url: /reading/redners/
+url: /reading/redners-shelborne-road/
 shop: supermarket
 ---

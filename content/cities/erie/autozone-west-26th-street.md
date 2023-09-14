@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /erie/autozone/
+url: /erie/autozone-west-26th-street/
 shop: car parts
 ---

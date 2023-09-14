@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /pottstown/verizon/
+url: /pottstown/verizon-shoemaker-road/
 shop: mobile phone
 ---

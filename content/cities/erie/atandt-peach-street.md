@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /erie/atandt/
+url: /erie/atandt-peach-street/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /philadelphia/lowes/
+url: /philadelphia/lowes-roosevelt-boulevard/
 shop: doityourself
 ---

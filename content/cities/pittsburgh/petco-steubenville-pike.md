@@ -1,5 +1,5 @@
 ---
 title: "Petco"
-url: /pittsburgh/petco/
+url: /pittsburgh/petco-steubenville-pike/
 shop: pet
 ---

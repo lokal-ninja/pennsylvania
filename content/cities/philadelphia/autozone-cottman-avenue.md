@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /philadelphia/autozone/
+url: /philadelphia/autozone-cottman-avenue/
 shop: car parts
 ---

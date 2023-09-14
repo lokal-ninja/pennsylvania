@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /souderton/wawa/
+url: /souderton/wawa-north-main-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rutter's"
-url: /york/rutters/
+url: /york/rutters-haines-road/
 shop: convenience
 ---

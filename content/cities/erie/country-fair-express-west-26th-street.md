@@ -1,5 +1,5 @@
 ---
 title: "Country Fair Express"
-url: /erie/country-fair-express/
+url: /erie/country-fair-express-west-26th-street/
 shop: convenience
 ---

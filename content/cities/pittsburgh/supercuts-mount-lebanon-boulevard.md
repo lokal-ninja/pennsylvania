@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /pittsburgh/supercuts/
+url: /pittsburgh/supercuts-mount-lebanon-boulevard/
 shop: hairdresser
 ---

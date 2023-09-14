@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /philadelphia/staples/
+url: /philadelphia/staples-germantown-avenue/
 shop: office supplies
 ---

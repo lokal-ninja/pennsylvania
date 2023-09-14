@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /bethlehem/cvs-pharmacy/
+url: /bethlehem/cvs-pharmacy-catasauqua-road/
 shop: chemist
 ---

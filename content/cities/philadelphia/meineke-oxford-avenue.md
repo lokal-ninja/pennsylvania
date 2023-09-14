@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
-url: /philadelphia/meineke/
+url: /philadelphia/meineke-oxford-avenue/
 shop: car repair
 ---

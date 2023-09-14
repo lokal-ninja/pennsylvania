@@ -1,6 +1,6 @@
 ---
 title: Downingtown
 url: /downingtown/
-latitude: 40.019
-longitude: -75.665
+latitude: 40.017
+longitude: -75.678
 ---

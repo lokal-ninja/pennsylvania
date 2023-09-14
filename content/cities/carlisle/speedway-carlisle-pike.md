@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /carlisle/speedway/
+url: /carlisle/speedway-carlisle-pike/
 shop: convenience
 ---

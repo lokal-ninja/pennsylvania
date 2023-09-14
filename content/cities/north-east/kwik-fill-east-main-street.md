@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fill"
-url: /north-east/kwik-fill/
+url: /north-east/kwik-fill-east-main-street/
 shop: convenience
 ---

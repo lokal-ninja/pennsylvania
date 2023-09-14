@@ -1,5 +1,5 @@
 ---
 title: "Dottie's Donuts"
-url: /philadelphia/dotties-donuts/
+url: /philadelphia/dotties-donuts-south-6th-street/
 shop: pastry
 ---

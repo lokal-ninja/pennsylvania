@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /erie/walmart-supercenter/
+url: /erie/walmart-supercenter-downs-drive/
 shop: supermarket
 ---

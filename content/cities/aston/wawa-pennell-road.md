@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /aston/wawa/
+url: /aston/wawa-pennell-road/
 shop: convenience
 ---

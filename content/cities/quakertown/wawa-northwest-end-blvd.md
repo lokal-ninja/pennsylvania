@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /quakertown/wawa/
+url: /quakertown/wawa-northwest-end-blvd/
 shop: convenience
 ---

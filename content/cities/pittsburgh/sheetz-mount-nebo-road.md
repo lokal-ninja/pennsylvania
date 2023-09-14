@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /pittsburgh/sheetz/
+url: /pittsburgh/sheetz-mount-nebo-road/
 shop: convenience
 ---

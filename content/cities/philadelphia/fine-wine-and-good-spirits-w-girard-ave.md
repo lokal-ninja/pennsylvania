@@ -1,5 +1,5 @@
 ---
 title: "Fine Wine & Good Spirits"
-url: /philadelphia/fine-wine-and-good-spirits/
+url: /philadelphia/fine-wine-and-good-spirits-w-girard-ave/
 shop: alcohol
 ---

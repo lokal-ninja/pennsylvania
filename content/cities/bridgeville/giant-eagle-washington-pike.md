@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
-url: /bridgeville/giant-eagle/
+url: /bridgeville/giant-eagle-washington-pike/
 shop: supermarket
 ---

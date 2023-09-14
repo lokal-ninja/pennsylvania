@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /allentown/speedway/
+url: /allentown/speedway-hanover-avenue/
 shop: convenience
 ---

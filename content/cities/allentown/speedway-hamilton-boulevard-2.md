@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /allentown/speedway/
+url: /allentown/speedway-hamilton-boulevard-2/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
-url: /philadelphia/walmart/
+url: /philadelphia/walmart-roosevelt-boulevard/
 shop: department store
 ---

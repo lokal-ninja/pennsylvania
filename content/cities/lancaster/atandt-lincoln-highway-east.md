@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /lancaster/atandt/
+url: /lancaster/atandt-lincoln-highway-east/
 shop: mobile phone
 ---

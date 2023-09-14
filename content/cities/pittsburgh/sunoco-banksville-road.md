@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /pittsburgh/sunoco/
+url: /pittsburgh/sunoco-banksville-road/
 shop: fuel
 ---

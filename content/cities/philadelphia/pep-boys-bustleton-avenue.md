@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
-url: /philadelphia/pep-boys/
+url: /philadelphia/pep-boys-bustleton-avenue/
 shop: car repair
 ---

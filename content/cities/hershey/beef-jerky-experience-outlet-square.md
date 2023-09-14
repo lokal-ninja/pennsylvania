@@ -1,5 +1,5 @@
 ---
 title: "Beef Jerky Experience"
-url: /hershey/beef-jerky-experience/
+url: /hershey/beef-jerky-experience-outlet-square/
 shop: shop
 ---

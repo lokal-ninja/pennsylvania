@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
-url: /thorndale/toyota/
+url: /thorndale/toyota-east-lincoln-highway/
 shop: car repair
 ---

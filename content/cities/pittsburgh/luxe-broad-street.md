@@ -1,5 +1,5 @@
 ---
 title: "Luxe"
-url: /pittsburgh/luxe/
+url: /pittsburgh/luxe-broad-street/
 shop: trade
 ---

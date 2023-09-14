@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /bethlehem/wawa/
+url: /bethlehem/wawa-schoenersville-road/
 shop: convenience
 ---

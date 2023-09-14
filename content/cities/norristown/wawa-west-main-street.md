@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /norristown/wawa/
+url: /norristown/wawa-west-main-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /johnstown/autozone/
+url: /johnstown/autozone-scalp-avenue/
 shop: car parts
 ---

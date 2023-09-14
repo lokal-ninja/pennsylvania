@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /state-college/sheetz/
+url: /state-college/sheetz-benner-pike/
 shop: convenience
 ---

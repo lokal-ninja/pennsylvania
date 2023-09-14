@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /ambler/wawa/
+url: /ambler/wawa-north-bethlehem-pike/
 shop: convenience
 ---

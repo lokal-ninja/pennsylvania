@@ -1,5 +1,5 @@
 ---
 title: "CoGo's"
-url: /pittsburgh/cogos/
+url: /pittsburgh/cogos-potomac-avenue/
 shop: convenience
 ---

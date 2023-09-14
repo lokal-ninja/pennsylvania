@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /easton/mattress-firm/
+url: /easton/mattress-firm-william-penn-highway/
 shop: bed
 ---

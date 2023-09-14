@@ -1,5 +1,5 @@
 ---
 title: "Smoker Friendly"
-url: /erie/smoker-friendly/
+url: /erie/smoker-friendly-peach-street/
 shop: tobacco
 ---

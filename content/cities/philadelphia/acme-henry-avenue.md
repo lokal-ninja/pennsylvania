@@ -1,5 +1,5 @@
 ---
 title: "Acme"
-url: /philadelphia/acme/
+url: /philadelphia/acme-henry-avenue/
 shop: supermarket
 ---

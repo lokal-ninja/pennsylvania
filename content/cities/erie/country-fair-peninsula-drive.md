@@ -1,5 +1,5 @@
 ---
 title: "Country Fair"
-url: /erie/country-fair/
+url: /erie/country-fair-peninsula-drive/
 shop: convenience
 ---

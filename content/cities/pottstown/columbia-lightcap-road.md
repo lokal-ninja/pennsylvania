@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
-url: /pottstown/columbia/
+url: /pottstown/columbia-lightcap-road/
 shop: clothes
 ---

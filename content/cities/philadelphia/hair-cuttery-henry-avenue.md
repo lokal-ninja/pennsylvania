@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
-url: /philadelphia/hair-cuttery/
+url: /philadelphia/hair-cuttery-henry-avenue/
 shop: hairdresser
 ---

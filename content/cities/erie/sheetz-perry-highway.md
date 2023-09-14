@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /erie/sheetz/
+url: /erie/sheetz-perry-highway/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /bethlehem/giant/
+url: /bethlehem/giant-west-union-boulevard/
 shop: supermarket
 ---

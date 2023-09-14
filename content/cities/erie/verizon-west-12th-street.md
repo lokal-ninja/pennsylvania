@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /erie/verizon/
+url: /erie/verizon-west-12th-street/
 shop: mobile phone
 ---

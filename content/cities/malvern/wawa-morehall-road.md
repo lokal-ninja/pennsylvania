@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /malvern/wawa/
+url: /malvern/wawa-morehall-road/
 shop: convenience
 ---

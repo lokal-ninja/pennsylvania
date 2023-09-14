@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /johnstown/dollar-general/
+url: /johnstown/dollar-general-bridge-street/
 shop: variety store
 ---

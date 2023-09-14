@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /harrisburg/giant/
+url: /harrisburg/giant-linglestown-road/
 shop: supermarket
 ---

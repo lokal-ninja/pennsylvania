@@ -1,5 +1,5 @@
 ---
 title: "Ken's Tire"
-url: /pottsville/kens-tire/
+url: /pottsville/kens-tire-pottsville-street/
 shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /philadelphia/metro-by-t-mobile/
+url: /philadelphia/metro-by-t-mobile-bustleton-avenue/
 shop: mobile phone
 ---

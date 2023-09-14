@@ -1,5 +1,5 @@
 ---
 title: "Fine Wine & Good Spirits"
-url: /pittsburgh/fine-wine-and-good-spirits/
+url: /pittsburgh/fine-wine-and-good-spirits-brownsville-road/
 shop: alcohol
 ---

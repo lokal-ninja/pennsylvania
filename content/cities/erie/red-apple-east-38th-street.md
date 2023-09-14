@@ -1,5 +1,5 @@
 ---
 title: "Red Apple"
-url: /erie/red-apple/
+url: /erie/red-apple-east-38th-street/
 shop: convenience
 ---

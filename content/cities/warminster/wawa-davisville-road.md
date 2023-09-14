@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /warminster/wawa/
+url: /warminster/wawa-davisville-road/
 shop: convenience
 ---

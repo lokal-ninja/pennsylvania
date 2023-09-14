@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /bellefonte/sheetz/
+url: /bellefonte/sheetz-benner-pike/
 shop: convenience
 ---

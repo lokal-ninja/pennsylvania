@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /west-chester/wawa/
+url: /west-chester/wawa-boot-road/
 shop: convenience
 ---

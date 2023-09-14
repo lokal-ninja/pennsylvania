@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /philadelphia/burlington/
+url: /philadelphia/burlington-castor-avenue/
 shop: department store
 ---

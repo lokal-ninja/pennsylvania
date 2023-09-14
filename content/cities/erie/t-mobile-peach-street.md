@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /erie/t-mobile/
+url: /erie/t-mobile-peach-street/
 shop: mobile phone
 ---

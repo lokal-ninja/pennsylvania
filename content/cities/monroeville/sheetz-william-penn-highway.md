@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /monroeville/sheetz/
+url: /monroeville/sheetz-william-penn-highway/
 shop: convenience
 ---

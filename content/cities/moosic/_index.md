@@ -1,6 +1,6 @@
 ---
 title: Moosic
 url: /moosic/
-latitude: 41.362
-longitude: -75.675
+latitude: 41.375
+longitude: -75.703
 ---

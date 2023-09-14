@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
-url: /erie/hallmark/
+url: /erie/hallmark-peach-street/
 shop: gift
 ---
