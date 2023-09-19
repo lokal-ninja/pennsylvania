@@ -1,6 +1,6 @@
 ---
 title: Merion Station
 url: /merion-station/
-latitude: 40.005
+latitude: 40.006
 longitude: -75.244
 ---
