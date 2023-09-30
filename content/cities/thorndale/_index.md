@@ -1,6 +1,6 @@
 ---
 title: Thorndale
 url: /thorndale/
-latitude: 39.993
-longitude: -75.766
+latitude: 39.995
+longitude: -75.76
 ---

@@ -1,6 +1,6 @@
 ---
 title: Media
 url: /media/
-latitude: 39.927
-longitude: -75.386
+latitude: 39.879
+longitude: -75.553
 ---

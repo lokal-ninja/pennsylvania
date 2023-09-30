@@ -1,6 +1,6 @@
 ---
 title: Gilbertsville
 url: /gilbertsville/
-latitude: 40.292
-longitude: -75.585
+latitude: 40.285
+longitude: -75.573
 ---
