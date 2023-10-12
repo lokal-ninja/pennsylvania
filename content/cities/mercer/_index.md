@@ -1,6 +1,6 @@
 ---
 title: Mercer
 url: /mercer/
-latitude: 41.216
-longitude: -80.239
+latitude: 41.199
+longitude: -80.353
 ---

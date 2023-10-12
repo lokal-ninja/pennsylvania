@@ -1,6 +1,6 @@
 ---
 title: Carnegie
 url: /carnegie/
-latitude: 40.407
-longitude: -80.087
+latitude: 40.397
+longitude: -80.085
 ---

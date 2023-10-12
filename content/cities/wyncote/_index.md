@@ -1,6 +1,6 @@
 ---
 title: Wyncote
 url: /wyncote/
-latitude: 40.077
+latitude: 40.076
 longitude: -75.16
 ---

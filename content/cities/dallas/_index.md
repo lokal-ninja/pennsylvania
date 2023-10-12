@@ -1,6 +1,6 @@
 ---
 title: Dallas
 url: /dallas/
-latitude: 41.341
-longitude: -75.971
+latitude: 41.328
+longitude: -75.946
 ---
