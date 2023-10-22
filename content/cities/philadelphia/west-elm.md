@@ -1,5 +1,5 @@
 ---
-title: "west elm"
+title: "West Elm"
 url: /philadelphia/west-elm/
 shop: furniture
 ---

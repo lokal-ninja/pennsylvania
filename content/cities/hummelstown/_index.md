@@ -1,6 +1,6 @@
 ---
 title: Hummelstown
 url: /hummelstown/
-latitude: 40.266
-longitude: -76.697
+latitude: 40.27
+longitude: -76.686
 ---

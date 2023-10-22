@@ -1,6 +1,6 @@
 ---
 title: Reading
 url: /reading/
-latitude: 40.346
-longitude: -75.971
+latitude: 40.373
+longitude: -75.929
 ---

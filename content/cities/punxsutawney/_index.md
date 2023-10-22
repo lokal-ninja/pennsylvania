@@ -1,6 +1,6 @@
 ---
 title: Punxsutawney
 url: /punxsutawney/
-latitude: 40.927
-longitude: -78.981
+latitude: 40.941
+longitude: -78.983
 ---

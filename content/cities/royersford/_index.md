@@ -1,6 +1,6 @@
 ---
 title: Royersford
 url: /royersford/
-latitude: 40.212
-longitude: -75.501
+latitude: 40.193
+longitude: -75.534
 ---
