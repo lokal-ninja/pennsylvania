@@ -1,6 +1,6 @@
 ---
 title: Monongahela
 url: /monongahela/
-latitude: 40.226
-longitude: -79.946
+latitude: 40.202
+longitude: -79.925
 ---

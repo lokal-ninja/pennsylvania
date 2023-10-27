@@ -1,6 +1,6 @@
 ---
 title: Aliquippa
 url: /aliquippa/
-latitude: 40.616
-longitude: -80.4
+latitude: 40.609
+longitude: -80.284
 ---
