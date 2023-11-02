@@ -1,6 +1,6 @@
 ---
 title: Shohola
 url: /shohola/
-latitude: 41.378
-longitude: -74.945
+latitude: 41.37
+longitude: -74.926
 ---
