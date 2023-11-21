@@ -1,6 +1,6 @@
 ---
 title: Broomall
 url: /broomall/
-latitude: 39.962
-longitude: -75.354
+latitude: 39.982
+longitude: -75.357
 ---
