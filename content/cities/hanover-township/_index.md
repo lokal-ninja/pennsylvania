@@ -1,6 +1,6 @@
 ---
 title: Hanover Township
 url: /hanover-township/
-latitude: 41.236
-longitude: -75.928
+latitude: 41.217
+longitude: -75.951
 ---

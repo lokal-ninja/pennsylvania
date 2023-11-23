@@ -1,6 +1,6 @@
 ---
 title: Bala Cynwyd
 url: /bala-cynwyd/
-latitude: 40.005
-longitude: -75.24
+latitude: 40.006
+longitude: -75.233
 ---
