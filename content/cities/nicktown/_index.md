@@ -1,6 +1,6 @@
 ---
 title: Nicktown
 url: /nicktown/
-latitude: 40.613
-longitude: -78.8
+latitude: 40.615
+longitude: -78.808
 ---

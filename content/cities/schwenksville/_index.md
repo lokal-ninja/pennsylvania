@@ -1,6 +1,6 @@
 ---
 title: Schwenksville
 url: /schwenksville/
-latitude: 40.242
-longitude: -75.491
+latitude: 40.253
+longitude: -75.463
 ---
