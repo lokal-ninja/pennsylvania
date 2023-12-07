@@ -1,6 +1,6 @@
 ---
 title: Jim Thorpe
 url: /jim-thorpe/
-latitude: 40.871
-longitude: -75.735
+latitude: 40.97
+longitude: -75.644
 ---

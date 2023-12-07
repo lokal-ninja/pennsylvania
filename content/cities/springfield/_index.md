@@ -1,6 +1,6 @@
 ---
 title: Springfield
 url: /springfield/
-latitude: 39.939
-longitude: -75.356
+latitude: 39.938
+longitude: -75.353
 ---
