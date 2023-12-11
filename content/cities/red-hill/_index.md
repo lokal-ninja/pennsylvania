@@ -1,6 +1,6 @@
 ---
 title: Red Hill
 url: /red-hill/
-latitude: 40.37
+latitude: 40.361
 longitude: -75.483
 ---

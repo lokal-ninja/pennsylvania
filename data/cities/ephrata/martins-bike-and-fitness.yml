@@ -7,5 +7,5 @@ city: Ephrata
 street: "Division Highway"
 housenumber: 1891
 phone: "+1 717-354-9127"
-opening_hours: "Mo 09:00-21:00; Tu 09:00-17:00; Wed: Closed; Th-Fr 09:00-21:00; Sa 09:00-16:00; Su Closed"
+opening_hours: "Mo,Th-Fr 09:00-21:00; Tu 09:00-17:00; We,Su off; Sa 09:00-16:00"
 website: "https://www.martinsbike.com/"

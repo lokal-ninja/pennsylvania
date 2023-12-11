@@ -1,6 +1,6 @@
 ---
 title: Ephrata
 url: /ephrata/
-latitude: 40.202
-longitude: -76.208
+latitude: 40.154
+longitude: -76.128
 ---
