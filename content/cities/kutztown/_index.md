@@ -1,6 +1,6 @@
 ---
 title: Kutztown
 url: /kutztown/
-latitude: 40.541
-longitude: -75.738
+latitude: 40.528
+longitude: -75.764
 ---
