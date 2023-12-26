@@ -1,6 +1,6 @@
 ---
 title: Phoenixville
 url: /phoenixville/
-latitude: 40.134
-longitude: -75.533
+latitude: 40.131
+longitude: -75.546
 ---
