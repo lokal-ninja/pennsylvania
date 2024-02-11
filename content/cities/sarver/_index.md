@@ -1,6 +1,6 @@
 ---
 title: Sarver
 url: /sarver/
-latitude: 40.711
-longitude: -79.779
+latitude: 40.707
+longitude: -79.726
 ---

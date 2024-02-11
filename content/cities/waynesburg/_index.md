@@ -1,6 +1,6 @@
 ---
 title: Waynesburg
 url: /waynesburg/
-latitude: 39.893
-longitude: -80.126
+latitude: 39.895
+longitude: -80.168
 ---

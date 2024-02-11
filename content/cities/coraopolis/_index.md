@@ -1,6 +1,6 @@
 ---
 title: Coraopolis
 url: /coraopolis/
-latitude: 40.52
-longitude: -80.219
+latitude: 40.522
+longitude: -80.221
 ---
