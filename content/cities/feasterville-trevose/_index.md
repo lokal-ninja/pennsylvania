@@ -1,6 +1,6 @@
 ---
-title: Feasterville-Trevose
+title: Feasterville Trevose
 url: /feasterville-trevose/
-latitude: 40.157
-longitude: -75.014
+latitude: 40.147
+longitude: -75
 ---

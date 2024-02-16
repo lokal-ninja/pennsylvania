@@ -7,5 +7,5 @@ city: Pittsburgh
 street: "Fifth Avenue"
 housenumber: 249
 phone: "(412) 471-5727"
-opening_hours: "Tuesday,Wednesday,Friday,Saturday 10 AM–5 PM, Thursday - 10 AM–7 PM"
+opening_hours: "Tu,We,Fr,Sa 10:00-17:00, Th 10:00-19:00"
 website: "https://larrimors.com/"
