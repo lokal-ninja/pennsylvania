@@ -1,6 +1,6 @@
 ---
 title: Cochranville
 url: /cochranville/
-latitude: 39.893
-longitude: -75.921
+latitude: 39.897
+longitude: -75.925
 ---

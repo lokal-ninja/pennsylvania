@@ -1,6 +1,6 @@
 ---
 title: Folcroft
 url: /folcroft/
-latitude: 39.89
-longitude: -75.286
+latitude: 39.893
+longitude: -75.284
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mertztown
 url: /mertztown/
-latitude: 40.506
-longitude: -75.668
+latitude: 40.505
+longitude: -75.672
 ---
