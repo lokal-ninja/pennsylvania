@@ -1,6 +1,6 @@
 ---
 title: Ligonier
 url: /ligonier/
-latitude: 40.247
-longitude: -79.245
+latitude: 40.243
+longitude: -79.237
 ---
