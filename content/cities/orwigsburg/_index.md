@@ -1,6 +1,6 @@
 ---
 title: Orwigsburg
 url: /orwigsburg/
-latitude: 40.636
-longitude: -76.07
+latitude: 40.655
+longitude: -76.111
 ---
