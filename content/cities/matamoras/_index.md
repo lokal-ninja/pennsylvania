@@ -1,6 +1,6 @@
 ---
 title: Matamoras
 url: /matamoras/
-latitude: 41.366
-longitude: -74.711
+latitude: 41.353
+longitude: -74.728
 ---
