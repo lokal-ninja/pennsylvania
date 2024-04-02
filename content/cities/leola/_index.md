@@ -1,6 +1,6 @@
 ---
 title: Leola
 url: /leola/
-latitude: 40.088
-longitude: -76.188
+latitude: 40.12
+longitude: -76.156
 ---

@@ -1,6 +1,6 @@
 ---
 title: Indiana
 url: /indiana/
-latitude: 40.613
-longitude: -79.188
+latitude: 40.616
+longitude: -79.162
 ---
