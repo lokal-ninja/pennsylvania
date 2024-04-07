@@ -1,6 +1,6 @@
 ---
 title: Trappe
 url: /trappe/
-latitude: 40.194
-longitude: -75.467
+latitude: 40.198
+longitude: -75.476
 ---

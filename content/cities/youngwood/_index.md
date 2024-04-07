@@ -1,6 +1,6 @@
 ---
 title: Youngwood
 url: /youngwood/
-latitude: 40.234
-longitude: -79.581
+latitude: 40.231
+longitude: -79.574
 ---
