@@ -1,6 +1,6 @@
 ---
 title: New Kensington
 url: /new-kensington/
-latitude: 40.586
-longitude: -79.757
+latitude: 40.593
+longitude: -79.75
 ---

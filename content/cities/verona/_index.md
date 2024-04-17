@@ -1,6 +1,6 @@
 ---
 title: Verona
 url: /verona/
-latitude: 40.485
-longitude: -79.82
+latitude: 40.499
+longitude: -79.844
 ---
