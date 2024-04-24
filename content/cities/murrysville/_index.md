@@ -1,6 +1,6 @@
 ---
 title: Murrysville
 url: /murrysville/
-latitude: 40.41
-longitude: -79.617
+latitude: 40.428
+longitude: -79.699
 ---

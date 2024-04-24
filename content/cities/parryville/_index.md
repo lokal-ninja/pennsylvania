@@ -1,6 +1,6 @@
 ---
 title: Parryville
 url: /parryville/
-latitude: 40.821
-longitude: -75.685
+latitude: 40.819
+longitude: -75.68
 ---
