@@ -1,6 +1,6 @@
 ---
 title: Wind Gap
 url: /wind-gap/
-latitude: 40.832
-longitude: -75.306
+latitude: 40.839
+longitude: -75.3
 ---

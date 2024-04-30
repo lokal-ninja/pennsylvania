@@ -1,6 +1,6 @@
 ---
 title: Emmaus
 url: /emmaus/
-latitude: 40.552
-longitude: -75.49
+latitude: 40.528
+longitude: -75.51
 ---

@@ -1,6 +1,6 @@
 ---
 title: Clearfield
 url: /clearfield/
-latitude: 41.023
-longitude: -78.414
+latitude: 41.033
+longitude: -78.397
 ---
