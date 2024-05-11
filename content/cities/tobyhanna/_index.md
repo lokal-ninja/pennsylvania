@@ -1,6 +1,6 @@
 ---
 title: Tobyhanna
 url: /tobyhanna/
-latitude: 41.171
-longitude: -75.358
+latitude: 41.152
+longitude: -75.357
 ---

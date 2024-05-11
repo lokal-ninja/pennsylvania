@@ -1,6 +1,6 @@
 ---
 title: Alburtis
 url: /alburtis/
-latitude: 40.513
+latitude: 40.514
 longitude: -75.601
 ---
