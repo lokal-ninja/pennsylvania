@@ -1,6 +1,6 @@
 ---
 title: Finleyville
 url: /finleyville/
-latitude: 40.253
-longitude: -80.002
+latitude: 40.276
+longitude: -80.031
 ---

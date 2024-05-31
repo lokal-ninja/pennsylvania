@@ -1,6 +1,6 @@
 ---
 title: Millheim
 url: /millheim/
-latitude: 40.889
-longitude: -77.481
+latitude: 40.891
+longitude: -77.476
 ---

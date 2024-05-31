@@ -7,5 +7,5 @@ city: Forest Hills
 street: "Greensburg Pike"
 housenumber: 4400
 phone: ""
-opening_hours: "May 19-Oct 31 Fr 16:00-19:00"
+opening_hours: "May Fr[3]-Oct Fr[-1] + 1 day Fr 16:00-19:00"
 website: "https://foresthillsfarmersmarket.com/"
