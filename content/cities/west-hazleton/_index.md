@@ -1,6 +1,6 @@
 ---
 title: West Hazleton
 url: /west-hazleton/
-latitude: 40.966
-longitude: -76.008
+latitude: 40.97
+longitude: -76.01
 ---
