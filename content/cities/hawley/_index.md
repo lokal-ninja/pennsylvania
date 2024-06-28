@@ -1,6 +1,6 @@
 ---
 title: Hawley
 url: /hawley/
-latitude: 41.441
-longitude: -75.156
+latitude: 41.346
+longitude: -75.044
 ---

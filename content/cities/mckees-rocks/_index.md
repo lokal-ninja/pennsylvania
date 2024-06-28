@@ -1,6 +1,6 @@
 ---
-title: Mckees Rocks
+title: McKees Rocks
 url: /mckees-rocks/
-latitude: 40.473
-longitude: -80.097
+latitude: 40.465
+longitude: -80.056
 ---

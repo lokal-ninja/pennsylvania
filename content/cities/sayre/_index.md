@@ -1,6 +1,6 @@
 ---
 title: Sayre
 url: /sayre/
-latitude: 41.977
-longitude: -76.544
+latitude: 41.974
+longitude: -76.54
 ---

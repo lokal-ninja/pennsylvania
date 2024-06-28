@@ -1,6 +1,6 @@
 ---
 title: Centre Hall
 url: /centre-hall/
-latitude: 40.838
-longitude: -77.678
+latitude: 40.849
+longitude: -77.687
 ---

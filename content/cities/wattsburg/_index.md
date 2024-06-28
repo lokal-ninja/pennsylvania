@@ -1,6 +1,6 @@
 ---
 title: Wattsburg
 url: /wattsburg/
-latitude: 42.023
-longitude: -79.818
+latitude: 42.041
+longitude: -79.889
 ---

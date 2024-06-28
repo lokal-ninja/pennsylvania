@@ -1,6 +1,6 @@
 ---
 title: Edinboro
 url: /edinboro/
-latitude: 41.892
-longitude: -80.127
+latitude: 41.878
+longitude: -80.134
 ---
