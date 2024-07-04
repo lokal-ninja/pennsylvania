@@ -1,6 +1,6 @@
 ---
 title: Duncansville
 url: /duncansville/
-latitude: 40.37
-longitude: -78.433
+latitude: 40.447
+longitude: -78.409
 ---
