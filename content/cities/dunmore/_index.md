@@ -1,6 +1,6 @@
 ---
 title: Dunmore
 url: /dunmore/
-latitude: 41.421
-longitude: -75.63
+latitude: 41.433
+longitude: -75.619
 ---

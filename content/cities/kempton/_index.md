@@ -1,6 +1,6 @@
 ---
 title: Kempton
 url: /kempton/
-latitude: 40.649
-longitude: -75.849
+latitude: 40.637
+longitude: -75.893
 ---
