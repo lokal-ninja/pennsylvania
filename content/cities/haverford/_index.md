@@ -1,6 +1,6 @@
 ---
 title: Haverford
 url: /haverford/
-latitude: 40.017
-longitude: -75.31
+latitude: 40.016
+longitude: -75.308
 ---

@@ -1,6 +1,6 @@
 ---
 title: Avis
 url: /avis/
-latitude: 41.184
-longitude: -77.322
+latitude: 41.183
+longitude: -77.323
 ---

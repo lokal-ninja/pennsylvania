@@ -1,6 +1,6 @@
 ---
 title: Bensalem Township
 url: /bensalem-township/
-latitude: 40.074
-longitude: -74.96
+latitude: 40.145
+longitude: -74.934
 ---

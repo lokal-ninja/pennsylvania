@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /wyomissing/walmart/
-shop: department store
+shop: supermarket
 ---

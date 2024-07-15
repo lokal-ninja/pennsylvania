@@ -1,6 +1,6 @@
 ---
 title: Dover
 url: /dover/
-latitude: 39.96
-longitude: -76.883
+latitude: 39.995
+longitude: -76.845
 ---

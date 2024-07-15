@@ -1,6 +1,6 @@
 ---
 title: Tyrone
 url: /tyrone/
-latitude: 40.671
-longitude: -78.24
+latitude: 40.673
+longitude: -78.239
 ---
