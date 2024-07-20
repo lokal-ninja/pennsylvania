@@ -1,6 +1,6 @@
 ---
 title: Gibsonia
 url: /gibsonia/
-latitude: 40.636
-longitude: -79.942
+latitude: 40.621
+longitude: -79.947
 ---

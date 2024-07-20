@@ -1,6 +1,6 @@
 ---
 title: Lyndora
 url: /lyndora/
-latitude: 40.86
-longitude: -79.911
+latitude: 40.851
+longitude: -79.914
 ---
