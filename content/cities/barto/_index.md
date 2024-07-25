@@ -1,6 +1,6 @@
 ---
 title: Barto
 url: /barto/
-latitude: 40.383
-longitude: -75.604
+latitude: 40.385
+longitude: -75.602
 ---
