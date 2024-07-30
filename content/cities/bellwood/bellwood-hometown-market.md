@@ -1,5 +1,5 @@
 ---
-title: "Bellwood Hometown Market "
+title: "Bellwood Hometown Market"
 url: /bellwood/bellwood-hometown-market/
 shop: supermarket
 ---

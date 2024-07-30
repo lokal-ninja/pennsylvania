@@ -1,6 +1,6 @@
 ---
 title: Feasterville
 url: /feasterville/
-latitude: 40.146
-longitude: -74.994
+latitude: 40.148
+longitude: -75.002
 ---
