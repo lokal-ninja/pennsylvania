@@ -1,6 +1,6 @@
 ---
 title: Catasauqua
 url: /catasauqua/
-latitude: 40.652
-longitude: -75.461
+latitude: 40.665
+longitude: -75.481
 ---

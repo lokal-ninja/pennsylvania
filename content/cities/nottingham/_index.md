@@ -1,6 +1,6 @@
 ---
 title: Nottingham
 url: /nottingham/
-latitude: 39.754
-longitude: -76.014
+latitude: 39.725
+longitude: -76.028
 ---
