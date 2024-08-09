@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /whitehall/ntb/
-shop: tyres
+shop: car repair
 ---

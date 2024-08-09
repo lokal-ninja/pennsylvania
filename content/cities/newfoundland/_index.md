@@ -1,6 +1,6 @@
 ---
 title: Newfoundland
 url: /newfoundland/
-latitude: 41.282
-longitude: -75.292
+latitude: 41.297
+longitude: -75.311
 ---
