@@ -1,6 +1,6 @@
 ---
 title: Spruce Creek
 url: /spruce-creek/
-latitude: 40.61
-longitude: -78.134
+latitude: 40.609
+longitude: -78.136
 ---
