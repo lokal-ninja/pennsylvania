@@ -1,6 +1,6 @@
 ---
 title: Denver
 url: /denver/
-latitude: 40.227
-longitude: -76.131
+latitude: 40.18
+longitude: -76.052
 ---

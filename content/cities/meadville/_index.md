@@ -1,6 +1,6 @@
 ---
 title: Meadville
 url: /meadville/
-latitude: 41.622
-longitude: -80.208
+latitude: 41.64
+longitude: -80.155
 ---
