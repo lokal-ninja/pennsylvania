@@ -1,6 +1,6 @@
 ---
 title: Frackville
 url: /frackville/
-latitude: 40.776
-longitude: -76.225
+latitude: 40.784
+longitude: -76.231
 ---
