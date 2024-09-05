@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /milford/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

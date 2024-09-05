@@ -1,5 +1,5 @@
 ---
 title: "Bellefonte Brick Studio"
 url: /bellefonte/bellefonte-brick-studio/
-shop: shop
+shop: Allgemein
 ---

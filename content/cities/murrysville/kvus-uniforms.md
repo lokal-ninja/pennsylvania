@@ -1,5 +1,5 @@
 ---
 title: "KVUS Uniforms"
 url: /murrysville/kvus-uniforms/
-shop: clothes
+shop: Kleidung
 ---

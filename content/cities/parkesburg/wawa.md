@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /parkesburg/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

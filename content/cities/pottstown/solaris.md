@@ -1,5 +1,5 @@
 ---
 title: "Solaris"
 url: /pottstown/solaris/
-shop: optician
+shop: Optiker
 ---

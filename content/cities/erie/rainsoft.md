@@ -1,5 +1,5 @@
 ---
 title: "RainSoft"
 url: /erie/rainsoft/
-shop: beauty
+shop: Kosmetik
 ---

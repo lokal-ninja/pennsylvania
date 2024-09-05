@@ -1,5 +1,5 @@
 ---
 title: "Gifford's Tree Farm"
 url: /wattsburg/giffords-tree-farm/
-shop: garden centre
+shop: Garten-Center
 ---

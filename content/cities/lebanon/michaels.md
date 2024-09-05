@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /lebanon/michaels/
-shop: craft
+shop: Basteln
 ---

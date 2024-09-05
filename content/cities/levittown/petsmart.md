@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /levittown/petsmart/
-shop: pet
+shop: Tiere
 ---

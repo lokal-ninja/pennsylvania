@@ -1,6 +1,6 @@
 ---
 title: North Wales
 url: /north-wales/
-latitude: 40.234
-longitude: -75.244
+latitude: 40.228
+longitude: -75.257
 ---

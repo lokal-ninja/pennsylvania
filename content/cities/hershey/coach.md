@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /hershey/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

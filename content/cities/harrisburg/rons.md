@@ -1,5 +1,5 @@
 ---
 title: "Ron's"
 url: /harrisburg/rons/
-shop: hairdresser
+shop: Friseur
 ---

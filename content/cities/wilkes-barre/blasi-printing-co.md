@@ -1,5 +1,5 @@
 ---
 title: "Blasi Printing Co."
 url: /wilkes-barre/blasi-printing-co/
-shop: copyshop
+shop: Kopieren
 ---

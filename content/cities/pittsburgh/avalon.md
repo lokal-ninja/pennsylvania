@@ -1,5 +1,5 @@
 ---
 title: "Avalon"
 url: /pittsburgh/avalon/
-shop: clothes
+shop: Kleidung
 ---

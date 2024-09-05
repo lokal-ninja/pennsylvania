@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /everett/weis/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turkey Hill"
 url: /downingtown/turkey-hill/
-shop: convenience
+shop: Lebensmittel
 ---

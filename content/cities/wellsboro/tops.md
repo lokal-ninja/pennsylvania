@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /wellsboro/tops/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /west-mifflin/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

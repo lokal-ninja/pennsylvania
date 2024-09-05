@@ -1,5 +1,5 @@
 ---
 title: "maman"
 url: /ardmore/maman/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Main Line Nails"
 url: /paoli/main-line-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clubhouse Cards"
 url: /pittsburgh/clubhouse-cards/
-shop: collector
+shop: Sammler
 ---

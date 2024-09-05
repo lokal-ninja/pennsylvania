@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /malvern/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

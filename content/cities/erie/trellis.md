@@ -1,5 +1,5 @@
 ---
 title: "Trellis"
 url: /erie/trellis/
-shop: houseware
+shop: Haushaltsartikel
 ---

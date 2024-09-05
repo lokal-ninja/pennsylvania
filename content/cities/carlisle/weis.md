@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /carlisle/weis/
-shop: supermarket
+shop: Supermarkt
 ---

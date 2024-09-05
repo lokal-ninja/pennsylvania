@@ -1,5 +1,5 @@
 ---
 title: "Golden Unicorn Comics"
 url: /mcadoo/golden-unicorn-comics/
-shop: books
+shop: Bücher
 ---

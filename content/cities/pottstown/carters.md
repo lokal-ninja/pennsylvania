@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /pottstown/carters/
-shop: clothes
+shop: Kleidung
 ---

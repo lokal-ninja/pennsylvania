@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /linden/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /warrington/aplus/
-shop: convenience
+shop: Lebensmittel
 ---

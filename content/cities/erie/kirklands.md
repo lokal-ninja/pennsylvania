@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /erie/kirklands/
-shop: interior decoration
+shop: Raumausstattung
 ---

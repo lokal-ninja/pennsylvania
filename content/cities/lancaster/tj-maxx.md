@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /lancaster/tj-maxx/
-shop: department store
+shop: Warenhaus
 ---

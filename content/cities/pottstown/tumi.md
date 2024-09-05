@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /pottstown/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

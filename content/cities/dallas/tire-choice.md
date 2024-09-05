@@ -1,5 +1,5 @@
 ---
 title: "Tire Choice"
 url: /dallas/tire-choice/
-shop: tyres
+shop: Reifen
 ---

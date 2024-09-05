@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /montgomery/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

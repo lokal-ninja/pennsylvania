@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /duquesne/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

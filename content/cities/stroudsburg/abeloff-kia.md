@@ -1,5 +1,5 @@
 ---
 title: "Abeloff Kia"
 url: /stroudsburg/abeloff-kia/
-shop: car
+shop: Autohaus
 ---

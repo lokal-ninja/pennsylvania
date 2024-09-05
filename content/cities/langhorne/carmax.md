@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /langhorne/carmax/
-shop: car
+shop: Autohaus
 ---

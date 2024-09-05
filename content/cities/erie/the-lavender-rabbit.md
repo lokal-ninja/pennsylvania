@@ -1,5 +1,5 @@
 ---
 title: "The Lavender Rabbit"
 url: /erie/the-lavender-rabbit/
-shop: gift
+shop: Andenken
 ---

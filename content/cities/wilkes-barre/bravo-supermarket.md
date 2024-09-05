@@ -1,5 +1,5 @@
 ---
 title: "Bravo Supermarket"
 url: /wilkes-barre/bravo-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

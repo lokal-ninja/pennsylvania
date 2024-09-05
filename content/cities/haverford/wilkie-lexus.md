@@ -1,5 +1,5 @@
 ---
 title: "Wilkie Lexus"
 url: /haverford/wilkie-lexus/
-shop: car
+shop: Autohaus
 ---

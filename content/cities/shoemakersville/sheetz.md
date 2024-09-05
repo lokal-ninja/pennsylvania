@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /shoemakersville/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

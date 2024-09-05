@@ -1,5 +1,5 @@
 ---
 title: "Audi Washington"
 url: /washington/audi-washington/
-shop: car
+shop: Autohaus
 ---

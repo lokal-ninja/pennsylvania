@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /bellefonte/weis/
-shop: supermarket
+shop: Supermarkt
 ---

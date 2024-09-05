@@ -1,5 +1,5 @@
 ---
 title: "Freedom Thrift Apparel"
 url: /new-holland/freedom-thrift-apparel/
-shop: charity
+shop: Gebrauchtwaren
 ---

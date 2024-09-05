@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /shamokin/weis/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /harrisburg/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

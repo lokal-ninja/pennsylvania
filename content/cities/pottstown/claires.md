@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /pottstown/claires/
-shop: boutique
+shop: Modehaus
 ---

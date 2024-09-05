@@ -1,5 +1,5 @@
 ---
 title: "V Nails"
 url: /erie/v-nails/
-shop: beauty
+shop: Kosmetik
 ---

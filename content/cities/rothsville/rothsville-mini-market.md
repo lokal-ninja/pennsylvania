@@ -1,5 +1,5 @@
 ---
 title: "Rothsville Mini market"
 url: /rothsville/rothsville-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

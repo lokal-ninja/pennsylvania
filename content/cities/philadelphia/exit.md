@@ -1,5 +1,5 @@
 ---
 title: "Exit"
 url: /philadelphia/exit/
-shop: sports
+shop: Sport
 ---

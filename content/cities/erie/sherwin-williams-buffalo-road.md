@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /erie/sherwin-williams-buffalo-road/
-shop: paint
+shop: Farben
 ---

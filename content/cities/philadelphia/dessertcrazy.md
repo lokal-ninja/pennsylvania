@@ -1,5 +1,5 @@
 ---
 title: "Dessertcrazy"
 url: /philadelphia/dessertcrazy/
-shop: bakery
+shop: Bäckerei
 ---

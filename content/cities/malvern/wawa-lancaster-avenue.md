@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /malvern/wawa-lancaster-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

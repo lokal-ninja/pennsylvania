@@ -1,5 +1,5 @@
 ---
 title: "Ramey"
 url: /ramey/ramey/
-shop: car repair
+shop: Autowerkstatt
 ---

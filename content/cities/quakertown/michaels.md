@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /quakertown/michaels/
-shop: craft
+shop: Basteln
 ---

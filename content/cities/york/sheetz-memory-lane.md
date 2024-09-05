@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /york/sheetz-memory-lane/
-shop: convenience
+shop: Lebensmittel
 ---

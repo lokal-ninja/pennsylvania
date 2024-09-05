@@ -1,5 +1,5 @@
 ---
 title: "Perfuroma"
 url: /pottstown/perfuroma/
-shop: perfumery
+shop: Parfümerie
 ---

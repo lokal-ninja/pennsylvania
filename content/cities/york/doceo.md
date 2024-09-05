@@ -1,5 +1,5 @@
 ---
 title: "Doceo"
 url: /york/doceo/
-shop: office supplies
+shop: Schreibwaren
 ---

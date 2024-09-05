@@ -1,5 +1,5 @@
 ---
 title: "North Penn VW"
 url: /colmar/north-penn-vw/
-shop: car
+shop: Autohaus
 ---

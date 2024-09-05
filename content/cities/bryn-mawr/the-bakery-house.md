@@ -1,5 +1,5 @@
 ---
 title: "The Bakery House"
 url: /bryn-mawr/the-bakery-house/
-shop: bakery
+shop: Bäckerei
 ---

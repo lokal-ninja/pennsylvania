@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /lansdale/weis/
-shop: supermarket
+shop: Supermarkt
 ---

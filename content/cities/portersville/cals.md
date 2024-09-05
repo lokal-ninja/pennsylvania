@@ -1,5 +1,5 @@
 ---
 title: "Cals"
 url: /portersville/cals/
-shop: convenience
+shop: Lebensmittel
 ---

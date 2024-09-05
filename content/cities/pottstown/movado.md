@@ -1,5 +1,5 @@
 ---
 title: "Movado"
 url: /pottstown/movado/
-shop: watches
+shop: Uhren
 ---

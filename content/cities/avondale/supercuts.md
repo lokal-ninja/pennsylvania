@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /avondale/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

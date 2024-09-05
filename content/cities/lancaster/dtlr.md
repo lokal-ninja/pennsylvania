@@ -1,5 +1,5 @@
 ---
 title: "DTLR"
 url: /lancaster/dtlr/
-shop: clothes
+shop: Kleidung
 ---

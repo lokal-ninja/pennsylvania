@@ -1,5 +1,5 @@
 ---
 title: "Optimum"
 url: /matamoras/optimum/
-shop: computer
+shop: Computer
 ---

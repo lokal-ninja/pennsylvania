@@ -1,5 +1,5 @@
 ---
 title: "Martin's Appliance"
 url: /exeter-township/martins-appliance/
-shop: electronics
+shop: Elektronik
 ---

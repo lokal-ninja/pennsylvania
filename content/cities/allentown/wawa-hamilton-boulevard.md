@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /allentown/wawa-hamilton-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /boothwyn/acme/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /columbia/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

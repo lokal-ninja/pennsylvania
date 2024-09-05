@@ -1,5 +1,5 @@
 ---
 title: "W. Tad Bowers Funeral Home"
 url: /north-east/w-tad-bowers-funeral-home/
-shop: funeral directors
+shop: Bestattungen
 ---

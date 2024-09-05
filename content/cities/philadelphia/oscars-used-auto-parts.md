@@ -1,5 +1,5 @@
 ---
 title: "Oscar's Used Auto Parts"
 url: /philadelphia/oscars-used-auto-parts/
-shop: car parts
+shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buchanan Auto Park"
 url: /waynesboro/buchanan-auto-park/
-shop: car
+shop: Autohaus
 ---

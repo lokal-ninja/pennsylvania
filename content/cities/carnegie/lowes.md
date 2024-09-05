@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /carnegie/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

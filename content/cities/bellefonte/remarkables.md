@@ -1,5 +1,5 @@
 ---
 title: "reMarkables"
 url: /bellefonte/remarkables/
-shop: shop
+shop: Allgemein
 ---

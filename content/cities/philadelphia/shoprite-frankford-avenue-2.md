@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /philadelphia/shoprite-frankford-avenue-2/
-shop: supermarket
+shop: Supermarkt
 ---

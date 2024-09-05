@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /lancaster/dsw/
-shop: shoes
+shop: Schuhe
 ---

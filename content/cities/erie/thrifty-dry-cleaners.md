@@ -1,5 +1,5 @@
 ---
 title: "Thrifty Dry Cleaners"
 url: /erie/thrifty-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

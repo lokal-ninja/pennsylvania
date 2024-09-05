@@ -1,5 +1,5 @@
 ---
 title: "Kline Family Ink"
 url: /emmaus/kline-family-ink/
-shop: tattoo
+shop: Tattoo
 ---

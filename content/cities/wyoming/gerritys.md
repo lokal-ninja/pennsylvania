@@ -1,5 +1,5 @@
 ---
 title: "Gerrity's"
 url: /wyoming/gerritys/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frey's Greenhouse"
 url: /lebanon/freys-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /homestead/dsw/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Confluence Cyclery"
 url: /confluence/confluence-cyclery/
-shop: bicycle
+shop: Fahrrad
 ---

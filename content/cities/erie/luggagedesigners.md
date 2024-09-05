@@ -1,5 +1,5 @@
 ---
 title: "Luggagedesigners"
 url: /erie/luggagedesigners/
-shop: bag
+shop: Taschen & Koffer
 ---

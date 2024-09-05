@@ -1,5 +1,5 @@
 ---
 title: "Big Puff's"
 url: /warren/big-puffs/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

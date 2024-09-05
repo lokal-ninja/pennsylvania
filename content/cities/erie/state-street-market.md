@@ -1,5 +1,5 @@
 ---
 title: "State Street Market"
 url: /erie/state-street-market/
-shop: supermarket
+shop: Supermarkt
 ---

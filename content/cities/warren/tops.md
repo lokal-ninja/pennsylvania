@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /warren/tops/
-shop: supermarket
+shop: Supermarkt
 ---

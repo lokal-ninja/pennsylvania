@@ -1,5 +1,5 @@
 ---
 title: "Graybar"
 url: /greensburg/graybar/
-shop: trade
+shop: Baustoffe
 ---

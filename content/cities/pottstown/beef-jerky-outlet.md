@@ -1,5 +1,5 @@
 ---
 title: "Beef Jerky Outlet"
 url: /pottstown/beef-jerky-outlet/
-shop: shop
+shop: Allgemein
 ---

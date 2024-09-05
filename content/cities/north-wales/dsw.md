@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /north-wales/dsw/
-shop: shoes
+shop: Schuhe
 ---

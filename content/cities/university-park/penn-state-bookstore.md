@@ -1,5 +1,5 @@
 ---
 title: "Penn State Bookstore"
 url: /university-park/penn-state-bookstore/
-shop: books
+shop: Bücher
 ---

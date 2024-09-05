@@ -1,5 +1,5 @@
 ---
 title: "Flowers, Etcetera By Denise"
 url: /philadelphia/flowers-etcetera-by-denise/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /halifax/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

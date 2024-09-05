@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /stroudsburg/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

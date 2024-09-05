@@ -1,5 +1,5 @@
 ---
 title: "Luxurious Seduction"
 url: /bethlehem/luxurious-seduction/
-shop: beauty
+shop: Kosmetik
 ---

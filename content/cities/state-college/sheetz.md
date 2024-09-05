@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /state-college/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

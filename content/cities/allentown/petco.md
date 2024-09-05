@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /allentown/petco/
-shop: pet
+shop: Tiere
 ---

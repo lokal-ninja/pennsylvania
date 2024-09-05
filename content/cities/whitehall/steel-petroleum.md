@@ -1,5 +1,5 @@
 ---
 title: "Steel Petroleum"
 url: /whitehall/steel-petroleum/
-shop: convenience
+shop: Lebensmittel
 ---

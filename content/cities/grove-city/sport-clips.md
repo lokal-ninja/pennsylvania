@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /grove-city/sport-clips/
-shop: hairdresser
+shop: Friseur
 ---

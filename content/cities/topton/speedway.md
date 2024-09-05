@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /topton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

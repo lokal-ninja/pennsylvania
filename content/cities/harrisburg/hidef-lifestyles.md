@@ -1,5 +1,5 @@
 ---
 title: "HiDEF Lifestyles"
 url: /harrisburg/hidef-lifestyles/
-shop: hifi
+shop: Hifi
 ---

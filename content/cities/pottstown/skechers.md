@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /pottstown/skechers/
-shop: shoes
+shop: Schuhe
 ---

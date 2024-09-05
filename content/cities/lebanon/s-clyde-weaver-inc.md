@@ -1,5 +1,5 @@
 ---
 title: "S. Clyde Weaver, Inc."
 url: /lebanon/s-clyde-weaver-inc/
-shop: cheese
+shop: Käse
 ---

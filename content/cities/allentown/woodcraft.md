@@ -1,5 +1,5 @@
 ---
 title: "Woodcraft"
 url: /allentown/woodcraft/
-shop: craft
+shop: Basteln
 ---

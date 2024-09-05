@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /west-newton/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

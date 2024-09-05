@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /colonial-park/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

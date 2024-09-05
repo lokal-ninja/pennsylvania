@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mount-lebanon/verizon/
-shop: mobile phone
+shop: Handy
 ---

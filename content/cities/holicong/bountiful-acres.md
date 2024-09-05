@@ -1,5 +1,5 @@
 ---
 title: "Bountiful Acres"
 url: /holicong/bountiful-acres/
-shop: garden centre
+shop: Garten-Center
 ---

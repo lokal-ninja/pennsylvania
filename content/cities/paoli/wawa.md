@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /paoli/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

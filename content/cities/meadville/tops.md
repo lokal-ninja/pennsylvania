@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /meadville/tops/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /hershey/talbots/
-shop: clothes
+shop: Kleidung
 ---

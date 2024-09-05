@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /monongahela/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

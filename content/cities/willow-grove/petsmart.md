@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /willow-grove/petsmart/
-shop: pet
+shop: Tiere
 ---

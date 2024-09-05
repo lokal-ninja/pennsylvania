@@ -1,5 +1,5 @@
 ---
 title: "Morgantown Cleaners"
 url: /elverson/morgantown-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

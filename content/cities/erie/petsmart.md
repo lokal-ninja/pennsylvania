@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /erie/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /lancaster/carmax/
-shop: car
+shop: Autohaus
 ---

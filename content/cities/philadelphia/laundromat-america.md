@@ -1,5 +1,5 @@
 ---
 title: "Laundromat America"
 url: /philadelphia/laundromat-america/
-shop: laundry
+shop: Wäscherei
 ---

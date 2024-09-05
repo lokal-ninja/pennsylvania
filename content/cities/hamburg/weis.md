@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /hamburg/weis/
-shop: supermarket
+shop: Supermarkt
 ---

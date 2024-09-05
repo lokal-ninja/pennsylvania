@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /scranton/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

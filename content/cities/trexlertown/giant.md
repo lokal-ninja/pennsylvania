@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /trexlertown/giant/
-shop: supermarket
+shop: Supermarkt
 ---

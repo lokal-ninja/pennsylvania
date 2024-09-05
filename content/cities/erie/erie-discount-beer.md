@@ -1,5 +1,5 @@
 ---
 title: "Erie Discount Beer"
 url: /erie/erie-discount-beer/
-shop: alcohol
+shop: Spirituosen
 ---

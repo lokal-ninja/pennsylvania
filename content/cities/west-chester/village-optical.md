@@ -1,5 +1,5 @@
 ---
 title: "Village Optical"
 url: /west-chester/village-optical/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /macungie/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /lansdowne/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

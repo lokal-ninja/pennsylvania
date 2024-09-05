@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /bethlehem/weis/
-shop: supermarket
+shop: Supermarkt
 ---

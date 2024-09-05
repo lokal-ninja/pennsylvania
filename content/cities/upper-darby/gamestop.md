@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /upper-darby/gamestop/
-shop: video games
+shop: Videospiele
 ---

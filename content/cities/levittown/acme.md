@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /levittown/acme/
-shop: supermarket
+shop: Supermarkt
 ---

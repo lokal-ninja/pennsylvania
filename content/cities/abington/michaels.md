@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /abington/michaels/
-shop: craft
+shop: Basteln
 ---

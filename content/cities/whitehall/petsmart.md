@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /whitehall/petsmart/
-shop: pet
+shop: Tiere
 ---

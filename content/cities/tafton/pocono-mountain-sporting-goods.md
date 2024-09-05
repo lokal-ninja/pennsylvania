@@ -1,5 +1,5 @@
 ---
 title: "Pocono Mountain Sporting Goods"
 url: /tafton/pocono-mountain-sporting-goods/
-shop: weapons
+shop: Waffen
 ---

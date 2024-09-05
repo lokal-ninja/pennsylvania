@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /ephrata/verizon/
-shop: mobile phone
+shop: Handy
 ---

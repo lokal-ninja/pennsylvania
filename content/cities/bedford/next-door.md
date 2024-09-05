@@ -1,5 +1,5 @@
 ---
 title: "NEXT Door"
 url: /bedford/next-door/
-shop: shop
+shop: Allgemein
 ---

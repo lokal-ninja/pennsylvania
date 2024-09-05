@@ -1,5 +1,5 @@
 ---
 title: "Violet Salon III"
 url: /philadelphia/violet-salon-iii/
-shop: beauty
+shop: Kosmetik
 ---

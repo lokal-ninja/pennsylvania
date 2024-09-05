@@ -1,5 +1,5 @@
 ---
 title: "Kiki's Nail and Spa"
 url: /gilbertsville/kikis-nail-and-spa/
-shop: beauty
+shop: Kosmetik
 ---

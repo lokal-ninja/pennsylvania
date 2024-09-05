@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /media/acme/
-shop: supermarket
+shop: Supermarkt
 ---

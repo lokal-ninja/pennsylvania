@@ -1,5 +1,5 @@
 ---
 title: "Mt Rose Barberama"
 url: /york/mt-rose-barberama/
-shop: hairdresser
+shop: Friseur
 ---

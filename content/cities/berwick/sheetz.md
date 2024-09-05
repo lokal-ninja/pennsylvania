@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /berwick/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

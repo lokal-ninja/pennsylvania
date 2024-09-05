@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /philadelphia/cvs-pharmacy-market-street/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Emporium"
 url: /philadelphia/the-emporium/
-shop: gift
+shop: Andenken
 ---

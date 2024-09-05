@@ -1,5 +1,5 @@
 ---
 title: "Howick Tire"
 url: /meadville/howick-tire/
-shop: tyres
+shop: Reifen
 ---

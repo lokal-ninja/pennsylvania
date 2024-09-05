@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /camp-hill/michaels/
-shop: craft
+shop: Basteln
 ---

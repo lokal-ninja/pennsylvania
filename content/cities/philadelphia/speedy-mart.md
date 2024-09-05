@@ -1,5 +1,5 @@
 ---
 title: "Speedy Mart"
 url: /philadelphia/speedy-mart/
-shop: convenience
+shop: Lebensmittel
 ---

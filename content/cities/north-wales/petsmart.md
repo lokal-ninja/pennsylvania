@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /north-wales/petsmart/
-shop: pet
+shop: Tiere
 ---

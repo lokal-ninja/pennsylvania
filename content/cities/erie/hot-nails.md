@@ -1,5 +1,5 @@
 ---
 title: "Hot Nails"
 url: /erie/hot-nails/
-shop: beauty
+shop: Kosmetik
 ---

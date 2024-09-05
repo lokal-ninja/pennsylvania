@@ -1,5 +1,5 @@
 ---
 title: "Lagos"
 url: /philadelphia/lagos/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lemont-furnace/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

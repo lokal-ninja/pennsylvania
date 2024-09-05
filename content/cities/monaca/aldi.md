@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /monaca/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

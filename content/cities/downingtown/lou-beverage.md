@@ -1,5 +1,5 @@
 ---
 title: "Lou Beverage"
 url: /downingtown/lou-beverage/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /philadelphia/aplus/
-shop: convenience
+shop: Lebensmittel
 ---

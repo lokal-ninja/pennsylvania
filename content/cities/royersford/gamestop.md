@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /royersford/gamestop/
-shop: video games
+shop: Videospiele
 ---

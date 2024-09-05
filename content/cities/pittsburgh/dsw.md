@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /pittsburgh/dsw/
-shop: shoes
+shop: Schuhe
 ---

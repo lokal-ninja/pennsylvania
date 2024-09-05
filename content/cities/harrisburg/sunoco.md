@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /harrisburg/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

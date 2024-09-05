@@ -1,5 +1,5 @@
 ---
 title: "Rob's Auto Center"
 url: /coplay/robs-auto-center/
-shop: car
+shop: Autohaus
 ---

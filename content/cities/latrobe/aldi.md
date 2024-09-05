@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /latrobe/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /pottstown/roses/
-shop: variety store
+shop: Kramladen
 ---

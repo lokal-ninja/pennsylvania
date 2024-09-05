@@ -1,5 +1,5 @@
 ---
 title: "Beaver Meadows Auto Services"
 url: /beaver-meadows/beaver-meadows-auto-services/
-shop: car repair
+shop: Autowerkstatt
 ---

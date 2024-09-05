@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pittsburgh/aldi-butler-street/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taylor Made Polish"
 url: /easton/taylor-made-polish/
-shop: beauty
+shop: Kosmetik
 ---

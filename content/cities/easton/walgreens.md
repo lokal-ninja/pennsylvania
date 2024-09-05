@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /easton/walgreens/
-shop: chemist
+shop: Drogerie
 ---

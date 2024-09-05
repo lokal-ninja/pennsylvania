@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /west-mifflin/giant-eagle/
-shop: supermarket
+shop: Supermarkt
 ---

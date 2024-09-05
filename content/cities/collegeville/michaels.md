@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /collegeville/michaels/
-shop: craft
+shop: Basteln
 ---

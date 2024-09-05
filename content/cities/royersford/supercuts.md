@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /royersford/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

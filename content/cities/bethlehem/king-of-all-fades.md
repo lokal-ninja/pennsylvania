@@ -1,5 +1,5 @@
 ---
 title: "King of All Fades"
 url: /bethlehem/king-of-all-fades/
-shop: hairdresser
+shop: Friseur
 ---

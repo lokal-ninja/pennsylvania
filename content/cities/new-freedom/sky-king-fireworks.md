@@ -1,5 +1,5 @@
 ---
 title: "Sky King Fireworks"
 url: /new-freedom/sky-king-fireworks/
-shop: pyrotechnics
+shop: Pyrotechnik
 ---

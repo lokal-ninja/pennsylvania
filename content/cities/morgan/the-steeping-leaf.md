@@ -1,5 +1,5 @@
 ---
 title: "The Steeping Leaf"
 url: /morgan/the-steeping-leaf/
-shop: tea
+shop: Tee
 ---

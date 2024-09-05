@@ -1,5 +1,5 @@
 ---
 title: "Kismet"
 url: /downingtown/kismet/
-shop: art
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress By Appointment"
 url: /hatboro/mattress-by-appointment/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curwensville Feed Store"
 url: /curwensville/curwensville-feed-store/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

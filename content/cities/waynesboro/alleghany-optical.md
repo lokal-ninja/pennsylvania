@@ -1,5 +1,5 @@
 ---
 title: "Alleghany Optical"
 url: /waynesboro/alleghany-optical/
-shop: optician
+shop: Optiker
 ---

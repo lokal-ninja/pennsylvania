@@ -1,5 +1,5 @@
 ---
 title: "Mircoapex"
 url: /allentown/mircoapex/
-shop: computer
+shop: Computer
 ---

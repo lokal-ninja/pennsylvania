@@ -1,5 +1,5 @@
 ---
 title: "Outlooks"
 url: /bethlehem/outlooks/
-shop: hairdresser
+shop: Friseur
 ---

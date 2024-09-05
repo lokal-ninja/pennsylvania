@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /glenolden/marshalls/
-shop: department store
+shop: Warenhaus
 ---

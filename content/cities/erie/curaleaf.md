@@ -1,5 +1,5 @@
 ---
 title: "Curaleaf"
 url: /erie/curaleaf/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /johnstown/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

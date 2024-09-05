@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /langhorne/target/
-shop: department store
+shop: Warenhaus
 ---

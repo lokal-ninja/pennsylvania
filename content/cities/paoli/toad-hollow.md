@@ -1,5 +1,5 @@
 ---
 title: "Toad Hollow"
 url: /paoli/toad-hollow/
-shop: sports
+shop: Sport
 ---

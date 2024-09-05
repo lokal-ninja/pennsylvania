@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /manheim/weis/
-shop: supermarket
+shop: Supermarkt
 ---

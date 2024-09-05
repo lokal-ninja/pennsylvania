@@ -1,5 +1,5 @@
 ---
 title: "Philadelphia Bikesmith"
 url: /philadelphia/philadelphia-bikesmith/
-shop: bicycle
+shop: Fahrrad
 ---

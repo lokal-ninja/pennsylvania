@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /cresson/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

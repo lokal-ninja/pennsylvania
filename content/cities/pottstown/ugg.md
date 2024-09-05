@@ -1,5 +1,5 @@
 ---
 title: "UGG"
 url: /pottstown/ugg/
-shop: shoes
+shop: Schuhe
 ---

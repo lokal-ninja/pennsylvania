@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /burnham/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rotech"
 url: /minersville/rotech/
-shop: medical supply
+shop: Sanitätshaus
 ---

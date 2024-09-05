@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /carnegie/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

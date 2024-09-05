@@ -1,5 +1,5 @@
 ---
 title: "Holtwood Supply"
 url: /holtwood/holtwood-supply/
-shop: doityourself
+shop: Baumarkt
 ---

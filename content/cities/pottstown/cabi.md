@@ -1,5 +1,5 @@
 ---
 title: "cabi"
 url: /pottstown/cabi/
-shop: boutique
+shop: Modehaus
 ---

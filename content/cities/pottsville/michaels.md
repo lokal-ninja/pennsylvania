@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /pottsville/michaels/
-shop: craft
+shop: Basteln
 ---

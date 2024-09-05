@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /kutztown/autozone/
-shop: car parts
+shop: Autoteile
 ---

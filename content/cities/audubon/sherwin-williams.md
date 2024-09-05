@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /audubon/sherwin-williams/
-shop: paint
+shop: Farben
 ---

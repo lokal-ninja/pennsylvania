@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /thorndale/hallmark/
-shop: gift
+shop: Andenken
 ---

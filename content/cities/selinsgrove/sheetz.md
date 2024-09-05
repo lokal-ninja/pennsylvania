@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /selinsgrove/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shop Sixty Five"
 url: /doylestown/shop-sixty-five/
-shop: clothes
+shop: Kleidung
 ---

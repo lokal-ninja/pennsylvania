@@ -1,5 +1,5 @@
 ---
 title: "Head Linerz"
 url: /chester/head-linerz/
-shop: hairdresser
+shop: Friseur
 ---

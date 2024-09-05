@@ -1,5 +1,5 @@
 ---
 title: "Elements"
 url: /erie/elements/
-shop: hairdresser
+shop: Friseur
 ---

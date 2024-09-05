@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /center-valley/lenscrafters/
-shop: optician
+shop: Optiker
 ---

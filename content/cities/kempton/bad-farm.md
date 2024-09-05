@@ -1,5 +1,5 @@
 ---
 title: "BAD Farm"
 url: /kempton/bad-farm/
-shop: dairy
+shop: Milch
 ---

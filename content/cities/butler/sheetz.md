@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /butler/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /palmyra/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

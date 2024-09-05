@@ -1,5 +1,5 @@
 ---
 title: "Beard's Towing"
 url: /jacobus/beards-towing/
-shop: shop
+shop: Allgemein
 ---

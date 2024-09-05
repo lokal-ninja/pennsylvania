@@ -1,5 +1,5 @@
 ---
 title: "Produce Junction"
 url: /philadelphia/produce-junction/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

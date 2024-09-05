@@ -1,5 +1,5 @@
 ---
 title: "OppShop"
 url: /reading/oppshop/
-shop: charity
+shop: Gebrauchtwaren
 ---

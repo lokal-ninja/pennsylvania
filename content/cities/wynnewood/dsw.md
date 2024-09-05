@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /wynnewood/dsw/
-shop: shoes
+shop: Schuhe
 ---

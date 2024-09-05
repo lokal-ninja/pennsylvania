@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /lansdowne/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

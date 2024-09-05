@@ -1,5 +1,5 @@
 ---
 title: "Murphy's Beer Distributor"
 url: /tamaqua/murphys-beer-distributor/
-shop: beverages
+shop: Getränke
 ---

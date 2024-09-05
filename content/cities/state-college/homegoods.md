@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /state-college/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

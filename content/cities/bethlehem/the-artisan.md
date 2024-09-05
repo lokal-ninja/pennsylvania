@@ -1,5 +1,5 @@
 ---
 title: "The Artisan"
 url: /bethlehem/the-artisan/
-shop: hairdresser
+shop: Friseur
 ---

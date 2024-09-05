@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /conshohocken/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedy Furniture"
 url: /carnegie/speedy-furniture/
-shop: furniture
+shop: Möbel
 ---

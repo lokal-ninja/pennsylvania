@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /pottstown/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

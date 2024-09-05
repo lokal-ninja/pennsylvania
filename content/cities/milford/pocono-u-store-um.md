@@ -1,5 +1,5 @@
 ---
 title: "Pocono U-Store-Um"
 url: /milford/pocono-u-store-um/
-shop: storage rental
+shop: Mieten
 ---

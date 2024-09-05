@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /pottstown/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

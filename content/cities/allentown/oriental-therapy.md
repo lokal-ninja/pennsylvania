@@ -1,5 +1,5 @@
 ---
 title: "Oriental Therapy"
 url: /allentown/oriental-therapy/
-shop: massage
+shop: Massage
 ---

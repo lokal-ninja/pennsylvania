@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /narberth/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

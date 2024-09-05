@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /pittsburgh/dsw-park-manor-boulevard/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavern's hair salon"
 url: /york/laverns-hair-salon/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avenue"
 url: /bensalem/avenue/
-shop: clothes
+shop: Kleidung
 ---

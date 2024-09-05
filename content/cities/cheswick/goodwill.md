@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /cheswick/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

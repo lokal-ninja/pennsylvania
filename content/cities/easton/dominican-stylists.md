@@ -1,5 +1,5 @@
 ---
 title: "Dominican Stylists"
 url: /easton/dominican-stylists/
-shop: hairdresser
+shop: Friseur
 ---

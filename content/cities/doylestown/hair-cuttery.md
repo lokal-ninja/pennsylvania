@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /doylestown/hair-cuttery/
-shop: hairdresser
+shop: Friseur
 ---

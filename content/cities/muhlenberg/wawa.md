@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /muhlenberg/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

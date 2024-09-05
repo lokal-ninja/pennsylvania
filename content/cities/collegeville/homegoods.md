@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /collegeville/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harvey's Auto Body"
 url: /wilkes-barre/harveys-auto-body/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /easton/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

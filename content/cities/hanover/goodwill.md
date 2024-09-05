@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /hanover/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

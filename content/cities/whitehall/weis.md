@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /whitehall/weis/
-shop: supermarket
+shop: Supermarkt
 ---

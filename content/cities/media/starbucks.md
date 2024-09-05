@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
 url: /media/starbucks/
-shop: chemist
+shop: Drogerie
 ---

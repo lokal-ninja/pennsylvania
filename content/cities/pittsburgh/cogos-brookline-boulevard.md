@@ -1,5 +1,5 @@
 ---
 title: "Cogos"
 url: /pittsburgh/cogos-brookline-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

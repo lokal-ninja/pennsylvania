@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /gettysburg/kilwins/
-shop: confectionery
+shop: Süßwaren
 ---

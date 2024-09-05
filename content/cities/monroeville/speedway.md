@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /monroeville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

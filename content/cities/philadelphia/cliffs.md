@@ -1,5 +1,5 @@
 ---
 title: "Cliff's"
 url: /philadelphia/cliffs/
-shop: shoes
+shop: Schuhe
 ---

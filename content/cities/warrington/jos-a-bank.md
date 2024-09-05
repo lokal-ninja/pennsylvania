@@ -1,5 +1,5 @@
 ---
 title: "JoS. A. Bank"
 url: /warrington/jos-a-bank/
-shop: clothes
+shop: Kleidung
 ---

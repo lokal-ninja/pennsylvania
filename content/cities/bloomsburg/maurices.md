@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /bloomsburg/maurices/
-shop: clothes
+shop: Kleidung
 ---

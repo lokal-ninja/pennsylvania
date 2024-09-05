@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /hummelstown/weis/
-shop: supermarket
+shop: Supermarkt
 ---

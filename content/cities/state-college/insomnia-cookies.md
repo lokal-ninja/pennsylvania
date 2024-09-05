@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /state-college/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

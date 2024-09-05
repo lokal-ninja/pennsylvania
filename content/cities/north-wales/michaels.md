@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /north-wales/michaels/
-shop: craft
+shop: Basteln
 ---

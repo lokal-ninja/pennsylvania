@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /pottstown/nike/
-shop: clothes
+shop: Kleidung
 ---

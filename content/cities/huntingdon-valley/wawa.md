@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /huntingdon-valley/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

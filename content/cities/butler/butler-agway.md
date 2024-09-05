@@ -1,5 +1,5 @@
 ---
 title: "Butler Agway"
 url: /butler/butler-agway/
-shop: hardware
+shop: Eisenwaren
 ---

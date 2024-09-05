@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /lititz/giant/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /harrisburg/ntb/
-shop: car repair
+shop: Autowerkstatt
 ---

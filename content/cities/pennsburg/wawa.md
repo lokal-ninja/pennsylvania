@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /pennsburg/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

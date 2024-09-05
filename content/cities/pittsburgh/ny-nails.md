@@ -1,5 +1,5 @@
 ---
 title: "NY Nails"
 url: /pittsburgh/ny-nails/
-shop: beauty
+shop: Kosmetik
 ---

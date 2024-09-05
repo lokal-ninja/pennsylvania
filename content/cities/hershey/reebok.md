@@ -1,5 +1,5 @@
 ---
 title: "Reebok"
 url: /hershey/reebok/
-shop: clothes
+shop: Kleidung
 ---

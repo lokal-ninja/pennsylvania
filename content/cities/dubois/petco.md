@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /dubois/petco/
-shop: pet
+shop: Tiere
 ---

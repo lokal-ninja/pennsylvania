@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /coraopolis/verizon/
-shop: mobile phone
+shop: Handy
 ---

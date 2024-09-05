@@ -1,5 +1,5 @@
 ---
 title: "Midway Beer"
 url: /erie/midway-beer/
-shop: beverages
+shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /collegeville/tillys/
-shop: clothes
+shop: Kleidung
 ---

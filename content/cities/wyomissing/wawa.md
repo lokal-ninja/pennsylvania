@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /wyomissing/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

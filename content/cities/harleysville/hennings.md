@@ -1,5 +1,5 @@
 ---
 title: "Hennings"
 url: /harleysville/hennings/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Auto Tags"
 url: /paoli/best-auto-tags/
-shop: shop
+shop: Allgemein
 ---

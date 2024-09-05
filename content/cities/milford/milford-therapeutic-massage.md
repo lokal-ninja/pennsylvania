@@ -1,5 +1,5 @@
 ---
 title: "Milford Therapeutic Massage"
 url: /milford/milford-therapeutic-massage/
-shop: massage
+shop: Massage
 ---

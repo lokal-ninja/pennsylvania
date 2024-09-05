@@ -1,5 +1,5 @@
 ---
 title: "Seek No Further"
 url: /waynesboro/seek-no-further/
-shop: antiques
+shop: Antiquitäten
 ---

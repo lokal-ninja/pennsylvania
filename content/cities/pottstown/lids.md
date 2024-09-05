@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /pottstown/lids/
-shop: clothes
+shop: Kleidung
 ---

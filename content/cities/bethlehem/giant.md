@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /bethlehem/giant/
-shop: supermarket
+shop: Supermarkt
 ---

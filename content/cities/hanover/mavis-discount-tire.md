@@ -1,5 +1,5 @@
 ---
 title: "Mavis Discount Tire"
 url: /hanover/mavis-discount-tire/
-shop: tyres
+shop: Reifen
 ---

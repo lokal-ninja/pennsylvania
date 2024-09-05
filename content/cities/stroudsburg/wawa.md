@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /stroudsburg/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

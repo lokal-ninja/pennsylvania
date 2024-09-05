@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /glen-mills/lululemon/
-shop: clothes
+shop: Kleidung
 ---

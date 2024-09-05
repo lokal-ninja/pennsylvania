@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /pottstown/express/
-shop: clothes
+shop: Kleidung
 ---

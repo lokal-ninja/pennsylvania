@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /coopersburg/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smith and Front"
 url: /bellefonte/smith-and-front/
-shop: shop
+shop: Allgemein
 ---

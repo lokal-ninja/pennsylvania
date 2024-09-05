@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /pottstown/asics/
-shop: shoes
+shop: Schuhe
 ---

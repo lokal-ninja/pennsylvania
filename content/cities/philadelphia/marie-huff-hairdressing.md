@@ -1,5 +1,5 @@
 ---
 title: "Marie Huff Hairdressing"
 url: /philadelphia/marie-huff-hairdressing/
-shop: hairdresser
+shop: Friseur
 ---

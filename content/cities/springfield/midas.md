@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /springfield/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jt"
 url: /philadelphia/jt/
-shop: beauty
+shop: Kosmetik
 ---

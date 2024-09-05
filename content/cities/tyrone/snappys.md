@@ -1,5 +1,5 @@
 ---
 title: "Snappy's"
 url: /tyrone/snappys/
-shop: convenience
+shop: Lebensmittel
 ---

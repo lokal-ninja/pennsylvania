@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /altoona/sheetz-pleasant-valley-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

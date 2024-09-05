@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /dunmore/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

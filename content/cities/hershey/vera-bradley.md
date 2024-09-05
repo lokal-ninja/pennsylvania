@@ -1,5 +1,5 @@
 ---
 title: "Vera Bradley"
 url: /hershey/vera-bradley/
-shop: bag
+shop: Taschen & Koffer
 ---

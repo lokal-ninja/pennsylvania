@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /wynnewood/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /blue-bell/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

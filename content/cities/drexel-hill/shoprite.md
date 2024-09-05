@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /drexel-hill/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

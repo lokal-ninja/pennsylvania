@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /wyomissing/petsmart/
-shop: pet
+shop: Tiere
 ---

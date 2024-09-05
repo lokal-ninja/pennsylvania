@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /allison-park/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

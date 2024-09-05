@@ -1,5 +1,5 @@
 ---
 title: "Lendmark"
 url: /pittsburgh/lendmark/
-shop: pawnbroker
+shop: Leiher
 ---

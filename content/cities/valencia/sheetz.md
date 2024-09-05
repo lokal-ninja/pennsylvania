@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /valencia/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

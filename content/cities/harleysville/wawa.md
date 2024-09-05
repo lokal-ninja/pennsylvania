@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /harleysville/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

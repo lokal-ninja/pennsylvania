@@ -1,5 +1,5 @@
 ---
 title: "Spectrum Healthcare"
 url: /norristown/spectrum-healthcare/
-shop: medical supply
+shop: Sanitätshaus
 ---

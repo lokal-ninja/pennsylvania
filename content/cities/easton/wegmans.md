@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /easton/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

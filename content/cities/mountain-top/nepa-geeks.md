@@ -1,5 +1,5 @@
 ---
 title: "NEPA Geeks"
 url: /mountain-top/nepa-geeks/
-shop: computer
+shop: Computer
 ---

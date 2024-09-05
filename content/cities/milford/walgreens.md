@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /milford/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /gibsonia/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brewmaster"
 url: /gilbertsville/brewmaster/
-shop: beverages
+shop: Getränke
 ---

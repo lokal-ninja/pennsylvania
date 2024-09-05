@@ -1,5 +1,5 @@
 ---
 title: "Manicure Lounge"
 url: /indiana-township/manicure-lounge/
-shop: beauty
+shop: Kosmetik
 ---

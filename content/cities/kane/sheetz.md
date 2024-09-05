@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /kane/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

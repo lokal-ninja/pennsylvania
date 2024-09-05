@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /west-mifflin/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

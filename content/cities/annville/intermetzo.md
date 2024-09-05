@@ -1,5 +1,5 @@
 ---
 title: "InterMetzo"
 url: /annville/intermetzo/
-shop: coffee
+shop: Kaffee
 ---

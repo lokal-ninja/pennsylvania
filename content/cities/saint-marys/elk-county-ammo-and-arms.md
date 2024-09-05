@@ -1,5 +1,5 @@
 ---
 title: "Elk County Ammo and Arms"
 url: /saint-marys/elk-county-ammo-and-arms/
-shop: weapons
+shop: Waffen
 ---

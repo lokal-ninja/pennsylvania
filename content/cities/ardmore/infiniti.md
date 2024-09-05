@@ -1,5 +1,5 @@
 ---
 title: "Infiniti"
 url: /ardmore/infiniti/
-shop: car
+shop: Autohaus
 ---

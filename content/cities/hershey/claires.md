@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /hershey/claires/
-shop: boutique
+shop: Modehaus
 ---

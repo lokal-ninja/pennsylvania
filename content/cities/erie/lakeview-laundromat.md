@@ -1,5 +1,5 @@
 ---
 title: "Lakeview Laundromat"
 url: /erie/lakeview-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

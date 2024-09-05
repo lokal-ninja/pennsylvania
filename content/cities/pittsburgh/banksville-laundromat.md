@@ -1,5 +1,5 @@
 ---
 title: "Banksville Laundromat"
 url: /pittsburgh/banksville-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

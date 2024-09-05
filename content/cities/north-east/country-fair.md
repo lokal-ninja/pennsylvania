@@ -1,5 +1,5 @@
 ---
 title: "Country Fair"
 url: /north-east/country-fair/
-shop: convenience
+shop: Lebensmittel
 ---

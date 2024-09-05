@@ -1,5 +1,5 @@
 ---
 title: "My Girlfriend's Wardrobe"
 url: /york/my-girlfriends-wardrobe/
-shop: clothes
+shop: Kleidung
 ---

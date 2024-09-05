@@ -1,5 +1,5 @@
 ---
 title: "Film Fest Video"
 url: /north-east/film-fest-video/
-shop: video
+shop: Videothek
 ---

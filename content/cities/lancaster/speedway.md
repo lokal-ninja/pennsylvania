@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lancaster/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

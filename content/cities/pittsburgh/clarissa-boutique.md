@@ -1,5 +1,5 @@
 ---
 title: "Clarissa Boutique"
 url: /pittsburgh/clarissa-boutique/
-shop: clothes
+shop: Kleidung
 ---

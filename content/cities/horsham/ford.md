@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /horsham/ford/
-shop: car
+shop: Autohaus
 ---

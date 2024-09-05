@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /pittsburgh/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

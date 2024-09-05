@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /boothwyn/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

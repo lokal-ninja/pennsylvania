@@ -1,5 +1,5 @@
 ---
 title: "TargetMaster"
 url: /chadds-ford/targetmaster/
-shop: weapons
+shop: Waffen
 ---

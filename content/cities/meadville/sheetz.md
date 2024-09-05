@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /meadville/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

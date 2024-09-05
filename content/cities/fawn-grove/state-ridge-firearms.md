@@ -1,5 +1,5 @@
 ---
 title: "State Ridge Firearms"
 url: /fawn-grove/state-ridge-firearms/
-shop: weapons
+shop: Waffen
 ---

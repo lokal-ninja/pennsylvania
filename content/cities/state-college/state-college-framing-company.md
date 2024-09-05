@@ -1,5 +1,5 @@
 ---
 title: "State College Framing Company"
 url: /state-college/state-college-framing-company/
-shop: frame
+shop: Rahmen
 ---

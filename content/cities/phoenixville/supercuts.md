@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /phoenixville/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corropolese Bakery"
 url: /royersford/corropolese-bakery/
-shop: bakery
+shop: Bäckerei
 ---

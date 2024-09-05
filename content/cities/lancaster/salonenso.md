@@ -1,5 +1,5 @@
 ---
 title: "salonenso"
 url: /lancaster/salonenso/
-shop: beauty
+shop: Kosmetik
 ---

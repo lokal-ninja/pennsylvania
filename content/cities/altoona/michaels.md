@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /altoona/michaels/
-shop: craft
+shop: Basteln
 ---

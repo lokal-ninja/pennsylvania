@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ephrata/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

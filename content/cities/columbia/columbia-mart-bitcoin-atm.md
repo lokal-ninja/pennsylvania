@@ -1,5 +1,5 @@
 ---
 title: "Columbia Mart - BITCOIN ATM"
 url: /columbia/columbia-mart-bitcoin-atm/
-shop: convenience
+shop: Lebensmittel
 ---

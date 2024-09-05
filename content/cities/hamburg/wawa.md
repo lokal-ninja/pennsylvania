@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /hamburg/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

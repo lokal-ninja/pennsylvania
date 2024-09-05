@@ -1,5 +1,5 @@
 ---
 title: "The Fly Stop"
 url: /oil-city/the-fly-stop/
-shop: fishing
+shop: Angeln
 ---

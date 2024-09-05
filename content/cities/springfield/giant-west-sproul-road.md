@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /springfield/giant-west-sproul-road/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ruminski's Market"
 url: /nanticoke/ruminskis-market/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /langhorne/volkswagen/
-shop: car
+shop: Autohaus
 ---

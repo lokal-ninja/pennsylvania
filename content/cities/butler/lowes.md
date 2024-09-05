@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /butler/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

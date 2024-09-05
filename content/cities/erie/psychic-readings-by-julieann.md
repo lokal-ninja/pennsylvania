@@ -1,5 +1,5 @@
 ---
 title: "Psychic Readings by Julieann"
 url: /erie/psychic-readings-by-julieann/
-shop: shop
+shop: Allgemein
 ---

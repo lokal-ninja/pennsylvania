@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /erie/lenscrafters/
-shop: optician
+shop: Optiker
 ---

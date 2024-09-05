@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /carlisle/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /bradford/tops/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /dickson-city/petsmart/
-shop: pet
+shop: Tiere
 ---

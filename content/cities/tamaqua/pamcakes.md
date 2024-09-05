@@ -1,5 +1,5 @@
 ---
 title: "Pamcakes"
 url: /tamaqua/pamcakes/
-shop: bakery
+shop: Bäckerei
 ---

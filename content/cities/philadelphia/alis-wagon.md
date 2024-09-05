@@ -1,5 +1,5 @@
 ---
 title: "Ali's Wagon"
 url: /philadelphia/alis-wagon/
-shop: shop
+shop: Allgemein
 ---

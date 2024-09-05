@@ -1,5 +1,5 @@
 ---
 title: "United"
 url: /martins-creek/united/
-shop: convenience
+shop: Lebensmittel
 ---

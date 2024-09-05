@@ -1,5 +1,5 @@
 ---
 title: "OneCupJoe"
 url: /malvern/onecupjoe/
-shop: coffee
+shop: Kaffee
 ---

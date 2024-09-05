@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /bethel-park/rite-aid/
-shop: chemist
+shop: Drogerie
 ---

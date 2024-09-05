@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /norristown/walgreens-ridge-pike/
-shop: chemist
+shop: Drogerie
 ---

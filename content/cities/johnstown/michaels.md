@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /johnstown/michaels/
-shop: craft
+shop: Basteln
 ---

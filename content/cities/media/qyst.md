@@ -1,5 +1,5 @@
 ---
 title: "Qyst"
 url: /media/qyst/
-shop: tyres
+shop: Reifen
 ---

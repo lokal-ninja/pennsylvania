@@ -1,5 +1,5 @@
 ---
 title: "Repurposed"
 url: /pittsburgh/repurposed/
-shop: charity
+shop: Gebrauchtwaren
 ---

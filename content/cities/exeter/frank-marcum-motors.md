@@ -1,5 +1,5 @@
 ---
 title: "Frank Marcum Motors"
 url: /exeter/frank-marcum-motors/
-shop: car
+shop: Autohaus
 ---

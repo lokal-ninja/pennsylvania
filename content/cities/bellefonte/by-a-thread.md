@@ -1,5 +1,5 @@
 ---
 title: "By A Thread"
 url: /bellefonte/by-a-thread/
-shop: clothes
+shop: Kleidung
 ---

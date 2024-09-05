@@ -1,5 +1,5 @@
 ---
 title: "Vintage Home"
 url: /paoli/vintage-home/
-shop: furniture
+shop: Möbel
 ---

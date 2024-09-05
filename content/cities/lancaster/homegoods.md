@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /lancaster/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

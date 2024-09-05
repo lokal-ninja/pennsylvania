@@ -1,5 +1,5 @@
 ---
 title: "LV Nails"
 url: /manheim/lv-nails/
-shop: beauty
+shop: Kosmetik
 ---

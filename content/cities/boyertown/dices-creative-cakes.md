@@ -1,5 +1,5 @@
 ---
 title: "Dice's Creative Cakes"
 url: /boyertown/dices-creative-cakes/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /new-castle/sheetz-wilmington-road/
-shop: convenience
+shop: Lebensmittel
 ---

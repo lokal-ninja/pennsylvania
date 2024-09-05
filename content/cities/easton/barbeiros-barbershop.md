@@ -1,5 +1,5 @@
 ---
 title: "Barbeiro's Barbershop"
 url: /easton/barbeiros-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

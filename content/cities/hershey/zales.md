@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /hershey/zales/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Annie's Nails"
 url: /west-chester/annies-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon Authorized Retailer - Your Wireless"
 url: /huntingdon-valley/verizon-authorized-retailer-your-wireless/
-shop: mobile phone
+shop: Handy
 ---

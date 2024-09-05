@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /meyersdale/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

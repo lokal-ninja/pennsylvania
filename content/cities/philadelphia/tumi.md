@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /philadelphia/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---
