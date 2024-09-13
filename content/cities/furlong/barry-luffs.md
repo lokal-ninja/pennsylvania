@@ -1,5 +1,5 @@
 ---
 title: "Barry Luff's"
 url: /furlong/barry-luffs/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cupids' Arcade"
 url: /kutztown/cupids-arcade/
-shop: Erotik
+shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /york/autozone-mount-rose-avenue/
-shop: Autoteile
+shop: car parts
 ---

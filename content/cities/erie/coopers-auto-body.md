@@ -1,5 +1,5 @@
 ---
 title: "Cooper's Auto Body"
 url: /erie/coopers-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

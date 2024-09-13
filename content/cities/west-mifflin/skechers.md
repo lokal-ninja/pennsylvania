@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /west-mifflin/skechers/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /fogelsville/weis/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /muncy/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

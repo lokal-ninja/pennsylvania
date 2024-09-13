@@ -1,5 +1,5 @@
 ---
 title: "Gastec Enterprises"
 url: /ivyland/gastec-enterprises/
-shop: Gasflaschen
+shop: gas
 ---

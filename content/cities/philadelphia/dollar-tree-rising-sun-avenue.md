@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /philadelphia/dollar-tree-rising-sun-avenue/
-shop: Kramladen
+shop: variety store
 ---

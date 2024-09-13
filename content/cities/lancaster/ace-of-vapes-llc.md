@@ -1,5 +1,5 @@
 ---
 title: "Ace of Vapes, LLC"
 url: /lancaster/ace-of-vapes-llc/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

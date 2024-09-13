@@ -1,5 +1,5 @@
 ---
 title: "Chevere Food Market"
 url: /philadelphia/chevere-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sinclair’s Hardware"
 url: /dushore/sinclairs-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

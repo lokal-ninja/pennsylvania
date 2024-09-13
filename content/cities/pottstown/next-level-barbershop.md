@@ -1,5 +1,5 @@
 ---
 title: "Next Level Barbershop"
 url: /pottstown/next-level-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

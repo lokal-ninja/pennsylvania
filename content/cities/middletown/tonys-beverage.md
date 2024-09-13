@@ -1,5 +1,5 @@
 ---
 title: "Tony's Beverage"
 url: /middletown/tonys-beverage/
-shop: Getränke
+shop: beverages
 ---

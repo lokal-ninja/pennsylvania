@@ -1,5 +1,5 @@
 ---
 title: "Schouppe's Antiques"
 url: /milford/schouppes-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

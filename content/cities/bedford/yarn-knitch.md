@@ -1,5 +1,5 @@
 ---
 title: "Yarn Knitch"
 url: /bedford/yarn-knitch/
-shop: Textil
+shop: fabric
 ---

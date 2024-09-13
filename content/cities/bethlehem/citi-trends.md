@@ -1,5 +1,5 @@
 ---
 title: "Citi Trends"
 url: /bethlehem/citi-trends/
-shop: Kleidung
+shop: clothes
 ---

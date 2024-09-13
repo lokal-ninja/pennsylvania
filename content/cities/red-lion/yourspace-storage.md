@@ -1,5 +1,5 @@
 ---
 title: "YourSpace Storage"
 url: /red-lion/yourspace-storage/
-shop: Mieten
+shop: storage rental
 ---

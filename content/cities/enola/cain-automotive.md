@@ -1,5 +1,5 @@
 ---
 title: "Cain Automotive"
 url: /enola/cain-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

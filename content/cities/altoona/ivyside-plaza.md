@@ -1,5 +1,5 @@
 ---
 title: "Ivyside Plaza"
 url: /altoona/ivyside-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

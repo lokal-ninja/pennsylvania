@@ -1,5 +1,5 @@
 ---
 title: "Bears Repeating"
 url: /trexlertown/bears-repeating/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dolly's Washhouse"
 url: /state-college/dollys-washhouse/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /media/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

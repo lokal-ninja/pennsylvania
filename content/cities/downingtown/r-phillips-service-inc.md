@@ -1,5 +1,5 @@
 ---
 title: "R. Phillips Service Inc"
 url: /downingtown/r-phillips-service-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

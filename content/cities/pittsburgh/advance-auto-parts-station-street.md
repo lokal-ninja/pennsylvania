@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /pittsburgh/advance-auto-parts-station-street/
-shop: Autoteile
+shop: car parts
 ---

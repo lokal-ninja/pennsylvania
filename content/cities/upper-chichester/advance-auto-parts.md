@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /upper-chichester/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

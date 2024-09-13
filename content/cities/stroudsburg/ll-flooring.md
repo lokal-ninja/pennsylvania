@@ -1,5 +1,5 @@
 ---
 title: "LL Flooring"
 url: /stroudsburg/ll-flooring/
-shop: Fußböden
+shop: flooring
 ---

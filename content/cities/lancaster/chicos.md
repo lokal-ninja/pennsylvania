@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /lancaster/chicos/
-shop: Kleidung
+shop: clothes
 ---

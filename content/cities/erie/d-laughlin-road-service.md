@@ -1,5 +1,5 @@
 ---
 title: "D-Laughlin Road Service"
 url: /erie/d-laughlin-road-service/
-shop: Autowerkstatt
+shop: car repair
 ---

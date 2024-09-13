@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /camp-hill/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /phoenixville/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

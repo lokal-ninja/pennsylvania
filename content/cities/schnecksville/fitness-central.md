@@ -1,5 +1,5 @@
 ---
 title: "Fitness Central"
 url: /schnecksville/fitness-central/
-shop: Fahrrad
+shop: bicycle
 ---

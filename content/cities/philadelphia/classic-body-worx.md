@@ -1,5 +1,5 @@
 ---
 title: "Classic Body Worx"
 url: /philadelphia/classic-body-worx/
-shop: Autowerkstatt
+shop: car repair
 ---

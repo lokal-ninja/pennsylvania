@@ -1,5 +1,5 @@
 ---
 title: "Lehigh Valley Honda"
 url: /emmaus/lehigh-valley-honda/
-shop: Autohaus
+shop: car
 ---

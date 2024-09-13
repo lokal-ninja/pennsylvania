@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /schuylkill-haven/autozone/
-shop: Autoteile
+shop: car parts
 ---

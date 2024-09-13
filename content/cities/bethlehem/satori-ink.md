@@ -1,5 +1,5 @@
 ---
 title: "Satori Ink"
 url: /bethlehem/satori-ink/
-shop: Tattoo
+shop: tattoo
 ---

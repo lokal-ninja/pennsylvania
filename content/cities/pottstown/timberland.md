@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
 url: /pottstown/timberland/
-shop: Kleidung
+shop: clothes
 ---

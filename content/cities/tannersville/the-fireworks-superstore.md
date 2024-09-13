@@ -1,5 +1,5 @@
 ---
 title: "The Fireworks Superstore"
 url: /tannersville/the-fireworks-superstore/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

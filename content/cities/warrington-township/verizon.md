@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /warrington-township/verizon/
-shop: Handy
+shop: mobile phone
 ---

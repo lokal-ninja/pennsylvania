@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /newtown-square/five-below/
-shop: Kramladen
+shop: variety store
 ---

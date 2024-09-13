@@ -1,5 +1,5 @@
 ---
 title: "Storage Solutions By Snyder's"
 url: /lehighton/storage-solutions-by-snyders/
-shop: Gartenmöbel
+shop: garden furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "myeyedr."
 url: /west-chester/myeyedr/
-shop: Optiker
+shop: optician
 ---

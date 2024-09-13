@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /wyomissing/xfinity/
-shop: Handy
+shop: mobile phone
 ---

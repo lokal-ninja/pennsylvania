@@ -1,5 +1,5 @@
 ---
 title: "Country Fair"
 url: /waterford/country-fair/
-shop: Lebensmittel
+shop: convenience
 ---

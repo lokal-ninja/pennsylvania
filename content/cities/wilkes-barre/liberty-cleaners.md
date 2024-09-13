@@ -1,5 +1,5 @@
 ---
 title: "Liberty Cleaners"
 url: /wilkes-barre/liberty-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

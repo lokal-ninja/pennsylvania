@@ -1,5 +1,5 @@
 ---
 title: "Panchers Body Works"
 url: /kulpmont/panchers-body-works/
-shop: Autowerkstatt
+shop: car repair
 ---

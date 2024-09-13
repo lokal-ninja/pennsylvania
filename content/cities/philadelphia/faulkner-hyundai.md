@@ -1,5 +1,5 @@
 ---
 title: "Faulkner Hyundai"
 url: /philadelphia/faulkner-hyundai/
-shop: Autohaus
+shop: car
 ---

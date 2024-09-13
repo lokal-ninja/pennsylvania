@@ -1,5 +1,5 @@
 ---
 title: "Sunny Merry Nails"
 url: /erie/sunny-merry-nails/
-shop: Kosmetik
+shop: beauty
 ---

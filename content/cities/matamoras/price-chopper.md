@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /matamoras/price-chopper/
-shop: Supermarkt
+shop: supermarket
 ---

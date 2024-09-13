@@ -1,5 +1,5 @@
 ---
 title: "Thrifter Heaven"
 url: /erie/thrifter-heaven/
-shop: Gebrauchtwaren
+shop: charity
 ---

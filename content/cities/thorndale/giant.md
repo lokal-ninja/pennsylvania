@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /thorndale/giant/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roupp Funeral Home"
 url: /mifflinburg/roupp-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

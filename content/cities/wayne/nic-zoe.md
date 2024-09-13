@@ -1,5 +1,5 @@
 ---
 title: "Nic+Zoe"
 url: /wayne/nic-zoe/
-shop: Kleidung
+shop: clothes
 ---

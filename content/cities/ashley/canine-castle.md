@@ -1,5 +1,5 @@
 ---
 title: "Canine Castle"
 url: /ashley/canine-castle/
-shop: Tiersalon
+shop: pet grooming
 ---

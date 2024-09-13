@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /dubois/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

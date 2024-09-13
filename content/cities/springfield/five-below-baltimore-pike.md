@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /springfield/five-below-baltimore-pike/
-shop: Kramladen
+shop: variety store
 ---

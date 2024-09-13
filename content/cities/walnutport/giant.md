@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /walnutport/giant/
-shop: Supermarkt
+shop: supermarket
 ---

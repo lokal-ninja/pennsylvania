@@ -1,5 +1,5 @@
 ---
 title: "Reeder's Garage"
 url: /sadsburyville/reeders-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Remita Rug"
 url: /allentown/remita-rug/
-shop: Teppiche
+shop: carpet
 ---

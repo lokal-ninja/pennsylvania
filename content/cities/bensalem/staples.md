@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bensalem/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

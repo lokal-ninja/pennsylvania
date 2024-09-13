@@ -1,5 +1,5 @@
 ---
 title: "Learning Express"
 url: /collegeville/learning-express/
-shop: Spielzeug
+shop: toys
 ---

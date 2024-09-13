@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /exton/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

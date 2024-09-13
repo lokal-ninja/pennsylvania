@@ -1,5 +1,5 @@
 ---
 title: "Capri Auto Works"
 url: /allentown/capri-auto-works/
-shop: Autowerkstatt
+shop: car repair
 ---

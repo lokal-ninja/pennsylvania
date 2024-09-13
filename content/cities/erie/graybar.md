@@ -1,5 +1,5 @@
 ---
 title: "Graybar"
 url: /erie/graybar/
-shop: Baustoffe
+shop: trade
 ---

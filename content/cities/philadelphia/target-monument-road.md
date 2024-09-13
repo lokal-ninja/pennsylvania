@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /philadelphia/target-monument-road/
-shop: Warenhaus
+shop: department store
 ---

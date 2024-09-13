@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /sinking-spring/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

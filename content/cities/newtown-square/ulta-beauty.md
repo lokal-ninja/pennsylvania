@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /newtown-square/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

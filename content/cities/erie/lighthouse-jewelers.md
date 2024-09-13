@@ -1,5 +1,5 @@
 ---
 title: "Lighthouse Jewelers"
 url: /erie/lighthouse-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

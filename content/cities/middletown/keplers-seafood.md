@@ -1,5 +1,5 @@
 ---
 title: "Kepler's Seafood"
 url: /middletown/keplers-seafood/
-shop: Fisch
+shop: seafood
 ---

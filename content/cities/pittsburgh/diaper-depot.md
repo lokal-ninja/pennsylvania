@@ -1,5 +1,5 @@
 ---
 title: "Diaper Depot"
 url: /pittsburgh/diaper-depot/
-shop: Babysachen
+shop: baby goods
 ---

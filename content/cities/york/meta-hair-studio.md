@@ -1,5 +1,5 @@
 ---
 title: "Meta Hair Studio"
 url: /york/meta-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

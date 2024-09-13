@@ -1,5 +1,5 @@
 ---
 title: "Clean Enterprises"
 url: /quarryville/clean-enterprises/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smith Auto Repair"
 url: /sellersville/smith-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

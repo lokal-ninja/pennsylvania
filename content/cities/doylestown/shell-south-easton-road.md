@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /doylestown/shell-south-easton-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /waynesboro/dollar-general-west-main-street/
-shop: Kramladen
+shop: variety store
 ---

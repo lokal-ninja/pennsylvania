@@ -1,5 +1,5 @@
 ---
 title: "Midvale Auto Sales"
 url: /plains/midvale-auto-sales/
-shop: Autohaus
+shop: car
 ---

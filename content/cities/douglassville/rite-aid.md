@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /douglassville/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

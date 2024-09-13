@@ -1,5 +1,5 @@
 ---
 title: "Calico"
 url: /strafford/calico/
-shop: Möbel
+shop: furniture
 ---

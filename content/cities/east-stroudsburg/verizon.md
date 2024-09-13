@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /east-stroudsburg/verizon/
-shop: Handy
+shop: mobile phone
 ---

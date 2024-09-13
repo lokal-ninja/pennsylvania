@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /cranberry-township/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

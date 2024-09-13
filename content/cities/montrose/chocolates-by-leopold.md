@@ -1,5 +1,5 @@
 ---
 title: "Chocolates by Leopold"
 url: /montrose/chocolates-by-leopold/
-shop: Schokolade
+shop: chocolate
 ---

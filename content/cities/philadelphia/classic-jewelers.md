@@ -1,5 +1,5 @@
 ---
 title: "Classic Jewelers"
 url: /philadelphia/classic-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

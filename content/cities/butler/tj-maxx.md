@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /butler/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

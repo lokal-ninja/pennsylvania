@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /exton/target/
-shop: Warenhaus
+shop: department store
 ---

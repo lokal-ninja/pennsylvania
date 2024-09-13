@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /pittsburgh/dsw-clairton-boulevard/
-shop: Schuhe
+shop: shoes
 ---

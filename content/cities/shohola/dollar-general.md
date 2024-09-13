@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /shohola/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

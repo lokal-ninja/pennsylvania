@@ -1,5 +1,5 @@
 ---
 title: "Doylestown Produce"
 url: /doylestown/doylestown-produce/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /wyomissing/weis/
-shop: Supermarkt
+shop: supermarket
 ---

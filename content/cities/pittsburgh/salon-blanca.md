@@ -1,5 +1,5 @@
 ---
 title: "Salon Blanca"
 url: /pittsburgh/salon-blanca/
-shop: Kosmetik
+shop: beauty
 ---

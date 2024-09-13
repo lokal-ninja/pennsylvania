@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /washington/advance-auto-parts-jefferson-avenue/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Empire Vapes"
 url: /erie/empire-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

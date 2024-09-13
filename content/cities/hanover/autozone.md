@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hanover/autozone/
-shop: Autoteile
+shop: car parts
 ---

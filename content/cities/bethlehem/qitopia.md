@@ -1,5 +1,5 @@
 ---
 title: "Qitopia"
 url: /bethlehem/qitopia/
-shop: Massage
+shop: massage
 ---

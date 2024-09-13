@@ -1,5 +1,5 @@
 ---
 title: "Pittsburgh Guitars"
 url: /pittsburgh/pittsburgh-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

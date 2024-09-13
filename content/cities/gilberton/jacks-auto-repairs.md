@@ -1,5 +1,5 @@
 ---
 title: "Jack's Auto Repairs"
 url: /gilberton/jacks-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

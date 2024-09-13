@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /belle-vernon/big-lots/
-shop: Warenhaus
+shop: department store
 ---

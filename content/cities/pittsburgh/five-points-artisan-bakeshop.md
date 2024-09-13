@@ -1,5 +1,5 @@
 ---
 title: "Five Points Artisan Bakeshop"
 url: /pittsburgh/five-points-artisan-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

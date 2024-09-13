@@ -1,5 +1,5 @@
 ---
 title: "Legends Barbershop"
 url: /bethlehem/legends-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

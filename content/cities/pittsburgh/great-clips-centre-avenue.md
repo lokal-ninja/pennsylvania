@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /pittsburgh/great-clips-centre-avenue/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /lansdale/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

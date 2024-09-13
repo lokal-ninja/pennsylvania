@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Center"
 url: /williamsport/bicycle-center/
-shop: Fahrrad
+shop: bicycle
 ---

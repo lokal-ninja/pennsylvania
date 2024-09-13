@@ -1,5 +1,5 @@
 ---
 title: "Strausberger's Garage"
 url: /lehighton/strausbergers-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

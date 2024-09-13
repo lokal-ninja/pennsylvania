@@ -1,5 +1,5 @@
 ---
 title: "Faulkner Hyundai Service Center"
 url: /philadelphia/faulkner-hyundai-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

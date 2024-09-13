@@ -1,5 +1,5 @@
 ---
 title: "iRepair"
 url: /stroudsburg/irepair/
-shop: Handy
+shop: mobile phone
 ---

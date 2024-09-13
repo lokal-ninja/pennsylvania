@@ -1,5 +1,5 @@
 ---
 title: "Embellas"
 url: /harrisburg/embellas/
-shop: Andenken
+shop: gift
 ---

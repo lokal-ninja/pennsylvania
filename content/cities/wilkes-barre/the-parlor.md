@@ -1,5 +1,5 @@
 ---
 title: "The Parlor"
 url: /wilkes-barre/the-parlor/
-shop: Kosmetik
+shop: beauty
 ---

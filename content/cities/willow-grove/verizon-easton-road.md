@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /willow-grove/verizon-easton-road/
-shop: Handy
+shop: mobile phone
 ---

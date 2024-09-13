@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /philadelphia/dollar-general-bustleton-avenue-2/
-shop: Kramladen
+shop: variety store
 ---

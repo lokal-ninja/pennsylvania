@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /scranton/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

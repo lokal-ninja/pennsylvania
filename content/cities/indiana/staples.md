@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /indiana/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

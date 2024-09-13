@@ -1,5 +1,5 @@
 ---
 title: "Sturzen's Furniture Inc."
 url: /towanda/sturzens-furniture-inc/
-shop: Möbel
+shop: furniture
 ---

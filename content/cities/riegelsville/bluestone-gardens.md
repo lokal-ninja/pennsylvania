@@ -1,5 +1,5 @@
 ---
 title: "Bluestone Gardens"
 url: /riegelsville/bluestone-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

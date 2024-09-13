@@ -1,5 +1,5 @@
 ---
 title: "Agway Wild Birding Center"
 url: /west-chester/agway-wild-birding-center/
-shop: Tiere
+shop: pet
 ---

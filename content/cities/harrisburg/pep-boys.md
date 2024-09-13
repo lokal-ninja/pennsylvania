@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /harrisburg/pep-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

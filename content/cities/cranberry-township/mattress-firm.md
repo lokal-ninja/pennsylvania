@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /cranberry-township/mattress-firm/
-shop: Betten
+shop: bed
 ---

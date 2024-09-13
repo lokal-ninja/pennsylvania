@@ -1,5 +1,5 @@
 ---
 title: "Michael Kors"
 url: /pottstown/michael-kors/
-shop: Kleidung
+shop: clothes
 ---

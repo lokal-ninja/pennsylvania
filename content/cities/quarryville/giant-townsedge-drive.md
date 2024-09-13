@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /quarryville/giant-townsedge-drive/
-shop: Supermarkt
+shop: supermarket
 ---

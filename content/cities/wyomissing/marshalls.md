@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /wyomissing/marshalls/
-shop: Warenhaus
+shop: department store
 ---

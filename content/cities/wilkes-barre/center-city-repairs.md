@@ -1,5 +1,5 @@
 ---
 title: "Center City Repairs"
 url: /wilkes-barre/center-city-repairs/
-shop: Handy
+shop: mobile phone
 ---

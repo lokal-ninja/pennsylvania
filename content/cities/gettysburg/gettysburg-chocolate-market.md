@@ -1,5 +1,5 @@
 ---
 title: "Gettysburg Chocolate Market"
 url: /gettysburg/gettysburg-chocolate-market/
-shop: Schokolade
+shop: chocolate
 ---

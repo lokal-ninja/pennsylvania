@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /pittsburgh/macys/
-shop: Warenhaus
+shop: department store
 ---

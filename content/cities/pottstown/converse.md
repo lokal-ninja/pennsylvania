@@ -1,5 +1,5 @@
 ---
 title: "Converse"
 url: /pottstown/converse/
-shop: Schuhe
+shop: shoes
 ---

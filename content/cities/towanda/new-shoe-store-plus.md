@@ -1,5 +1,5 @@
 ---
 title: "New Shoe Store Plus"
 url: /towanda/new-shoe-store-plus/
-shop: Schuhe
+shop: shoes
 ---

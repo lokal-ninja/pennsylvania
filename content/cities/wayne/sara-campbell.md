@@ -1,5 +1,5 @@
 ---
 title: "Sara Campbell"
 url: /wayne/sara-campbell/
-shop: Kleidung
+shop: clothes
 ---

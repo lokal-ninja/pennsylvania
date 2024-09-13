@@ -1,5 +1,5 @@
 ---
 title: "American Allegiance"
 url: /gettysburg/american-allegiance/
-shop: Andenken
+shop: gift
 ---

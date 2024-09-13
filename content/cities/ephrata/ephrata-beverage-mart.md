@@ -1,5 +1,5 @@
 ---
 title: "Ephrata Beverage Mart"
 url: /ephrata/ephrata-beverage-mart/
-shop: Getränke
+shop: beverages
 ---

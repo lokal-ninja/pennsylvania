@@ -1,5 +1,5 @@
 ---
 title: "Sweeet!"
 url: /gettysburg/sweeet/
-shop: Süßwaren
+shop: confectionery
 ---

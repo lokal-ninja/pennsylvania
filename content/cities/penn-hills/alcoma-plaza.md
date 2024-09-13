@@ -1,5 +1,5 @@
 ---
 title: "Alcoma Plaza"
 url: /penn-hills/alcoma-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

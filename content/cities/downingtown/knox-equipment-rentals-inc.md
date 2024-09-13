@@ -1,5 +1,5 @@
 ---
 title: "Knox Equipment Rentals, Inc."
 url: /downingtown/knox-equipment-rentals-inc/
-shop: Mieten
+shop: storage rental
 ---

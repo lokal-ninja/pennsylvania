@@ -1,5 +1,5 @@
 ---
 title: "Sanvito Funeral Home"
 url: /coraopolis/sanvito-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

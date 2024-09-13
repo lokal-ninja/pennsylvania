@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /doylestown/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /cranberry-township/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

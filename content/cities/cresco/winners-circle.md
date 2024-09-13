@@ -1,5 +1,5 @@
 ---
 title: "Winners Circle"
 url: /cresco/winners-circle/
-shop: Autowerkstatt
+shop: car repair
 ---

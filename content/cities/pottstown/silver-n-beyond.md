@@ -1,5 +1,5 @@
 ---
 title: "Silver N' Beyond"
 url: /pottstown/silver-n-beyond/
-shop: Schmuck
+shop: jewelry
 ---

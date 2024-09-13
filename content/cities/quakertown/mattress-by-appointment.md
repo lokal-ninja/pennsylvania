@@ -1,5 +1,5 @@
 ---
 title: "Mattress By Appointment"
 url: /quakertown/mattress-by-appointment/
-shop: Betten
+shop: bed
 ---

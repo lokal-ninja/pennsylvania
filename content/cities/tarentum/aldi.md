@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /tarentum/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West Lake Beer"
 url: /erie/west-lake-beer/
-shop: Getränke
+shop: beverages
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schlofer Auto Body"
 url: /catasauqua/schlofer-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

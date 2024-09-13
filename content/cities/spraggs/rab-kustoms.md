@@ -1,5 +1,5 @@
 ---
 title: "RAB Kustoms"
 url: /spraggs/rab-kustoms/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Genos"
 url: /new-castle/genos/
-shop: Lebensmittel
+shop: convenience
 ---

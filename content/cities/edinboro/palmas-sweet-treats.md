@@ -1,5 +1,5 @@
 ---
 title: "Palma's Sweet Treats"
 url: /edinboro/palmas-sweet-treats/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /upper-southampton-township/sunbelt-rentals/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suburban AutoWorks"
 url: /doylestown/suburban-autoworks/
-shop: Autowerkstatt
+shop: car repair
 ---

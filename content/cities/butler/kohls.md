@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /butler/kohls/
-shop: Warenhaus
+shop: department store
 ---

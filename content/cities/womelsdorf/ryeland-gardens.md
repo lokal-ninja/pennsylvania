@@ -1,5 +1,5 @@
 ---
 title: "Ryeland Gardens"
 url: /womelsdorf/ryeland-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

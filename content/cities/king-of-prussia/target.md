@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /king-of-prussia/target/
-shop: Warenhaus
+shop: department store
 ---

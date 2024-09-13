@@ -1,5 +1,5 @@
 ---
 title: "OshKosh B'gosh"
 url: /pottstown/oshkosh-bgosh/
-shop: Kleidung
+shop: clothes
 ---

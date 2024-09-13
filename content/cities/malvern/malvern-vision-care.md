@@ -1,5 +1,5 @@
 ---
 title: "Malvern Vision Care"
 url: /malvern/malvern-vision-care/
-shop: Optiker
+shop: optician
 ---

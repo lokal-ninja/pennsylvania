@@ -1,5 +1,5 @@
 ---
 title: "Mancuso Automotive"
 url: /washington/mancuso-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Champion Hallman Collision Center"
 url: /erie/champion-hallman-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

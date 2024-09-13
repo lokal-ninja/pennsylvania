@@ -1,5 +1,5 @@
 ---
 title: "Kelly's Worldclass Automotive"
 url: /limerick/kellys-worldclass-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

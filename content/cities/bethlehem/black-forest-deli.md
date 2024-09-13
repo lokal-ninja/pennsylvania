@@ -1,5 +1,5 @@
 ---
 title: "Black Forest Deli"
 url: /bethlehem/black-forest-deli/
-shop: Feinkost
+shop: deli
 ---

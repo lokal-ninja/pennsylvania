@@ -1,5 +1,5 @@
 ---
 title: "BeBe Design House"
 url: /erie/bebe-design-house/
-shop: Raumausstattung
+shop: interior decoration
 ---

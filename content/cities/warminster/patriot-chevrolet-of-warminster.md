@@ -1,5 +1,5 @@
 ---
 title: "Patriot Chevrolet of Warminster"
 url: /warminster/patriot-chevrolet-of-warminster/
-shop: Autohaus
+shop: car
 ---

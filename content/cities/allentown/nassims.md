@@ -1,5 +1,5 @@
 ---
 title: "Nassim's"
 url: /allentown/nassims/
-shop: Friseur
+shop: hairdresser
 ---

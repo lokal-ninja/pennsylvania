@@ -1,5 +1,5 @@
 ---
 title: "Nature's Way Emporium"
 url: /shenandoah/natures-way-emporium/
-shop: Kramladen
+shop: variety store
 ---

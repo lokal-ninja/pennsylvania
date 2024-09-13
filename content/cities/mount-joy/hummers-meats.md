@@ -1,5 +1,5 @@
 ---
 title: "Hummer's Meats"
 url: /mount-joy/hummers-meats/
-shop: Metzgerei
+shop: butcher
 ---

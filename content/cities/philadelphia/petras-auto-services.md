@@ -1,5 +1,5 @@
 ---
 title: "Petra's Auto Services"
 url: /philadelphia/petras-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

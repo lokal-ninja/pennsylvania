@@ -1,5 +1,5 @@
 ---
 title: "Sunoco Ultra Service Center"
 url: /berwyn/sunoco-ultra-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

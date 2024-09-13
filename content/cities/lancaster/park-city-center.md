@@ -1,5 +1,5 @@
 ---
 title: "Park City Center"
 url: /lancaster/park-city-center/
-shop: Einkaufszentrum
+shop: mall
 ---

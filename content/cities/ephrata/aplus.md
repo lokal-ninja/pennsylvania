@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /ephrata/aplus/
-shop: Lebensmittel
+shop: convenience
 ---

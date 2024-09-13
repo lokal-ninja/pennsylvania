@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /allentown/staples-lehigh-street/
-shop: Schreibwaren
+shop: office supplies
 ---

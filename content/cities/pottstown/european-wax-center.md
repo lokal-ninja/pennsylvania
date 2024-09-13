@@ -1,5 +1,5 @@
 ---
 title: "European Wax Center"
 url: /pottstown/european-wax-center/
-shop: Kosmetik
+shop: beauty
 ---

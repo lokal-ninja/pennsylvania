@@ -1,5 +1,5 @@
 ---
 title: "Bill's Produce"
 url: /schuylkill-haven/bills-produce/
-shop: Hofladen
+shop: farm
 ---

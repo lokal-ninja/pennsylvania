@@ -1,5 +1,5 @@
 ---
 title: "Fegley Mini Mart"
 url: /mcadoo/fegley-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quick Stop"
 url: /wilkes-barre/quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

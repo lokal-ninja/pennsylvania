@@ -1,5 +1,5 @@
 ---
 title: "SAS Shoes"
 url: /collegeville/sas-shoes/
-shop: Schuhe
+shop: shoes
 ---

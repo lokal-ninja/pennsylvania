@@ -1,5 +1,5 @@
 ---
 title: "Top o' the Morning"
 url: /elizabeth/top-o-the-morning/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tune Up Barbershop"
 url: /philadelphia/tune-up-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

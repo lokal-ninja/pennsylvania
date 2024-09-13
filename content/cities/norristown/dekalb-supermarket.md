@@ -1,5 +1,5 @@
 ---
 title: "DeKalb Supermarket"
 url: /norristown/dekalb-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

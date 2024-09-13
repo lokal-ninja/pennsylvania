@@ -1,5 +1,5 @@
 ---
 title: "Morningside Automotive"
 url: /pittsburgh/morningside-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trove General Store"
 url: /paoli/trove-general-store/
-shop: Kleidung
+shop: clothes
 ---

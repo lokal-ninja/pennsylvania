@@ -1,5 +1,5 @@
 ---
 title: "Enterprise"
 url: /philadelphia/enterprise/
-shop: Mieten
+shop: storage rental
 ---

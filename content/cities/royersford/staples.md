@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /royersford/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

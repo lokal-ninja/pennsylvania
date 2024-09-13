@@ -1,5 +1,5 @@
 ---
 title: "Bombay Food Market"
 url: /pittsburgh/bombay-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

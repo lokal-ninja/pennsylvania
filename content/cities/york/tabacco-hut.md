@@ -1,5 +1,5 @@
 ---
 title: "Tabacco Hut"
 url: /york/tabacco-hut/
-shop: Tabak
+shop: tobacco
 ---

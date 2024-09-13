@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /newtown/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

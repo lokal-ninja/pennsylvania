@@ -1,5 +1,5 @@
 ---
 title: "Rainstar Industries"
 url: /chester/rainstar-industries/
-shop: Kleidung
+shop: clothes
 ---

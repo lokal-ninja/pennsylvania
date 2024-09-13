@@ -1,5 +1,5 @@
 ---
 title: "King James Galleries"
 url: /gettysburg/king-james-galleries/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peebles"
 url: /matamoras/peebles/
-shop: Warenhaus
+shop: department store
 ---

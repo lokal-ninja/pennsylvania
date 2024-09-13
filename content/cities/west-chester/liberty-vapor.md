@@ -1,5 +1,5 @@
 ---
 title: "Liberty Vapor"
 url: /west-chester/liberty-vapor/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

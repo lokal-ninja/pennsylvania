@@ -1,5 +1,5 @@
 ---
 title: "Roche's Garage"
 url: /wilkes-barre/roches-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

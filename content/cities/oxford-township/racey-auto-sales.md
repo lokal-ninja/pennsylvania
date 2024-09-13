@@ -1,5 +1,5 @@
 ---
 title: "Racey Auto Sales"
 url: /oxford-township/racey-auto-sales/
-shop: Autohaus
+shop: car
 ---

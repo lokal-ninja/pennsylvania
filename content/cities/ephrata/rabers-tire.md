@@ -1,5 +1,5 @@
 ---
 title: "Raber's Tire"
 url: /ephrata/rabers-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

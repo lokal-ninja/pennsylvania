@@ -1,5 +1,5 @@
 ---
 title: "Brilhart's"
 url: /johnstown/brilharts/
-shop: Autowerkstatt
+shop: car repair
 ---

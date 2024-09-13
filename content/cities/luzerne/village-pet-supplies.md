@@ -1,5 +1,5 @@
 ---
 title: "Village Pet Supplies"
 url: /luzerne/village-pet-supplies/
-shop: Tiere
+shop: pet
 ---

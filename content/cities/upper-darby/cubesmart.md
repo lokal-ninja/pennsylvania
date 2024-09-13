@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /upper-darby/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

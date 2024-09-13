@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /erie/burlington/
-shop: Warenhaus
+shop: department store
 ---

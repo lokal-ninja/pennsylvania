@@ -1,5 +1,5 @@
 ---
 title: "Gettysburg Rental Center"
 url: /gettysburg/gettysburg-rental-center/
-shop: Mieten
+shop: storage rental
 ---

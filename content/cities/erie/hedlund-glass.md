@@ -1,5 +1,5 @@
 ---
 title: "Hedlund Glass"
 url: /erie/hedlund-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

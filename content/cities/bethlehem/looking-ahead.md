@@ -1,5 +1,5 @@
 ---
 title: "Looking Ahead"
 url: /bethlehem/looking-ahead/
-shop: Friseur
+shop: hairdresser
 ---

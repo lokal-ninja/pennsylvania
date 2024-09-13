@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /monroeville/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

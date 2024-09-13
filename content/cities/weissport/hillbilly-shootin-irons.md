@@ -1,5 +1,5 @@
 ---
 title: "Hillbilly Shootin' Irons"
 url: /weissport/hillbilly-shootin-irons/
-shop: Waffen
+shop: weapons
 ---

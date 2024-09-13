@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
 url: /stewartstown/royal-farms/
-shop: Lebensmittel
+shop: convenience
 ---

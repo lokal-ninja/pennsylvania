@@ -1,5 +1,5 @@
 ---
 title: "Hannastown Golf Club"
 url: /greensburg/hannastown-golf-club/
-shop: Golf
+shop: golf
 ---

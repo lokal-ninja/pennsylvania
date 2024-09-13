@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /swiftwater/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

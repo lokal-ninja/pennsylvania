@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /kennett-square/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

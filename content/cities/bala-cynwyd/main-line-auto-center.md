@@ -1,5 +1,5 @@
 ---
 title: "Main Line Auto Center"
 url: /bala-cynwyd/main-line-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

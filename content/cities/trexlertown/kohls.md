@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /trexlertown/kohls/
-shop: Warenhaus
+shop: department store
 ---

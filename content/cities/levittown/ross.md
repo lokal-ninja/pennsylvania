@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /levittown/ross/
-shop: Warenhaus
+shop: department store
 ---

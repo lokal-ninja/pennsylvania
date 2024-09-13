@@ -1,5 +1,5 @@
 ---
 title: "Mart"
 url: /malvern/mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /glenside/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Five Points Laundry"
 url: /bethlehem/five-points-laundry/
-shop: Wäscherei
+shop: laundry
 ---

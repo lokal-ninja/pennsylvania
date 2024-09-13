@@ -1,5 +1,5 @@
 ---
 title: "Kaly"
 url: /west-chester/kaly/
-shop: Kleidung
+shop: clothes
 ---

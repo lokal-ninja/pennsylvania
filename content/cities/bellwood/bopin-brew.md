@@ -1,5 +1,5 @@
 ---
 title: "Bopin' Brew"
 url: /bellwood/bopin-brew/
-shop: Spirituosen
+shop: alcohol
 ---

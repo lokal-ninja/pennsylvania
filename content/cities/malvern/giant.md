@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /malvern/giant/
-shop: Supermarkt
+shop: supermarket
 ---

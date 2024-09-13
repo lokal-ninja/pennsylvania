@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /uniontown/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

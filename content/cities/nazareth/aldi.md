@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /nazareth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

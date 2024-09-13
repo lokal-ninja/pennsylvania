@@ -1,5 +1,5 @@
 ---
 title: "CARSTAR Quality Auto Body"
 url: /feasterville-trevose/carstar-quality-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

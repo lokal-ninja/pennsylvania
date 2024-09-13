@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /fairless-hills/best-buy/
-shop: Elektronik
+shop: electronics
 ---

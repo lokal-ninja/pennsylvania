@@ -1,5 +1,5 @@
 ---
 title: "Agway"
 url: /ephrata/agway/
-shop: Warenhaus
+shop: department store
 ---

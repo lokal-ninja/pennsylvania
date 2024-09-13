@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /glen-mills/pearle-vision/
-shop: Optiker
+shop: optician
 ---

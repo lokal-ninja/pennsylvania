@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /mckeesport/family-dollar-5th-avenue/
-shop: Kramladen
+shop: variety store
 ---

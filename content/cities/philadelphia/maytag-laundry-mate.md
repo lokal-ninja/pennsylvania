@@ -1,5 +1,5 @@
 ---
 title: "Maytag Laundry Mate"
 url: /philadelphia/maytag-laundry-mate/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /lebanon/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

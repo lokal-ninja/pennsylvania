@@ -1,5 +1,5 @@
 ---
 title: "NowTech"
 url: /wilkes-barre/nowtech/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cycledrome"
 url: /breinigsville/cycledrome/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safelite AutoGlass"
 url: /greensburg/safelite-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

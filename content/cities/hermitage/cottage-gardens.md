@@ -1,5 +1,5 @@
 ---
 title: "Cottage Gardens"
 url: /hermitage/cottage-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

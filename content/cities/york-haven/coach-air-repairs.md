@@ -1,5 +1,5 @@
 ---
 title: "Coach Air Repairs"
 url: /york-haven/coach-air-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

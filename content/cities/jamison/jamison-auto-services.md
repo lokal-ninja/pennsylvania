@@ -1,5 +1,5 @@
 ---
 title: "Jamison Auto Services"
 url: /jamison/jamison-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

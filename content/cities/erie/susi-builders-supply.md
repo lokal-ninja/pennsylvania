@@ -1,5 +1,5 @@
 ---
 title: "Susi Builders Supply"
 url: /erie/susi-builders-supply/
-shop: Fußböden
+shop: flooring
 ---

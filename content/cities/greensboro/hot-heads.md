@@ -1,5 +1,5 @@
 ---
 title: "Hot Heads"
 url: /greensboro/hot-heads/
-shop: Kosmetik
+shop: beauty
 ---

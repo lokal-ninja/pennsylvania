@@ -1,5 +1,5 @@
 ---
 title: "Outdoor Living"
 url: /chambersburg/outdoor-living/
-shop: Allgemein
+shop: shop
 ---

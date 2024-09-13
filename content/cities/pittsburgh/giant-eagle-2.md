@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /pittsburgh/giant-eagle-2/
-shop: Supermarkt
+shop: supermarket
 ---

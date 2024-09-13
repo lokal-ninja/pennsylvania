@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /monaca/target/
-shop: Warenhaus
+shop: department store
 ---

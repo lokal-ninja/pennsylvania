@@ -1,5 +1,5 @@
 ---
 title: "Hearn Enterprises"
 url: /bowmanstown/hearn-enterprises/
-shop: Autowerkstatt
+shop: car repair
 ---

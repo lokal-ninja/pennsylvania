@@ -1,5 +1,5 @@
 ---
 title: "RISE"
 url: /philadelphia/rise/
-shop: Hanf
+shop: cannabis
 ---

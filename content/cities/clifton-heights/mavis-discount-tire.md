@@ -1,5 +1,5 @@
 ---
 title: "Mavis Discount Tire"
 url: /clifton-heights/mavis-discount-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

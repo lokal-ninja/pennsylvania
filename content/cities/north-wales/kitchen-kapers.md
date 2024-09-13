@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Kapers"
 url: /north-wales/kitchen-kapers/
-shop: Küchen
+shop: kitchen
 ---

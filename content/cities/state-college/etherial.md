@@ -1,5 +1,5 @@
 ---
 title: "etherial"
 url: /state-college/etherial/
-shop: Kosmetik
+shop: beauty
 ---

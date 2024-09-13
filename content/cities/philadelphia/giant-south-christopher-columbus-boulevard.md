@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /philadelphia/giant-south-christopher-columbus-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

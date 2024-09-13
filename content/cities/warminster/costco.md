@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /warminster/costco/
-shop: Großhandel
+shop: wholesale
 ---

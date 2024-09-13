@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /erie/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

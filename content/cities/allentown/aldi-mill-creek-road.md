@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /allentown/aldi-mill-creek-road/
-shop: Supermarkt
+shop: supermarket
 ---

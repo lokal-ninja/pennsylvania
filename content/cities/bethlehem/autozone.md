@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bethlehem/autozone/
-shop: Autoteile
+shop: car parts
 ---

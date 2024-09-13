@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /philadelphia/u-haul/
-shop: Mieten
+shop: storage rental
 ---

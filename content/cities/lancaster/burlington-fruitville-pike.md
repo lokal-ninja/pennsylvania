@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /lancaster/burlington-fruitville-pike/
-shop: Warenhaus
+shop: department store
 ---

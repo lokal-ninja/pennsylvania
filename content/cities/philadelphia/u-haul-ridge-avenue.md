@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /philadelphia/u-haul-ridge-avenue/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Designer Consigner"
 url: /bethlehem/designer-consigner/
-shop: Kleidung
+shop: clothes
 ---

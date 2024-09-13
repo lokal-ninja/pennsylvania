@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /philadelphia/hair-cuttery-cathedral-road/
-shop: Friseur
+shop: hairdresser
 ---

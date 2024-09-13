@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /quakertown/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oakley"
 url: /pottstown/oakley/
-shop: Optiker
+shop: optician
 ---

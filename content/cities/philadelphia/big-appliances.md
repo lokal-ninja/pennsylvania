@@ -1,5 +1,5 @@
 ---
 title: "Big Appliances"
 url: /philadelphia/big-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

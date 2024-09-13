@@ -1,5 +1,5 @@
 ---
 title: "Positively Pasta"
 url: /pottstown/positively-pasta/
-shop: Pasta
+shop: pasta
 ---

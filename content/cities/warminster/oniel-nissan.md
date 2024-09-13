@@ -1,5 +1,5 @@
 ---
 title: "O'Niel Nissan"
 url: /warminster/oniel-nissan/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pereira's"
 url: /summit-hill/pereiras/
-shop: Lebensmittel
+shop: convenience
 ---

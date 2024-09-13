@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /frazer/verizon/
-shop: Handy
+shop: mobile phone
 ---

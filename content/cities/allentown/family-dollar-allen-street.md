@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /allentown/family-dollar-allen-street/
-shop: Kramladen
+shop: variety store
 ---

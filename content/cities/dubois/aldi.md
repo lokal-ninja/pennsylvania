@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /dubois/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

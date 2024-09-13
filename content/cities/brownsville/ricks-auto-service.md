@@ -1,5 +1,5 @@
 ---
 title: "Rick's Auto Service"
 url: /brownsville/ricks-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

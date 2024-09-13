@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /feasterville/burlington/
-shop: Warenhaus
+shop: department store
 ---

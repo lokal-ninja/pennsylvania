@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /gap/weis/
-shop: Supermarkt
+shop: supermarket
 ---

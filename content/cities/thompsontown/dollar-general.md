@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /thompsontown/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

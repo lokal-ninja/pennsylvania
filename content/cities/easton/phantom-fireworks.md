@@ -1,5 +1,5 @@
 ---
 title: "Phantom Fireworks"
 url: /easton/phantom-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

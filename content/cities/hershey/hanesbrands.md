@@ -1,5 +1,5 @@
 ---
 title: "Hanesbrands"
 url: /hershey/hanesbrands/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hanesbrands"
 url: /pottstown/hanesbrands/
-shop: Kleidung
+shop: clothes
 ---

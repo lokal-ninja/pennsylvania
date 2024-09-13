@@ -1,5 +1,5 @@
 ---
 title: "Cotswold Home"
 url: /spring-house/cotswold-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /wyomissing/massage-envy/
-shop: Massage
+shop: massage
 ---

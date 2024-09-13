@@ -1,5 +1,5 @@
 ---
 title: "DeBear's Auto"
 url: /philadelphia/debears-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

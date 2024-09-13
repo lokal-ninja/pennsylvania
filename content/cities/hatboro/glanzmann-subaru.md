@@ -1,5 +1,5 @@
 ---
 title: "Glanzmann Subaru"
 url: /hatboro/glanzmann-subaru/
-shop: Autohaus
+shop: car
 ---

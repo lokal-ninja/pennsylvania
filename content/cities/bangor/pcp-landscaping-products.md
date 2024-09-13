@@ -1,5 +1,5 @@
 ---
 title: "PCP Landscaping Products"
 url: /bangor/pcp-landscaping-products/
-shop: Garten-Center
+shop: garden centre
 ---

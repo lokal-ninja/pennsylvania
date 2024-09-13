@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /harrisburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

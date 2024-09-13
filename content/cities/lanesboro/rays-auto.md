@@ -1,5 +1,5 @@
 ---
 title: "Rays Auto"
 url: /lanesboro/rays-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

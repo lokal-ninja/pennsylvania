@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /warren/maurices/
-shop: Kleidung
+shop: clothes
 ---

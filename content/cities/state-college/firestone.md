@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /state-college/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

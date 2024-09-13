@@ -1,5 +1,5 @@
 ---
 title: "Miller's"
 url: /frackville/millers/
-shop: Autowerkstatt
+shop: car repair
 ---

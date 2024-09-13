@@ -1,5 +1,5 @@
 ---
 title: "Sherry Distributors"
 url: /meadville/sherry-distributors/
-shop: Spirituosen
+shop: alcohol
 ---

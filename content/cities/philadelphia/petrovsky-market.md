@@ -1,5 +1,5 @@
 ---
 title: "Petrovsky Market"
 url: /philadelphia/petrovsky-market/
-shop: Supermarkt
+shop: supermarket
 ---

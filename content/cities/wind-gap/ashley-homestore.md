@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /wind-gap/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

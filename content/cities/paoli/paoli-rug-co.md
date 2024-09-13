@@ -1,5 +1,5 @@
 ---
 title: "Paoli Rug Co."
 url: /paoli/paoli-rug-co/
-shop: Möbel
+shop: furniture
 ---

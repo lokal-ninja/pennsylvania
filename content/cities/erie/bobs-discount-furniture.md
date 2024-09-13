@@ -1,5 +1,5 @@
 ---
 title: "Bob's Discount Furniture"
 url: /erie/bobs-discount-furniture/
-shop: Möbel
+shop: furniture
 ---

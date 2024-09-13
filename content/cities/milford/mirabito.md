@@ -1,5 +1,5 @@
 ---
 title: "Mirabito"
 url: /milford/mirabito/
-shop: Lebensmittel
+shop: convenience
 ---

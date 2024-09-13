@@ -1,5 +1,5 @@
 ---
 title: "Velvet Hair Studio"
 url: /west-chester/velvet-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

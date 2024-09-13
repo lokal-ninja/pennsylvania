@@ -1,5 +1,5 @@
 ---
 title: "CVS"
 url: /swarthmore/cvs/
-shop: Drogerie
+shop: chemist
 ---

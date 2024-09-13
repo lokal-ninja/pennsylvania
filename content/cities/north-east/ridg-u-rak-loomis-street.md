@@ -1,5 +1,5 @@
 ---
 title: "Ridg-U-Rak"
 url: /north-east/ridg-u-rak-loomis-street/
-shop: Mieten
+shop: storage rental
 ---

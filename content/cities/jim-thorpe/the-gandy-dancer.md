@@ -1,5 +1,5 @@
 ---
 title: "The Gandy Dancer"
 url: /jim-thorpe/the-gandy-dancer/
-shop: Andenken
+shop: gift
 ---

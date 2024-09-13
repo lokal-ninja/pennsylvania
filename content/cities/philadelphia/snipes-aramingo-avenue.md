@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
 url: /philadelphia/snipes-aramingo-avenue/
-shop: Schuhe
+shop: shoes
 ---

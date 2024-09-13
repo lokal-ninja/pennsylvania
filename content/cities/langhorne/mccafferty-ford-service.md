@@ -1,5 +1,5 @@
 ---
 title: "McCafferty Ford Service"
 url: /langhorne/mccafferty-ford-service/
-shop: Autowerkstatt
+shop: car repair
 ---

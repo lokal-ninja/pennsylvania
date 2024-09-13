@@ -1,5 +1,5 @@
 ---
 title: "Bloom Cigar Company"
 url: /pittsburgh/bloom-cigar-company/
-shop: Tabak
+shop: tobacco
 ---

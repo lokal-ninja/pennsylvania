@@ -1,5 +1,5 @@
 ---
 title: "365 Cycles"
 url: /east-petersburg/365-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

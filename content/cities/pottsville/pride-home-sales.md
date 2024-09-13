@@ -1,5 +1,5 @@
 ---
 title: "Pride Home Sales"
 url: /pottsville/pride-home-sales/
-shop: Allgemein
+shop: shop
 ---

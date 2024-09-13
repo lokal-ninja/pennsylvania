@@ -1,5 +1,5 @@
 ---
 title: "Elite Collision Repair"
 url: /bethlehem/elite-collision-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

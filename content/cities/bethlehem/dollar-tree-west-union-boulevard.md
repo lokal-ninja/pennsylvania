@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /bethlehem/dollar-tree-west-union-boulevard/
-shop: Kramladen
+shop: variety store
 ---

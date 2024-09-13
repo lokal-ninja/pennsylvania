@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /darby/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

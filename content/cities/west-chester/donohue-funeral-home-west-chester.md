@@ -1,5 +1,5 @@
 ---
 title: "Donohue Funeral Home - West Chester"
 url: /west-chester/donohue-funeral-home-west-chester/
-shop: Bestattungen
+shop: funeral directors
 ---

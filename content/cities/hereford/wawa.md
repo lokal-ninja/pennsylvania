@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /hereford/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

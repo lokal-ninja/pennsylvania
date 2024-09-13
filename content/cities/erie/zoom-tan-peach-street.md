@@ -1,5 +1,5 @@
 ---
 title: "Zoom Tan"
 url: /erie/zoom-tan-peach-street/
-shop: Kosmetik
+shop: beauty
 ---

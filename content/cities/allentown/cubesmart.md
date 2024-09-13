@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /allentown/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

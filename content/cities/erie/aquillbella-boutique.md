@@ -1,5 +1,5 @@
 ---
 title: "Aquillbella Boutique"
 url: /erie/aquillbella-boutique/
-shop: Kleidung
+shop: clothes
 ---

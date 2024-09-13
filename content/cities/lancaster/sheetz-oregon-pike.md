@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /lancaster/sheetz-oregon-pike/
-shop: Lebensmittel
+shop: convenience
 ---

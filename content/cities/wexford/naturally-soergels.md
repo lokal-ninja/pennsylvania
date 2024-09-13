@@ -1,5 +1,5 @@
 ---
 title: "Naturally Soergel's"
 url: /wexford/naturally-soergels/
-shop: Supermarkt
+shop: supermarket
 ---

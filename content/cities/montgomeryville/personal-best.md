@@ -1,5 +1,5 @@
 ---
 title: "Personal Best"
 url: /montgomeryville/personal-best/
-shop: Kleidung
+shop: clothes
 ---

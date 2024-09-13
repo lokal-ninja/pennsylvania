@@ -1,5 +1,5 @@
 ---
 title: "Clothesline"
 url: /allentown/clothesline/
-shop: Wäscherei
+shop: laundry
 ---

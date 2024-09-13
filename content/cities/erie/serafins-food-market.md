@@ -1,5 +1,5 @@
 ---
 title: "Serafin's Food Market"
 url: /erie/serafins-food-market/
-shop: Supermarkt
+shop: supermarket
 ---

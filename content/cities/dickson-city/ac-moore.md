@@ -1,5 +1,5 @@
 ---
 title: "AC Moore"
 url: /dickson-city/ac-moore/
-shop: Textil
+shop: fabric
 ---

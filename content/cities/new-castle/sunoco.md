@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /new-castle/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

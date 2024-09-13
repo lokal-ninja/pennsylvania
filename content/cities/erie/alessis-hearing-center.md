@@ -1,5 +1,5 @@
 ---
 title: "Alessi's Hearing Center"
 url: /erie/alessis-hearing-center/
-shop: Hörgeräte
+shop: hearing aids
 ---

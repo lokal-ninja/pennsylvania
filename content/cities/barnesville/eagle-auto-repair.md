@@ -1,5 +1,5 @@
 ---
 title: "Eagle Auto Repair"
 url: /barnesville/eagle-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

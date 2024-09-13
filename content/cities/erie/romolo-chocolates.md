@@ -1,5 +1,5 @@
 ---
 title: "Romolo Chocolates"
 url: /erie/romolo-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

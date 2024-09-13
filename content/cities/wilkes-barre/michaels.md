@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /wilkes-barre/michaels/
-shop: Basteln
+shop: craft
 ---

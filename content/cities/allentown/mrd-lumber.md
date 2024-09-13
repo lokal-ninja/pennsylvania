@@ -1,5 +1,5 @@
 ---
 title: "MRD Lumber"
 url: /allentown/mrd-lumber/
-shop: Baustoffe
+shop: trade
 ---

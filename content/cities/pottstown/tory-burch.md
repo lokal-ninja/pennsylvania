@@ -1,5 +1,5 @@
 ---
 title: "Tory Burch"
 url: /pottstown/tory-burch/
-shop: Kleidung
+shop: clothes
 ---

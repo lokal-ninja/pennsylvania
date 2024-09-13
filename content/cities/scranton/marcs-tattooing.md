@@ -1,5 +1,5 @@
 ---
 title: "Marc's Tattooing"
 url: /scranton/marcs-tattooing/
-shop: Tattoo
+shop: tattoo
 ---

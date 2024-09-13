@@ -1,5 +1,5 @@
 ---
 title: "Apex Automotive"
 url: /chester/apex-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

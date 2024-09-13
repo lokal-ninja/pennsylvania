@@ -1,5 +1,5 @@
 ---
 title: "Buck's Food Market"
 url: /chester/bucks-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

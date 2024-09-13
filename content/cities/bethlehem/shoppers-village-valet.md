@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Village Valet"
 url: /bethlehem/shoppers-village-valet/
-shop: Wäscherei
+shop: laundry
 ---

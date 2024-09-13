@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /mifflintown/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

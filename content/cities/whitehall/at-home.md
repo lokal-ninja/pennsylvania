@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /whitehall/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

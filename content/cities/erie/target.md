@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /erie/target/
-shop: Warenhaus
+shop: department store
 ---

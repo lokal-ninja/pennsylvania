@@ -1,5 +1,5 @@
 ---
 title: "Millcreek Mall"
 url: /erie/millcreek-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

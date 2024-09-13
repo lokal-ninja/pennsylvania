@@ -1,5 +1,5 @@
 ---
 title: "KicksUSA"
 url: /philadelphia/kicksusa/
-shop: Schuhe
+shop: shoes
 ---

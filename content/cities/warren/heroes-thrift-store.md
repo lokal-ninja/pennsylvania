@@ -1,5 +1,5 @@
 ---
 title: "Heroes Thrift Store"
 url: /warren/heroes-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seneca Storage"
 url: /seneca/seneca-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /muncy/target/
-shop: Warenhaus
+shop: department store
 ---

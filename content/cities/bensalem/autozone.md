@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bensalem/autozone/
-shop: Autoteile
+shop: car parts
 ---

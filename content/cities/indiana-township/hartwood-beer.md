@@ -1,5 +1,5 @@
 ---
 title: "Hartwood Beer"
 url: /indiana-township/hartwood-beer/
-shop: Spirituosen
+shop: alcohol
 ---

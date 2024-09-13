@@ -1,5 +1,5 @@
 ---
 title: "Colonial Collision"
 url: /collegeville/colonial-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

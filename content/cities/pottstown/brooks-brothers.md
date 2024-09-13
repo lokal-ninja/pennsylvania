@@ -1,5 +1,5 @@
 ---
 title: "Brooks Brothers"
 url: /pottstown/brooks-brothers/
-shop: Kleidung
+shop: clothes
 ---

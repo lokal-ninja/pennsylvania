@@ -1,5 +1,5 @@
 ---
 title: "Red Sparrow"
 url: /downingtown/red-sparrow/
-shop: Tattoo
+shop: tattoo
 ---

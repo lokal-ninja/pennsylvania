@@ -1,5 +1,5 @@
 ---
 title: "Shamokin Equipment Co"
 url: /shamokin/shamokin-equipment-co/
-shop: Haushaltsgeräte
+shop: appliance
 ---

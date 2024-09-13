@@ -1,5 +1,5 @@
 ---
 title: "Florio's Auto Body"
 url: /chester/florios-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

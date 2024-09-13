@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /lebanon/dollar-tree-east-walnut-street/
-shop: Kramladen
+shop: variety store
 ---

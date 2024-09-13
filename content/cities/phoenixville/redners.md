@@ -1,5 +1,5 @@
 ---
 title: "Redner's"
 url: /phoenixville/redners/
-shop: Supermarkt
+shop: supermarket
 ---

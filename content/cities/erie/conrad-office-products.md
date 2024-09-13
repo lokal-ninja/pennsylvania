@@ -1,5 +1,5 @@
 ---
 title: "Conrad Office Products"
 url: /erie/conrad-office-products/
-shop: Schreibwaren
+shop: office supplies
 ---

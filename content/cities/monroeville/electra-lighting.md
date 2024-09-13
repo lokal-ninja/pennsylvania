@@ -1,5 +1,5 @@
 ---
 title: "Electra Lighting"
 url: /monroeville/electra-lighting/
-shop: Baumarkt
+shop: doityourself
 ---

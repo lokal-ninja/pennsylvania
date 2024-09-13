@@ -1,5 +1,5 @@
 ---
 title: "Redner's"
 url: /wyomissing/redners/
-shop: Supermarkt
+shop: supermarket
 ---

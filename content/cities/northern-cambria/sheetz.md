@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /northern-cambria/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

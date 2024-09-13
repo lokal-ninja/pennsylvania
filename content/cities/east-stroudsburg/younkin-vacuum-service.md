@@ -1,5 +1,5 @@
 ---
 title: "Younkin Vacuum Service"
 url: /east-stroudsburg/younkin-vacuum-service/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

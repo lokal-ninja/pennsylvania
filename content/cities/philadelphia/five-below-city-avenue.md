@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /philadelphia/five-below-city-avenue/
-shop: Kramladen
+shop: variety store
 ---

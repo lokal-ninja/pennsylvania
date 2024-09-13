@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /bensalem/acme/
-shop: Supermarkt
+shop: supermarket
 ---

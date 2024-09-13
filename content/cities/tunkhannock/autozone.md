@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tunkhannock/autozone/
-shop: Autoteile
+shop: car parts
 ---

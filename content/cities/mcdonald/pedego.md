@@ -1,5 +1,5 @@
 ---
 title: "Pedego"
 url: /mcdonald/pedego/
-shop: Fahrrad
+shop: bicycle
 ---

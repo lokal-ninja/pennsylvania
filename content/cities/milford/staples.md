@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /milford/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

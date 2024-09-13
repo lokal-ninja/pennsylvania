@@ -1,5 +1,5 @@
 ---
 title: "Trax Farms Market"
 url: /finleyville/trax-farms-market/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /pittsburgh/petco-freeport-road/
-shop: Tiere
+shop: pet
 ---

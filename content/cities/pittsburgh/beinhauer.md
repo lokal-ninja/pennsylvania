@@ -1,5 +1,5 @@
 ---
 title: "Beinhauer"
 url: /pittsburgh/beinhauer/
-shop: Bestattungen
+shop: funeral directors
 ---

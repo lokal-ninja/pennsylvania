@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /wyomissing/target/
-shop: Warenhaus
+shop: department store
 ---

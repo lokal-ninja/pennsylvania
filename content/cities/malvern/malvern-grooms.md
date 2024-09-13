@@ -1,5 +1,5 @@
 ---
 title: "Malvern Grooms"
 url: /malvern/malvern-grooms/
-shop: Tiersalon
+shop: pet grooming
 ---

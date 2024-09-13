@@ -1,5 +1,5 @@
 ---
 title: "McHugh's Brews"
 url: /new-ringgold/mchughs-brews/
-shop: Getränke
+shop: beverages
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /lebanon/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

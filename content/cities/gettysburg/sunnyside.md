@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside"
 url: /gettysburg/sunnyside/
-shop: Hanf
+shop: cannabis
 ---

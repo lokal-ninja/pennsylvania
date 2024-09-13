@@ -1,5 +1,5 @@
 ---
 title: "Weaver's Way Farmstand"
 url: /philadelphia/weavers-way-farmstand/
-shop: Hofladen
+shop: farm
 ---

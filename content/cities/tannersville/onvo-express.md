@@ -1,5 +1,5 @@
 ---
 title: "Onvo Express"
 url: /tannersville/onvo-express/
-shop: Lebensmittel
+shop: convenience
 ---

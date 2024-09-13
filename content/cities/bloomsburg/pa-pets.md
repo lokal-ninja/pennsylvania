@@ -1,5 +1,5 @@
 ---
 title: "PA Pets"
 url: /bloomsburg/pa-pets/
-shop: Gebrauchtwaren
+shop: charity
 ---

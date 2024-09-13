@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /lancaster/sheetz-columbia-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

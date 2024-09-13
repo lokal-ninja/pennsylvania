@@ -1,5 +1,5 @@
 ---
 title: "Hair Attitude"
 url: /bethel-park/hair-attitude/
-shop: Friseur
+shop: hairdresser
 ---

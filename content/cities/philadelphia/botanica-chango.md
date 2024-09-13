@@ -1,5 +1,5 @@
 ---
 title: "Botanica Chango"
 url: /philadelphia/botanica-chango/
-shop: Andenken
+shop: gift
 ---

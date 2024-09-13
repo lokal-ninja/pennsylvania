@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /doylestown/hallmark/
-shop: Andenken
+shop: gift
 ---

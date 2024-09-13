@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /pittsburgh/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

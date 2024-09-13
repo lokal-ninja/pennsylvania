@@ -1,5 +1,5 @@
 ---
 title: "Ritz Cleaners"
 url: /philadelphia/ritz-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

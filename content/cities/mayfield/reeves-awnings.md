@@ -1,5 +1,5 @@
 ---
 title: "Reeve's Awnings"
 url: /mayfield/reeves-awnings/
-shop: Jalousien
+shop: window blind
 ---

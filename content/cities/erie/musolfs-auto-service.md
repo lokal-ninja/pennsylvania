@@ -1,5 +1,5 @@
 ---
 title: "Musolf's Auto Service"
 url: /erie/musolfs-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

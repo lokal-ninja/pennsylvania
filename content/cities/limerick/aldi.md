@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /limerick/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

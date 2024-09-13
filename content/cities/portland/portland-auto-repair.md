@@ -1,5 +1,5 @@
 ---
 title: "Portland Auto Repair"
 url: /portland/portland-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

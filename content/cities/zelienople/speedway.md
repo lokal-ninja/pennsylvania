@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /zelienople/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

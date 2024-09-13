@@ -1,5 +1,5 @@
 ---
 title: "Crouse's Body Shop"
 url: /quarryville/crouses-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

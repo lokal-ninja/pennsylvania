@@ -1,5 +1,5 @@
 ---
 title: "Visions Barbershop"
 url: /erie/visions-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /pottstown/crocs/
-shop: Schuhe
+shop: shoes
 ---

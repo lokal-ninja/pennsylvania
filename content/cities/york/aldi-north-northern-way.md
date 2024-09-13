@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /york/aldi-north-northern-way/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Mart"
 url: /kennedy/super-mart/
-shop: Lebensmittel
+shop: convenience
 ---

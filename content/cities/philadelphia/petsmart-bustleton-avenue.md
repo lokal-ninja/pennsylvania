@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /philadelphia/petsmart-bustleton-avenue/
-shop: Tiere
+shop: pet
 ---

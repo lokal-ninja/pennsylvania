@@ -1,5 +1,5 @@
 ---
 title: "Richard's Bike Shop"
 url: /philadelphia/richards-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

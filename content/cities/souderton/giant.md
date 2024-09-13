@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /souderton/giant/
-shop: Supermarkt
+shop: supermarket
 ---

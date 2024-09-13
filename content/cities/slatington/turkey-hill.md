@@ -1,5 +1,5 @@
 ---
 title: "Turkey Hill"
 url: /slatington/turkey-hill/
-shop: Lebensmittel
+shop: convenience
 ---

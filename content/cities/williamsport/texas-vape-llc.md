@@ -1,5 +1,5 @@
 ---
 title: "Texas Vape LLC"
 url: /williamsport/texas-vape-llc/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

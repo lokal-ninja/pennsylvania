@@ -1,5 +1,5 @@
 ---
 title: "Mike's Wheel Alignment"
 url: /greensboro/mikes-wheel-alignment/
-shop: Autowerkstatt
+shop: car repair
 ---

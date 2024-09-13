@@ -1,5 +1,5 @@
 ---
 title: "Gabe's"
 url: /new-castle/gabes/
-shop: Kleidung
+shop: clothes
 ---

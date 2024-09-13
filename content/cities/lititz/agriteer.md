@@ -1,5 +1,5 @@
 ---
 title: "Agriteer"
 url: /lititz/agriteer/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

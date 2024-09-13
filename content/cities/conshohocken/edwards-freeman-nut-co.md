@@ -1,5 +1,5 @@
 ---
 title: "Edwards Freeman Nut Co."
 url: /conshohocken/edwards-freeman-nut-co/
-shop: Süßwaren
+shop: confectionery
 ---

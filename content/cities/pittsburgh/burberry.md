@@ -1,5 +1,5 @@
 ---
 title: "Burberry"
 url: /pittsburgh/burberry/
-shop: Kleidung
+shop: clothes
 ---

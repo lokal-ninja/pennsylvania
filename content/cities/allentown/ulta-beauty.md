@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /allentown/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

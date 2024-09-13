@@ -1,5 +1,5 @@
 ---
 title: "Presque Isle Militaria"
 url: /erie/presque-isle-militaria/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eclectic Hair Salon"
 url: /wilkes-barre/eclectic-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

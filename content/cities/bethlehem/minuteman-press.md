@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press"
 url: /bethlehem/minuteman-press/
-shop: Kopieren
+shop: copyshop
 ---

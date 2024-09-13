@@ -1,5 +1,5 @@
 ---
 title: "Tripifoods"
 url: /erie/tripifoods/
-shop: Großhandel
+shop: wholesale
 ---

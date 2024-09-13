@@ -1,5 +1,5 @@
 ---
 title: "Superior Multiservice"
 url: /mcadoo/superior-multiservice/
-shop: Allgemein
+shop: shop
 ---

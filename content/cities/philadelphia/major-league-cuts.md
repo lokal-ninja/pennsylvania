@@ -1,5 +1,5 @@
 ---
 title: "Major League Cuts"
 url: /philadelphia/major-league-cuts/
-shop: Friseur
+shop: hairdresser
 ---

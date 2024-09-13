@@ -1,5 +1,5 @@
 ---
 title: "Cigarette Outlet"
 url: /easton/cigarette-outlet/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KARS"
 url: /york/kars/
-shop: Autowerkstatt
+shop: car repair
 ---

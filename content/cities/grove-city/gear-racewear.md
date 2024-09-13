@@ -1,5 +1,5 @@
 ---
 title: "Gear Racewear"
 url: /grove-city/gear-racewear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barbush Automotive"
 url: /harleigh/barbush-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

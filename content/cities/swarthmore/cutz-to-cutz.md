@@ -1,5 +1,5 @@
 ---
 title: "Cutz To Cutz"
 url: /swarthmore/cutz-to-cutz/
-shop: Friseur
+shop: hairdresser
 ---

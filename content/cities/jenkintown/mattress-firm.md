@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /jenkintown/mattress-firm/
-shop: Betten
+shop: bed
 ---

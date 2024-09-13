@@ -1,5 +1,5 @@
 ---
 title: "Midtown Convenience Store"
 url: /shohola/midtown-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

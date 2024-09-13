@@ -1,5 +1,5 @@
 ---
 title: "KatMar Hair Salon"
 url: /hawley/katmar-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

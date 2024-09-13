@@ -1,5 +1,5 @@
 ---
 title: "SCP Distributors"
 url: /plains/scp-distributors/
-shop: Allgemein
+shop: shop
 ---

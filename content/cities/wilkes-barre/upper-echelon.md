@@ -1,5 +1,5 @@
 ---
 title: "Upper Echelon"
 url: /wilkes-barre/upper-echelon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /york/lowes-carlisle-road/
-shop: Baumarkt
+shop: doityourself
 ---

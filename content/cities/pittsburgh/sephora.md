@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /pittsburgh/sephora/
-shop: Kosmetik
+shop: beauty
 ---

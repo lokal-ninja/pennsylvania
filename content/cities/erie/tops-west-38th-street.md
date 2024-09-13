@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /erie/tops-west-38th-street/
-shop: Supermarkt
+shop: supermarket
 ---

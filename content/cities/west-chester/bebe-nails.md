@@ -1,5 +1,5 @@
 ---
 title: "BeBe Nails"
 url: /west-chester/bebe-nails/
-shop: Kosmetik
+shop: beauty
 ---

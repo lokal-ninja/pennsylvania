@@ -1,5 +1,5 @@
 ---
 title: "Northside Market"
 url: /philadelphia/northside-market/
-shop: Lebensmittel
+shop: convenience
 ---

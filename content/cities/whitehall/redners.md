@@ -1,5 +1,5 @@
 ---
 title: "Redner's"
 url: /whitehall/redners/
-shop: Supermarkt
+shop: supermarket
 ---

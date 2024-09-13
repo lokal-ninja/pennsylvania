@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /mckeesport/giant-eagle-oneil-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

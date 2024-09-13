@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /robinson-township/michaels/
-shop: Basteln
+shop: craft
 ---

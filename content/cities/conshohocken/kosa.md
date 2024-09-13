@@ -1,5 +1,5 @@
 ---
 title: "Kosa"
 url: /conshohocken/kosa/
-shop: Friseur
+shop: hairdresser
 ---

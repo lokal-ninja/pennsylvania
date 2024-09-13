@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /new-alexandria/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

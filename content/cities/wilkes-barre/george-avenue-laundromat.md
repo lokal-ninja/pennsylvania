@@ -1,5 +1,5 @@
 ---
 title: "George Avenue Laundromat"
 url: /wilkes-barre/george-avenue-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Cutting Cove"
 url: /falls-creek/the-cutting-cove/
-shop: Friseur
+shop: hairdresser
 ---

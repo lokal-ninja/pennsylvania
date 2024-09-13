@@ -1,5 +1,5 @@
 ---
 title: "Chestnut Hill Growers Market"
 url: /philadelphia/chestnut-hill-growers-market/
-shop: Hofladen
+shop: farm
 ---

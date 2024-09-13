@@ -1,5 +1,5 @@
 ---
 title: "Lehigh Mart"
 url: /macungie/lehigh-mart/
-shop: Lebensmittel
+shop: convenience
 ---

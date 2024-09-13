@@ -1,5 +1,5 @@
 ---
 title: "Purple Fox Games"
 url: /meadville/purple-fox-games/
-shop: Spiele
+shop: games
 ---

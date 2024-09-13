@@ -1,5 +1,5 @@
 ---
 title: "Mann's Auto Services"
 url: /philadelphia/manns-auto-services/
-shop: Autoteile
+shop: car parts
 ---

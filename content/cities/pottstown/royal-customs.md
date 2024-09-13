@@ -1,5 +1,5 @@
 ---
 title: "Royal Customs"
 url: /pottstown/royal-customs/
-shop: Autowerkstatt
+shop: car repair
 ---

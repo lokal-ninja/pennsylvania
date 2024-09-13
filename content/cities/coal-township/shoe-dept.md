@@ -1,5 +1,5 @@
 ---
 title: "Shoe Dept."
 url: /coal-township/shoe-dept/
-shop: Schuhe
+shop: shoes
 ---

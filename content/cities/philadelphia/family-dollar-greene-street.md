@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /philadelphia/family-dollar-greene-street/
-shop: Kramladen
+shop: variety store
 ---

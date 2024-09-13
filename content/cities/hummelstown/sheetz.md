@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /hummelstown/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

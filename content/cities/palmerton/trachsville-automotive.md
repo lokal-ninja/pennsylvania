@@ -1,5 +1,5 @@
 ---
 title: "Trachsville Automotive"
 url: /palmerton/trachsville-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

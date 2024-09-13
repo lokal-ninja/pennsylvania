@@ -1,5 +1,5 @@
 ---
 title: "Ellcie"
 url: /warrington/ellcie/
-shop: Kleidung
+shop: clothes
 ---

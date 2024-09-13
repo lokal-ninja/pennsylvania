@@ -1,5 +1,5 @@
 ---
 title: "Girard Coin Laundry"
 url: /girard/girard-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

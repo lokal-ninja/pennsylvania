@@ -1,5 +1,5 @@
 ---
 title: "Turkey Hill"
 url: /bethlehem/turkey-hill/
-shop: Lebensmittel
+shop: convenience
 ---

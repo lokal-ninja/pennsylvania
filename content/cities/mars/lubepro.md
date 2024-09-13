@@ -1,5 +1,5 @@
 ---
 title: "LubePro"
 url: /mars/lubepro/
-shop: Autowerkstatt
+shop: car repair
 ---

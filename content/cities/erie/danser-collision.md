@@ -1,5 +1,5 @@
 ---
 title: "Danser Collision"
 url: /erie/danser-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

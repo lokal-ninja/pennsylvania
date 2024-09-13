@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /frazer/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joseph W. Epler Funeral Home"
 url: /northumberland/joseph-w-epler-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

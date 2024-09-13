@@ -1,5 +1,5 @@
 ---
 title: "Last Minit Mart"
 url: /jamestown/last-minit-mart/
-shop: Lebensmittel
+shop: convenience
 ---

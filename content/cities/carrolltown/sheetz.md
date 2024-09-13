@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /carrolltown/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

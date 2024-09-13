@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /narberth/acme/
-shop: Supermarkt
+shop: supermarket
 ---

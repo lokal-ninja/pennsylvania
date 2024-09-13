@@ -1,5 +1,5 @@
 ---
 title: "Norm's Restaurant"
 url: /alburtis/norms-restaurant/
-shop: Lebensmittel
+shop: convenience
 ---

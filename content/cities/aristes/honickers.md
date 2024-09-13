@@ -1,5 +1,5 @@
 ---
 title: "Honicker's"
 url: /aristes/honickers/
-shop: Autowerkstatt
+shop: car repair
 ---

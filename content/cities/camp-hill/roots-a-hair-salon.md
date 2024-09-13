@@ -1,5 +1,5 @@
 ---
 title: "Roots a hair salon"
 url: /camp-hill/roots-a-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /berwick/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

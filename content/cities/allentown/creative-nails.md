@@ -1,5 +1,5 @@
 ---
 title: "Creative Nails"
 url: /allentown/creative-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TILEOLOGY"
 url: /lancaster/tileology/
-shop: Fliesen
+shop: tiles
 ---

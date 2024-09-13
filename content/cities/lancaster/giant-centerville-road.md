@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /lancaster/giant-centerville-road/
-shop: Supermarkt
+shop: supermarket
 ---

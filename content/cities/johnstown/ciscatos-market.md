@@ -1,5 +1,5 @@
 ---
 title: "Ciscato's Market"
 url: /johnstown/ciscatos-market/
-shop: Lebensmittel
+shop: convenience
 ---

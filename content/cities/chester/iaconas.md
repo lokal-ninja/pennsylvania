@@ -1,5 +1,5 @@
 ---
 title: "Iacona's"
 url: /chester/iaconas/
-shop: Autowerkstatt
+shop: car repair
 ---

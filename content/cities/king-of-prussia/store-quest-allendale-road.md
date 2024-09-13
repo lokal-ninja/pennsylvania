@@ -1,5 +1,5 @@
 ---
 title: "Store Quest"
 url: /king-of-prussia/store-quest-allendale-road/
-shop: Mieten
+shop: storage rental
 ---

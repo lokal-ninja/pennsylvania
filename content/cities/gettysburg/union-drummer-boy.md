@@ -1,5 +1,5 @@
 ---
 title: "Union Drummer Boy"
 url: /gettysburg/union-drummer-boy/
-shop: Sammler
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shawn E. Clark Funeral Home"
 url: /lansford/shawn-e-clark-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

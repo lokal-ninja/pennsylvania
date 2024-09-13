@@ -1,5 +1,5 @@
 ---
 title: "Mahlia Cell Phone Accessories"
 url: /easton/mahlia-cell-phone-accessories/
-shop: Handy
+shop: mobile phone
 ---

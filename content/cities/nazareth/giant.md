@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /nazareth/giant/
-shop: Supermarkt
+shop: supermarket
 ---

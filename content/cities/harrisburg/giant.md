@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /harrisburg/giant/
-shop: Supermarkt
+shop: supermarket
 ---

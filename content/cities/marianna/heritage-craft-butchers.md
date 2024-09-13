@@ -1,5 +1,5 @@
 ---
 title: "Heritage Craft Butchers"
 url: /marianna/heritage-craft-butchers/
-shop: Metzgerei
+shop: butcher
 ---

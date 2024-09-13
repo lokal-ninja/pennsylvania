@@ -1,5 +1,5 @@
 ---
 title: "Belko Foods"
 url: /waynesburg/belko-foods/
-shop: Supermarkt
+shop: supermarket
 ---

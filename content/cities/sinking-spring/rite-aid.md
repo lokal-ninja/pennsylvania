@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /sinking-spring/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

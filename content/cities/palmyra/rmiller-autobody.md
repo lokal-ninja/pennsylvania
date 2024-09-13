@@ -1,5 +1,5 @@
 ---
 title: "RMiller Autobody"
 url: /palmyra/rmiller-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

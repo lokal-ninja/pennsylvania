@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pittsburgh/aldi-mcknight-road/
-shop: Supermarkt
+shop: supermarket
 ---

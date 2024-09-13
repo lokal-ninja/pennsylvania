@@ -1,5 +1,5 @@
 ---
 title: "Getz Self Storage"
 url: /white-haven/getz-self-storage/
-shop: Mieten
+shop: storage rental
 ---

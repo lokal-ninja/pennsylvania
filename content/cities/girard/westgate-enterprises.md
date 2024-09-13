@@ -1,5 +1,5 @@
 ---
 title: "Westgate Enterprises"
 url: /girard/westgate-enterprises/
-shop: Autowerkstatt
+shop: car repair
 ---

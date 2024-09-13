@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /lancaster/costco/
-shop: Großhandel
+shop: wholesale
 ---

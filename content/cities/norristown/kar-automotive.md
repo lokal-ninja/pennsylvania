@@ -1,5 +1,5 @@
 ---
 title: "KAR Automotive"
 url: /norristown/kar-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

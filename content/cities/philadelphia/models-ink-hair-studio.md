@@ -1,5 +1,5 @@
 ---
 title: "Models Ink Hair Studio"
 url: /philadelphia/models-ink-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

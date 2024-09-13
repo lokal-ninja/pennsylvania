@@ -1,5 +1,5 @@
 ---
 title: "Holiday Cafe"
 url: /philadelphia/holiday-cafe/
-shop: Spirituosen
+shop: alcohol
 ---

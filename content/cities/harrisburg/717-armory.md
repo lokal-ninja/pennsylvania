@@ -1,5 +1,5 @@
 ---
 title: "717 Armory"
 url: /harrisburg/717-armory/
-shop: Waffen
+shop: weapons
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /harrisburg/athleta/
-shop: Kleidung
+shop: clothes
 ---

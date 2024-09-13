@@ -1,5 +1,5 @@
 ---
 title: "BJ's Wholesale Club"
 url: /camp-hill/bjs-wholesale-club/
-shop: Großhandel
+shop: wholesale
 ---

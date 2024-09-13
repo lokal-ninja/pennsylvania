@@ -1,5 +1,5 @@
 ---
 title: "Kunkletown General Store"
 url: /kunkletown/kunkletown-general-store/
-shop: Kramladen
+shop: variety store
 ---

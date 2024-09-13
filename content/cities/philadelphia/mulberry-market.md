@@ -1,5 +1,5 @@
 ---
 title: "Mulberry Market"
 url: /philadelphia/mulberry-market/
-shop: Lebensmittel
+shop: convenience
 ---

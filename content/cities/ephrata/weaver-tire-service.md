@@ -1,5 +1,5 @@
 ---
 title: "Weaver Tire Service"
 url: /ephrata/weaver-tire-service/
-shop: Autowerkstatt
+shop: car repair
 ---

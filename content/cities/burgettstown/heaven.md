@@ -1,5 +1,5 @@
 ---
 title: "Heaven"
 url: /burgettstown/heaven/
-shop: Friseur
+shop: hairdresser
 ---

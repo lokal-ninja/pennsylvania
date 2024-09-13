@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /conshohocken/rei/
-shop: Outdoor
+shop: outdoor
 ---

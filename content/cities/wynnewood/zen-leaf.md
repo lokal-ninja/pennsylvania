@@ -1,5 +1,5 @@
 ---
 title: "Zen Leaf"
 url: /wynnewood/zen-leaf/
-shop: Hanf
+shop: cannabis
 ---

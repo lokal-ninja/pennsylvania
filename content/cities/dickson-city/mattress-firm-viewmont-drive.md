@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /dickson-city/mattress-firm-viewmont-drive/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /lancaster/dollar-tree-lincoln-highway-east-2/
-shop: Kramladen
+shop: variety store
 ---

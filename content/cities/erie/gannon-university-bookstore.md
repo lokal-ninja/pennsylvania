@@ -1,5 +1,5 @@
 ---
 title: "Gannon University Bookstore"
 url: /erie/gannon-university-bookstore/
-shop: Bücher
+shop: books
 ---

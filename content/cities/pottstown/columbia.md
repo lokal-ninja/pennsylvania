@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /pottstown/columbia/
-shop: Kleidung
+shop: clothes
 ---

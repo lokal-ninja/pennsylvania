@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /corry/verizon/
-shop: Handy
+shop: mobile phone
 ---

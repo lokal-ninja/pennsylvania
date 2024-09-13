@@ -1,5 +1,5 @@
 ---
 title: "Rutter's"
 url: /spring-grove/rutters/
-shop: Lebensmittel
+shop: convenience
 ---

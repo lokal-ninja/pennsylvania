@@ -1,5 +1,5 @@
 ---
 title: "Moon and Yarn Craftroom"
 url: /pittsburgh/moon-and-yarn-craftroom/
-shop: Basteln
+shop: craft
 ---

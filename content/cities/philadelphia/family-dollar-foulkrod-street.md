@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /philadelphia/family-dollar-foulkrod-street/
-shop: Kramladen
+shop: variety store
 ---

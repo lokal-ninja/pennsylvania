@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /erie/verizon-west-ridge-road/
-shop: Handy
+shop: mobile phone
 ---

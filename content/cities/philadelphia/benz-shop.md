@@ -1,5 +1,5 @@
 ---
 title: "Benz Shop"
 url: /philadelphia/benz-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

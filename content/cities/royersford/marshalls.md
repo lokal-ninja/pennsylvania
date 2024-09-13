@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /royersford/marshalls/
-shop: Warenhaus
+shop: department store
 ---

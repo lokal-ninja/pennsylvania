@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /hershey/adidas/
-shop: Schuhe
+shop: shoes
 ---

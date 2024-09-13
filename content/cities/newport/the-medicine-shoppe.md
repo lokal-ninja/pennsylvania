@@ -1,5 +1,5 @@
 ---
 title: "The Medicine Shoppe"
 url: /newport/the-medicine-shoppe/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Williams Toyota Scion"
 url: /sayre/williams-toyota-scion/
-shop: Autohaus
+shop: car
 ---

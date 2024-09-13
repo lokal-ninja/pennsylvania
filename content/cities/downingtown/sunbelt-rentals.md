@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /downingtown/sunbelt-rentals/
-shop: Allgemein
+shop: shop
 ---

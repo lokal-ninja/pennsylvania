@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lititz/target/
-shop: Warenhaus
+shop: department store
 ---

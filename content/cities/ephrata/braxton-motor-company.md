@@ -1,5 +1,5 @@
 ---
 title: "Braxton Motor Company"
 url: /ephrata/braxton-motor-company/
-shop: Autohaus
+shop: car
 ---

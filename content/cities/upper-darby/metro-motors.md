@@ -1,5 +1,5 @@
 ---
 title: "Metro Motors"
 url: /upper-darby/metro-motors/
-shop: Autohaus
+shop: car
 ---

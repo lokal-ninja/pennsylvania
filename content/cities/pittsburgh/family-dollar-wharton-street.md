@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /pittsburgh/family-dollar-wharton-street/
-shop: Kramladen
+shop: variety store
 ---

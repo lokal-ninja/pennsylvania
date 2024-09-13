@@ -1,5 +1,5 @@
 ---
 title: "Sacred Piercing"
 url: /erie/sacred-piercing/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /hatfield/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

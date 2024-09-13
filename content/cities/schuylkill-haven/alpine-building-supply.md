@@ -1,5 +1,5 @@
 ---
 title: "Alpine Building Supply"
 url: /schuylkill-haven/alpine-building-supply/
-shop: Eisenwaren
+shop: hardware
 ---

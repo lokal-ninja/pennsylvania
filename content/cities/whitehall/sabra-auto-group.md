@@ -1,5 +1,5 @@
 ---
 title: "Sabra Auto Group"
 url: /whitehall/sabra-auto-group/
-shop: Autowerkstatt
+shop: car repair
 ---

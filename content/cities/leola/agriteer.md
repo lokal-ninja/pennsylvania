@@ -1,5 +1,5 @@
 ---
 title: "Agriteer"
 url: /leola/agriteer/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

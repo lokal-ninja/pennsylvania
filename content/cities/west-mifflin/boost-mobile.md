@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /west-mifflin/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

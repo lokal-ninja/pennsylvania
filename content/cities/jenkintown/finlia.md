@@ -1,5 +1,5 @@
 ---
 title: "Finlia"
 url: /jenkintown/finlia/
-shop: Friseur
+shop: hairdresser
 ---

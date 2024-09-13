@@ -1,5 +1,5 @@
 ---
 title: "Salsa Soleil Butik"
 url: /warren/salsa-soleil-butik/
-shop: Kleidung
+shop: clothes
 ---

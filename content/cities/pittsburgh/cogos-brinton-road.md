@@ -1,5 +1,5 @@
 ---
 title: "CoGo's"
 url: /pittsburgh/cogos-brinton-road/
-shop: Lebensmittel
+shop: convenience
 ---

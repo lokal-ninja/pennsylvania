@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /rostraver-twp/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

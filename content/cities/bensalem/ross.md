@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /bensalem/ross/
-shop: Warenhaus
+shop: department store
 ---

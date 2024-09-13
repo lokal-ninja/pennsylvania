@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /malvern/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

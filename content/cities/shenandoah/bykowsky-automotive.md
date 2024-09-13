@@ -1,5 +1,5 @@
 ---
 title: "Bykowsky Automotive"
 url: /shenandoah/bykowsky-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

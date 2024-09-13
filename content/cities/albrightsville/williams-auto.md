@@ -1,5 +1,5 @@
 ---
 title: "Williams Auto"
 url: /albrightsville/williams-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

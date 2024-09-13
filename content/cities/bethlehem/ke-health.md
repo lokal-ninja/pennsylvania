@@ -1,5 +1,5 @@
 ---
 title: "KE Health"
 url: /bethlehem/ke-health/
-shop: Bioladen
+shop: health food
 ---

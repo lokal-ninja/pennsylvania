@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /bethlehem/weis-schoenersville-road/
-shop: Supermarkt
+shop: supermarket
 ---

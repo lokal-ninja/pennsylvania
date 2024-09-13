@@ -1,5 +1,5 @@
 ---
 title: "Bednarski Funeral Home"
 url: /exeter/bednarski-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

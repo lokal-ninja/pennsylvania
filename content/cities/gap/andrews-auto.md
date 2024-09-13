@@ -1,5 +1,5 @@
 ---
 title: "Andrews Auto"
 url: /gap/andrews-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

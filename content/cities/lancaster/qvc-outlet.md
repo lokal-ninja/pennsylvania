@@ -1,5 +1,5 @@
 ---
 title: "QVC Outlet"
 url: /lancaster/qvc-outlet/
-shop: Allgemein
+shop: shop
 ---

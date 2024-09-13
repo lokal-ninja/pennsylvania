@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /harrisburg/target-high-pointe-boulevard/
-shop: Warenhaus
+shop: department store
 ---

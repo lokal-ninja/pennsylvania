@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /philadelphia/wawa-south-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /coplay/giant/
-shop: Supermarkt
+shop: supermarket
 ---

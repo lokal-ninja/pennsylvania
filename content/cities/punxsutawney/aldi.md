@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /punxsutawney/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

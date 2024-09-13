@@ -1,5 +1,5 @@
 ---
 title: "OneMain Financial"
 url: /pittsburgh/onemain-financial/
-shop: Leiher
+shop: pawnbroker
 ---

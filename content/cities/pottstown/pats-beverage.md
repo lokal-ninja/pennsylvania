@@ -1,5 +1,5 @@
 ---
 title: "Pat’s Beverage"
 url: /pottstown/pats-beverage/
-shop: Getränke
+shop: beverages
 ---

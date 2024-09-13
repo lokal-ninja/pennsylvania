@@ -1,5 +1,5 @@
 ---
 title: "Logan's Pellets"
 url: /shohola/logans-pellets/
-shop: Allgemein
+shop: shop
 ---

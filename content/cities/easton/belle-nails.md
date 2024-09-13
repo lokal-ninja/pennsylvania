@@ -1,5 +1,5 @@
 ---
 title: "Belle Nails"
 url: /easton/belle-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /philadelphia/petsmart-roosevelt-boulevard/
-shop: Tiere
+shop: pet
 ---

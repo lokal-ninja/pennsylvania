@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /lancaster/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

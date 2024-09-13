@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /west-mifflin/kohls/
-shop: Warenhaus
+shop: department store
 ---

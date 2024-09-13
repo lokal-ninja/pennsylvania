@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /philadelphia/wawa-krewstown-road/
-shop: Lebensmittel
+shop: convenience
 ---

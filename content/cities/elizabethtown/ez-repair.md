@@ -1,5 +1,5 @@
 ---
 title: "EZ-Repair"
 url: /elizabethtown/ez-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

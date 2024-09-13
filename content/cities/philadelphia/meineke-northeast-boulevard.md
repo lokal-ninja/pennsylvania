@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /philadelphia/meineke-northeast-boulevard/
-shop: Autowerkstatt
+shop: car repair
 ---

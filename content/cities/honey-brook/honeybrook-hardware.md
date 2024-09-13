@@ -1,5 +1,5 @@
 ---
 title: "Honeybrook Hardware"
 url: /honey-brook/honeybrook-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

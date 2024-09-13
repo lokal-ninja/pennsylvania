@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /mount-pocono/hallmark/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Downing Funeral Home"
 url: /bethlehem/downing-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

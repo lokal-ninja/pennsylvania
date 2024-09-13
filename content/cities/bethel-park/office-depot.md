@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /bethel-park/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

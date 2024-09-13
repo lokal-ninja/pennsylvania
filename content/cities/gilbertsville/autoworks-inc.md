@@ -1,5 +1,5 @@
 ---
 title: "AutoWorks Inc"
 url: /gilbertsville/autoworks-inc/
-shop: Autoteile
+shop: car parts
 ---

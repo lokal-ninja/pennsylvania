@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /bridgeville/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

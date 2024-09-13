@@ -1,5 +1,5 @@
 ---
 title: "Old School Electronics"
 url: /lebanon/old-school-electronics/
-shop: Elektronik
+shop: electronics
 ---

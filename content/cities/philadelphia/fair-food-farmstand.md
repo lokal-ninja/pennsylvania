@@ -1,5 +1,5 @@
 ---
 title: "Fair Food Farmstand"
 url: /philadelphia/fair-food-farmstand/
-shop: Hofladen
+shop: farm
 ---

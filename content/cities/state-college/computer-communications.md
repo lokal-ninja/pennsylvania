@@ -1,5 +1,5 @@
 ---
 title: "Computer Communications"
 url: /state-college/computer-communications/
-shop: Computer
+shop: computer
 ---

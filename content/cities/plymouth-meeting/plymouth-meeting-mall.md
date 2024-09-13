@@ -1,5 +1,5 @@
 ---
 title: "Plymouth Meeting Mall"
 url: /plymouth-meeting/plymouth-meeting-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

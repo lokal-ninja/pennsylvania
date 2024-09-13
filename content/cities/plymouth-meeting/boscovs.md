@@ -1,5 +1,5 @@
 ---
 title: "Boscov's"
 url: /plymouth-meeting/boscovs/
-shop: Warenhaus
+shop: department store
 ---

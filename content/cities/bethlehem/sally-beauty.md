@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /bethlehem/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

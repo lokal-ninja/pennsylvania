@@ -1,5 +1,5 @@
 ---
 title: "Borinquen Auto Body"
 url: /erie/borinquen-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cantelmi Funeral Home"
 url: /fountain-hill/cantelmi-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

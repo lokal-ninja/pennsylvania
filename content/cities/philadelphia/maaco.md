@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /philadelphia/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

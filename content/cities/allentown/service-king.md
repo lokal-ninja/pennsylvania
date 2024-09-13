@@ -1,5 +1,5 @@
 ---
 title: "Service King"
 url: /allentown/service-king/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /malvern/u-haul-lancaster-pike/
-shop: Mieten
+shop: storage rental
 ---

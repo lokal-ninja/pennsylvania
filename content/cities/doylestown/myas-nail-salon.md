@@ -1,5 +1,5 @@
 ---
 title: "Mya's Nail Salon"
 url: /doylestown/myas-nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

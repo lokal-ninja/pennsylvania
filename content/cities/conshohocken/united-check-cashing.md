@@ -1,5 +1,5 @@
 ---
 title: "United Check Cashing"
 url: /conshohocken/united-check-cashing/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /warminster/famous-footwear-west-street-road/
-shop: Schuhe
+shop: shoes
 ---

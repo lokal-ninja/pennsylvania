@@ -1,5 +1,5 @@
 ---
 title: "Blinds to Go"
 url: /clifton-heights/blinds-to-go/
-shop: Jalousien
+shop: window blind
 ---

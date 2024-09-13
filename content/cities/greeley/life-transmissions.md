@@ -1,5 +1,5 @@
 ---
 title: "Life Transmissions"
 url: /greeley/life-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

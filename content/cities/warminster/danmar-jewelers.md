@@ -1,5 +1,5 @@
 ---
 title: "Danmar Jewelers"
 url: /warminster/danmar-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

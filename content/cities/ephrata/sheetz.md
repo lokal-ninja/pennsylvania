@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /ephrata/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magness Garage (Volkswagen)"
 url: /new-bethlehem/magness-garage-volkswagen/
-shop: Autowerkstatt
+shop: car repair
 ---

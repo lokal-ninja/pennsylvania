@@ -1,5 +1,5 @@
 ---
 title: "Quinn Funeral Home, Inc."
 url: /erie/quinn-funeral-home-inc/
-shop: Bestattungen
+shop: funeral directors
 ---

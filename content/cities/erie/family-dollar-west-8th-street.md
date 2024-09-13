@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /erie/family-dollar-west-8th-street/
-shop: Kramladen
+shop: variety store
 ---

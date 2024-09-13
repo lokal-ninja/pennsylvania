@@ -1,5 +1,5 @@
 ---
 title: "Flora Park Garden Center"
 url: /bethel-park/flora-park-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

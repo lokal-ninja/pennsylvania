@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fill"
 url: /waterford/kwik-fill/
-shop: Lebensmittel
+shop: convenience
 ---

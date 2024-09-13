@@ -1,5 +1,5 @@
 ---
 title: "QVC Outlet"
 url: /malvern/qvc-outlet/
-shop: Warenhaus
+shop: department store
 ---

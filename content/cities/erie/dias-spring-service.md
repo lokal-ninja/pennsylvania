@@ -1,5 +1,5 @@
 ---
 title: "Dias Spring Service"
 url: /erie/dias-spring-service/
-shop: Autoteile
+shop: car parts
 ---

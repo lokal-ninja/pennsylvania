@@ -1,5 +1,5 @@
 ---
 title: "The Tattoo Shop"
 url: /girard/the-tattoo-shop/
-shop: Tattoo
+shop: tattoo
 ---

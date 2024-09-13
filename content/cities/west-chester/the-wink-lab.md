@@ -1,5 +1,5 @@
 ---
 title: "The Wink Lab"
 url: /west-chester/the-wink-lab/
-shop: Kosmetik
+shop: beauty
 ---

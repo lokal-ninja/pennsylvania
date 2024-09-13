@@ -1,5 +1,5 @@
 ---
 title: "Park Circle Motors"
 url: /mckees-rocks/park-circle-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

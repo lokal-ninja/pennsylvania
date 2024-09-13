@@ -1,5 +1,5 @@
 ---
 title: "Rental World"
 url: /lancaster/rental-world/
-shop: Mieten
+shop: storage rental
 ---

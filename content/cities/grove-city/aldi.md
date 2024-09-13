@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /grove-city/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

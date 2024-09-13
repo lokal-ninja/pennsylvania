@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /reading/autozone-penn-avenue/
-shop: Autoteile
+shop: car parts
 ---

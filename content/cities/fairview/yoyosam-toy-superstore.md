@@ -1,5 +1,5 @@
 ---
 title: "YoYoSam Toy Superstore"
 url: /fairview/yoyosam-toy-superstore/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oh Sugar Nails"
 url: /sunbury/oh-sugar-nails/
-shop: Kosmetik
+shop: beauty
 ---

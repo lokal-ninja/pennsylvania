@@ -1,5 +1,5 @@
 ---
 title: "Union St Studio"
 url: /doylestown/union-st-studio/
-shop: Allgemein
+shop: shop
 ---

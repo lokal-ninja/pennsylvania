@@ -1,5 +1,5 @@
 ---
 title: "VIX Emporium"
 url: /philadelphia/vix-emporium/
-shop: Andenken
+shop: gift
 ---

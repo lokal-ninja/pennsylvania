@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /exton/carters/
-shop: Kleidung
+shop: clothes
 ---

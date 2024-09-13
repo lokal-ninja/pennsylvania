@@ -1,5 +1,5 @@
 ---
 title: "RISE"
 url: /erie/rise/
-shop: Hanf
+shop: cannabis
 ---

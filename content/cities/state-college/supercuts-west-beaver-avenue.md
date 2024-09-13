@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /state-college/supercuts-west-beaver-avenue/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BAM Auto"
 url: /freemansburg/bam-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

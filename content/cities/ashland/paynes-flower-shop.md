@@ -1,5 +1,5 @@
 ---
 title: "Payne's Flower Shop"
 url: /ashland/paynes-flower-shop/
-shop: Blumen
+shop: florist
 ---

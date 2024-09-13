@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ephrata/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

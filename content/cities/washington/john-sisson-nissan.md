@@ -1,5 +1,5 @@
 ---
 title: "John Sisson Nissan"
 url: /washington/john-sisson-nissan/
-shop: Autohaus
+shop: car
 ---

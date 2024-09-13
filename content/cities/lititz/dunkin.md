@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /lititz/dunkin/
-shop: Kaffee
+shop: coffee
 ---

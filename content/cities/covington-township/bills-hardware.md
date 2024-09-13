@@ -1,5 +1,5 @@
 ---
 title: "Bill's Hardware"
 url: /covington-township/bills-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

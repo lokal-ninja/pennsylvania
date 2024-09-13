@@ -1,5 +1,5 @@
 ---
 title: "Asian Gifts"
 url: /easton/asian-gifts/
-shop: Andenken
+shop: gift
 ---

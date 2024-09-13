@@ -1,5 +1,5 @@
 ---
 title: "Pacifico Mazda"
 url: /philadelphia/pacifico-mazda/
-shop: Autohaus
+shop: car
 ---

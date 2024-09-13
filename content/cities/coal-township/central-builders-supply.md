@@ -1,5 +1,5 @@
 ---
 title: "Central Builders Supply"
 url: /coal-township/central-builders-supply/
-shop: Allgemein
+shop: shop
 ---

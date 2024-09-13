@@ -1,5 +1,5 @@
 ---
 title: "Gochnauer's Home Appliance"
 url: /east-petersburg/gochnauers-home-appliance/
-shop: Elektronik
+shop: appliance
 ---

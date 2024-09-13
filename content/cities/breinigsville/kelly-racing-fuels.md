@@ -1,5 +1,5 @@
 ---
 title: "Kelly Racing Fuels"
 url: /breinigsville/kelly-racing-fuels/
-shop: Autoteile
+shop: car parts
 ---

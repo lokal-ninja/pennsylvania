@@ -1,5 +1,5 @@
 ---
 title: "Nanny's Attic"
 url: /greentown/nannys-attic/
-shop: Andenken
+shop: gift
 ---

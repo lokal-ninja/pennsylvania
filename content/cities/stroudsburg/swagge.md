@@ -1,5 +1,5 @@
 ---
 title: "Swaggē"
 url: /stroudsburg/swagge/
-shop: Kleidung
+shop: clothes
 ---

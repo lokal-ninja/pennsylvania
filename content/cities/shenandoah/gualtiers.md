@@ -1,5 +1,5 @@
 ---
 title: "Gualtier's"
 url: /shenandoah/gualtiers/
-shop: Spirituosen
+shop: alcohol
 ---

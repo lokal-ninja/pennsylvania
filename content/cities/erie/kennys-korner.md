@@ -1,5 +1,5 @@
 ---
 title: "Kenny's Korner"
 url: /erie/kennys-korner/
-shop: Lebensmittel
+shop: convenience
 ---

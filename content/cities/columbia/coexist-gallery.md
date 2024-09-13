@@ -1,5 +1,5 @@
 ---
 title: "Coexist Gallery"
 url: /columbia/coexist-gallery/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prosick's Arch Street Garage"
 url: /frackville/prosicks-arch-street-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Name Brand Liquidators - Berwick"
 url: /berwick/name-brand-liquidators-berwick/
-shop: Kramladen
+shop: variety store
 ---

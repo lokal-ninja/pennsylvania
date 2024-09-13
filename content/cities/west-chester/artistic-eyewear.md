@@ -1,5 +1,5 @@
 ---
 title: "Artistic Eyewear"
 url: /west-chester/artistic-eyewear/
-shop: Optiker
+shop: optician
 ---

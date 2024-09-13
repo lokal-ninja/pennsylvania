@@ -1,5 +1,5 @@
 ---
 title: "Gemini Enterprises"
 url: /state-college/gemini-enterprises/
-shop: Autowerkstatt
+shop: car repair
 ---

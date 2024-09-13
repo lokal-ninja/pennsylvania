@@ -1,5 +1,5 @@
 ---
 title: "Master Goblin Games"
 url: /state-college/master-goblin-games/
-shop: Spiele
+shop: games
 ---

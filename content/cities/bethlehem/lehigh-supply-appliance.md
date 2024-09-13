@@ -1,5 +1,5 @@
 ---
 title: "Lehigh Supply Appliance"
 url: /bethlehem/lehigh-supply-appliance/
-shop: Haushaltsgeräte
+shop: appliance
 ---

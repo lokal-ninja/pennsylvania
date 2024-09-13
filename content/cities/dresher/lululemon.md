@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /dresher/lululemon/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CPA Rifles"
 url: /dingmans-ferry/cpa-rifles/
-shop: Waffen
+shop: weapons
 ---

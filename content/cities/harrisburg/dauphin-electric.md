@@ -1,5 +1,5 @@
 ---
 title: "Dauphin Electric"
 url: /harrisburg/dauphin-electric/
-shop: Elektrisch
+shop: electrical
 ---

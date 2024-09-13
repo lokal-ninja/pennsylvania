@@ -1,5 +1,5 @@
 ---
 title: "Harvest"
 url: /pittsburgh/harvest/
-shop: Hanf
+shop: cannabis
 ---

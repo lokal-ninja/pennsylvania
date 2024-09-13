@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /downingtown/verizon/
-shop: Handy
+shop: mobile phone
 ---

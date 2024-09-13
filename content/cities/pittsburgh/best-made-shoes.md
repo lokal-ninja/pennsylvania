@@ -1,5 +1,5 @@
 ---
 title: "Best-Made Shoes"
 url: /pittsburgh/best-made-shoes/
-shop: Schuhe
+shop: shoes
 ---

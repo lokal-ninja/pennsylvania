@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /pittsburgh/burlington-smithfield-street/
-shop: Warenhaus
+shop: department store
 ---

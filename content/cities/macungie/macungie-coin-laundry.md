@@ -1,5 +1,5 @@
 ---
 title: "Macungie Coin Laundry"
 url: /macungie/macungie-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

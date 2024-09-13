@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /erie/dollar-tree-west-ridge-road/
-shop: Kramladen
+shop: variety store
 ---

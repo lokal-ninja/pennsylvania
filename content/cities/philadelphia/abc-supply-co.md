@@ -1,5 +1,5 @@
 ---
 title: "ABC Supply Co"
 url: /philadelphia/abc-supply-co/
-shop: Eisenwaren
+shop: hardware
 ---

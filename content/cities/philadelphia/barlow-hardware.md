@@ -1,5 +1,5 @@
 ---
 title: "Barlow Hardware"
 url: /philadelphia/barlow-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

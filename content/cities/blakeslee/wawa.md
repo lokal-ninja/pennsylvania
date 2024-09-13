@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /blakeslee/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

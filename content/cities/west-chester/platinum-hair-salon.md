@@ -1,5 +1,5 @@
 ---
 title: "Platinum Hair Salon"
 url: /west-chester/platinum-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

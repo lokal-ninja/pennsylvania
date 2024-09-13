@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /kulpsville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

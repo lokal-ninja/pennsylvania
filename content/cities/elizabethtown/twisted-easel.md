@@ -1,5 +1,5 @@
 ---
 title: "Twisted Easel"
 url: /elizabethtown/twisted-easel/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A-Tech Collision"
 url: /erie/a-tech-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

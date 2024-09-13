@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /scranton/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

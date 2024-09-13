@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /harrisburg/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hijaaz"
 url: /philadelphia/hijaaz/
-shop: Friseur
+shop: hairdresser
 ---

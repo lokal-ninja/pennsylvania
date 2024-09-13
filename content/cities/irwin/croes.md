@@ -1,5 +1,5 @@
 ---
 title: "Croes"
 url: /irwin/croes/
-shop: Autowerkstatt
+shop: car repair
 ---

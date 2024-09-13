@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /haverford-township/mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

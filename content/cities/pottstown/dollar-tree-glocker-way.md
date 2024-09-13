@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /pottstown/dollar-tree-glocker-way/
-shop: Kramladen
+shop: variety store
 ---

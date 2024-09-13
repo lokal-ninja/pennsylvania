@@ -1,5 +1,5 @@
 ---
 title: "Hear PA"
 url: /east-stroudsburg/hear-pa/
-shop: Hörgeräte
+shop: hearing aids
 ---

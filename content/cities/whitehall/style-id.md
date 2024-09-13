@@ -1,5 +1,5 @@
 ---
 title: "Style ID"
 url: /whitehall/style-id/
-shop: Kosmetik
+shop: beauty
 ---

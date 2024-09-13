@@ -1,5 +1,5 @@
 ---
 title: "Fuel"
 url: /williamsport/fuel/
-shop: Lebensmittel
+shop: convenience
 ---

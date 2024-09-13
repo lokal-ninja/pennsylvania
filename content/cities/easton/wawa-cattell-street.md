@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /easton/wawa-cattell-street/
-shop: Lebensmittel
+shop: convenience
 ---

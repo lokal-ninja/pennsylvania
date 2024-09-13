@@ -1,5 +1,5 @@
 ---
 title: "The Prom Shoppe"
 url: /uniontown/the-prom-shoppe/
-shop: Kleidung
+shop: clothes
 ---

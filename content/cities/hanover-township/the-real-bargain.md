@@ -1,5 +1,5 @@
 ---
 title: "The Real Bargain"
 url: /hanover-township/the-real-bargain/
-shop: Kramladen
+shop: variety store
 ---

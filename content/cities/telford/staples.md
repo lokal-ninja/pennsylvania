@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /telford/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

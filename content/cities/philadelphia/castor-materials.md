@@ -1,5 +1,5 @@
 ---
 title: "Castor Materials"
 url: /philadelphia/castor-materials/
-shop: Allgemein
+shop: shop
 ---

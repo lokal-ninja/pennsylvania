@@ -1,5 +1,5 @@
 ---
 title: "Kari Skin"
 url: /philadelphia/kari-skin/
-shop: Massage
+shop: massage
 ---

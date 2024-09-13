@@ -1,5 +1,5 @@
 ---
 title: "Action Rental"
 url: /essington/action-rental/
-shop: Mieten
+shop: storage rental
 ---

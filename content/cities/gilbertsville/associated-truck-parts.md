@@ -1,5 +1,5 @@
 ---
 title: "Associated Truck Parts"
 url: /gilbertsville/associated-truck-parts/
-shop: Autoteile
+shop: car parts
 ---

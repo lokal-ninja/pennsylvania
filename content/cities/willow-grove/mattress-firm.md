@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /willow-grove/mattress-firm/
-shop: Betten
+shop: bed
 ---

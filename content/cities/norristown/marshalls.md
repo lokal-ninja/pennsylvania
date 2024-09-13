@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /norristown/marshalls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SaveMart"
 url: /lancaster/savemart/
-shop: Warenhaus
+shop: department store
 ---

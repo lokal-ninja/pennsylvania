@@ -1,5 +1,5 @@
 ---
 title: "Pure Cleaners"
 url: /north-wales/pure-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

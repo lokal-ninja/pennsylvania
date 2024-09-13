@@ -1,5 +1,5 @@
 ---
 title: "SWIT Sports"
 url: /pottstown/swit-sports/
-shop: Sammler
+shop: collector
 ---

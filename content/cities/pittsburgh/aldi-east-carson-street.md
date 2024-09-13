@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pittsburgh/aldi-east-carson-street/
-shop: Supermarkt
+shop: supermarket
 ---

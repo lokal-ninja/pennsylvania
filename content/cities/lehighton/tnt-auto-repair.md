@@ -1,5 +1,5 @@
 ---
 title: "TNT Auto Repair"
 url: /lehighton/tnt-auto-repair/
-shop: Autohaus
+shop: car
 ---

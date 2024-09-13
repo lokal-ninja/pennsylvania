@@ -1,5 +1,5 @@
 ---
 title: "Super Value Household"
 url: /bensalem/super-value-household/
-shop: Haushaltsartikel
+shop: houseware
 ---

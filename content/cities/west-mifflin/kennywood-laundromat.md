@@ -1,5 +1,5 @@
 ---
 title: "Kennywood Laundromat"
 url: /west-mifflin/kennywood-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

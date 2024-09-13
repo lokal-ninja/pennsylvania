@@ -1,5 +1,5 @@
 ---
 title: "CVS"
 url: /philadelphia/cvs/
-shop: Drogerie
+shop: chemist
 ---

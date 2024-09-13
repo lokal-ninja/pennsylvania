@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /media/michaels/
-shop: Basteln
+shop: craft
 ---

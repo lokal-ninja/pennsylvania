@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /hershey/aeropostale/
-shop: Kleidung
+shop: clothes
 ---

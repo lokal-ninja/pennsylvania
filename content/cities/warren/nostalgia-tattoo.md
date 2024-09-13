@@ -1,5 +1,5 @@
 ---
 title: "Nostalgia Tattoo"
 url: /warren/nostalgia-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

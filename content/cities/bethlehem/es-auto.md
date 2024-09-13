@@ -1,5 +1,5 @@
 ---
 title: "E's Auto"
 url: /bethlehem/es-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

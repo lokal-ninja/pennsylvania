@@ -1,5 +1,5 @@
 ---
 title: "Liberty Propane"
 url: /allentown/liberty-propane/
-shop: Gasflaschen
+shop: gas
 ---

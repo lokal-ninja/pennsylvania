@@ -1,5 +1,5 @@
 ---
 title: "Hertzog's Garage"
 url: /denver/hertzogs-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

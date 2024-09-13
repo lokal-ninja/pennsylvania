@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /allentown/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

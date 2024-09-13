@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /warrington/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

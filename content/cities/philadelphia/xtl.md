@@ -1,5 +1,5 @@
 ---
 title: "XTL"
 url: /philadelphia/xtl/
-shop: Allgemein
+shop: shop
 ---

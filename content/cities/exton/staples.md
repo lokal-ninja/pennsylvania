@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /exton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

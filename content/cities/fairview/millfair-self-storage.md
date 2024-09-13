@@ -1,5 +1,5 @@
 ---
 title: "Millfair Self Storage"
 url: /fairview/millfair-self-storage/
-shop: Mieten
+shop: storage rental
 ---

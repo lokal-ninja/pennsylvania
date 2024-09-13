@@ -1,5 +1,5 @@
 ---
 title: "Remmel Opticians"
 url: /bethlehem/remmel-opticians/
-shop: Optiker
+shop: optician
 ---

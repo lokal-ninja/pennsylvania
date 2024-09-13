@@ -1,5 +1,5 @@
 ---
 title: "Mike's Auto Body"
 url: /pocono-summit/mikes-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /penn-hills/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

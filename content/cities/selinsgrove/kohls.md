@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /selinsgrove/kohls/
-shop: Warenhaus
+shop: department store
 ---

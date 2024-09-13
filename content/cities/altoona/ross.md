@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /altoona/ross/
-shop: Warenhaus
+shop: department store
 ---

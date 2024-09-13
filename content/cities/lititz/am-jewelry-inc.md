@@ -1,5 +1,5 @@
 ---
-title: "AM jewelry, Inc"
+title: "AM Jewelry, Inc"
 url: /lititz/am-jewelry-inc/
-shop: Schmuck
+shop: jewelry
 ---

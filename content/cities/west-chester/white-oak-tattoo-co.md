@@ -1,5 +1,5 @@
 ---
 title: "White Oak Tattoo Co."
 url: /west-chester/white-oak-tattoo-co/
-shop: Tattoo
+shop: tattoo
 ---

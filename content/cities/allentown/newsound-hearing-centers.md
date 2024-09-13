@@ -1,5 +1,5 @@
 ---
 title: "NewSound Hearing Centers"
 url: /allentown/newsound-hearing-centers/
-shop: Hörgeräte
+shop: hearing aids
 ---

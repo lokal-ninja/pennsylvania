@@ -1,5 +1,5 @@
 ---
 title: "Fadak International Food Market"
 url: /erie/fadak-international-food-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heinzelman Funeral Home"
 url: /state-college/heinzelman-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

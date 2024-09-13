@@ -1,5 +1,5 @@
 ---
 title: "Cottman Transmission"
 url: /wilkes-barre/cottman-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

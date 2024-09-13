@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /broomall/hallmark/
-shop: Andenken
+shop: gift
 ---

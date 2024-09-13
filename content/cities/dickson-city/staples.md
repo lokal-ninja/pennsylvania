@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /dickson-city/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

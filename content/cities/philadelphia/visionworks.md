@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /philadelphia/visionworks/
-shop: Optiker
+shop: optician
 ---

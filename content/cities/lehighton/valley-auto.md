@@ -1,5 +1,5 @@
 ---
 title: "Valley Auto"
 url: /lehighton/valley-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

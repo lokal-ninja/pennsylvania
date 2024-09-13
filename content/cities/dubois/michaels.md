@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /dubois/michaels/
-shop: Basteln
+shop: craft
 ---

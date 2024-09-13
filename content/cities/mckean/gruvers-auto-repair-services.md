@@ -1,5 +1,5 @@
 ---
 title: "Gruver's Auto Repair Services"
 url: /mckean/gruvers-auto-repair-services/
-shop: Autowerkstatt
+shop: car repair
 ---

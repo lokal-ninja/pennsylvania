@@ -1,5 +1,5 @@
 ---
 title: "Jockey"
 url: /pottstown/jockey/
-shop: Kleidung
+shop: clothes
 ---

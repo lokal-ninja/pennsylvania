@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /exton/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ambience by Amber"
 url: /erie/ambience-by-amber/
-shop: Friseur
+shop: hairdresser
 ---

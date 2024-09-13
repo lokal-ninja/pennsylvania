@@ -1,5 +1,5 @@
 ---
 title: "Phillip Tronceletti Barber Shop"
 url: /ardmore/phillip-tronceletti-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

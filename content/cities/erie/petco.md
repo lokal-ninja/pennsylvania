@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /erie/petco/
-shop: Tiere
+shop: pet
 ---

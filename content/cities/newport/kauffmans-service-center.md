@@ -1,5 +1,5 @@
 ---
 title: "Kauffman's Service Center"
 url: /newport/kauffmans-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

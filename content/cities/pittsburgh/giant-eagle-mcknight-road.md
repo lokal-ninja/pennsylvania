@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /pittsburgh/giant-eagle-mcknight-road/
-shop: Supermarkt
+shop: supermarket
 ---

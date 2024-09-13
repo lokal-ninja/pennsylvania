@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /johnstown/dollar-general-bridge-street/
-shop: Kramladen
+shop: variety store
 ---

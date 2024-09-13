@@ -1,5 +1,5 @@
 ---
 title: "Fred's Furniture Co."
 url: /erie/freds-furniture-co/
-shop: Möbel
+shop: furniture
 ---

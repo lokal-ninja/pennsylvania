@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /tamaqua/gamestop/
-shop: Videospiele
+shop: video games
 ---

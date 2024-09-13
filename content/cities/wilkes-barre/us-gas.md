@@ -1,5 +1,5 @@
 ---
 title: "US Gas"
 url: /wilkes-barre/us-gas/
-shop: Lebensmittel
+shop: convenience
 ---

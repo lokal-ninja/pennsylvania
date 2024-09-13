@@ -1,5 +1,5 @@
 ---
 title: "John's Collision"
 url: /sciota/johns-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

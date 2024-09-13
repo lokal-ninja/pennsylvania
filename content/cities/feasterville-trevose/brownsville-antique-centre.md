@@ -1,5 +1,5 @@
 ---
 title: "Brownsville Antique Centre"
 url: /feasterville-trevose/brownsville-antique-centre/
-shop: Antiquitäten
+shop: antiques
 ---

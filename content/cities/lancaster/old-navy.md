@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /lancaster/old-navy/
-shop: Kleidung
+shop: clothes
 ---

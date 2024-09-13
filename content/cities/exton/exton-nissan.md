@@ -1,5 +1,5 @@
 ---
 title: "Exton Nissan"
 url: /exton/exton-nissan/
-shop: Autohaus
+shop: car
 ---

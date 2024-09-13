@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /new-castle/dollar-tree-ellwood-road/
-shop: Kramladen
+shop: variety store
 ---

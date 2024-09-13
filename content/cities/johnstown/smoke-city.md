@@ -1,5 +1,5 @@
 ---
 title: "Smoke City"
 url: /johnstown/smoke-city/
-shop: Tabak
+shop: tobacco
 ---

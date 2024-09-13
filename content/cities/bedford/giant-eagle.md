@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /bedford/giant-eagle/
-shop: Supermarkt
+shop: supermarket
 ---

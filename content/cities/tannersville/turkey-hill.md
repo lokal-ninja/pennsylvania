@@ -1,5 +1,5 @@
 ---
 title: "Turkey Hill"
 url: /tannersville/turkey-hill/
-shop: Lebensmittel
+shop: convenience
 ---

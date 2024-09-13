@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /boothwyn/gamestop/
-shop: Videospiele
+shop: video games
 ---

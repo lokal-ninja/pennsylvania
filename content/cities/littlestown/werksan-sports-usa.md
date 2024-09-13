@@ -1,5 +1,5 @@
 ---
 title: "Werksan Sports USA"
 url: /littlestown/werksan-sports-usa/
-shop: Sport
+shop: sports
 ---

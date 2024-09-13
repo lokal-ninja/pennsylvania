@@ -1,5 +1,5 @@
 ---
 title: "eXscape"
 url: /state-college/exscape/
-shop: Tabak
+shop: tobacco
 ---

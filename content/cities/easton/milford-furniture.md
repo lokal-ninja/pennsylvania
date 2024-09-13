@@ -1,5 +1,5 @@
 ---
 title: "Milford Furniture"
 url: /easton/milford-furniture/
-shop: Möbel
+shop: furniture
 ---

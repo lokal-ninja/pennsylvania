@@ -1,5 +1,5 @@
 ---
 title: "Smokers Choice"
 url: /milford/smokers-choice/
-shop: Tabak
+shop: tobacco
 ---

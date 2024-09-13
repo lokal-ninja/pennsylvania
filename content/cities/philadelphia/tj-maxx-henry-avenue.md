@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /philadelphia/tj-maxx-henry-avenue/
-shop: Warenhaus
+shop: department store
 ---

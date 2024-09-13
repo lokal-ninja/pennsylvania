@@ -1,5 +1,5 @@
 ---
 title: "Koser Jewelers"
 url: /mount-joy/koser-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

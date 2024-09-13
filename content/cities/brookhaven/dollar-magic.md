@@ -1,5 +1,5 @@
 ---
 title: "Dollar Magic"
 url: /brookhaven/dollar-magic/
-shop: Kramladen
+shop: variety store
 ---

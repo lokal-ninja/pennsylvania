@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /avondale/walgreens/
-shop: Drogerie
+shop: chemist
 ---

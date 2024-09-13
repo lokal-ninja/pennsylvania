@@ -1,5 +1,5 @@
 ---
 title: "White Vacuum"
 url: /north-versailles/white-vacuum/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

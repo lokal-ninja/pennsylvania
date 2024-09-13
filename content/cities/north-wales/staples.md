@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /north-wales/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

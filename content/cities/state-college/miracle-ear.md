@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /state-college/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /chambersburg/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

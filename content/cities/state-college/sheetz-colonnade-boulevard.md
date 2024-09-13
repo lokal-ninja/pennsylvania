@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /state-college/sheetz-colonnade-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

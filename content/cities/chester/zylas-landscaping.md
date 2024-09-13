@@ -1,5 +1,5 @@
 ---
 title: "Zyla's Landscaping"
 url: /chester/zylas-landscaping/
-shop: Garten-Center
+shop: garden centre
 ---

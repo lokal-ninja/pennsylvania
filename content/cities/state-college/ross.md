@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /state-college/ross/
-shop: Warenhaus
+shop: department store
 ---

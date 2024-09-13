@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /erie/dollar-general-perry-highway/
-shop: Kramladen
+shop: variety store
 ---

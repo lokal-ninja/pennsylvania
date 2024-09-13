@@ -1,5 +1,5 @@
 ---
 title: "Neely Dell S"
 url: /cochranton/neely-dell-s/
-shop: Autohaus
+shop: car
 ---

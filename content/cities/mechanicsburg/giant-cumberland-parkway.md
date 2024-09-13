@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /mechanicsburg/giant-cumberland-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

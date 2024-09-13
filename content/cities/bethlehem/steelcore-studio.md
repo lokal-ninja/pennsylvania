@@ -1,5 +1,5 @@
 ---
 title: "SteelCore Studio"
 url: /bethlehem/steelcore-studio/
-shop: Kleidung
+shop: clothes
 ---

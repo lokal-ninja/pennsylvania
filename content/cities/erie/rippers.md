@@ -1,5 +1,5 @@
 ---
 title: "Rippers"
 url: /erie/rippers/
-shop: Supermarkt
+shop: supermarket
 ---

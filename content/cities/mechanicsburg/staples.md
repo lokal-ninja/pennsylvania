@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /mechanicsburg/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

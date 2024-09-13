@@ -1,5 +1,5 @@
 ---
 title: "La Gourmandine"
 url: /pittsburgh/la-gourmandine/
-shop: Bäckerei
+shop: bakery
 ---

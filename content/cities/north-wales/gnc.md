@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /north-wales/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

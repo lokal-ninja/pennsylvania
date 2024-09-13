@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /broomall/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

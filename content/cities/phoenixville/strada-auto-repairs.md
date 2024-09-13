@@ -1,5 +1,5 @@
 ---
 title: "Strada Auto Repairs"
 url: /phoenixville/strada-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

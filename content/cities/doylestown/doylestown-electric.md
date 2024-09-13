@@ -1,5 +1,5 @@
 ---
 title: "Doylestown Electric"
 url: /doylestown/doylestown-electric/
-shop: Lampen
+shop: lamps
 ---

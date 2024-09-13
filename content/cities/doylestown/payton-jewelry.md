@@ -1,5 +1,5 @@
 ---
 title: "Payton Jewelry"
 url: /doylestown/payton-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

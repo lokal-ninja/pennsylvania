@@ -1,5 +1,5 @@
 ---
 title: "TNT Fireworks"
 url: /easton/tnt-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

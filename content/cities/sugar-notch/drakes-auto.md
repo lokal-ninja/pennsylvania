@@ -1,5 +1,5 @@
 ---
 title: "Drake's Auto"
 url: /sugar-notch/drakes-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

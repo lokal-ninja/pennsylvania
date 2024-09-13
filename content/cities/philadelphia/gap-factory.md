@@ -1,5 +1,5 @@
 ---
 title: "Gap Factory"
 url: /philadelphia/gap-factory/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DMC Graphics"
 url: /wilkes-barre/dmc-graphics/
-shop: Allgemein
+shop: shop
 ---

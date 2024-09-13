@@ -1,5 +1,5 @@
 ---
 title: "Griffith Eye Center"
 url: /north-east/griffith-eye-center/
-shop: Optiker
+shop: optician
 ---

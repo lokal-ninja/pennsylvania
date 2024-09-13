@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /langhorne/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside"
 url: /erie/sunnyside/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ken's Auto Services"
 url: /erie/kens-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

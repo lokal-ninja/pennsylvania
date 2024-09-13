@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /allentown/metro-by-t-mobile-allen-street/
-shop: Handy
+shop: mobile phone
 ---

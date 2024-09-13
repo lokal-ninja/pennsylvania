@@ -1,5 +1,5 @@
 ---
 title: "Dapper Don's Styling Lounge"
 url: /erie/dapper-dons-styling-lounge/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sims Quality Market"
 url: /bethlehem/sims-quality-market/
-shop: Supermarkt
+shop: supermarket
 ---

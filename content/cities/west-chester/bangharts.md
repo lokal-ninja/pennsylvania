@@ -1,5 +1,5 @@
 ---
 title: "Banghart's"
 url: /west-chester/bangharts/
-shop: Autowerkstatt
+shop: car repair
 ---

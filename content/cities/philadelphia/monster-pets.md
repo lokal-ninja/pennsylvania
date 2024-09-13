@@ -1,5 +1,5 @@
 ---
 title: "Monster Pets"
 url: /philadelphia/monster-pets/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Don's Auto Body"
 url: /pottsville/dons-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

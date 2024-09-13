@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /enola/weis/
-shop: Supermarkt
+shop: supermarket
 ---

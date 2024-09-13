@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /hershey/columbia/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paris Baguette"
 url: /cheltenham-township/paris-baguette/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /titusville/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

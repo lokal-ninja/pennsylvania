@@ -1,5 +1,5 @@
 ---
 title: "Mike's Auto Repair"
 url: /fairchance/mikes-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

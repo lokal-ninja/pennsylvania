@@ -1,5 +1,5 @@
 ---
 title: "Tom Masano Ford"
 url: /reading/tom-masano-ford/
-shop: Autohaus
+shop: car
 ---

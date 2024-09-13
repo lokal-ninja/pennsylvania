@@ -1,5 +1,5 @@
 ---
 title: "GetGo"
 url: /wexford/getgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Donohue Funeral Home"
 url: /downingtown/donohue-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

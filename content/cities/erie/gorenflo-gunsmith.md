@@ -1,5 +1,5 @@
 ---
 title: "Gorenflo Gunsmith"
 url: /erie/gorenflo-gunsmith/
-shop: Waffen
+shop: weapons
 ---

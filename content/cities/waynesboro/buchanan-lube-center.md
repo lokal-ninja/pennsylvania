@@ -1,5 +1,5 @@
 ---
 title: "Buchanan Lube Center"
 url: /waynesboro/buchanan-lube-center/
-shop: Autowerkstatt
+shop: car repair
 ---

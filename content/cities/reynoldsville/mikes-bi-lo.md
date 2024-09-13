@@ -1,5 +1,5 @@
 ---
 title: "Mike's Bi-Lo"
 url: /reynoldsville/mikes-bi-lo/
-shop: Supermarkt
+shop: supermarket
 ---

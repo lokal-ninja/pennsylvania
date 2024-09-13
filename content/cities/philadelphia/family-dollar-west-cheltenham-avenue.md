@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /philadelphia/family-dollar-west-cheltenham-avenue/
-shop: Kramladen
+shop: variety store
 ---

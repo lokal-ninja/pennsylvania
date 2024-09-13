@@ -1,5 +1,5 @@
 ---
 title: "Inside The Jelly Jar"
 url: /erie/inside-the-jelly-jar/
-shop: Spielzeug
+shop: toys
 ---

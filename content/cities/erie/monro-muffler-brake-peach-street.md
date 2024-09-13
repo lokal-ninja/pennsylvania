@@ -1,5 +1,5 @@
 ---
 title: "Monro Muffler Brake"
 url: /erie/monro-muffler-brake-peach-street/
-shop: Autowerkstatt
+shop: car repair
 ---

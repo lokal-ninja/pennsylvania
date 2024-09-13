@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /philadelphia/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /matamoras/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beyond Hello"
 url: /bethlehem/beyond-hello/
-shop: Hanf
+shop: cannabis
 ---

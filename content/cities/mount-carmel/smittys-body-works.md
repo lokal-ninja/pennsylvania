@@ -1,5 +1,5 @@
 ---
 title: "Smitty's Body Works"
 url: /mount-carmel/smittys-body-works/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /erie/autozone/
-shop: Autoteile
+shop: car parts
 ---

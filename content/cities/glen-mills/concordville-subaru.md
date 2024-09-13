@@ -1,5 +1,5 @@
 ---
 title: "Concordville Subaru"
 url: /glen-mills/concordville-subaru/
-shop: Autohaus
+shop: car
 ---

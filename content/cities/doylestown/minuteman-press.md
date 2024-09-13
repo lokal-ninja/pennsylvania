@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press"
 url: /doylestown/minuteman-press/
-shop: Kopieren
+shop: copyshop
 ---

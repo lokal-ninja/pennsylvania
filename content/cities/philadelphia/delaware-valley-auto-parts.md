@@ -1,5 +1,5 @@
 ---
 title: "Delaware Valley Auto Parts"
 url: /philadelphia/delaware-valley-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

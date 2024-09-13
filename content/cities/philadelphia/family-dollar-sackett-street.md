@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /philadelphia/family-dollar-sackett-street/
-shop: Kramladen
+shop: variety store
 ---

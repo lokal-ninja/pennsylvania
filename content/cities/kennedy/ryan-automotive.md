@@ -1,5 +1,5 @@
 ---
 title: "Ryan Automotive"
 url: /kennedy/ryan-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

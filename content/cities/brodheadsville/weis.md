@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /brodheadsville/weis/
-shop: Supermarkt
+shop: supermarket
 ---

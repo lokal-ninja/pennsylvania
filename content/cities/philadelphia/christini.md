@@ -1,5 +1,5 @@
 ---
 title: "Christini"
 url: /philadelphia/christini/
-shop: Fahrrad
+shop: bicycle
 ---

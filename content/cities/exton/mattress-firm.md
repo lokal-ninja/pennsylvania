@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /exton/mattress-firm/
-shop: Betten
+shop: bed
 ---

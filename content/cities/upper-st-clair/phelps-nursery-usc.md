@@ -1,5 +1,5 @@
 ---
 title: "Phelps Nursery USC"
 url: /upper-st-clair/phelps-nursery-usc/
-shop: Garten-Center
+shop: garden centre
 ---

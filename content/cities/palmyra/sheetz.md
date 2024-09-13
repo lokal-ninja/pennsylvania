@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /palmyra/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

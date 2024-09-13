@@ -1,5 +1,5 @@
 ---
 title: "Maitri Medicinals"
 url: /pittsburgh/maitri-medicinals/
-shop: Hanf
+shop: cannabis
 ---

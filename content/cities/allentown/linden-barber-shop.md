@@ -1,5 +1,5 @@
 ---
 title: "Linden Barber Shop"
 url: /allentown/linden-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

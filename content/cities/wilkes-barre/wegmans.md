@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /wilkes-barre/wegmans/
-shop: Supermarkt
+shop: supermarket
 ---

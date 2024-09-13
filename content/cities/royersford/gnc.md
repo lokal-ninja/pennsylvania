@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /royersford/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

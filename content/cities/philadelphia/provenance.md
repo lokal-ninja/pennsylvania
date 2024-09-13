@@ -1,5 +1,5 @@
 ---
 title: "Provenance"
 url: /philadelphia/provenance/
-shop: Antiquitäten
+shop: antiques
 ---

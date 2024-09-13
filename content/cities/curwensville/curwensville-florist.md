@@ -1,5 +1,5 @@
 ---
 title: "Curwensville Florist"
 url: /curwensville/curwensville-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /bethel-park/walmart/
-shop: Supermarkt
+shop: department store
 ---

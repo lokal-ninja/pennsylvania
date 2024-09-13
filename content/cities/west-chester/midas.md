@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /west-chester/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

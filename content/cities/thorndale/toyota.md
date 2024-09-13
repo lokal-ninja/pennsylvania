@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /thorndale/toyota/
-shop: Autohaus
+shop: car
 ---

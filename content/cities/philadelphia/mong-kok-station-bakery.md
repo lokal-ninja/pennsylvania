@@ -1,5 +1,5 @@
 ---
 title: "Mong Kok Station Bakery"
 url: /philadelphia/mong-kok-station-bakery/
-shop: Bäckerei
+shop: bakery
 ---

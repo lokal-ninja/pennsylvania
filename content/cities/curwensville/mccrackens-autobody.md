@@ -1,5 +1,5 @@
 ---
 title: "McCracken's Autobody"
 url: /curwensville/mccrackens-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

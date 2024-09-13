@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /exton/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

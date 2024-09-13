@@ -1,5 +1,5 @@
 ---
 title: "Moka"
 url: /pittsburgh/moka/
-shop: Kosmetik
+shop: beauty
 ---

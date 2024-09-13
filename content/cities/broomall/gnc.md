@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /broomall/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

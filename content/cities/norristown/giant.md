@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /norristown/giant/
-shop: Supermarkt
+shop: supermarket
 ---

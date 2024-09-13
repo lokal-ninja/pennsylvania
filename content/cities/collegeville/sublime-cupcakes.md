@@ -1,5 +1,5 @@
 ---
 title: "Sublime Cupcakes"
 url: /collegeville/sublime-cupcakes/
-shop: Bäckerei
+shop: bakery
 ---

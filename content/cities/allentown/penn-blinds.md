@@ -1,5 +1,5 @@
 ---
 title: "Penn Blinds"
 url: /allentown/penn-blinds/
-shop: Jalousien
+shop: window blind
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agriteer"
 url: /waynesboro/agriteer/
-shop: Mieten
+shop: storage rental
 ---

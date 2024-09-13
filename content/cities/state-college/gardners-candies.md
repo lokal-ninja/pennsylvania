@@ -1,5 +1,5 @@
 ---
 title: "Gardner's Candies"
 url: /state-college/gardners-candies/
-shop: Schokolade
+shop: chocolate
 ---

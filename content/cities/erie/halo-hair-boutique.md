@@ -1,5 +1,5 @@
 ---
 title: "Halo Hair Boutique"
 url: /erie/halo-hair-boutique/
-shop: Friseur
+shop: hairdresser
 ---

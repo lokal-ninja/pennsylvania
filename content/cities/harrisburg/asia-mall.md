@@ -1,5 +1,5 @@
 ---
 title: "Asia Mall"
 url: /harrisburg/asia-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

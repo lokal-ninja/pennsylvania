@@ -1,5 +1,5 @@
 ---
 title: "McCabe~Roof Funeral Home"
 url: /clymer/mccabe-roof-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

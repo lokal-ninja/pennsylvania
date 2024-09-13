@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /pottsville/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

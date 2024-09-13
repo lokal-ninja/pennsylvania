@@ -1,5 +1,5 @@
 ---
 title: "Yum Yum Bake Shop"
 url: /warminster/yum-yum-bake-shop/
-shop: Bäckerei
+shop: bakery
 ---

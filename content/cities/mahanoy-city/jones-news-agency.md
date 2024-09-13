@@ -1,5 +1,5 @@
 ---
 title: "Jones News Agency"
 url: /mahanoy-city/jones-news-agency/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Village"
 url: /whitehall/tobacco-village/
-shop: Tabak
+shop: tobacco
 ---

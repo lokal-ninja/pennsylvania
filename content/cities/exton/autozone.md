@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /exton/autozone/
-shop: Autoteile
+shop: car parts
 ---

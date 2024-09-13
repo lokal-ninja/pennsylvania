@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /eddystone/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

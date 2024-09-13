@@ -1,5 +1,5 @@
 ---
 title: "PerLora"
 url: /pittsburgh/perlora/
-shop: Möbel
+shop: furniture
 ---

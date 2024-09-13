@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /doylestown/weis/
-shop: Supermarkt
+shop: supermarket
 ---

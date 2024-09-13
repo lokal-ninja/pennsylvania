@@ -1,5 +1,5 @@
 ---
 title: "Heilman Auto Service Center"
 url: /west-chester/heilman-auto-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /erie/roses/
-shop: Kramladen
+shop: variety store
 ---

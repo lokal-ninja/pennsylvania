@@ -1,5 +1,5 @@
 ---
 title: "Forman Mills"
 url: /wyncote/forman-mills/
-shop: Warenhaus
+shop: department store
 ---

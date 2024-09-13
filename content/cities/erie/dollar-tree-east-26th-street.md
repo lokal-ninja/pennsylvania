@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /erie/dollar-tree-east-26th-street/
-shop: Kramladen
+shop: variety store
 ---

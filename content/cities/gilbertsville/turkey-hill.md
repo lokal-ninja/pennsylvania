@@ -1,5 +1,5 @@
 ---
 title: "Turkey Hill"
 url: /gilbertsville/turkey-hill/
-shop: Lebensmittel
+shop: convenience
 ---

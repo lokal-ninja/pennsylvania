@@ -1,5 +1,5 @@
 ---
 title: "Acura"
 url: /montgomeryville/acura/
-shop: Autohaus
+shop: car
 ---

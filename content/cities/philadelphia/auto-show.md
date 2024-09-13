@@ -1,5 +1,5 @@
 ---
 title: "Auto Show"
 url: /philadelphia/auto-show/
-shop: Autowerkstatt
+shop: car repair
 ---

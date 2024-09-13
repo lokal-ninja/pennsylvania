@@ -1,5 +1,5 @@
 ---
 title: "Hair Outlet"
 url: /norristown/hair-outlet/
-shop: Kosmetik
+shop: beauty
 ---

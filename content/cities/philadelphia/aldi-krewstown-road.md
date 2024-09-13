@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /philadelphia/aldi-krewstown-road/
-shop: Supermarkt
+shop: supermarket
 ---

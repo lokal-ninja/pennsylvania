@@ -1,5 +1,5 @@
 ---
 title: "Cliffside Auto Repair"
 url: /stroudsburg/cliffside-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Terri's Gifts"
 url: /new-hope/terris-gifts/
-shop: Andenken
+shop: gift
 ---

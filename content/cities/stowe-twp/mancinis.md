@@ -1,5 +1,5 @@
 ---
 title: "Mancini's"
 url: /stowe-twp/mancinis/
-shop: Bäckerei
+shop: bakery
 ---

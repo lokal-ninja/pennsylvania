@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /erie/t-mobile-west-38th-street/
-shop: Handy
+shop: mobile phone
 ---

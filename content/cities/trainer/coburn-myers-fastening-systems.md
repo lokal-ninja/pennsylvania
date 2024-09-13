@@ -1,5 +1,5 @@
 ---
 title: "Coburn-Myers Fastening Systems"
 url: /trainer/coburn-myers-fastening-systems/
-shop: Eisenwaren
+shop: hardware
 ---

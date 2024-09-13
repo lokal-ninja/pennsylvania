@@ -1,5 +1,5 @@
 ---
 title: "Elegant Lady"
 url: /philadelphia/elegant-lady/
-shop: Kleidung
+shop: clothes
 ---

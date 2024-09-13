@@ -1,5 +1,5 @@
 ---
 title: "Cholo's Auto Repair"
 url: /philadelphia/cholos-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

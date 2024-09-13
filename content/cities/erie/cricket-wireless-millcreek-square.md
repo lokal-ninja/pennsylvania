@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /erie/cricket-wireless-millcreek-square/
-shop: Handy
+shop: mobile phone
 ---

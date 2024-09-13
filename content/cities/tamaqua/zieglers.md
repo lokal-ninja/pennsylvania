@@ -1,5 +1,5 @@
 ---
 title: "Ziegler's"
 url: /tamaqua/zieglers/
-shop: Autowerkstatt
+shop: car repair
 ---

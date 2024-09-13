@@ -1,5 +1,5 @@
 ---
 title: "Hammers Towing"
 url: /pottsville/hammers-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

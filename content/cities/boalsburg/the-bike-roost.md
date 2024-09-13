@@ -1,5 +1,5 @@
 ---
 title: "The Bike Roost"
 url: /boalsburg/the-bike-roost/
-shop: Fahrrad
+shop: bicycle
 ---

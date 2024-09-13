@@ -1,5 +1,5 @@
 ---
 title: "Nail'Tique"
 url: /stroudsburg/nailtique/
-shop: Kosmetik
+shop: beauty
 ---

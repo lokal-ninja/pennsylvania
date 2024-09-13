@@ -1,5 +1,5 @@
 ---
 title: "Koller Funeral Home"
 url: /philadelphia/koller-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

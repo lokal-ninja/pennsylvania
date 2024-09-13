@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /reading/goodwill-east-lancaster-avenue/
-shop: Gebrauchtwaren
+shop: charity
 ---

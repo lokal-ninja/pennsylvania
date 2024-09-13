@@ -1,5 +1,5 @@
 ---
 title: "Ace Spa"
 url: /lansdale/ace-spa/
-shop: Kosmetik
+shop: beauty
 ---

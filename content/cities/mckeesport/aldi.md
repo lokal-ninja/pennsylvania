@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mckeesport/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

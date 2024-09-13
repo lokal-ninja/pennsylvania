@@ -1,5 +1,5 @@
 ---
 title: "Bilenky Cycle works"
 url: /philadelphia/bilenky-cycle-works/
-shop: Fahrrad
+shop: bicycle
 ---

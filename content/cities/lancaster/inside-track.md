@@ -1,5 +1,5 @@
 ---
 title: "Inside Track"
 url: /lancaster/inside-track/
-shop: Sport
+shop: sports
 ---

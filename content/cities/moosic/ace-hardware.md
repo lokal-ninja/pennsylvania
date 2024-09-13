@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /moosic/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

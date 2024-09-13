@@ -1,5 +1,5 @@
 ---
-title: "Brows n;Blings"
+title: "Brows n’ Blings"
 url: /bellefonte/brows-n-blings/
-shop: Piercing
+shop: piercing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keswick Tattoo"
 url: /glenside/keswick-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

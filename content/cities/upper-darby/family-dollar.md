@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /upper-darby/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

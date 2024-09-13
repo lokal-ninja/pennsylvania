@@ -1,5 +1,5 @@
 ---
 title: "Monkey Fish Toys"
 url: /west-chester/monkey-fish-toys/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /bethlehem/raceway/
-shop: Lebensmittel
+shop: convenience
 ---

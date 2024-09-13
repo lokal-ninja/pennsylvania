@@ -1,5 +1,5 @@
 ---
 title: "The Trump Store"
 url: /bensalem/the-trump-store/
-shop: Kramladen
+shop: variety store
 ---

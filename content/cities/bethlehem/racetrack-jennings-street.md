@@ -1,5 +1,5 @@
 ---
 title: "Racetrack"
 url: /bethlehem/racetrack-jennings-street/
-shop: Lebensmittel
+shop: convenience
 ---

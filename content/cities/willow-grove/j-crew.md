@@ -1,5 +1,5 @@
 ---
 title: "J.Crew"
 url: /willow-grove/j-crew/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /downingtown/gamestop/
-shop: Videospiele
+shop: video games
 ---

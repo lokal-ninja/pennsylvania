@@ -1,5 +1,5 @@
 ---
 title: "Coen"
 url: /venetia/coen/
-shop: Lebensmittel
+shop: convenience
 ---

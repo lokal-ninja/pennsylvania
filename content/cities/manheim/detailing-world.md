@@ -1,5 +1,5 @@
 ---
 title: "Detailing World"
 url: /manheim/detailing-world/
-shop: Allgemein
+shop: shop
 ---

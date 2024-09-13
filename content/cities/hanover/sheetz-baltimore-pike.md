@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /hanover/sheetz-baltimore-pike/
-shop: Lebensmittel
+shop: convenience
 ---

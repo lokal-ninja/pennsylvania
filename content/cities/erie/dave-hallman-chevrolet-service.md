@@ -1,5 +1,5 @@
 ---
 title: "Dave Hallman Chevrolet Service"
 url: /erie/dave-hallman-chevrolet-service/
-shop: Autowerkstatt
+shop: car repair
 ---

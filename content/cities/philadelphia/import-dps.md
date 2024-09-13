@@ -1,5 +1,5 @@
 ---
 title: "Import DPS"
 url: /philadelphia/import-dps/
-shop: Autoteile
+shop: car parts
 ---

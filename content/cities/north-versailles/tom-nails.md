@@ -1,5 +1,5 @@
 ---
 title: "Tom Nails"
 url: /north-versailles/tom-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chuck Smith's"
 url: /bechtelsville/chuck-smiths/
-shop: Autowerkstatt
+shop: car repair
 ---

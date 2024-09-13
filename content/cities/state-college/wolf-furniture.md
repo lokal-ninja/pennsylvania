@@ -1,5 +1,5 @@
 ---
 title: "Wolf Furniture"
 url: /state-college/wolf-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /whitehall/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

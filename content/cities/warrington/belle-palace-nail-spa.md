@@ -1,5 +1,5 @@
 ---
 title: "Belle Palace Nail Spa"
 url: /warrington/belle-palace-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pine-grove/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

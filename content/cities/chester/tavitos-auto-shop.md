@@ -1,5 +1,5 @@
 ---
 title: "Tavito's Auto Shop"
 url: /chester/tavitos-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

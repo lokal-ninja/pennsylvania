@@ -1,5 +1,5 @@
 ---
 title: "West Chester Barber Shop"
 url: /west-chester/west-chester-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

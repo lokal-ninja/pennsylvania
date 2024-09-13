@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /breezewood/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

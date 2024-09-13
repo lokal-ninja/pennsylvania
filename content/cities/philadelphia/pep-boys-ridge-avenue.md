@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /philadelphia/pep-boys-ridge-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

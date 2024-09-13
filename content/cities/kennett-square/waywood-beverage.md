@@ -1,5 +1,5 @@
 ---
 title: "Waywood Beverage"
 url: /kennett-square/waywood-beverage/
-shop: Spirituosen
+shop: alcohol
 ---

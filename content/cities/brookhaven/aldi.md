@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /brookhaven/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

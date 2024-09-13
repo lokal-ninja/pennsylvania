@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lancaster/autozone/
-shop: Autoteile
+shop: car parts
 ---

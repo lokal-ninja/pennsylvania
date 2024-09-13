@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /bristol/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

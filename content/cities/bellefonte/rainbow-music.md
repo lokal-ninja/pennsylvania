@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Music"
 url: /bellefonte/rainbow-music/
-shop: Instrumente
+shop: musical instrument
 ---

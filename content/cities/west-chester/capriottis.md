@@ -1,5 +1,5 @@
 ---
 title: "Capriotti’s"
 url: /west-chester/capriottis/
-shop: Feinkost
+shop: deli
 ---

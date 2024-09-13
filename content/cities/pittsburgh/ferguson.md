@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /pittsburgh/ferguson/
-shop: Baustoffe
+shop: trade
 ---

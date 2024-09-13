@@ -1,5 +1,5 @@
 ---
 title: "Quick Stop"
 url: /philadelphia/quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

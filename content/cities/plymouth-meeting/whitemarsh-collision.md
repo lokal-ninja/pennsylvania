@@ -1,5 +1,5 @@
 ---
 title: "Whitemarsh Collision"
 url: /plymouth-meeting/whitemarsh-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

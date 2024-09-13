@@ -1,5 +1,5 @@
 ---
 title: "Distinctive Drapery Service"
 url: /erie/distinctive-drapery-service/
-shop: Jalousien
+shop: window blind
 ---

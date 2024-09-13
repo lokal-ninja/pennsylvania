@@ -1,5 +1,5 @@
 ---
 title: "Shaffer's Trading Cards"
 url: /lewisburg/shaffers-trading-cards/
-shop: Allgemein
+shop: shop
 ---

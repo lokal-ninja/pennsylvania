@@ -1,5 +1,5 @@
 ---
 title: "Mount Pocono Beverage"
 url: /mount-pocono/mount-pocono-beverage/
-shop: Spirituosen
+shop: alcohol
 ---

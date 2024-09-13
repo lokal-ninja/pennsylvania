@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /newtown-square/giant/
-shop: Supermarkt
+shop: supermarket
 ---

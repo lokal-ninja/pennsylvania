@@ -1,5 +1,5 @@
 ---
 title: "Widmer Sign Company"
 url: /scranton/widmer-sign-company/
-shop: Allgemein
+shop: shop
 ---

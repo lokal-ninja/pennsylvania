@@ -1,5 +1,5 @@
 ---
 title: "Universal Art Gallery"
 url: /pottstown/universal-art-gallery/
-shop: Rahmen
+shop: frame
 ---

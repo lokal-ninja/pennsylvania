@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /ephrata/gamestop/
-shop: Videospiele
+shop: video games
 ---

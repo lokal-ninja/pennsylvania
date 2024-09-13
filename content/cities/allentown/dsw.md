@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /allentown/dsw/
-shop: Schuhe
+shop: shoes
 ---

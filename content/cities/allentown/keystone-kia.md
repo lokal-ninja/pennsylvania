@@ -1,5 +1,5 @@
 ---
 title: "Keystone Kia"
 url: /allentown/keystone-kia/
-shop: Autohaus
+shop: car
 ---

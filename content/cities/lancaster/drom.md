@@ -1,5 +1,5 @@
 ---
 title: "DRØM"
 url: /lancaster/drom/
-shop: Raumausstattung
+shop: interior decoration
 ---

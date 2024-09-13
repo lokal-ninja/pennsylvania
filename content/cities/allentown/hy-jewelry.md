@@ -1,5 +1,5 @@
 ---
 title: "HY Jewelry"
 url: /allentown/hy-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

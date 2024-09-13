@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /philadelphia/target-mifflin-street/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /brookhaven/walgreens/
-shop: Drogerie
+shop: chemist
 ---

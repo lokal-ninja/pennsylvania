@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /coraopolis/giant-eagle/
-shop: Supermarkt
+shop: supermarket
 ---

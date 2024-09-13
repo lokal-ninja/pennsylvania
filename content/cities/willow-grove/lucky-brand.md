@@ -1,5 +1,5 @@
 ---
 title: "Lucky Brand"
 url: /willow-grove/lucky-brand/
-shop: Kleidung
+shop: clothes
 ---

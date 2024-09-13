@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /chambersburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

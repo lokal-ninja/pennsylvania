@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /erie/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

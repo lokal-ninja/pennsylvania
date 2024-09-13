@@ -1,5 +1,5 @@
 ---
 title: "The Bicycle Shop"
 url: /state-college/the-bicycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

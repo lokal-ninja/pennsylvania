@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /bala-cynwyd/mattress-firm/
-shop: Betten
+shop: bed
 ---

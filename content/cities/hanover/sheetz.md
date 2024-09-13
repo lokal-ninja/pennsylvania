@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /hanover/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /lancaster/burlington/
-shop: Warenhaus
+shop: department store
 ---

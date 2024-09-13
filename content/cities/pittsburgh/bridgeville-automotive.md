@@ -1,5 +1,5 @@
 ---
 title: "Bridgeville Automotive"
 url: /pittsburgh/bridgeville-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lehigh Valley Bumper"
 url: /allentown/lehigh-valley-bumper/
-shop: Autoteile
+shop: car parts
 ---

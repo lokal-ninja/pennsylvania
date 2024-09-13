@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /uniontown/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

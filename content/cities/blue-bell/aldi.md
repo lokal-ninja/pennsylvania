@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /blue-bell/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

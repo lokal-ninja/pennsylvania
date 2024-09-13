@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /hershey/lids/
-shop: Kleidung
+shop: clothes
 ---

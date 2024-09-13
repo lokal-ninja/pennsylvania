@@ -1,5 +1,5 @@
 ---
 title: "Artworks"
 url: /gettysburg/artworks/
-shop: Andenken
+shop: gift
 ---

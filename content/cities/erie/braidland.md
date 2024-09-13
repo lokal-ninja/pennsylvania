@@ -1,5 +1,5 @@
 ---
 title: "Braidland"
 url: /erie/braidland/
-shop: Friseur
+shop: hairdresser
 ---

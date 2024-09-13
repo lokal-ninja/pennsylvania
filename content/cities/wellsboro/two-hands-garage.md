@@ -1,5 +1,5 @@
 ---
 title: "Two Hands Garage"
 url: /wellsboro/two-hands-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

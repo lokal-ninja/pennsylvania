@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /warminster/autozone/
-shop: Autoteile
+shop: car parts
 ---

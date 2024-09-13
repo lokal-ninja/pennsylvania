@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /souderton/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

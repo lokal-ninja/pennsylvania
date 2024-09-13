@@ -1,5 +1,5 @@
 ---
 title: "Funky Fresh Pet Grooming"
 url: /milford/funky-fresh-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

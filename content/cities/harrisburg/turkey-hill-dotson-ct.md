@@ -1,5 +1,5 @@
 ---
 title: "Turkey Hill"
 url: /harrisburg/turkey-hill-dotson-ct/
-shop: Lebensmittel
+shop: convenience
 ---

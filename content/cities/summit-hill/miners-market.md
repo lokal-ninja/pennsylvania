@@ -1,5 +1,5 @@
 ---
 title: "Miners Market"
 url: /summit-hill/miners-market/
-shop: Lebensmittel
+shop: convenience
 ---

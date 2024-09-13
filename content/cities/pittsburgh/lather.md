@@ -1,5 +1,5 @@
 ---
 title: "lather."
 url: /pittsburgh/lather/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schmitt's Service Center"
 url: /wrightsville/schmitts-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

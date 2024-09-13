@@ -1,5 +1,5 @@
 ---
 title: "Coplay Convenience Store"
 url: /coplay/coplay-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

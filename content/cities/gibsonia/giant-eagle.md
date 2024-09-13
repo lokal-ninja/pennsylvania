@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /gibsonia/giant-eagle/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Defelice's Deli"
 url: /cecil/defelices-deli/
-shop: Feinkost
+shop: deli
 ---

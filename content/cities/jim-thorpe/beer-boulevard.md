@@ -1,5 +1,5 @@
 ---
 title: "Beer Boulevard"
 url: /jim-thorpe/beer-boulevard/
-shop: Getränke
+shop: beverages
 ---

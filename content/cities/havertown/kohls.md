@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /havertown/kohls/
-shop: Warenhaus
+shop: department store
 ---

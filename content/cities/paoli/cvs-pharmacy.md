@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /paoli/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

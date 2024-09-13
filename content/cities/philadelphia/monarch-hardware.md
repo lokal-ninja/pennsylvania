@@ -1,5 +1,5 @@
 ---
 title: "Monarch Hardware"
 url: /philadelphia/monarch-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

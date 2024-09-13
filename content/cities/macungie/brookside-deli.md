@@ -1,5 +1,5 @@
 ---
 title: "Brookside Deli"
 url: /macungie/brookside-deli/
-shop: Feinkost
+shop: deli
 ---

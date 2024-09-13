@@ -1,5 +1,5 @@
 ---
 title: "FishUSA"
 url: /fairview/fishusa/
-shop: Angeln
+shop: fishing
 ---

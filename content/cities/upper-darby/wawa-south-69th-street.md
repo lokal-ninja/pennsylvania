@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /upper-darby/wawa-south-69th-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /exton/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

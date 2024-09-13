@@ -1,5 +1,5 @@
 ---
 title: "GEAR Automotive"
 url: /coplay/gear-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

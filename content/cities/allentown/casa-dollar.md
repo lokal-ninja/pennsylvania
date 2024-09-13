@@ -1,5 +1,5 @@
 ---
 title: "Casa Dollar"
 url: /allentown/casa-dollar/
-shop: Kramladen
+shop: variety store
 ---

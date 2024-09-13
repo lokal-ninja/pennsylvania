@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /erie/autozone-buffalo-road/
-shop: Autoteile
+shop: car parts
 ---

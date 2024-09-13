@@ -1,5 +1,5 @@
 ---
 title: "Big Box Rentals"
 url: /fairview/big-box-rentals/
-shop: Mieten
+shop: storage rental
 ---

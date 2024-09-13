@@ -1,5 +1,5 @@
 ---
 title: "Stefanelli's Candies"
 url: /erie/stefanellis-candies/
-shop: Schokolade
+shop: chocolate
 ---

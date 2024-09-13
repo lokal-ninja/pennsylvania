@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /corry/dollar-general-east-main-street/
-shop: Kramladen
+shop: variety store
 ---

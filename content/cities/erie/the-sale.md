@@ -1,5 +1,5 @@
 ---
 title: "The Sale"
 url: /erie/the-sale/
-shop: Kramladen
+shop: variety store
 ---

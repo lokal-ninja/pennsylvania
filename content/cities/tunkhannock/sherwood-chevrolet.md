@@ -1,5 +1,5 @@
 ---
 title: "Sherwood Chevrolet"
 url: /tunkhannock/sherwood-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /bensalem/dollar-tree-neshaminy-boulevard/
-shop: Kramladen
+shop: variety store
 ---

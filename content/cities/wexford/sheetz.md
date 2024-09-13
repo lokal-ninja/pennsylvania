@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /wexford/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

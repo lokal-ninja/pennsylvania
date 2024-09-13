@@ -1,5 +1,5 @@
 ---
 title: "Zygmunt Motors"
 url: /doylestown/zygmunt-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

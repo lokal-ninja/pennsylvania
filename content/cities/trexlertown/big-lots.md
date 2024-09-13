@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /trexlertown/big-lots/
-shop: Warenhaus
+shop: department store
 ---

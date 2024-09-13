@@ -1,5 +1,5 @@
 ---
 title: "Chocolates By Tina Marie"
 url: /hummelstown/chocolates-by-tina-marie/
-shop: Süßwaren
+shop: confectionery
 ---

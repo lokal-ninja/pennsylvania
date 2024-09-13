@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /york/sheetz-west-market-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /west-mifflin/target/
-shop: Warenhaus
+shop: department store
 ---

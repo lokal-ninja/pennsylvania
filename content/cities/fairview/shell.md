@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /fairview/shell/
-shop: Lebensmittel
+shop: convenience
 ---

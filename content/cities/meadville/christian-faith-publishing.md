@@ -1,5 +1,5 @@
 ---
 title: "Christian Faith Publishing"
 url: /meadville/christian-faith-publishing/
-shop: Wettbüro
+shop: bookmaker
 ---

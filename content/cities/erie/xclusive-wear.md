@@ -1,5 +1,5 @@
 ---
 title: "Xclusive Wear"
 url: /erie/xclusive-wear/
-shop: Kleidung
+shop: clothes
 ---

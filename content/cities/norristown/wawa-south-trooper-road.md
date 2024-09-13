@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /norristown/wawa-south-trooper-road/
-shop: Lebensmittel
+shop: convenience
 ---

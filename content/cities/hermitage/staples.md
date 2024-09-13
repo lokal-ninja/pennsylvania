@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hermitage/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

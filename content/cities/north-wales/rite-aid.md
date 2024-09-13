@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /north-wales/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Braserie, Dearie!"
 url: /erie/braserie-dearie/
-shop: Kleidung
+shop: clothes
 ---

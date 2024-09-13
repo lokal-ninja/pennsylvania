@@ -1,5 +1,5 @@
 ---
 title: "Wetzler Funeral Services"
 url: /bellefonte/wetzler-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

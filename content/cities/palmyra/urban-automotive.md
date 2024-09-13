@@ -1,5 +1,5 @@
 ---
 title: "Urban Automotive"
 url: /palmyra/urban-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

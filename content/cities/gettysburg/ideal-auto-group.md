@@ -1,5 +1,5 @@
 ---
 title: "Ideal Auto Group"
 url: /gettysburg/ideal-auto-group/
-shop: Autowerkstatt
+shop: car repair
 ---

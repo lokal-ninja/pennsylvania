@@ -1,5 +1,5 @@
 ---
 title: "Martinez Mini Market"
 url: /philadelphia/martinez-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

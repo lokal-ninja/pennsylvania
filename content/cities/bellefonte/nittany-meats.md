@@ -1,5 +1,5 @@
 ---
 title: "Nittany Meats"
 url: /bellefonte/nittany-meats/
-shop: Metzgerei
+shop: butcher
 ---

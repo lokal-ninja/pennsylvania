@@ -1,5 +1,5 @@
 ---
 title: "Beer Peddler"
 url: /philadelphia/beer-peddler/
-shop: Spirituosen
+shop: alcohol
 ---

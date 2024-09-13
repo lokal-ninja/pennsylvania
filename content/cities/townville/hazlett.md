@@ -1,5 +1,5 @@
 ---
 title: "Hazlett"
 url: /townville/hazlett/
-shop: Allgemein
+shop: shop
 ---

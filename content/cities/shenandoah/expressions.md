@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /shenandoah/expressions/
-shop: Gebrauchtwaren
+shop: charity
 ---

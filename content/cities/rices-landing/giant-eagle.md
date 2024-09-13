@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /rices-landing/giant-eagle/
-shop: Supermarkt
+shop: supermarket
 ---

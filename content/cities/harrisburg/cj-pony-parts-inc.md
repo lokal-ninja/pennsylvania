@@ -1,5 +1,5 @@
 ---
 title: "CJ Pony Parts, Inc."
 url: /harrisburg/cj-pony-parts-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

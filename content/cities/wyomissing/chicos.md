@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /wyomissing/chicos/
-shop: Kleidung
+shop: clothes
 ---

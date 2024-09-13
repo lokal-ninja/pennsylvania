@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /huntingdon-valley/hallmark/
-shop: Andenken
+shop: gift
 ---

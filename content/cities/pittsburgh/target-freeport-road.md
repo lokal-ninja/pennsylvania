@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /pittsburgh/target-freeport-road/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superfood"
 url: /allentown/superfood/
-shop: Supermarkt
+shop: supermarket
 ---

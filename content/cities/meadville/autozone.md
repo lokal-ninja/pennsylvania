@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /meadville/autozone/
-shop: Autoteile
+shop: car parts
 ---

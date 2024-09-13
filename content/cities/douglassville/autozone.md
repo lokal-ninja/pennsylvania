@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /douglassville/autozone/
-shop: Autoteile
+shop: car parts
 ---

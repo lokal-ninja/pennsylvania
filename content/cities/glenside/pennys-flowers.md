@@ -1,5 +1,5 @@
 ---
 title: "Penny's Flowers"
 url: /glenside/pennys-flowers/
-shop: Blumen
+shop: florist
 ---

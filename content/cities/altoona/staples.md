@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /altoona/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

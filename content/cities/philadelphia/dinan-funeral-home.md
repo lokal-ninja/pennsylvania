@@ -1,5 +1,5 @@
 ---
 title: "Dinan Funeral Home"
 url: /philadelphia/dinan-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

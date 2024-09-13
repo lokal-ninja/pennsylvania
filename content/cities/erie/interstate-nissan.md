@@ -1,5 +1,5 @@
 ---
 title: "Interstate Nissan"
 url: /erie/interstate-nissan/
-shop: Autohaus
+shop: car
 ---

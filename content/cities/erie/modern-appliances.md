@@ -1,5 +1,5 @@
 ---
 title: "Modern Appliances"
 url: /erie/modern-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

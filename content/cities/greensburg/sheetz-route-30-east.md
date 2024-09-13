@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /greensburg/sheetz-route-30-east/
-shop: Lebensmittel
+shop: convenience
 ---

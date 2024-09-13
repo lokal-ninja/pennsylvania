@@ -1,5 +1,5 @@
 ---
 title: "Second Chance Auto"
 url: /julian/second-chance-auto/
-shop: Autohaus
+shop: car
 ---

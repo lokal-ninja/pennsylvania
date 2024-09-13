@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /pittsburgh/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

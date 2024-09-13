@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /pottstown/zales/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Say's Auto Services"
 url: /philadelphia/says-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

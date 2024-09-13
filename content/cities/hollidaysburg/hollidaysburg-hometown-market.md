@@ -1,5 +1,5 @@
 ---
 title: "Hollidaysburg Hometown Market"
 url: /hollidaysburg/hollidaysburg-hometown-market/
-shop: Supermarkt
+shop: supermarket
 ---

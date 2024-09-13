@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /philadelphia/grocery-outlet-west-hortter-street/
-shop: Supermarkt
+shop: supermarket
 ---

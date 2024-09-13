@@ -1,5 +1,5 @@
 ---
 title: "Breaker Cigars"
 url: /shamokin/breaker-cigars/
-shop: Tabak
+shop: tobacco
 ---

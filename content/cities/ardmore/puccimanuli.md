@@ -1,5 +1,5 @@
 ---
 title: "pucciManuli"
 url: /ardmore/puccimanuli/
-shop: Spielzeug
+shop: toys
 ---

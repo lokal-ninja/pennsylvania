@@ -1,5 +1,5 @@
 ---
 title: "American Freight"
 url: /harrisburg/american-freight/
-shop: Warenhaus
+shop: department store
 ---

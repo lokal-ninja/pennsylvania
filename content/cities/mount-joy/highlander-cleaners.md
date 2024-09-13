@@ -1,5 +1,5 @@
 ---
 title: "Highlander Cleaners"
 url: /mount-joy/highlander-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

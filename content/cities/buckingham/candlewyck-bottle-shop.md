@@ -1,5 +1,5 @@
 ---
 title: "Candlewyck Bottle Shop"
 url: /buckingham/candlewyck-bottle-shop/
-shop: Spirituosen
+shop: alcohol
 ---

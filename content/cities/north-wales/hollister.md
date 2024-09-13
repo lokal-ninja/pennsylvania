@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /north-wales/hollister/
-shop: Kleidung
+shop: clothes
 ---

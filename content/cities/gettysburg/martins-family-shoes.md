@@ -1,5 +1,5 @@
 ---
 title: "Martin's Family Shoes"
 url: /gettysburg/martins-family-shoes/
-shop: Schuhe
+shop: shoes
 ---

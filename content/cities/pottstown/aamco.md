@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /pottstown/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

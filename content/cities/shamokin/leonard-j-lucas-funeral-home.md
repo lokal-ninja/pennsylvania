@@ -1,5 +1,5 @@
 ---
 title: "Leonard J. Lucas Funeral Home"
 url: /shamokin/leonard-j-lucas-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

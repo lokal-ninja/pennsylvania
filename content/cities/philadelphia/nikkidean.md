@@ -1,5 +1,5 @@
 ---
 title: "NikkiDean"
 url: /philadelphia/nikkidean/
-shop: Friseur
+shop: hairdresser
 ---

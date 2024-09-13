@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /philadelphia/old-navy/
-shop: Kleidung
+shop: clothes
 ---

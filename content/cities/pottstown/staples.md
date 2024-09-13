@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /pottstown/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

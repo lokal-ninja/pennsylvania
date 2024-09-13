@@ -1,5 +1,5 @@
 ---
 title: "Del Chevrolet"
 url: /paoli/del-chevrolet/
-shop: Autohaus
+shop: car
 ---

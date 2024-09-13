@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /erie/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

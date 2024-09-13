@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /philadelphia/autozone-bustleton-avenue/
-shop: Autoteile
+shop: car parts
 ---

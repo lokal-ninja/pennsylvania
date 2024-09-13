@@ -1,5 +1,5 @@
 ---
 title: "Bobbie's Bloomers"
 url: /frackville/bobbies-bloomers/
-shop: Blumen
+shop: florist
 ---

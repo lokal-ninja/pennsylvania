@@ -1,5 +1,5 @@
 ---
 title: "Liberty Express"
 url: /tobyhanna/liberty-express/
-shop: Lebensmittel
+shop: convenience
 ---

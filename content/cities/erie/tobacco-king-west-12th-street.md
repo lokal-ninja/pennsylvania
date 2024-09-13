@@ -1,5 +1,5 @@
 ---
 title: "Tobacco King"
 url: /erie/tobacco-king-west-12th-street/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

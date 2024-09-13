@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Nails"
 url: /gettysburg/hollywood-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /conshohocken/verizon/
-shop: Handy
+shop: mobile phone
 ---

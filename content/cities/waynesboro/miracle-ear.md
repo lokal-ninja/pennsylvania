@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /waynesboro/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /warren/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

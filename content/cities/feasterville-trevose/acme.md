@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /feasterville-trevose/acme/
-shop: Supermarkt
+shop: supermarket
 ---

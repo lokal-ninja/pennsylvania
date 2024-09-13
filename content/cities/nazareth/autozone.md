@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /nazareth/autozone/
-shop: Autoteile
+shop: car parts
 ---

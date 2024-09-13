@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /allentown/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

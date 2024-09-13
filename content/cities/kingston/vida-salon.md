@@ -1,5 +1,5 @@
 ---
 title: "Vida Salon"
 url: /kingston/vida-salon/
-shop: Friseur
+shop: hairdresser
 ---

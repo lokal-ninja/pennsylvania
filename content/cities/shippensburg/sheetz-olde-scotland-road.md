@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /shippensburg/sheetz-olde-scotland-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Store"
 url: /belle-vernon/country-store/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cigarette Outlet"
 url: /scranton/cigarette-outlet/
-shop: Tabak
+shop: tobacco
 ---

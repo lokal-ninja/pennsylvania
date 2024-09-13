@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /douglassville/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

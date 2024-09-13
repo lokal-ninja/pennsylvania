@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /camp-hill/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

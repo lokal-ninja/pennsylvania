@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /york/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

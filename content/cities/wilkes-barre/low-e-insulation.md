@@ -1,5 +1,5 @@
 ---
 title: "Low-E Insulation"
 url: /wilkes-barre/low-e-insulation/
-shop: Allgemein
+shop: shop
 ---

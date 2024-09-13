@@ -1,5 +1,5 @@
 ---
 title: "Custom Cakes by Adele"
 url: /whitehall/custom-cakes-by-adele/
-shop: Bäckerei
+shop: bakery
 ---

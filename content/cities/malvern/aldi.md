@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /malvern/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

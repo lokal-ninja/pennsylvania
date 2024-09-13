@@ -1,5 +1,5 @@
 ---
 title: "Worthwhile Thrift"
 url: /collegeville/worthwhile-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

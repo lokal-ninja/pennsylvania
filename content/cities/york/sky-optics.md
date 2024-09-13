@@ -1,5 +1,5 @@
 ---
 title: "Sky Optics"
 url: /york/sky-optics/
-shop: Optiker
+shop: optician
 ---

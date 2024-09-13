@@ -1,5 +1,5 @@
 ---
 title: "Redner's"
 url: /allentown/redners/
-shop: Supermarkt
+shop: supermarket
 ---

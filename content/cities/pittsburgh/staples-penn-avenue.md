@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /pittsburgh/staples-penn-avenue/
-shop: Schreibwaren
+shop: office supplies
 ---

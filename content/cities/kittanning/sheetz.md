@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /kittanning/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

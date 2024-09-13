@@ -1,5 +1,5 @@
 ---
 title: "Brothers Auto Services"
 url: /philadelphia/brothers-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

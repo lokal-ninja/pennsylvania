@@ -1,5 +1,5 @@
 ---
 title: "Karns Food"
 url: /duncannon/karns-food/
-shop: Supermarkt
+shop: supermarket
 ---

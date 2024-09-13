@@ -1,5 +1,5 @@
 ---
 title: "Lark Mountain Marketplace"
 url: /wilkes-barre/lark-mountain-marketplace/
-shop: Kramladen
+shop: variety store
 ---

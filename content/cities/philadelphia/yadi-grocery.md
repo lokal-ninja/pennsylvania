@@ -1,5 +1,5 @@
 ---
 title: "Yadi Grocery"
 url: /philadelphia/yadi-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

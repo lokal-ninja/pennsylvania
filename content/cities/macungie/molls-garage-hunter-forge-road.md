@@ -1,5 +1,5 @@
 ---
 title: "Moll's Garage"
 url: /macungie/molls-garage-hunter-forge-road/
-shop: Autowerkstatt
+shop: car repair
 ---

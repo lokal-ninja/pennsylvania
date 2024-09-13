@@ -1,5 +1,5 @@
 ---
 title: "Dusckas-Taylor Funeral Home"
 url: /erie/dusckas-taylor-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

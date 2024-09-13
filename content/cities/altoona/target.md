@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /altoona/target/
-shop: Warenhaus
+shop: department store
 ---

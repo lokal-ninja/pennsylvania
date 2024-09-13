@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /bethel-park/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

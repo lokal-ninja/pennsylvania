@@ -1,5 +1,5 @@
 ---
 title: "Paper Source"
 url: /paoli/paper-source/
-shop: Schreibwaren
+shop: office supplies
 ---

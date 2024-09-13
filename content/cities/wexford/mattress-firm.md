@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /wexford/mattress-firm/
-shop: Betten
+shop: bed
 ---

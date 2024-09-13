@@ -1,5 +1,5 @@
 ---
 title: "Hagy Auto Parts, Inc"
 url: /ephrata/hagy-auto-parts-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

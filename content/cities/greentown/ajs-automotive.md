@@ -1,5 +1,5 @@
 ---
 title: "AJ's Automotive"
 url: /greentown/ajs-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

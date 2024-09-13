@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /pottstown/puma/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jamestown Mattress Company"
 url: /erie/jamestown-mattress-company/
-shop: Betten
+shop: bed
 ---

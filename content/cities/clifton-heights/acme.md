@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /clifton-heights/acme/
-shop: Supermarkt
+shop: supermarket
 ---

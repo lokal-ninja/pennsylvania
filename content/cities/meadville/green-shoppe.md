@@ -1,5 +1,5 @@
 ---
 title: "Green Shoppe"
 url: /meadville/green-shoppe/
-shop: Raumausstattung
+shop: interior decoration
 ---

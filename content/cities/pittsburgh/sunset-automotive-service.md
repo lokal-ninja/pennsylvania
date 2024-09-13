@@ -1,5 +1,5 @@
 ---
 title: "Sunset Automotive Service"
 url: /pittsburgh/sunset-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

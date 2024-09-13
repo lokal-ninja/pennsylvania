@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /state-college/fastenal/
-shop: Baustoffe
+shop: trade
 ---

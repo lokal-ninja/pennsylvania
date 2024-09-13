@@ -1,5 +1,5 @@
 ---
 title: "Bealls Outlet"
 url: /philipsburg/bealls-outlet/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happy Bakery"
 url: /west-chester/happy-bakery/
-shop: Bäckerei
+shop: bakery
 ---

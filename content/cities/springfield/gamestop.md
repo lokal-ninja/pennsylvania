@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /springfield/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roxie's Nail Salon"
 url: /fairview/roxies-nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

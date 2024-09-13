@@ -1,5 +1,5 @@
 ---
 title: "Merkel's Shoes"
 url: /gilbertsville/merkels-shoes/
-shop: Schuhe
+shop: shoes
 ---

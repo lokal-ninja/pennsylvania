@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /philadelphia/autozone/
-shop: Autoteile
+shop: car parts
 ---

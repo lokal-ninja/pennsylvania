@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /ambler/verizon/
-shop: Handy
+shop: mobile phone
 ---

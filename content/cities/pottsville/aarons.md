@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /pottsville/aarons/
-shop: Möbel
+shop: furniture
 ---

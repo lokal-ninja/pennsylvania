@@ -1,5 +1,5 @@
 ---
 title: "Conrad's Body Shop"
 url: /gilbertsville/conrads-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

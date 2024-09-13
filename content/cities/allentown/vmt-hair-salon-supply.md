@@ -1,5 +1,5 @@
 ---
 title: "VMT Hair Salon Supply"
 url: /allentown/vmt-hair-salon-supply/
-shop: Friseur
+shop: hairdresser
 ---

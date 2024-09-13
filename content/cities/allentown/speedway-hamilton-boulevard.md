@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /allentown/speedway-hamilton-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

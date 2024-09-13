@@ -1,5 +1,5 @@
 ---
 title: "Prantl's Bakery"
 url: /pittsburgh/prantls-bakery/
-shop: Bäckerei
+shop: bakery
 ---

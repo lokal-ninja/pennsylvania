@@ -1,5 +1,5 @@
 ---
 title: "Pepperberries"
 url: /uniontown/pepperberries/
-shop: Allgemein
+shop: shop
 ---

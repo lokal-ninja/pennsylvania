@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lyndora/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

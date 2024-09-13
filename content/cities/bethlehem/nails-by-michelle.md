@@ -1,5 +1,5 @@
 ---
 title: "Nails by Michelle"
 url: /bethlehem/nails-by-michelle/
-shop: Kosmetik
+shop: beauty
 ---

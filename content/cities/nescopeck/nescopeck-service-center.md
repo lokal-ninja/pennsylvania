@@ -1,5 +1,5 @@
 ---
 title: "Nescopeck Service Center"
 url: /nescopeck/nescopeck-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

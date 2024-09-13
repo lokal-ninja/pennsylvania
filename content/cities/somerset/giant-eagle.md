@@ -1,5 +1,5 @@
 ---
 title: "Giant Eagle"
 url: /somerset/giant-eagle/
-shop: Supermarkt
+shop: supermarket
 ---

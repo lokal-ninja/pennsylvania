@@ -1,5 +1,5 @@
 ---
 title: "East European Market Food Store"
 url: /state-college/east-european-market-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

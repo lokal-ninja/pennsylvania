@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /state-college/mattress-warehouse-north-atherton-street/
-shop: Betten
+shop: bed
 ---

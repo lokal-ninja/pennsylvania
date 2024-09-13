@@ -1,5 +1,5 @@
 ---
 title: "Marko Radiator"
 url: /shenandoah/marko-radiator/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /pottstown/aldo/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /ebensburg/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woodland Auto Repair"
 url: /philadelphia/woodland-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /lancaster/lowes-hempstead-road/
-shop: Baumarkt
+shop: doityourself
 ---

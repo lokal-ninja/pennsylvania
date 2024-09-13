@@ -1,5 +1,5 @@
 ---
 title: "Coen"
 url: /south-park/coen/
-shop: Lebensmittel
+shop: convenience
 ---

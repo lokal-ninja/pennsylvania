@@ -1,5 +1,5 @@
 ---
 title: "Jaguar Allentown"
 url: /allentown/jaguar-allentown/
-shop: Autohaus
+shop: car
 ---

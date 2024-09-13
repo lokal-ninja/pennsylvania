@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /grove-city/verizon/
-shop: Handy
+shop: mobile phone
 ---

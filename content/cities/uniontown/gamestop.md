@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /uniontown/gamestop/
-shop: Videospiele
+shop: video games
 ---
