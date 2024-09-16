@@ -4,8 +4,8 @@ latitude: 39.96947
 longitude: -75.58776
 postcode: "19380"
 city: West Chester
-street: "Turner Lane"
-housenumber: 107
-phone: "+1 610-696-5048"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-20:00"
-website: "https://www.suntancity.com/find-a-salon/pennsylvania/west-chester/turner-lane"
+street: Turner Lane
+housenumber: "107"
+phone: +1 610-696-5048
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-20:00
+website: https://www.suntancity.com/find-a-salon/pennsylvania/west-chester/turner-lane

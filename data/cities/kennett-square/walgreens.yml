@@ -1,11 +1,11 @@
 id: 292021271
-type: way
+type: node
 latitude: 39.86146
 longitude: -75.6823
 postcode: "19348"
 city: Kennett Square
-street: "East Baltimore Pike"
-housenumber: 840
-phone: "+1-610-444-2045"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-840+e+baltimore+pike-kennett+square-pa-19348/id=2536"
+street: East Baltimore Pike
+housenumber: "840"
+phone: +1-610-444-2045
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-840+e+baltimore+pike-kennett+square-pa-19348/id=2536

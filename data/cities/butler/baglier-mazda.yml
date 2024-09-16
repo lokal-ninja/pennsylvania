@@ -1,11 +1,11 @@
 id: 385141157
-type: way
+type: node
 latitude: 40.85724
 longitude: -79.9757
 postcode: "16001"
 city: Butler
-street: "Evans City Road"
-housenumber: 630
-phone: "+1 866-414-3709"
+street: Evans City Road
+housenumber: "630"
+phone: +1 866-414-3709
 opening_hours: ""
-website: "https://www.bagliermazda.com/"
+website: https://www.bagliermazda.com/

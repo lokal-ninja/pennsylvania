@@ -1,11 +1,11 @@
 id: 570381793
-type: way
+type: node
 latitude: 40.28955
 longitude: -75.19958
 postcode: "18914"
 city: Chalfont
-street: "East Butler Avenue"
-housenumber: 214
+street: East Butler Avenue
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

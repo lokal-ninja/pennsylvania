@@ -1,11 +1,11 @@
 id: 678326570
-type: way
+type: node
 latitude: 41.37504
 longitude: -79.70356
 postcode: "16346"
 city: Seneca
-street: "Pennsylvania Highway 257"
-housenumber: 3108
+street: Pennsylvania Highway 257
+housenumber: "3108"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1273517018
-type: way
+type: node
 latitude: 40.51509
 longitude: -75.55577
 postcode: "18062"
 city: Macungie
-street: "South Church Street"
-housenumber: 24
+street: South Church Street
+housenumber: "24"
 phone: "+14845192029"
 opening_hours: ""
 website: ""

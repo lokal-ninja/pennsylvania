@@ -1,11 +1,11 @@
 id: 339918945
-type: way
+type: node
 latitude: 40.5361
 longitude: -80.06933
 postcode: "15237"
 city: Pittsburgh
-street: "Mount Nebo Pointe Road"
-housenumber: 288
-phone: "+1 412-536-8200"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/mount-nebo/2077"
+street: Mount Nebo Pointe Road
+housenumber: "288"
+phone: +1 412-536-8200
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/mount-nebo/2077

@@ -1,11 +1,11 @@
 id: 1050685467
-type: way
+type: node
 latitude: 40.26069
 longitude: -75.72445
 postcode: "19518"
 city: Douglassville
-street: "Old Swede Road"
-housenumber: 179
-phone: "+1 484-509-1826"
+street: Old Swede Road
+housenumber: "179"
+phone: +1 484-509-1826
 opening_hours: ""
-website: "https://www.mydadsflooringamerica.com/"
+website: https://www.mydadsflooringamerica.com/

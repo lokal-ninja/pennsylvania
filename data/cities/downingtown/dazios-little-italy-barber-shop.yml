@@ -1,11 +1,11 @@
 id: 554285136
-type: way
+type: node
 latitude: 40.00298
 longitude: -75.7098
 postcode: "19335"
 city: Downingtown
-street: "West Lancaster Avenue"
-housenumber: 133
+street: West Lancaster Avenue
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

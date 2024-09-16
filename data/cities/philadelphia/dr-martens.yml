@@ -4,8 +4,8 @@ latitude: 39.94986
 longitude: -75.16947
 postcode: "19103"
 city: Philadelphia
-street: "Walnut Street"
-housenumber: 1704
-phone: "+1 267-996-5641"
-opening_hours: "Mo-Th,Su 11:00-19:00; Fr-Sa 11:00-20:00"
-website: "https://www.drmartens.com/us/en/store-locator?philadelphia"
+street: Walnut Street
+housenumber: "1704"
+phone: +1 267-996-5641
+opening_hours: Mo-Th,Su 11:00-19:00; Fr-Sa 11:00-20:00
+website: https://www.drmartens.com/us/en/store-locator?philadelphia

@@ -1,11 +1,11 @@
 id: 989209542
-type: way
+type: node
 latitude: 41.64025
 longitude: -80.15275
 postcode: "16335"
 city: Meadville
-street: "Market Street"
-housenumber: 853
+street: Market Street
+housenumber: "853"
 phone: ""
 opening_hours: ""
 website: ""

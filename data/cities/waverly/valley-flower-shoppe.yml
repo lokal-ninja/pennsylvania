@@ -1,11 +1,11 @@
 id: 830184361
-type: way
+type: node
 latitude: 42.001
 longitude: -76.54319
 postcode: "14892"
 city: Waverly
-street: "Broad Street"
-housenumber: 201
+street: Broad Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

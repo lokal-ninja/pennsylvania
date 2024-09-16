@@ -1,11 +1,11 @@
 id: 308928969
-type: way
+type: node
 latitude: 40.35711
 longitude: -75.98619
 postcode: "19610"
 city: Reading
-street: "Papermill Road"
-housenumber: 2700
-phone: "+1 610-371-0237"
-opening_hours: "09:00-21:00"
-website: "https://www.kohls.com/stores/pa/reading-1476.shtml"
+street: Papermill Road
+housenumber: "2700"
+phone: +1 610-371-0237
+opening_hours: 09:00-21:00
+website: https://www.kohls.com/stores/pa/reading-1476.shtml

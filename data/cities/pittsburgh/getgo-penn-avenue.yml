@@ -1,11 +1,11 @@
 id: 227549524
-type: way
+type: node
 latitude: 40.44496
 longitude: -79.88927
 postcode: "15221"
 city: Pittsburgh
-street: "Penn Avenue"
-housenumber: 408
+street: Penn Avenue
+housenumber: "408"
 phone: ""
 opening_hours: ""
 website: ""

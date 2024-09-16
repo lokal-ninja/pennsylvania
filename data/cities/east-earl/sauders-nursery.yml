@@ -1,11 +1,11 @@
 id: 746161802
-type: way
+type: node
 latitude: 40.10903
 longitude: -76.03619
 postcode: "17519"
 city: East Earl
-street: "East Earl Road"
-housenumber: 1210
-phone: "+1 717-354-9851"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su off"
-website: "https://www.saudersnursery.com/"
+street: East Earl Road
+housenumber: "1210"
+phone: +1 717-354-9851
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su off
+website: https://www.saudersnursery.com/

@@ -1,11 +1,11 @@
 id: 457301476
-type: way
+type: node
 latitude: 39.93496
 longitude: -75.1616
 postcode: ""
 city: Philadelphia
-street: "South 11th Street"
-housenumber: 1179
+street: South 11th Street
+housenumber: "1179"
 phone: ""
 opening_hours: ""
 website: ""

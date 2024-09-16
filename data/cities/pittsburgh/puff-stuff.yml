@@ -1,11 +1,11 @@
 id: 255552762
-type: way
+type: node
 latitude: 40.56197
 longitude: -80.03985
 postcode: "15237"
 city: Pittsburgh
-street: "Perry Highway"
-housenumber: 8607
+street: Perry Highway
+housenumber: "8607"
 phone: ""
 opening_hours: ""
 website: ""

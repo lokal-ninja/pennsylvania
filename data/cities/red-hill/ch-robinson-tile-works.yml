@@ -4,8 +4,8 @@ latitude: 40.3699
 longitude: -75.48325
 postcode: "18076"
 city: Red Hill
-street: "Main Street"
-housenumber: 229
-phone: "+1 215-541-1449"
-opening_hours: "by appointment only"
-website: "http://www.chrobinsontileworks.com"
+street: Main Street
+housenumber: "229"
+phone: +1 215-541-1449
+opening_hours: '"by appointment only"'
+website: http://www.chrobinsontileworks.com

@@ -1,11 +1,11 @@
 id: 1242377700
-type: way
+type: node
 latitude: 40.03674
 longitude: -75.13715
 postcode: "19141"
 city: Philadelphia
-street: "Wagner Avenue"
-housenumber: 907
+street: Wagner Avenue
+housenumber: "907"
 phone: ""
 opening_hours: ""
 website: ""

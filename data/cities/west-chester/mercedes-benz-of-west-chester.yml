@@ -1,11 +1,11 @@
 id: 284926175
-type: way
+type: node
 latitude: 39.91053
 longitude: -75.5709
 postcode: "19382"
 city: West Chester
-street: "Wilmington Pike"
-housenumber: 1260
-phone: "+1 484-313-1100"
-opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-18:00; Sa 08:00-18:00; Su off"
-website: "https://www.mbofwestchester.com"
+street: Wilmington Pike
+housenumber: "1260"
+phone: +1 484-313-1100
+opening_hours: Mo-Th 07:00-20:00; Fr 07:00-18:00; Sa 08:00-18:00; Su off
+website: https://www.mbofwestchester.com

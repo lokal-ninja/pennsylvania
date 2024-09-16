@@ -1,11 +1,11 @@
 id: 1102739186
-type: way
+type: node
 latitude: 40.38286
 longitude: -79.85692
 postcode: "15110"
 city: Duquesne
-street: "Duquesne Boulevard"
-housenumber: 818
-phone: "+1-412-466-8973"
+street: Duquesne Boulevard
+housenumber: "818"
+phone: +1-412-466-8973
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/duquesne/818-n-duquesne-blvd-36155"
+website: https://www.7-eleven.com/locations/pa/duquesne/818-n-duquesne-blvd-36155

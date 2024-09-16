@@ -4,8 +4,8 @@ latitude: 39.91992
 longitude: -75.5743
 postcode: ""
 city: West Chester
-street: "East Street Road"
-housenumber: 54
-phone: "+1 610-399-9800"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 09:00-16:00; Su 10:00-14:00"
-website: "https://bigleaguephilly.com"
+street: East Street Road
+housenumber: "54"
+phone: +1 610-399-9800
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 09:00-16:00; Su 10:00-14:00
+website: https://bigleaguephilly.com

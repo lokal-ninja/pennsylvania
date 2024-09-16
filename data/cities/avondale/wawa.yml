@@ -1,11 +1,11 @@
 id: 467676077
-type: way
+type: node
 latitude: 39.83468
 longitude: -75.79533
-postcode: "19311-9545"
+postcode: 19311-9545
 city: Avondale
-street: "Gap Newport Pike"
-housenumber: 761
-phone: "+1 610-268-8765"
+street: Gap Newport Pike
+housenumber: "761"
+phone: +1 610-268-8765
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1071724829
-type: way
+type: node
 latitude: 39.84273
 longitude: -77.20066
 postcode: "17325"
 city: Gettysburg
-street: "York Road"
-housenumber: 1275
-phone: "+1 717-398-2506"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-17:00"
-website: "https://locations.tccrocks.com/pa/gettysburg/1275-york-rd-.html"
+street: York Road
+housenumber: "1275"
+phone: +1 717-398-2506
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-17:00
+website: https://locations.tccrocks.com/pa/gettysburg/1275-york-rd-.html

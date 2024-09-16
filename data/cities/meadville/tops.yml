@@ -1,11 +1,11 @@
 id: 834283143
-type: way
+type: node
 latitude: 41.64077
 longitude: -80.15652
 postcode: "16335"
 city: Meadville
-street: "West Center Street"
-housenumber: 144
-phone: "+1 814-724-4025"
+street: West Center Street
+housenumber: "144"
+phone: +1 814-724-4025
 opening_hours: ""
 website: ""

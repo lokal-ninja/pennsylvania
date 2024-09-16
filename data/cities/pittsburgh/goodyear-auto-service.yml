@@ -1,11 +1,11 @@
 id: 671604566
-type: way
+type: node
 latitude: 40.44492
 longitude: -79.9994
 postcode: ""
 city: Pittsburgh
-street: "Fort Duquesne Boulevard"
-housenumber: 800
+street: Fort Duquesne Boulevard
+housenumber: "800"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 200138187
-type: way
+type: node
 latitude: 40.11076
 longitude: -76.47768
 postcode: "17552"
 city: Mount Joy
-street: "East Main Street"
-housenumber: 
-phone: "+1 877-280-7293"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-17:00; Su off"
-website: "https://www.whitmoyerford.com/"
+street: East Main Street
+housenumber: ""
+phone: +1 877-280-7293
+opening_hours: Mo-Fr 08:30-20:00; Sa 09:00-17:00; Su off
+website: https://www.whitmoyerford.com/

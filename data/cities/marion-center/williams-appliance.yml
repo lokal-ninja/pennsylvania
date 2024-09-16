@@ -1,11 +1,11 @@
 id: 689780942
-type: way
+type: node
 latitude: 40.76894
 longitude: -79.05111
 postcode: "15759"
 city: Marion Center
-street: "East Park Avenue"
-housenumber: 1
-phone: "+1 724-397-2761"
+street: East Park Avenue
+housenumber: "1"
+phone: +1 724-397-2761
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 991162093
-type: way
+type: node
 latitude: 40.90408
 longitude: -77.04479
 postcode: "17844"
 city: Mifflinburg
-street: "PA 304"
-housenumber: 11900
+street: PA 304
+housenumber: "11900"
 phone: ""
 opening_hours: ""
-website: "https://justplainbusiness.com/cedar-run-bikes/"
+website: https://justplainbusiness.com/cedar-run-bikes/

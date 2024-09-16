@@ -1,11 +1,11 @@
 id: 1186847505
-type: way
+type: node
 latitude: 39.96136
 longitude: -75.2784
-postcode: "19082-2908"
+postcode: 19082-2908
 city: Upper Darby
-street: "South State Road"
-housenumber: 202
-phone: "+1 610-446-3997"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/0014"
+street: South State Road
+housenumber: "202"
+phone: +1 610-446-3997
+opening_hours: 24/7
+website: https://www.wawa.com/locations/0014

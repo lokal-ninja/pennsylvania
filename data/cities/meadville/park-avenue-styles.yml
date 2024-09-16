@@ -1,11 +1,11 @@
 id: 977616545
-type: way
+type: node
 latitude: 41.63353
 longitude: -80.15485
 postcode: "16335"
 city: Meadville
-street: "Park Avenue"
-housenumber: 1102
+street: Park Avenue
+housenumber: "1102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 548649660
-type: way
+type: node
 latitude: 40.67616
 longitude: -78.23687
 postcode: "16686"
 city: Tyrone
-street: "Logan Avenue"
-housenumber: 1400
-phone: "+1-814-684-1370"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/15"
+street: Logan Avenue
+housenumber: "1400"
+phone: +1-814-684-1370
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/15

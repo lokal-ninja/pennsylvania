@@ -1,11 +1,11 @@
 id: 641205139
-type: way
+type: node
 latitude: 40.28629
 longitude: -75.39276
 postcode: "19438"
 city: Harleysville
-street: "Main Street"
-housenumber: 651
-phone: "+1 215-513-0205"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2236/harleysville-pa/whats-new"
+street: Main Street
+housenumber: "651"
+phone: +1 215-513-0205
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2236/harleysville-pa/whats-new

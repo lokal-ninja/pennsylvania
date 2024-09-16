@@ -1,11 +1,11 @@
 id: 554302637
-type: way
+type: node
 latitude: 40.00476
 longitude: -75.70659
 postcode: "19335"
 city: Downingtown
-street: "West Lancaster Avenue"
-housenumber: 40
-phone: "+1 484-237-8417"
-opening_hours: "Mo off; Tu-Th 10:00-20:30; Fr 10:00-18:00; Sa 08:00-15:00; Su 09:00-15:00"
-website: "https://belleviesalon.com/"
+street: West Lancaster Avenue
+housenumber: "40"
+phone: +1 484-237-8417
+opening_hours: Mo off; Tu-Th 10:00-20:30; Fr 10:00-18:00; Sa 08:00-15:00; Su 09:00-15:00
+website: https://belleviesalon.com/

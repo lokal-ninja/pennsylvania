@@ -1,11 +1,11 @@
 id: 459926922
-type: way
+type: node
 latitude: 39.75659
 longitude: -77.57903
 postcode: "17268"
 city: Waynesboro
-street: "West Main Street"
-housenumber: 55
+street: West Main Street
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

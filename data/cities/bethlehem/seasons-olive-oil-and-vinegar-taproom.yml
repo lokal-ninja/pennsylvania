@@ -4,8 +4,8 @@ latitude: 40.6209
 longitude: -75.38186
 postcode: "18108"
 city: Bethlehem
-street: "Main Street"
-housenumber: 508
-phone: "+1 610 866 2615"
-opening_hours: "Mo-We 10:00-18:00; Th-Sa 10:00-19:00; Su 11:00-17:00"
-website: "http://seasonstaproom.com/locations/bethlehem-pa/"
+street: Main Street
+housenumber: "508"
+phone: +1 610 866 2615
+opening_hours: Mo-We 10:00-18:00; Th-Sa 10:00-19:00; Su 11:00-17:00
+website: http://seasonstaproom.com/locations/bethlehem-pa/

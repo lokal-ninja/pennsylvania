@@ -1,11 +1,11 @@
 id: 458311417
-type: way
+type: node
 latitude: 41.80491
 longitude: -77.08488
 postcode: "16933"
 city: Mansfield
-street: "West Wellsboro Street"
-housenumber: 85
-phone: "+1 570-662-1300"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/474"
+street: West Wellsboro Street
+housenumber: "85"
+phone: +1 570-662-1300
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/474

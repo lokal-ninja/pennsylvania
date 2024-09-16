@@ -1,11 +1,11 @@
 id: 540072845
-type: way
+type: node
 latitude: 40.54338
 longitude: -75.97899
 postcode: "19526"
 city: Hamburg
-street: "South 4th Street"
-housenumber: 900
-phone: "+1-610-562-7577"
+street: South 4th Street
+housenumber: "900"
+phone: +1-610-562-7577
 opening_hours: ""
-website: "outtenkia.com"
+website: outtenkia.com

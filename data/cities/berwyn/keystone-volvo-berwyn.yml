@@ -1,11 +1,11 @@
 id: 847284188
-type: way
+type: node
 latitude: 40.0467
 longitude: -75.43369
 postcode: ""
 city: Berwyn
-street: "East Lancaster Avenue"
-housenumber: 497
+street: East Lancaster Avenue
+housenumber: "497"
 phone: ""
 opening_hours: ""
-website: "https://www.berwynvolvocars.com"
+website: https://www.berwynvolvocars.com

@@ -1,11 +1,11 @@
 id: 690922151
-type: way
+type: node
 latitude: 39.85659
 longitude: -75.42626
 postcode: "19014"
 city: Aston
-street: "Pennell Road"
-housenumber: 4400
-phone: "+1 610-494-2055"
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-19:00"
-website: "https://www.riteaid.com/locations/pa/aston/4400-pennell-road.html"
+street: Pennell Road
+housenumber: "4400"
+phone: +1 610-494-2055
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-19:00
+website: https://www.riteaid.com/locations/pa/aston/4400-pennell-road.html

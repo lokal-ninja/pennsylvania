@@ -1,11 +1,11 @@
 id: 1194592788
-type: way
+type: node
 latitude: 39.9967
 longitude: -75.12801
 postcode: "19134"
 city: Philadelphia
-street: "North Swanson Street"
-housenumber: 3069
+street: North Swanson Street
+housenumber: "3069"
 phone: ""
 opening_hours: ""
 website: ""

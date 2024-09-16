@@ -1,11 +1,11 @@
 id: 612721720
-type: way
+type: node
 latitude: 41.16754
 longitude: -80.11018
 postcode: "16127"
 city: Grove City
-street: "West Main Street"
-housenumber: 1526
-phone: "+1 724-748-4391"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/298"
+street: West Main Street
+housenumber: "1526"
+phone: +1 724-748-4391
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/298

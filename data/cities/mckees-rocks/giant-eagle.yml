@@ -1,11 +1,11 @@
 id: 376002797
-type: way
+type: node
 latitude: 40.46806
 longitude: -80.09821
 postcode: "15136"
 city: McKees Rocks
-street: "McKees Rocks Road"
-housenumber: 1800
-phone: "+1 412-771-7707"
+street: McKees Rocks Road
+housenumber: "1800"
+phone: +1 412-771-7707
 opening_hours: ""
 website: ""

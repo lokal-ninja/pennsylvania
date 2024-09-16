@@ -1,11 +1,11 @@
 id: 988061839
-type: way
+type: node
 latitude: 40.66092
 longitude: -78.25858
 postcode: "16686"
 city: Tyrone
-street: "E Pleasant Balley Blvd"
-housenumber: 5510
-phone: "+1-814-682-2717"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.dollargeneral.com/store-directory/pa/tyrone/435"
+street: E Pleasant Balley Blvd
+housenumber: "5510"
+phone: +1-814-682-2717
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.dollargeneral.com/store-directory/pa/tyrone/435

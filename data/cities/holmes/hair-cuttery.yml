@@ -4,8 +4,8 @@ latitude: 39.89874
 longitude: -75.30318
 postcode: "19043"
 city: Holmes
-street: "Macdade Boulevard"
-housenumber: 2600
-phone: "+1 610-237-9500"
-opening_hours: "Mo 08:00-17:00; Tu,Su 09:00-18:00; We,Fr 09:00-21:00; Sa 09:00-17:00"
-website: "https://locations.haircuttery.com/pa/holmes/2600-macdade-blvd-suite-553"
+street: Macdade Boulevard
+housenumber: "2600"
+phone: +1 610-237-9500
+opening_hours: Mo 08:00-17:00; Tu,Su 09:00-18:00; We,Fr 09:00-21:00; Sa 09:00-17:00
+website: https://locations.haircuttery.com/pa/holmes/2600-macdade-blvd-suite-553

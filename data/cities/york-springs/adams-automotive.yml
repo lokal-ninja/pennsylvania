@@ -1,11 +1,11 @@
 id: 991412461
-type: way
+type: node
 latitude: 40.02685
 longitude: -77.1167
 postcode: "17372"
 city: York Springs
-street: "Town Hill Road"
-housenumber: 427
+street: Town Hill Road
+housenumber: "427"
 phone: ""
 opening_hours: ""
 website: ""

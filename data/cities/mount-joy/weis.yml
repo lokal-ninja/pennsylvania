@@ -1,11 +1,11 @@
 id: 200250683
-type: way
+type: node
 latitude: 40.11325
 longitude: -76.51525
 postcode: "17552"
 city: Mount Joy
-street: "West Main Street"
-housenumber: 441
-phone: "+1 717-653-1762"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.weismarkets.com/stores/weis-markets-mount-joy-63/4404"
+street: West Main Street
+housenumber: "441"
+phone: +1 717-653-1762
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.weismarkets.com/stores/weis-markets-mount-joy-63/4404

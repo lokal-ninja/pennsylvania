@@ -1,11 +1,11 @@
 id: 914761613
-type: way
+type: node
 latitude: 40.19557
 longitude: -76.17157
 postcode: "17522"
 city: Ephrata
-street: "North Reading Road"
-housenumber: 440
-phone: "+1 717-733-1818"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/ephrata-pa-pharmacies/440-n-reading-rd-ephrata-pa-17522/storeid=5721"
+street: North Reading Road
+housenumber: "440"
+phone: +1 717-733-1818
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-22:00
+website: https://www.cvs.com/store-locator/ephrata-pa-pharmacies/440-n-reading-rd-ephrata-pa-17522/storeid=5721

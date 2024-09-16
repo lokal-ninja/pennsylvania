@@ -1,11 +1,11 @@
 id: 207671653
-type: way
+type: node
 latitude: 39.88572
 longitude: -75.55124
 postcode: "19382"
 city: Glen Mills
-street: "Wilmington Pike"
-housenumber: 1610
+street: Wilmington Pike
+housenumber: "1610"
 phone: ""
 opening_hours: ""
 website: ""

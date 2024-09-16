@@ -4,8 +4,8 @@ latitude: 40.45896
 longitude: -79.9173
 postcode: "15206"
 city: Pittsburgh
-street: "Penn Avenue"
-housenumber: 6401
-phone: "+1 412-361-6220"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Penn Avenue
+housenumber: "6401"
+phone: +1 412-361-6220
+opening_hours: Mo-Su 07:00-21:00
 website: ""

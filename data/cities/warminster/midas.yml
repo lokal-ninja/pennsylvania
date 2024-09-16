@@ -1,11 +1,11 @@
 id: 1038383338
-type: way
+type: node
 latitude: 40.20224
 longitude: -75.09256
 postcode: "18974"
 city: Warminster
-street: "West Street Road"
-housenumber: 420
+street: West Street Road
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

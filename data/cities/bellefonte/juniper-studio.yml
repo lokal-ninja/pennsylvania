@@ -4,8 +4,8 @@ latitude: 40.91179
 longitude: -77.7798
 postcode: "16823"
 city: Bellefonte
-street: "West High Street"
-housenumber: 203
+street: West High Street
+housenumber: "203"
 phone: ""
-opening_hours: "By Appointment"
-website: "https://juniperstudiotattoo.con"
+opening_hours: '"By Appointment"'
+website: https://juniperstudiotattoo.con

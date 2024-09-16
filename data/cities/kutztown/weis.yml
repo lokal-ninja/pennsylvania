@@ -1,11 +1,11 @@
 id: 297180913
-type: way
+type: node
 latitude: 40.52787
 longitude: -75.7648
 postcode: "19530"
 city: Kutztown
-street: "Kutztown Rd"
-housenumber: 15260
+street: Kutztown Rd
+housenumber: "15260"
 phone: ""
 opening_hours: ""
 website: ""

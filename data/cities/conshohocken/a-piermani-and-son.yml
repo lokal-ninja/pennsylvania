@@ -1,11 +1,11 @@
 id: 224527452
-type: way
+type: node
 latitude: 40.0746
 longitude: -75.30505
 postcode: "19428"
 city: Conshohocken
-street: "East 2nd Avenue"
-housenumber: 10
+street: East 2nd Avenue
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

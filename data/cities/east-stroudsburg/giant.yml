@@ -1,11 +1,11 @@
 id: 1037005995
-type: way
+type: node
 latitude: 40.99315
 longitude: -75.18178
 postcode: "18301"
 city: East Stroudsburg
-street: "Lincoln Avenue"
-housenumber: 300
+street: Lincoln Avenue
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

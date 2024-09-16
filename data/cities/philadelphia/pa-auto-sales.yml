@@ -1,11 +1,11 @@
 id: 1122791111
-type: way
+type: node
 latitude: 40.10441
 longitude: -75.00335
 postcode: ""
 city: Philadelphia
-street: "East Roosevelt Boulevard"
-housenumber: 11600
+street: East Roosevelt Boulevard
+housenumber: "11600"
 phone: ""
 opening_hours: ""
 website: ""

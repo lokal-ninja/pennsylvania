@@ -1,11 +1,11 @@
 id: 1120013282
-type: way
+type: node
 latitude: 41.61667
 longitude: -80.19955
-postcode: "16335-6553"
+postcode: 16335-6553
 city: Meadville
-street: "Perry Highway"
-housenumber: 10944
-phone: "+1 814-337-4281"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:30-16:00; Su 08:00-14:00"
+street: Perry Highway
+housenumber: "10944"
+phone: +1 814-337-4281
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:30-16:00; Su 08:00-14:00
 website: ""

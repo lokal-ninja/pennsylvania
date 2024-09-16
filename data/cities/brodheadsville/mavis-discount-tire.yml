@@ -1,11 +1,11 @@
 id: 542136825
-type: way
+type: node
 latitude: 40.92556
 longitude: -75.37893
 postcode: "18322"
 city: Brodheadsville
-street: "US 209"
-housenumber: 1949
+street: US 209
+housenumber: "1949"
 phone: ""
 opening_hours: ""
 website: ""

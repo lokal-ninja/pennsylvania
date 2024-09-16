@@ -1,11 +1,11 @@
 id: 1278087217
-type: way
+type: node
 latitude: 40.62481
 longitude: -75.44266
 postcode: "18109"
 city: Allentown
-street: "Union Boulevard"
-housenumber: 911
+street: Union Boulevard
+housenumber: "911"
 phone: "+16104396770"
-opening_hours: "05:00-23:00"
-website: "https://www.wawa.com/locations/0299"
+opening_hours: 05:00-23:00
+website: https://www.wawa.com/locations/0299

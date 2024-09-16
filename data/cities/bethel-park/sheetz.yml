@@ -1,11 +1,11 @@
 id: 471309376
-type: way
+type: node
 latitude: 40.35116
 longitude: -80.02273
 postcode: "15102"
 city: Bethel Park
-street: "Library Road"
-housenumber: 4599
-phone: "+1 412-833-4699"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/515"
+street: Library Road
+housenumber: "4599"
+phone: +1 412-833-4699
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/515

@@ -1,11 +1,11 @@
 id: 220969070
-type: way
+type: node
 latitude: 40.10559
 longitude: -75.29115
 postcode: "19462"
 city: Plymouth Meeting
-street: "Chemical Road"
-housenumber: 2470
-phone: "+1 610-234-2413"
+street: Chemical Road
+housenumber: "2470"
+phone: +1 610-234-2413
 opening_hours: ""
-website: "https://stores.partycity.com/us/pa/plymouthmeeting/party-store-pc1182.html"
+website: https://stores.partycity.com/us/pa/plymouthmeeting/party-store-pc1182.html

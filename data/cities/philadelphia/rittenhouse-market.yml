@@ -4,8 +4,8 @@ latitude: 39.94787
 longitude: -75.17105
 postcode: "19103"
 city: Philadelphia
-street: "Spruce Street"
-housenumber: 1733
-phone: "+1 215-985-5930"
+street: Spruce Street
+housenumber: "1733"
+phone: +1 215-985-5930
 opening_hours: ""
-website: "https://rittenhousemarkets.com/"
+website: https://rittenhousemarkets.com/

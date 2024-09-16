@@ -1,11 +1,11 @@
 id: 585945293
-type: way
+type: node
 latitude: 40.81386
 longitude: -79.52012
 postcode: ""
 city: Kittanning
-street: "Market Street"
-housenumber: 120
+street: Market Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "https://beautyacademies.net/kittanning-beauty-academy/"
+website: https://beautyacademies.net/kittanning-beauty-academy/

@@ -1,11 +1,11 @@
 id: 389044162
-type: way
+type: node
 latitude: 39.84346
 longitude: -77.20529
 postcode: "17325"
 city: Gettysburg
-street: "York Road"
-housenumber: 1270
-phone: "+1 717-334-2000"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1537/gettysburg-pa/whats-new"
+street: York Road
+housenumber: "1270"
+phone: +1 717-334-2000
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1537/gettysburg-pa/whats-new

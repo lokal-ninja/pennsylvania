@@ -1,11 +1,11 @@
 id: 902366364
-type: way
+type: node
 latitude: 40.78668
 longitude: -77.83241
 postcode: "16801"
 city: State College
-street: "South Atherton Street"
-housenumber: 1919
-phone: "+1-814-272-1250"
-opening_hours: "mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.ollies.us/locations/1919-south-atherton-street-state-college-pa/"
+street: South Atherton Street
+housenumber: "1919"
+phone: +1-814-272-1250
+opening_hours: mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.ollies.us/locations/1919-south-atherton-street-state-college-pa/

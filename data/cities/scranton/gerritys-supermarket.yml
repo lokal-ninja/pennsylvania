@@ -1,11 +1,11 @@
 id: 422333626
-type: way
+type: node
 latitude: 41.44311
 longitude: -75.66992
 postcode: "18508"
 city: Scranton
-street: "North Keyser Avenue"
-housenumber: 1728
+street: North Keyser Avenue
+housenumber: "1728"
 phone: ""
 opening_hours: ""
 website: ""

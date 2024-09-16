@@ -1,11 +1,11 @@
 id: 1070484529
-type: way
+type: node
 latitude: 40.19177
 longitude: -74.90082
 postcode: "19047"
 city: Langhorne
-street: "Wood Lane"
-housenumber: 1100
+street: Wood Lane
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

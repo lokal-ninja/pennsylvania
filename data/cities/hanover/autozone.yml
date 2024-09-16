@@ -1,11 +1,11 @@
 id: 1060404563
-type: way
+type: node
 latitude: 39.78549
 longitude: -76.96743
 postcode: "17331"
 city: Hanover
-street: "Baltimore Street"
-housenumber: 879
-phone: "+1 717-637-3656"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://www.autozone.com/locations/pa/hanover/879-baltimore-st.html"
+street: Baltimore Street
+housenumber: "879"
+phone: +1 717-637-3656
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://www.autozone.com/locations/pa/hanover/879-baltimore-st.html

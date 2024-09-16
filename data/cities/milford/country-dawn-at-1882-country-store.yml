@@ -4,8 +4,8 @@ latitude: 41.32393
 longitude: -74.80982
 postcode: "18337"
 city: Milford
-street: "Water Street"
-housenumber: 150
-phone: "570-409-3310"
-opening_hours: "Tu-Th 12:00-17:00, Fr-Sa 10:00-18:00, Su 10:00-17:00"
-website: "https://countrydawnstore.com"
+street: Water Street
+housenumber: "150"
+phone: 570-409-3310
+opening_hours: Tu-Th 12:00-17:00, Fr-Sa 10:00-18:00, Su 10:00-17:00
+website: https://countrydawnstore.com

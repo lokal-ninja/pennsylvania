@@ -1,11 +1,11 @@
 id: 1311636117
-type: way
+type: node
 latitude: 40.51497
 longitude: -75.52476
 postcode: "18049"
 city: Emmaus
-street: "Chestnut Street"
-housenumber: 4280
+street: Chestnut Street
+housenumber: "4280"
 phone: "+16109656106"
 opening_hours: ""
 website: ""

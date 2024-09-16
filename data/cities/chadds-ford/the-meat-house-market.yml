@@ -1,11 +1,11 @@
 id: 1131309602
-type: way
+type: node
 latitude: 39.84913
 longitude: -75.53857
 postcode: ""
 city: Chadds Ford
-street: "Wilmington West Chester Pike"
-housenumber: 200
-phone: "+1 610-910-4030"
+street: Wilmington West Chester Pike
+housenumber: "200"
+phone: +1 610-910-4030
 opening_hours: ""
-website: "https://www.themeathousemarket.com"
+website: https://www.themeathousemarket.com

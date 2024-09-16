@@ -1,11 +1,11 @@
 id: 507426704
-type: way
+type: node
 latitude: 40.51569
 longitude: -80.15627
 postcode: "15108"
 city: Coraopolis
-street: "4th Avenue"
-housenumber: 1365
+street: 4th Avenue
+housenumber: "1365"
 phone: ""
 opening_hours: ""
 website: ""

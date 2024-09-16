@@ -4,8 +4,8 @@ latitude: 39.94886
 longitude: -75.14689
 postcode: ""
 city: Philadelphia
-street: "Chestnut Street"
-housenumber: 321
-phone: "+1 215-925-2800"
+street: Chestnut Street
+housenumber: "321"
+phone: +1 215-925-2800
 opening_hours: ""
-website: "https://shop.libertymuseum.org"
+website: https://shop.libertymuseum.org

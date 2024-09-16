@@ -1,11 +1,11 @@
 id: 1022457593
-type: way
+type: node
 latitude: 40.15645
 longitude: -74.97108
 postcode: "19053"
 city: Trevose
-street: "Bristol & Brownsville Road"
-housenumber: 620
-phone: "+1-215-357-3800"
-opening_hours: "24/7"
-website: "https://www.sunoco.com/locations/store/620-bristol---brownsville-rd-trevose-pa-0012956909"
+street: Bristol & Brownsville Road
+housenumber: "620"
+phone: +1-215-357-3800
+opening_hours: 24/7
+website: https://www.sunoco.com/locations/store/620-bristol---brownsville-rd-trevose-pa-0012956909

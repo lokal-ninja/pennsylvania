@@ -1,11 +1,11 @@
 id: 219153369
-type: way
+type: node
 latitude: 40.19534
 longitude: -77.15764
 postcode: "17013"
 city: Carlisle
-street: "Westminster Drive"
-housenumber: 238
-phone: "+1 717-323-2425"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/238-westminster-dr-carlisle-17013?number=3487"
+street: Westminster Drive
+housenumber: "238"
+phone: +1 717-323-2425
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/238-westminster-dr-carlisle-17013?number=3487

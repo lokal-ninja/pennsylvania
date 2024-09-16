@@ -1,11 +1,11 @@
 id: 762517991
-type: way
+type: node
 latitude: 40.09448
 longitude: -75.3615
 postcode: "19406"
 city: King of Prussia
-street: "East Dekalb Pike"
-housenumber: 119
-phone: "+1 610-962-9627"
-opening_hours: "07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-119+e+dekalb+pike-king+of+prussia-pa-19406/id=7224"
+street: East Dekalb Pike
+housenumber: "119"
+phone: +1 610-962-9627
+opening_hours: 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-119+e+dekalb+pike-king+of+prussia-pa-19406/id=7224

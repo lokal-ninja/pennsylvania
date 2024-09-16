@@ -1,11 +1,11 @@
 id: 74004303
-type: way
+type: node
 latitude: 40.51952
 longitude: -80.00582
 postcode: "15237"
 city: Pittsburgh
-street: "McKnight Road"
-housenumber: 4751
+street: McKnight Road
+housenumber: "4751"
 phone: ""
 opening_hours: ""
 website: ""

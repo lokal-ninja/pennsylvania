@@ -1,11 +1,11 @@
 id: 589732089
-type: way
+type: node
 latitude: 41.06775
 longitude: -75.32029
 postcode: "18355"
 city: Scotrun
-street: "PA 611"
-housenumber: 2385
+street: PA 611
+housenumber: "2385"
 phone: ""
 opening_hours: ""
 website: ""

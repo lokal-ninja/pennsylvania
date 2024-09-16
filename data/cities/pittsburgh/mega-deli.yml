@@ -4,8 +4,8 @@ latitude: 40.41678
 longitude: -79.84001
 postcode: "15112"
 city: Pittsburgh
-street: "Greensburg Pike"
-housenumber: 995
+street: Greensburg Pike
+housenumber: "995"
 phone: "+14122713354"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 08:00-20:30"
+opening_hours: Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 08:00-20:30
 website: ""

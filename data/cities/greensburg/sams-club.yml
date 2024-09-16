@@ -4,8 +4,8 @@ latitude: 40.30889
 longitude: -79.59166
 postcode: "15601"
 city: Greensburg
-street: "US-30"
-housenumber: 6211
-phone: "+1 724-850-7490"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/greensburg-pa-sams-club/4847"
+street: US-30
+housenumber: "6211"
+phone: +1 724-850-7490
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/greensburg-pa-sams-club/4847

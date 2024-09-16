@@ -1,11 +1,11 @@
 id: 48073417
-type: way
+type: node
 latitude: 41.40197
 longitude: -75.67047
 postcode: "18505"
 city: Scranton
-street: "South Washington Avenue"
-housenumber: 500
+street: South Washington Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

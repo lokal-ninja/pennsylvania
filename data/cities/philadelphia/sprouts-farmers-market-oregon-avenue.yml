@@ -1,11 +1,11 @@
 id: 441422772
-type: way
+type: node
 latitude: 39.91791
 longitude: -75.18867
 postcode: "19145"
 city: Philadelphia
-street: "Oregon Avenue"
-housenumber: 2360
+street: Oregon Avenue
+housenumber: "2360"
 phone: ""
-opening_hours: "opening June 21, 2024"
-website: "https://www.sprouts.com/store/pa/philadelphia/oregon-ave/"
+opening_hours: '"opening June 21, 2024"'
+website: https://www.sprouts.com/store/pa/philadelphia/oregon-ave/

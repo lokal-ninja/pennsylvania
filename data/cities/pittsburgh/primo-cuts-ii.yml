@@ -4,8 +4,8 @@ latitude: 40.3954
 longitude: -80.02265
 postcode: "15226"
 city: Pittsburgh
-street: "Brookline Boulevard"
-housenumber: 540
-phone: "+1 412 668 2685"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:30-19:30"
+street: Brookline Boulevard
+housenumber: "540"
+phone: +1 412 668 2685
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:30-19:30
 website: ""

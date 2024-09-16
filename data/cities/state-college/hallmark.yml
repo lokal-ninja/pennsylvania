@@ -1,11 +1,11 @@
 id: 880364791
-type: way
+type: node
 latitude: 40.81057
 longitude: -77.89498
 postcode: "16803"
 city: State College
-street: "North Atherton Street"
-housenumber: 1637
+street: North Atherton Street
+housenumber: "1637"
 phone: ""
-opening_hours: "Su 12:00-17:00; Mo-Sa 10:00-21:00"
-website: "https://christineshallmarkshop.com/"
+opening_hours: Su 12:00-17:00; Mo-Sa 10:00-21:00
+website: https://christineshallmarkshop.com/

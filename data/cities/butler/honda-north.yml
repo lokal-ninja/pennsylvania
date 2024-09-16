@@ -1,11 +1,11 @@
 id: 545067943
-type: way
+type: node
 latitude: 40.85351
 longitude: -79.98017
 postcode: "16001"
 city: Butler
-street: "Evans City Road"
-housenumber: 665
+street: Evans City Road
+housenumber: "665"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-20:00, We,Fr 09:00-17:30, Sa 09:00-15:00"
+opening_hours: Mo,Tu,Th 09:00-20:00, We,Fr 09:00-17:30, Sa 09:00-15:00
 website: ""

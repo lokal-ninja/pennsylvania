@@ -4,8 +4,8 @@ latitude: 39.91785
 longitude: -75.18413
 postcode: "19145"
 city: Philadelphia
-street: "South 20th Street"
-housenumber: 2830
-phone: "+1 833-460-7181"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/pa/philadelphia/2830a-s-20th-st"
+street: South 20th Street
+housenumber: "2830"
+phone: +1 833-460-7181
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/pa/philadelphia/2830a-s-20th-st

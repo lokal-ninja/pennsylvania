@@ -1,11 +1,11 @@
 id: 1116416476
-type: way
+type: node
 latitude: 39.90656
 longitude: -79.75908
 postcode: "15401"
 city: Uniontown
-street: "Matthew Drive"
-housenumber: 108
-phone: "+1-724-430-2480"
+street: Matthew Drive
+housenumber: "108"
+phone: +1-724-430-2480
 opening_hours: ""
-website: "https://stores.shoecarnival.com/pa/uniontown/shoe-store-uniontown-pa-408.html"
+website: https://stores.shoecarnival.com/pa/uniontown/shoe-store-uniontown-pa-408.html

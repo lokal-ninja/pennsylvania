@@ -4,8 +4,8 @@ latitude: 39.95022
 longitude: -75.17042
 postcode: "19103"
 city: Philadelphia
-street: "Walnut Street"
-housenumber: 1733
-phone: "+1 215-564-1317"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://www.tumi.com/store/0000001078"
+street: Walnut Street
+housenumber: "1733"
+phone: +1 215-564-1317
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: https://www.tumi.com/store/0000001078

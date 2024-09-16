@@ -1,11 +1,11 @@
 id: 682702859
-type: way
+type: node
 latitude: 40.9962
 longitude: -75.19093
 postcode: "18360"
 city: Stroudsburg
-street: "North 1st Street"
-housenumber: 294
+street: North 1st Street
+housenumber: "294"
 phone: ""
 opening_hours: ""
 website: ""

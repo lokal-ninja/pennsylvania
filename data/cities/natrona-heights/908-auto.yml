@@ -1,11 +1,11 @@
 id: 544547850
-type: way
+type: node
 latitude: 40.66644
 longitude: -79.73038
 postcode: "15065"
 city: Natrona Heights
-street: "Saxonburg Road"
-housenumber: 3433
+street: Saxonburg Road
+housenumber: "3433"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30"
+opening_hours: Mo-Fr 09:00-17:30
 website: ""

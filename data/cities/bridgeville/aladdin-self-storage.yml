@@ -1,11 +1,11 @@
 id: 1293725882
-type: way
+type: node
 latitude: 40.36162
 longitude: -80.1077
 postcode: "15017"
 city: Bridgeville
-street: "Commercial Street"
-housenumber: 400
+street: Commercial Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 94395442
-type: way
+type: node
 latitude: 40.63583
 longitude: -75.48681
 postcode: "18052"
 city: Whitehall
-street: "Mickley Road"
-housenumber: 1104
+street: Mickley Road
+housenumber: "1104"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/pa/whitehall/1104-mickley-rd"
+website: https://stores.advanceautoparts.com/pa/whitehall/1104-mickley-rd

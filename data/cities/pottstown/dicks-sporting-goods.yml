@@ -1,11 +1,11 @@
 id: 878985318
-type: way
+type: node
 latitude: 40.23659
 longitude: -75.66115
 postcode: "19465"
 city: Pottstown
-street: "West Schuylkill Road"
-housenumber: 351
-phone: "+1 610-323-7100"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/pa/pottstown/229/"
+street: West Schuylkill Road
+housenumber: "351"
+phone: +1 610-323-7100
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/pa/pottstown/229/

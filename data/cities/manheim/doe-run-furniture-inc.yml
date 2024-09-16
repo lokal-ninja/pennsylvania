@@ -1,11 +1,11 @@
 id: 198923415
-type: way
+type: node
 latitude: 40.17176
 longitude: -76.38143
 postcode: "17545"
 city: Manheim
-street: "Doe Run Road"
-housenumber: 124
-phone: "+1 717-664-3340"
-opening_hours: "Mo, Th 9:00-20:00; Tu, We, Fr 9:00-17:00; Sa 9:00-15:00"
-website: "www.doerunfurniture.com/"
+street: Doe Run Road
+housenumber: "124"
+phone: +1 717-664-3340
+opening_hours: Mo, Th 9:00-20:00; Tu, We, Fr 9:00-17:00; Sa 9:00-15:00
+website: www.doerunfurniture.com/

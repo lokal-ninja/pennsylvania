@@ -1,11 +1,11 @@
 id: 534041505
-type: way
+type: node
 latitude: 40.42198
 longitude: -79.99167
 postcode: "15203"
 city: Pittsburgh
-street: "Arlington Avenue"
-housenumber: 1125
-phone: "+1-412-481-4122"
-opening_hours: "06:00-24:00"
+street: Arlington Avenue
+housenumber: "1125"
+phone: +1-412-481-4122
+opening_hours: 06:00-24:00
 website: ""

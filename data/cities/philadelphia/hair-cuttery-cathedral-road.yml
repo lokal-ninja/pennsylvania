@@ -1,11 +1,11 @@
 id: 381330200
-type: way
+type: node
 latitude: 40.06292
 longitude: -75.23744
 postcode: "19128"
 city: Philadelphia
-street: "Cathedral Road"
-housenumber: 701
-phone: "+1 215-487-7130"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 08:00-19:00; Su 08:00-18:00"
-website: "https://locations.haircuttery.com/pa/philadelphia/701-cathedral-road-suite-8"
+street: Cathedral Road
+housenumber: "701"
+phone: +1 215-487-7130
+opening_hours: Mo-Fr 09:00-21:00; Sa 08:00-19:00; Su 08:00-18:00
+website: https://locations.haircuttery.com/pa/philadelphia/701-cathedral-road-suite-8

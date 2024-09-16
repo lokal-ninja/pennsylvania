@@ -1,11 +1,11 @@
 id: 960620737
-type: way
+type: node
 latitude: 40.25751
 longitude: -75.63698
 postcode: "19464"
 city: Pottstown
-street: "Charlotte Street"
-housenumber: 798
+street: Charlotte Street
+housenumber: "798"
 phone: ""
 opening_hours: ""
 website: ""

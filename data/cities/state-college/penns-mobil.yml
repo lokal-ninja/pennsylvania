@@ -1,11 +1,11 @@
 id: 685468600
-type: way
+type: node
 latitude: 40.78675
 longitude: -77.85788
 postcode: "16801"
 city: State College
-street: "South Atherton Street"
-housenumber: 705
+street: South Atherton Street
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

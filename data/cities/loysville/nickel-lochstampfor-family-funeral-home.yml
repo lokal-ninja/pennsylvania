@@ -4,8 +4,8 @@ latitude: 40.36437
 longitude: -77.35008
 postcode: "17047"
 city: Loysville
-street: "Shermans Valley Road"
-housenumber: 3626
-phone: "(717) 789-3107"
-opening_hours: "By Appointment"
-website: "https://lochstampforfh.com/"
+street: Shermans Valley Road
+housenumber: "3626"
+phone: (717) 789-3107
+opening_hours: '"By Appointment"'
+website: https://lochstampforfh.com/

@@ -1,11 +1,11 @@
 id: 455584569
-type: way
+type: node
 latitude: 40.51596
 longitude: -80.16065
 postcode: "15108"
 city: Coraopolis
-street: "5th Avenue"
-housenumber: 1210
+street: 5th Avenue
+housenumber: "1210"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.9534
 longitude: -75.14624
 postcode: "19106"
 city: Philadelphia
-street: "Cherry Street"
-housenumber: 325
-phone: "+1-215-309-3076"
+street: Cherry Street
+housenumber: "325"
+phone: +1-215-309-3076
 opening_hours: ""
-website: "https://kariskin.com"
+website: https://kariskin.com

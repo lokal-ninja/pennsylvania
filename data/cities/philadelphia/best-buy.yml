@@ -4,8 +4,8 @@ latitude: 40.09499
 longitude: -75.01774
 postcode: "19114"
 city: Philadelphia
-street: "Roosevelt Boulevard"
-housenumber: 9733
-phone: "+1 215-676-7206"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/pa/philadelphia/9733-roosevelt-blvd-589.html"
+street: Roosevelt Boulevard
+housenumber: "9733"
+phone: +1 215-676-7206
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/pa/philadelphia/9733-roosevelt-blvd-589.html

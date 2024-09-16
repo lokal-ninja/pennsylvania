@@ -1,11 +1,11 @@
 id: 801425137
-type: way
+type: node
 latitude: 40.33549
 longitude: -75.20742
 postcode: "18914"
 city: Hilltown Township
-street: "Upper Stump Road"
-housenumber: 1104
-phone: "+1-215-249-3016"
+street: Upper Stump Road
+housenumber: "1104"
+phone: +1-215-249-3016
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 595594559
-type: way
+type: node
 latitude: 40.65161
 longitude: -75.29387
 postcode: "18045"
 city: Easton
-street: "Freemansburg Avenue"
-housenumber: 4701
-phone: "+1 610-865-2439"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.shoprite.com/sm/planning/rsid/449"
+street: Freemansburg Avenue
+housenumber: "4701"
+phone: +1 610-865-2439
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.shoprite.com/sm/planning/rsid/449

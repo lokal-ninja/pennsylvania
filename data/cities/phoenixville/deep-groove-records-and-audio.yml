@@ -4,8 +4,8 @@ latitude: 40.13422
 longitude: -75.51285
 postcode: "19460"
 city: Phoenixville
-street: "Bridge Street"
-housenumber: 110
-phone: "+1 484 924 9205"
-opening_hours: "Th,Su 12:00-18:00; Fr,Sa 12:00-20:00"
-website: "http://www.deepgrooveaudio.com/"
+street: Bridge Street
+housenumber: "110"
+phone: +1 484 924 9205
+opening_hours: Th,Su 12:00-18:00; Fr,Sa 12:00-20:00
+website: http://www.deepgrooveaudio.com/

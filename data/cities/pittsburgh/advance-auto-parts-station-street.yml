@@ -1,11 +1,11 @@
 id: 440116442
-type: way
+type: node
 latitude: 40.46435
 longitude: -79.92475
 postcode: "15206"
 city: Pittsburgh
-street: "Station Street"
-housenumber: 5905
-phone: "+1-412-661-7050"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-18:00"
-website: "https://stores.advanceautoparts.com/pa/pittsburgh/5905-station-st"
+street: Station Street
+housenumber: "5905"
+phone: +1-412-661-7050
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-18:00
+website: https://stores.advanceautoparts.com/pa/pittsburgh/5905-station-st

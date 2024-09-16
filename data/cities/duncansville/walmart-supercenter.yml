@@ -1,11 +1,11 @@
 id: 184445205
-type: way
+type: node
 latitude: 40.36986
 longitude: -78.43326
 postcode: "16635"
 city: Duncansville
-street: "Commerce Drive"
-housenumber: 200
-phone: "+1 814-693-0531"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4348/duncansville-pa/whats-new"
+street: Commerce Drive
+housenumber: "200"
+phone: +1 814-693-0531
+opening_hours: 24/7
+website: https://www.walmart.com/store/4348/duncansville-pa/whats-new

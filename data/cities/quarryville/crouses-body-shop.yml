@@ -1,11 +1,11 @@
 id: 746446386
-type: way
+type: node
 latitude: 39.89627
 longitude: -76.17635
 postcode: "17566"
 city: Quarryville
-street: "West 4th Street"
-housenumber: 457
-phone: "+1-717-786-3146"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "http://www.crousesbodyshop.com/"
+street: West 4th Street
+housenumber: "457"
+phone: +1-717-786-3146
+opening_hours: Mo-Fr 07:00-16:00
+website: http://www.crousesbodyshop.com/

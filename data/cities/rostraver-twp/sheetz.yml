@@ -1,11 +1,11 @@
 id: 239629998
-type: way
+type: node
 latitude: 40.18611
 longitude: -79.81816
 postcode: "15012"
 city: Rostraver Twp
-street: "Route 51 South"
-housenumber: 4692
-phone: "+1 724-379-4094"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/377"
+street: Route 51 South
+housenumber: "4692"
+phone: +1 724-379-4094
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/377

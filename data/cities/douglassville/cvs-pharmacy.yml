@@ -1,11 +1,11 @@
 id: 576065668
-type: way
+type: node
 latitude: 40.26199
 longitude: -75.72945
 postcode: "19518"
 city: Douglassville
-street: "Benjamin Franklin Highway West"
-housenumber: 1149
-phone: "+1 610-385-4300"
-opening_hours: "08:00-22:00"
-website: "https://www.cvs.com/store-locator/douglassville-pa-pharmacies/1149-ben-franklin-hwy-west-douglassville-pa-19518/storeid=7838"
+street: Benjamin Franklin Highway West
+housenumber: "1149"
+phone: +1 610-385-4300
+opening_hours: 08:00-22:00
+website: https://www.cvs.com/store-locator/douglassville-pa-pharmacies/1149-ben-franklin-hwy-west-douglassville-pa-19518/storeid=7838

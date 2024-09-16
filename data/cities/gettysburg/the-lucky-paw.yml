@@ -1,11 +1,11 @@
 id: 1072746860
-type: way
+type: node
 latitude: 39.83083
 longitude: -77.2297
 postcode: "17325"
 city: Gettysburg
-street: "York Street"
-housenumber: 35
-phone: "+1 717-549-2769"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.theluckypawgettysburg.com"
+street: York Street
+housenumber: "35"
+phone: +1 717-549-2769
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.theluckypawgettysburg.com

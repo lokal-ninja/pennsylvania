@@ -1,11 +1,11 @@
 id: 1308441770
-type: way
+type: node
 latitude: 39.98385
 longitude: -76.67046
 postcode: "17402"
 city: York
-street: "Concord Road"
-housenumber: 2835
-phone: "+1 717-751-0422"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/york-pa-209"
+street: Concord Road
+housenumber: "2835"
+phone: +1 717-751-0422
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/york-pa-209

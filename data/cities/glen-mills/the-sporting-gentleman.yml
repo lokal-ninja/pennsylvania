@@ -1,11 +1,11 @@
 id: 430152295
-type: way
+type: node
 latitude: 39.92004
 longitude: -75.49037
 postcode: "19342"
 city: Glen Mills
-street: "Glen Mills Road"
-housenumber: 128
-phone: "+1-610-361-2001"
-opening_hours: "Tu-Fr 10:00-17:30; Th 10:00-20:00; Sa 09:00-17:00; Su 12:00-16:00"
-website: "https://www.sportinggentleman.com/"
+street: Glen Mills Road
+housenumber: "128"
+phone: +1-610-361-2001
+opening_hours: Tu-Fr 10:00-17:30; Th 10:00-20:00; Sa 09:00-17:00; Su 12:00-16:00
+website: https://www.sportinggentleman.com/

@@ -1,11 +1,11 @@
 id: 203557515
-type: way
+type: node
 latitude: 40.42874
 longitude: -79.98379
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 1406
+street: East Carson Street
+housenumber: "1406"
 phone: ""
 opening_hours: ""
-website: "https://www.figleafshop.com/"
+website: https://www.figleafshop.com/

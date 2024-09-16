@@ -1,11 +1,11 @@
 id: 264518003
-type: way
+type: node
 latitude: 40.20932
 longitude: -75.1039
 postcode: "18974"
 city: Warminster
-street: "West Street Road"
-housenumber: 829
+street: West Street Road
+housenumber: "829"
 phone: ""
 opening_hours: ""
-website: "https://www.laffertychevy.com/"
+website: https://www.laffertychevy.com/

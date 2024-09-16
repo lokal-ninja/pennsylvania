@@ -4,8 +4,8 @@ latitude: 39.95418
 longitude: -75.17643
 postcode: "19103"
 city: Philadelphia
-street: "Market Street"
-housenumber: 2121
-phone: "+1 215-569-9282"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/pa/philadelphia/634/"
+street: Market Street
+housenumber: "2121"
+phone: +1 215-569-9282
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/pa/philadelphia/634/

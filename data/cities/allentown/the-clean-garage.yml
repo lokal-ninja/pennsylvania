@@ -1,11 +1,11 @@
 id: 1143791907
-type: way
+type: node
 latitude: 40.59286
 longitude: -75.58552
 postcode: "18104"
 city: Allentown
-street: "Tilghman Street"
-housenumber: 5619
+street: Tilghman Street
+housenumber: "5619"
 phone: ""
 opening_hours: ""
-website: "https://clean-garage.com/"
+website: https://clean-garage.com/

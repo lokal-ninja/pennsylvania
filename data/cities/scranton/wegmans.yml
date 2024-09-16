@@ -1,11 +1,11 @@
 id: 261112712
-type: way
+type: node
 latitude: 41.47626
 longitude: -75.63291
 postcode: "18508"
 city: Scranton
-street: "Cold Spring Road"
-housenumber: 1315
-phone: "+1 570-383-8721"
+street: Cold Spring Road
+housenumber: "1315"
+phone: +1 570-383-8721
 opening_hours: ""
-website: "https://www.wegmans.com/stores/scranton-pa"
+website: https://www.wegmans.com/stores/scranton-pa

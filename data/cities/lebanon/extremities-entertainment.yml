@@ -1,11 +1,11 @@
 id: 1158486734
-type: way
+type: node
 latitude: 40.34427
 longitude: -76.39391
 postcode: "17042"
 city: Lebanon
-street: "East Cumberland Street"
-housenumber: 1001
-phone: "+1 717-274-7572"
-opening_hours: "Mo-Sa 11:00-18:00"
+street: East Cumberland Street
+housenumber: "1001"
+phone: +1 717-274-7572
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

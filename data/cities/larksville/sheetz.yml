@@ -1,11 +1,11 @@
 id: 1098919014
-type: way
+type: node
 latitude: 41.24416
 longitude: -75.93303
 postcode: "18651"
 city: Larksville
-street: "East Main Street"
-housenumber: 568
-phone: "+1 570-771-6183"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/734"
+street: East Main Street
+housenumber: "568"
+phone: +1 570-771-6183
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/734

@@ -1,11 +1,11 @@
 id: 1052899311
-type: way
+type: node
 latitude: 40.01043
 longitude: -75.29634
 postcode: "19003"
 city: Ardmore
-street: "West Lancaster Avenue"
-housenumber: 302
+street: West Lancaster Avenue
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

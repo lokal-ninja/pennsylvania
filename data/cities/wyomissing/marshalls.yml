@@ -1,11 +1,11 @@
 id: 263741608
-type: way
+type: node
 latitude: 40.36113
 longitude: -75.98545
 postcode: "19610"
 city: Wyomissing
-street: "Papermill Road"
-housenumber: 2783
-phone: "+1 610-371-8370"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://m.marshalls.com/us/m/stores/Wyomissing-PA-19610/845/aboutstore"
+street: Papermill Road
+housenumber: "2783"
+phone: +1 610-371-8370
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://m.marshalls.com/us/m/stores/Wyomissing-PA-19610/845/aboutstore

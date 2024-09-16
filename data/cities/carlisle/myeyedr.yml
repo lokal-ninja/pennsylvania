@@ -1,11 +1,11 @@
 id: 585265646
-type: way
+type: node
 latitude: 40.19035
 longitude: -77.1934
 postcode: "17013"
 city: Carlisle
-street: "Noble Boulevard"
-housenumber: 40
+street: Noble Boulevard
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.myeyedr.com/"
+website: https://www.myeyedr.com/

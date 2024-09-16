@@ -1,11 +1,11 @@
 id: 1016727671
-type: way
+type: node
 latitude: 40.66263
 longitude: -75.59978
 postcode: "18078"
 city: Schnecksville
-street: "Independence Drive"
-housenumber: 4245
-phone: "+1 610 799 9001"
+street: Independence Drive
+housenumber: "4245"
+phone: +1 610 799 9001
 opening_hours: ""
-website: "https://allentown.swagelok.com"
+website: https://allentown.swagelok.com

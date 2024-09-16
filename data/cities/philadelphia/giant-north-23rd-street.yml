@@ -4,8 +4,8 @@ latitude: 39.95647
 longitude: -75.17768
 postcode: "19103"
 city: Philadelphia
-street: "North 23rd Street"
-housenumber: 60
-phone: "+1-215-587-0270"
-opening_hours: "06:00-22:00"
-website: "https://stores.giantfoodstores.com/pa/philadelphia/60-north-23rd-street"
+street: North 23rd Street
+housenumber: "60"
+phone: +1-215-587-0270
+opening_hours: 06:00-22:00
+website: https://stores.giantfoodstores.com/pa/philadelphia/60-north-23rd-street

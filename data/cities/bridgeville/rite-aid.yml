@@ -1,11 +1,11 @@
 id: 410049907
-type: way
+type: node
 latitude: 40.35591
 longitude: -80.11348
 postcode: "15017"
 city: Bridgeville
-street: "Chartiers Street"
-housenumber: 417
-phone: "+1-412-221-8184"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/pa/bridgeville/417-chartiers-street.html"
+street: Chartiers Street
+housenumber: "417"
+phone: +1-412-221-8184
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/pa/bridgeville/417-chartiers-street.html

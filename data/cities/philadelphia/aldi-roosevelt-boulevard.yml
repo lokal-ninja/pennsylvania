@@ -1,11 +1,11 @@
 id: 1070705301
-type: way
+type: node
 latitude: 40.0552
 longitude: -75.04958
 postcode: "19152"
 city: Philadelphia
-street: "Roosevelt Boulevard"
-housenumber: 7900
-phone: "+1 877-460-7012"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/pa/philadelphia/7900-roosevelt-blvd"
+street: Roosevelt Boulevard
+housenumber: "7900"
+phone: +1 877-460-7012
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/pa/philadelphia/7900-roosevelt-blvd

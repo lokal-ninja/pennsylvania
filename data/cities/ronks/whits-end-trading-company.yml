@@ -1,11 +1,11 @@
 id: 878793105
-type: way
+type: node
 latitude: 39.98295
 longitude: -76.16316
 postcode: "17572"
 city: Ronks
-street: "Gap Road"
-housenumber: 247
+street: Gap Road
+housenumber: "247"
 phone: ""
 opening_hours: ""
 website: ""

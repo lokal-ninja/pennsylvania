@@ -1,11 +1,11 @@
 id: 524541521
-type: way
+type: node
 latitude: 40.06126
 longitude: -75.08632
 postcode: "19111"
 city: Philadelphia
-street: "Cottman Avenue"
-housenumber: 840
+street: Cottman Avenue
+housenumber: "840"
 phone: ""
 opening_hours: ""
 website: ""

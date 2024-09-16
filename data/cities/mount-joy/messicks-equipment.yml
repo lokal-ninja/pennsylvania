@@ -1,11 +1,11 @@
 id: 1150200072
-type: way
+type: node
 latitude: 40.11637
 longitude: -76.45503
 postcode: "17552"
 city: Mount Joy
-street: "Strickler Road"
-housenumber: 1475
-phone: "717-367-1319"
+street: Strickler Road
+housenumber: "1475"
+phone: 717-367-1319
 opening_hours: ""
-website: "https://www.messicks.com/"
+website: https://www.messicks.com/

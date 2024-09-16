@@ -1,11 +1,11 @@
 id: 463527113
-type: way
+type: node
 latitude: 39.94323
 longitude: -76.74094
 postcode: "17403"
 city: York
-street: "South Richland Avenue"
-housenumber: 910
+street: South Richland Avenue
+housenumber: "910"
 phone: ""
 opening_hours: ""
-website: "https://www.rutters.com/"
+website: https://www.rutters.com/

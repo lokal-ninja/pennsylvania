@@ -1,11 +1,11 @@
 id: 252807205
-type: way
+type: node
 latitude: 40.34368
 longitude: -79.94995
 postcode: "15122"
 city: West Mifflin
-street: "Century Drive"
-housenumber: 2251
-phone: "+1 412-653-8622"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/west-mifflin-pa-sams-club/6679"
+street: Century Drive
+housenumber: "2251"
+phone: +1 412-653-8622
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/west-mifflin-pa-sams-club/6679

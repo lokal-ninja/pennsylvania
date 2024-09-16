@@ -1,11 +1,11 @@
 id: 401781665
-type: way
+type: node
 latitude: 40.11997
 longitude: -75.015
 postcode: "19116"
 city: Philadelphia
-street: "Bustleton Avenue"
-housenumber: 11725
-phone: "+1 215-676-7029"
-opening_hours: "06:00 - 22:00"
-website: "https://www.homedepot.com/l/bustleton-ave/pa/philadelphia/19116/6866"
+street: Bustleton Avenue
+housenumber: "11725"
+phone: +1 215-676-7029
+opening_hours: 06:00 - 22:00
+website: https://www.homedepot.com/l/bustleton-ave/pa/philadelphia/19116/6866

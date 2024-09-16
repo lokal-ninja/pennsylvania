@@ -1,11 +1,11 @@
 id: 1098660750
-type: way
+type: node
 latitude: 41.26442
 longitude: -80.17344
 postcode: ""
 city: Mercer
-street: "Franklin Road"
-housenumber: 823
-phone: "+1 724-992-1927"
+street: Franklin Road
+housenumber: "823"
+phone: +1 724-992-1927
 opening_hours: ""
 website: ""

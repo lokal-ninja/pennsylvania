@@ -1,11 +1,11 @@
 id: 262677879
-type: way
+type: node
 latitude: 40.31069
 longitude: -79.59709
 postcode: "15601"
 city: Greensburg
-street: "US 30"
-housenumber: 6291
-phone: "+1 724-523-0468"
-opening_hours: "Mo-Sa 06:00-21:00, Su 08:00-19:00"
-website: "https://www.homedepot.com/l/Greensburg/PA/Greensburg/15601/4126"
+street: US 30
+housenumber: "6291"
+phone: +1 724-523-0468
+opening_hours: Mo-Sa 06:00-21:00, Su 08:00-19:00
+website: https://www.homedepot.com/l/Greensburg/PA/Greensburg/15601/4126

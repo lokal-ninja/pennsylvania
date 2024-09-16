@@ -1,11 +1,11 @@
 id: 116779983
-type: way
+type: node
 latitude: 41.24011
 longitude: -75.83877
-postcode: "18702-6839"
+postcode: 18702-6839
 city: Wilkes Barre
-street: "Arena"
-housenumber: 485
-phone: "+1 570-819-1145"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/pa/wilkes-barre/9926"
+street: Arena
+housenumber: "485"
+phone: +1 570-819-1145
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/pa/wilkes-barre/9926

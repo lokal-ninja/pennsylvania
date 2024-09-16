@@ -1,11 +1,11 @@
 id: 994005386
-type: way
+type: node
 latitude: 40.60131
 longitude: -78.71014
 postcode: "15722"
 city: Carrolltown
-street: "South Main Street"
-housenumber: 139
-phone: "+1 814-344-2170"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/127"
+street: South Main Street
+housenumber: "139"
+phone: +1 814-344-2170
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/127

@@ -1,11 +1,11 @@
 id: 348218111
-type: way
+type: node
 latitude: 39.89662
 longitude: -75.22891
 postcode: "19153"
 city: Philadelphia
-street: "Essington Avenue"
-housenumber: 7791
+street: Essington Avenue
+housenumber: "7791"
 phone: ""
 opening_hours: ""
 website: ""

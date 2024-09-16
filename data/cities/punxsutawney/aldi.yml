@@ -1,11 +1,11 @@
 id: 1150051697
-type: way
+type: node
 latitude: 40.94167
 longitude: -78.98071
 postcode: "15767"
 city: Punxsutawney
-street: "West Mahoning Street"
-housenumber: 545
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/pa/punxsutawney/545-w-mahoning-street"
+street: West Mahoning Street
+housenumber: "545"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/pa/punxsutawney/545-w-mahoning-street

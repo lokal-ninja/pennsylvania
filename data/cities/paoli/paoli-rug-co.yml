@@ -4,8 +4,8 @@ latitude: 40.04231
 longitude: -75.47737
 postcode: "19301"
 city: Paoli
-street: "East Lancaster Avenue"
-housenumber: 117
-phone: "+1 610-644-7250"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 10:00-16:00; Su by appointment"
-website: "https://paolirug.com"
+street: East Lancaster Avenue
+housenumber: "117"
+phone: +1 610-644-7250
+opening_hours: Mo-Fr 09:30-17:00; Sa 10:00-16:00; Su "by appointment"
+website: https://paolirug.com

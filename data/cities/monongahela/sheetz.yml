@@ -1,11 +1,11 @@
 id: 327519069
-type: way
+type: node
 latitude: 40.19996
 longitude: -79.92172
 postcode: "15063"
 city: Monongahela
-street: "East Main Street"
-housenumber: 111
-phone: "+1 724-258-6386"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/92"
+street: East Main Street
+housenumber: "111"
+phone: +1 724-258-6386
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/92

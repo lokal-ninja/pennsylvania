@@ -1,11 +1,11 @@
 id: 709074546
-type: way
+type: node
 latitude: 39.86523
 longitude: -75.42702
-postcode: "19014-1868"
+postcode: 19014-1868
 city: Aston
-street: "Pennell Road"
-housenumber: 5008
-phone: "+1 610-494-4051"
-opening_hours: "24/7"
-website: "https://www.wawa.com/store/8027/ma/pa-aston-5008-pennell-rd"
+street: Pennell Road
+housenumber: "5008"
+phone: +1 610-494-4051
+opening_hours: 24/7
+website: https://www.wawa.com/store/8027/ma/pa-aston-5008-pennell-rd

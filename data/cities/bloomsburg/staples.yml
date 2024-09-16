@@ -1,11 +1,11 @@
 id: 740553052
-type: way
+type: node
 latitude: 41.00607
 longitude: -76.43738
 postcode: "17815"
 city: Bloomsburg
-street: "Scott Town Center"
-housenumber: 1005
-phone: "+1 570-912-6008"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/pa/bloomsburg/1005-scott-town-center"
+street: Scott Town Center
+housenumber: "1005"
+phone: +1 570-912-6008
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/pa/bloomsburg/1005-scott-town-center

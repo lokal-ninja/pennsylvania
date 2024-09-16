@@ -4,8 +4,8 @@ latitude: 40.7959
 longitude: -77.85902
 postcode: "16801"
 city: State College
-street: "East College Avenue"
-housenumber: 234
-phone: "+1 814-234-1036"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
+street: East College Avenue
+housenumber: "234"
+phone: +1 814-234-1036
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
 website: ""

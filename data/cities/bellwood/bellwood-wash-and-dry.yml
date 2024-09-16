@@ -1,11 +1,11 @@
 id: 1209497782
-type: way
+type: node
 latitude: 40.59679
 longitude: -78.33577
 postcode: "16617"
 city: Bellwood
-street: "Main Street"
-housenumber: 200
+street: Main Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

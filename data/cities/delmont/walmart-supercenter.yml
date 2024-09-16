@@ -1,11 +1,11 @@
 id: 640842869
-type: way
+type: node
 latitude: 40.39818
 longitude: -79.59011
 postcode: "15626"
 city: Delmont
-street: "Hollywood Boulevard"
-housenumber: 6700
-phone: "+1 724-468-6274"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3228/delmont-pa/whats-new"
+street: Hollywood Boulevard
+housenumber: "6700"
+phone: +1 724-468-6274
+opening_hours: 24/7
+website: https://www.walmart.com/store/3228/delmont-pa/whats-new

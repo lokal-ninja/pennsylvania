@@ -1,11 +1,11 @@
 id: 200143241
-type: way
+type: node
 latitude: 40.11081
 longitude: -76.48544
 postcode: "17552"
 city: Mount Joy
-street: "East Main Street"
-housenumber: 
+street: East Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

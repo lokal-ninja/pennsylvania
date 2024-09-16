@@ -4,8 +4,8 @@ latitude: 40.10701
 longitude: -75.12184
 postcode: "19046"
 city: Jenkintown
-street: "Old York Road"
-housenumber: 911
-phone: "+1 215-885-1133"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:30-21:30; Su 10:00-21:00"
+street: Old York Road
+housenumber: "911"
+phone: +1 215-885-1133
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:30-21:30; Su 10:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1278370552
-type: way
+type: node
 latitude: 40.69883
 longitude: -75.7538
 postcode: "18066"
 city: New Tripoli
-street: "PA-309"
-housenumber: 7609
+street: PA-309
+housenumber: "7609"
 phone: "+16102988475"
 opening_hours: ""
-website: "https://powersourcerepair.com/"
+website: https://powersourcerepair.com/

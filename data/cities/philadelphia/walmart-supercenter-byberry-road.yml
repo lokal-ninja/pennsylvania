@@ -1,11 +1,11 @@
 id: 637562479
-type: way
+type: node
 latitude: 40.08388
 longitude: -74.9619
 postcode: "19154"
 city: Philadelphia
-street: "Byberry Road"
-housenumber: 4301
-phone: "+1 215-281-3159"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2650/philadelphia-pa/whats-new"
+street: Byberry Road
+housenumber: "4301"
+phone: +1 215-281-3159
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2650/philadelphia-pa/whats-new

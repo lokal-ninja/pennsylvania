@@ -1,11 +1,11 @@
 id: 1061832891
-type: way
+type: node
 latitude: 40.09505
 longitude: -74.9758
 postcode: "19154"
 city: Philadelphia
-street: "Academy Road"
-housenumber: 12311
+street: Academy Road
+housenumber: "12311"
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa-Su 08:00-23:00"
-website: "https://www.riteaid.com/locations/pa/philadelphia/12311-academy-road.html"
+opening_hours: Mo-Fr 07:00-24:00; Sa-Su 08:00-23:00
+website: https://www.riteaid.com/locations/pa/philadelphia/12311-academy-road.html

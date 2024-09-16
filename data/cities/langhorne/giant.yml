@@ -1,11 +1,11 @@
 id: 131285242
-type: way
+type: node
 latitude: 40.18246
 longitude: -74.9044
 postcode: "19047"
 city: Langhorne
-street: "North Flowers Mill Road"
-housenumber: 168
-phone: "+1 215-741-3360"
-opening_hours: "06:00-22:00"
-website: "https://stores.giantfoodstores.com/pa/langhorne/168-n-flowers-mill-rd"
+street: North Flowers Mill Road
+housenumber: "168"
+phone: +1 215-741-3360
+opening_hours: 06:00-22:00
+website: https://stores.giantfoodstores.com/pa/langhorne/168-n-flowers-mill-rd

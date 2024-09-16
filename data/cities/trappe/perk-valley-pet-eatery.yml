@@ -4,8 +4,8 @@ latitude: 40.19402
 longitude: -75.46758
 postcode: "19426"
 city: Trappe
-street: "West Main Street"
-housenumber: 130
-phone: "+1 610-454-0045"
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-16:00"
-website: "https://pvpeteatery.com/"
+street: West Main Street
+housenumber: "130"
+phone: +1 610-454-0045
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-16:00
+website: https://pvpeteatery.com/

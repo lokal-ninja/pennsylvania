@@ -1,11 +1,11 @@
 id: 340273850
-type: way
+type: node
 latitude: 40.89215
 longitude: -78.22378
 postcode: "16866"
 city: Philipsburg
-street: "Walton Street"
-housenumber: 113
+street: Walton Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

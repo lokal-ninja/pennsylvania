@@ -4,8 +4,8 @@ latitude: 41.28973
 longitude: -75.84602
 postcode: "18702"
 city: Plains
-street: "River Road"
-housenumber: 1325
+street: River Road
+housenumber: "1325"
 phone: ""
-opening_hours: "on appointment"
-website: "www.jeszika.com"
+opening_hours: '"on appointment"'
+website: www.jeszika.com

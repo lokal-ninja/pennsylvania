@@ -1,11 +1,11 @@
 id: 887694139
-type: way
+type: node
 latitude: 39.93314
 longitude: -76.80898
 postcode: "17408"
 city: York
-street: "West Market Street"
-housenumber: 4025
-phone: "+1 717-792-5834"
-opening_hours: "24/7"
-website: "https://orderz.sheetz.com/#/main/location/store/348"
+street: West Market Street
+housenumber: "4025"
+phone: +1 717-792-5834
+opening_hours: 24/7
+website: https://orderz.sheetz.com/#/main/location/store/348

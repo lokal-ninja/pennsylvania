@@ -1,11 +1,11 @@
 id: 345645761
-type: way
+type: node
 latitude: 39.97452
 longitude: -76.76607
 postcode: "17408"
 city: York
-street: "Kenneth Road"
-housenumber: 1406
+street: Kenneth Road
+housenumber: "1406"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/pa/york/1406-kenneth-rd"
+website: https://stores.advanceautoparts.com/pa/york/1406-kenneth-rd

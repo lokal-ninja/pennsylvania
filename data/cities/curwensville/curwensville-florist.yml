@@ -1,11 +1,11 @@
 id: 1051394969
-type: way
+type: node
 latitude: 40.97647
 longitude: -78.52753
 postcode: "16833"
 city: Curwensville
-street: "State Street"
-housenumber: 549
+street: State Street
+housenumber: "549"
 phone: ""
 opening_hours: ""
 website: ""

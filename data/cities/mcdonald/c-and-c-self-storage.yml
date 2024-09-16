@@ -1,11 +1,11 @@
 id: 1296364385
-type: way
+type: node
 latitude: 40.31957
 longitude: -80.21011
 postcode: "15057"
 city: McDonald
-street: "Cowden Road"
-housenumber: 90
+street: Cowden Road
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

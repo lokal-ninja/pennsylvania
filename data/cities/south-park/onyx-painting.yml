@@ -1,11 +1,11 @@
 id: 1099428761
-type: way
+type: node
 latitude: 40.28737
 longitude: -79.99606
 postcode: "15129"
 city: South Park
-street: "Piney Fork Road"
-housenumber: 2900
+street: Piney Fork Road
+housenumber: "2900"
 phone: ""
 opening_hours: ""
 website: ""

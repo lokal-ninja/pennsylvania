@@ -1,11 +1,11 @@
 id: 42789756
-type: way
+type: node
 latitude: 40.34348
 longitude: -80.05603
 postcode: "15241"
 city: Pittsburgh
-street: "South Hills Village"
-housenumber: 301
-phone: "+1 412-835-0379"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.barnesandnoble.com/store/2233"
+street: South Hills Village
+housenumber: "301"
+phone: +1 412-835-0379
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.barnesandnoble.com/store/2233

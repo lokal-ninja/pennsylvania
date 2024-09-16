@@ -1,11 +1,11 @@
 id: 842172537
-type: way
+type: node
 latitude: 40.18188
 longitude: -75.22717
 postcode: "19477"
 city: Spring House
-street: "North Bethlehem Pike"
-housenumber: 911
-phone: "+1-215-283-6077"
+street: North Bethlehem Pike
+housenumber: "911"
+phone: +1-215-283-6077
 opening_hours: ""
 website: ""

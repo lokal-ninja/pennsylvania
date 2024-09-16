@@ -4,8 +4,8 @@ latitude: 40.04798
 longitude: -75.41625
 postcode: "19333"
 city: Devon
-street: "Lancaster Ave"
-housenumber: 20
-phone: "+1 610-687-9350"
-opening_hours: "Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00, Su closed"
-website: "https://www.bmwofdevon.com/"
+street: Lancaster Ave
+housenumber: "20"
+phone: +1 610-687-9350
+opening_hours: Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00, Su closed
+website: https://www.bmwofdevon.com/

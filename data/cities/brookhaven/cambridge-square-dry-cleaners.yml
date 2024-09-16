@@ -1,11 +1,11 @@
 id: 1210056606
-type: way
+type: node
 latitude: 39.87769
 longitude: -75.39429
 postcode: "19015"
 city: Brookhaven
-street: "Edgmont Avenue"
-housenumber: 4805
+street: Edgmont Avenue
+housenumber: "4805"
 phone: ""
 opening_hours: ""
 website: ""

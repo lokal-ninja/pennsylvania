@@ -1,11 +1,11 @@
 id: 293777624
-type: way
+type: node
 latitude: 41.08025
 longitude: -76.85945
 postcode: "17777"
 city: Watsontown
-street: "Main Street"
-housenumber: 15
+street: Main Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

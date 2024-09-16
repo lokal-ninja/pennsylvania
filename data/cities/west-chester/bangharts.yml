@@ -1,11 +1,11 @@
 id: 152558205
-type: way
+type: node
 latitude: 39.96344
 longitude: -75.59393
 postcode: "19382"
 city: West Chester
-street: "South Bolmar Street"
-housenumber: 101
-phone: "+1 610-696-5555"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bangharts.com/"
+street: South Bolmar Street
+housenumber: "101"
+phone: +1 610-696-5555
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bangharts.com/

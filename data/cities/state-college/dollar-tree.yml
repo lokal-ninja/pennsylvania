@@ -1,11 +1,11 @@
 id: 43678335
-type: way
+type: node
 latitude: 40.81077
 longitude: -77.89561
 postcode: "16803"
 city: State College
-street: "North Atherton Street"
-housenumber: 1657
+street: North Atherton Street
+housenumber: "1657"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00, Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/pa/state-college/597/"
+opening_hours: Mo-Sa 10:00-22:00, Su 09:00-20:00
+website: https://www.dollartree.com/locations/pa/state-college/597/

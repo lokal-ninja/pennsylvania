@@ -1,11 +1,11 @@
 id: 488697092
-type: way
+type: node
 latitude: 41.43156
 longitude: -75.65734
 postcode: "18508"
 city: Scranton
-street: "Green Ridge Street"
-housenumber: 230
+street: Green Ridge Street
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/pa/scranton/230-green-ridge-st.html"
+website: https://www.autozone.com/locations/pa/scranton/230-green-ridge-st.html

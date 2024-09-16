@@ -4,8 +4,8 @@ latitude: 40.25474
 longitude: -75.66231
 postcode: "19464"
 city: Pottstown
-street: "Shoemaker Road"
-housenumber: 223
-phone: "+1 610-327-2045"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/pottstown/pa/703422"
+street: Shoemaker Road
+housenumber: "223"
+phone: +1 610-327-2045
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/pottstown/pa/703422

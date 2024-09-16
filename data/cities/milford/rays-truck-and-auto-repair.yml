@@ -1,11 +1,11 @@
 id: 827628800
-type: way
+type: node
 latitude: 41.33941
 longitude: -74.82174
 postcode: "18337"
 city: Milford
-street: "Ironwood Court"
-housenumber: 104
+street: Ironwood Court
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

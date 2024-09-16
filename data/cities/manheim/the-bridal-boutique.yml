@@ -1,11 +1,11 @@
 id: 199078210
-type: way
+type: node
 latitude: 40.16353
 longitude: -76.39596
 postcode: "17545"
 city: Manheim
-street: "Market Square"
-housenumber: 20
-phone: "+1 717 665 7900"
+street: Market Square
+housenumber: "20"
+phone: +1 717 665 7900
 opening_hours: ""
-website: "http://www.thebridalboutiquesite.com/"
+website: http://www.thebridalboutiquesite.com/

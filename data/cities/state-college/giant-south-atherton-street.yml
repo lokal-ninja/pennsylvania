@@ -1,11 +1,11 @@
 id: 902366871
-type: way
+type: node
 latitude: 40.78635
 longitude: -77.83052
 postcode: "16801"
 city: State College
-street: "South Atherton Street"
-housenumber: 2121
-phone: "+1-814-861-2578"
-opening_hours: "06:00-23:00"
-website: "https://stores.giantfoodstores.com/pa/state-college/2121-south-atherton"
+street: South Atherton Street
+housenumber: "2121"
+phone: +1-814-861-2578
+opening_hours: 06:00-23:00
+website: https://stores.giantfoodstores.com/pa/state-college/2121-south-atherton

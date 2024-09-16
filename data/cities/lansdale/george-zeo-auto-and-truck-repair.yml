@@ -1,11 +1,11 @@
 id: 1038856920
-type: way
+type: node
 latitude: 40.24956
 longitude: -75.27554
 postcode: "19446"
 city: Lansdale
-street: "North Broad Street"
-housenumber: 1023
+street: North Broad Street
+housenumber: "1023"
 phone: ""
 opening_hours: ""
 website: ""

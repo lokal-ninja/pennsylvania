@@ -1,11 +1,11 @@
 id: 975850687
-type: way
+type: node
 latitude: 40.21356
 longitude: -75.49613
 postcode: "19468"
 city: Royersford
-street: "East Ridge Pike"
-housenumber: 1831
-phone: "+1 844-747-5435"
-opening_hours: "08:00-21:00"
-website: "https://www.lidl.com/stores/US01138"
+street: East Ridge Pike
+housenumber: "1831"
+phone: +1 844-747-5435
+opening_hours: 08:00-21:00
+website: https://www.lidl.com/stores/US01138

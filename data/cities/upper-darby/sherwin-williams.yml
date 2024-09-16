@@ -1,11 +1,11 @@
 id: 1030939801
-type: way
+type: node
 latitude: 39.95361
 longitude: -75.25851
-postcode: "19082-4902"
+postcode: 19082-4902
 city: Upper Darby
-street: "Marshall Road"
-housenumber: 6900
-phone: "+1 610-623-0360"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/upper-darby/pa/703763"
+street: Marshall Road
+housenumber: "6900"
+phone: +1 610-623-0360
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/upper-darby/pa/703763

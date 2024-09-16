@@ -1,11 +1,11 @@
 id: 389824304
-type: way
+type: node
 latitude: 40.31043
 longitude: -75.12977
 postcode: "18901"
 city: Doylestown
-street: "East State Street"
-housenumber: 35
+street: East State Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

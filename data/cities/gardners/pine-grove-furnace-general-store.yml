@@ -1,11 +1,11 @@
 id: 362779386
-type: way
+type: node
 latitude: 40.03243
 longitude: -77.30698
 postcode: "17324"
 city: Gardners
-street: "Bendersville Road"
-housenumber: 1
+street: Bendersville Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

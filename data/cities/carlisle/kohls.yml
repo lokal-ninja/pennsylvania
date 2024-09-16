@@ -1,11 +1,11 @@
 id: 338241336
-type: way
+type: node
 latitude: 40.19373
 longitude: -77.15898
 postcode: "17013"
 city: Carlisle
-street: "Westminster Drive"
-housenumber: 226
-phone: "+1 717-243-4595"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/pa/carlisle-188.shtml"
+street: Westminster Drive
+housenumber: "226"
+phone: +1 717-243-4595
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/pa/carlisle-188.shtml

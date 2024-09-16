@@ -1,11 +1,11 @@
 id: 586330503
-type: way
+type: node
 latitude: 40.16577
 longitude: -76.05362
 postcode: "17519"
 city: East Earl
-street: "Camp Meeting Road"
-housenumber: 782
-phone: "+1 717-445-5633"
-opening_hours: "Mo-Fr 07:30-17:30; Sa-Su off"
+street: Camp Meeting Road
+housenumber: "782"
+phone: +1 717-445-5633
+opening_hours: Mo-Fr 07:30-17:30; Sa-Su off
 website: ""

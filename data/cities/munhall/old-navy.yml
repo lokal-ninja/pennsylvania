@@ -1,11 +1,11 @@
 id: 295049797
-type: way
+type: node
 latitude: 40.41223
 longitude: -79.90459
 postcode: "15120"
 city: Munhall
-street: "E Waterfront Drive"
-housenumber: 630
+street: E Waterfront Drive
+housenumber: "630"
 phone: ""
 opening_hours: ""
 website: ""

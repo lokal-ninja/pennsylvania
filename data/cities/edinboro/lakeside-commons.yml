@@ -1,11 +1,11 @@
 id: 624291774
-type: way
+type: node
 latitude: 41.87743
 longitude: -80.13502
 postcode: "16412"
 city: Edinboro
-street: "West Plum Street"
-housenumber: 220
+street: West Plum Street
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

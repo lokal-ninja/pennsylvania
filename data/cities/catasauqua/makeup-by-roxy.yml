@@ -1,11 +1,11 @@
 id: 1304572338
-type: way
+type: node
 latitude: 40.65188
 longitude: -75.47206
 postcode: "18032"
 city: Catasauqua
-street: "Front Street"
-housenumber: 301
+street: Front Street
+housenumber: "301"
 phone: "+14848200202"
 opening_hours: ""
-website: "https://www.makeupbyroxy.com/"
+website: https://www.makeupbyroxy.com/

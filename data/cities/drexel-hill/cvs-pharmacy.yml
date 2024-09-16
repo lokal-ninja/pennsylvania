@@ -1,11 +1,11 @@
 id: 338884791
-type: way
+type: node
 latitude: 39.95924
 longitude: -75.28845
 postcode: "19026"
 city: Drexel Hill
-street: "North Lansdowne Avenue"
-housenumber: 802
-phone: "+1 610-853-6018"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/drexel-hill-pa-pharmacies/802-lansdowne-avenue-drexel-hill-pa-19026/storeid=2408"
+street: North Lansdowne Avenue
+housenumber: "802"
+phone: +1 610-853-6018
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/drexel-hill-pa-pharmacies/802-lansdowne-avenue-drexel-hill-pa-19026/storeid=2408

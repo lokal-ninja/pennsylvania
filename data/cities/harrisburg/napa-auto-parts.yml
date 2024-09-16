@@ -1,11 +1,11 @@
 id: 949090926
-type: way
+type: node
 latitude: 40.24135
 longitude: -76.85179
 postcode: "17104"
 city: Harrisburg
-street: "Gibson Street"
-housenumber: 101
+street: Gibson Street
+housenumber: "101"
 phone: "+17172340154"
 opening_hours: ""
 website: ""

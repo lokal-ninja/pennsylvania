@@ -1,11 +1,11 @@
 id: 164875981
-type: way
+type: node
 latitude: 40.81516
 longitude: -79.54275
 postcode: "16201"
 city: Kittanning
-street: "Hilltop Plaza"
-housenumber: 1
-phone: "+1 724-543-2023"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1820-kittanning-pa"
+street: Hilltop Plaza
+housenumber: "1"
+phone: +1 724-543-2023
+opening_hours: 24/7
+website: https://www.walmart.com/store/1820-kittanning-pa

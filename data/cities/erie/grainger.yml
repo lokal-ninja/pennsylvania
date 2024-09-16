@@ -4,8 +4,8 @@ latitude: 42.11966
 longitude: -80.08975
 postcode: "16501"
 city: Erie
-street: "West 12th Street"
-housenumber: 415
+street: West 12th Street
+housenumber: "415"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.grainger.com/branch/Erie-Branch-260"
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.grainger.com/branch/Erie-Branch-260

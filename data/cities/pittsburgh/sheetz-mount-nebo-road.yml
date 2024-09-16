@@ -1,11 +1,11 @@
 id: 727570234
-type: way
+type: node
 latitude: 40.53338
 longitude: -80.072
 postcode: "15237"
 city: Pittsburgh
-street: "Mount Nebo Road"
-housenumber: 211
-phone: "+1 412-630-8423"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/610"
+street: Mount Nebo Road
+housenumber: "211"
+phone: +1 412-630-8423
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/610

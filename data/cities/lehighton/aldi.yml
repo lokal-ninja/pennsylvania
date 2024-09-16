@@ -1,11 +1,11 @@
 id: 678964817
-type: way
+type: node
 latitude: 40.81931
 longitude: -75.72828
 postcode: "18235"
 city: Lehighton
-street: "Blakeslee Boulevard Drive East"
-housenumber: 876
-phone: "+1 610-450-4250"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/pa/lehighton/876-blakeslee-blvd-drive-e"
+street: Blakeslee Boulevard Drive East
+housenumber: "876"
+phone: +1 610-450-4250
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/pa/lehighton/876-blakeslee-blvd-drive-e

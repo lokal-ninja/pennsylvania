@@ -1,11 +1,11 @@
 id: 804786957
-type: way
+type: node
 latitude: 41.12704
 longitude: -77.4302
 postcode: ""
 city: Castanea
-street: "Bridge Street"
-housenumber: 102
+street: Bridge Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

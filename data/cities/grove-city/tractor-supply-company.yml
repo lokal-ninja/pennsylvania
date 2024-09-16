@@ -1,11 +1,11 @@
 id: 1300691148
-type: way
+type: node
 latitude: 41.16708
 longitude: -80.1083
 postcode: "16127"
 city: Grove City
-street: "West Main ST Extension"
-housenumber: 1424
-phone: "+1 724-458-0224"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Main ST Extension
+housenumber: "1424"
+phone: +1 724-458-0224
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1210963498
-type: way
+type: node
 latitude: 39.98612
 longitude: -75.09779
 postcode: "19134"
 city: Philadelphia
-street: "Tilton Street"
-housenumber: 3370
+street: Tilton Street
+housenumber: "3370"
 phone: ""
 opening_hours: ""
 website: ""

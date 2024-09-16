@@ -1,11 +1,11 @@
 id: 1206020730
-type: way
+type: node
 latitude: 41.0391
 longitude: -76.31678
 postcode: "17815"
 city: Bloomsburg
-street: "Columbia Boulevard"
-housenumber: 7215
-phone: "+1 (570) 755-5322"
-opening_hours: "24/7"
-website: "https://www.storehouse-columbiablvd.com/"
+street: Columbia Boulevard
+housenumber: "7215"
+phone: +1 (570) 755-5322
+opening_hours: 24/7
+website: https://www.storehouse-columbiablvd.com/

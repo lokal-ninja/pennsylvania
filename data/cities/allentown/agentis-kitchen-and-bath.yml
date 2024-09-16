@@ -1,11 +1,11 @@
 id: 778019256
-type: way
+type: node
 latitude: 40.59377
 longitude: -75.50021
 postcode: "18104"
 city: Allentown
-street: "Hamilton Street"
-housenumber: 2040
+street: Hamilton Street
+housenumber: "2040"
 phone: "+16104320388"
 opening_hours: ""
-website: "https://agentiskb.com/contact/"
+website: https://agentiskb.com/contact/

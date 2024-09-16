@@ -1,11 +1,11 @@
 id: 554369620
-type: way
+type: node
 latitude: 40.78998
 longitude: -76.56175
 postcode: "17872"
 city: Shamokin
-street: "West Walnut Street"
-housenumber: 339
+street: West Walnut Street
+housenumber: "339"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

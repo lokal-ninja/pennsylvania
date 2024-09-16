@@ -1,11 +1,11 @@
 id: 1072755720
-type: way
+type: node
 latitude: 41.93695
 longitude: -79.64237
 postcode: "16407"
 city: Corry
-street: "West Columbus Avenue"
-housenumber: 25
-phone: "+1 814-663-0202"
+street: West Columbus Avenue
+housenumber: "25"
+phone: +1 814-663-0202
 opening_hours: ""
-website: "https://www.bloomerflowerspa.com/"
+website: https://www.bloomerflowerspa.com/

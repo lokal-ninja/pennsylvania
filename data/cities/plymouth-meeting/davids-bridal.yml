@@ -1,11 +1,11 @@
 id: 373449102
-type: way
+type: node
 latitude: 40.10442
 longitude: -75.29068
 postcode: "19462"
 city: Plymouth Meeting
-street: "Chemical Road"
-housenumber: 2600
+street: Chemical Road
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

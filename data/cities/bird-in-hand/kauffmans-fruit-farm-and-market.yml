@@ -1,11 +1,11 @@
 id: 504636536
-type: way
+type: node
 latitude: 40.03921
 longitude: -76.14468
 postcode: ""
 city: Bird-in-Hand
-street: "Old Philadelphia Pike"
-housenumber: 3097
+street: Old Philadelphia Pike
+housenumber: "3097"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 803137187
-type: way
+type: node
 latitude: 40.98563
 longitude: -75.19266
 postcode: "18360"
 city: Stroudsburg
-street: "Main Street"
-housenumber: 585
+street: Main Street
+housenumber: "585"
 phone: ""
 opening_hours: ""
 website: ""

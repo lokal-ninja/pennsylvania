@@ -1,11 +1,11 @@
 id: 681005187
-type: way
+type: node
 latitude: 39.99211
 longitude: -75.77443
 postcode: "19320"
 city: Coatesville
-street: "Lincoln Highway"
-housenumber: 2535
+street: Lincoln Highway
+housenumber: "2535"
 phone: ""
 opening_hours: ""
 website: ""

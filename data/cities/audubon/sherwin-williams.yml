@@ -2,10 +2,10 @@ id: 6412554411
 type: node
 latitude: 40.12955
 longitude: -75.40419
-postcode: "19403-2302"
+postcode: 19403-2302
 city: Audubon
-street: "Egypt Road"
-housenumber: 2634
-phone: "+1 610-666-1332"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/audubon/pa/705332"
+street: Egypt Road
+housenumber: "2634"
+phone: +1 610-666-1332
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/audubon/pa/705332

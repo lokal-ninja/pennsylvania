@@ -1,11 +1,11 @@
 id: 535066207
-type: way
+type: node
 latitude: 40.44246
 longitude: -79.98229
 postcode: "15219"
 city: Pittsburgh
-street: "Centre Avenue"
-housenumber: 1850
-phone: "+1-412-235-7927"
+street: Centre Avenue
+housenumber: "1850"
+phone: +1-412-235-7927
 opening_hours: ""
-website: "https://salemsmarketgrill.com/market-centre-avenue/"
+website: https://salemsmarketgrill.com/market-centre-avenue/

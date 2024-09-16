@@ -1,11 +1,11 @@
 id: 899339216
-type: way
+type: node
 latitude: 39.91897
 longitude: -76.62807
 postcode: "17356"
 city: Red Lion
-street: "Cape Horn Road"
-housenumber: 3175
-phone: "+1 717-246-7137"
-opening_hours: "Mo-We,Fr-Su 06:00-23:00; Th 06:00-14:00"
-website: "https://stores.giantfoodstores.com/pa/red-lion/3175-cape-horn-rd"
+street: Cape Horn Road
+housenumber: "3175"
+phone: +1 717-246-7137
+opening_hours: Mo-We,Fr-Su 06:00-23:00; Th 06:00-14:00
+website: https://stores.giantfoodstores.com/pa/red-lion/3175-cape-horn-rd

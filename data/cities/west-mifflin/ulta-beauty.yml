@@ -4,8 +4,8 @@ latitude: 40.34084
 longitude: -79.95115
 postcode: "15122"
 city: West Mifflin
-street: "Mountain View Drive"
-housenumber: 9925
-phone: "+1 412-693-0394"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/west-mifflin-pa-1601"
+street: Mountain View Drive
+housenumber: "9925"
+phone: +1 412-693-0394
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/west-mifflin-pa-1601

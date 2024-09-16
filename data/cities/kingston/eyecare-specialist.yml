@@ -1,11 +1,11 @@
 id: 415373077
-type: way
+type: node
 latitude: 41.26956
 longitude: -75.88091
 postcode: "18704"
 city: Kingston
-street: "Rutter Avenue"
-housenumber: 703
+street: Rutter Avenue
+housenumber: "703"
 phone: ""
 opening_hours: ""
 website: ""

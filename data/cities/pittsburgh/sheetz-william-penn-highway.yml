@@ -1,11 +1,11 @@
 id: 899266941
-type: way
+type: node
 latitude: 40.43079
 longitude: -79.81106
 postcode: "15235"
 city: Pittsburgh
-street: "William Penn Highway"
-housenumber: 3457
-phone: "+1 412-825-4151"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/468"
+street: William Penn Highway
+housenumber: "3457"
+phone: +1 412-825-4151
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/468

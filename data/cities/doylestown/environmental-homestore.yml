@@ -1,11 +1,11 @@
 id: 392368139
-type: way
+type: node
 latitude: 40.31625
 longitude: -75.1357
 postcode: "18901"
 city: Doylestown
-street: "North Broad Street"
-housenumber: 320
+street: North Broad Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

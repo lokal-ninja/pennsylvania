@@ -1,11 +1,11 @@
 id: 1071724816
-type: way
+type: node
 latitude: 39.83862
 longitude: -77.20538
 postcode: "17325"
 city: Gettysburg
-street: "Natural Springs Road"
-housenumber: 44
-phone: "+1 717-337-9879"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 12:00-16:00"
-website: "https://www.holidayhair.com/locations/nearme/haircut/PA/Gettysburg/Gettysburg-Marketplace-Shp-Ctr/19279"
+street: Natural Springs Road
+housenumber: "44"
+phone: +1 717-337-9879
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 12:00-16:00
+website: https://www.holidayhair.com/locations/nearme/haircut/PA/Gettysburg/Gettysburg-Marketplace-Shp-Ctr/19279

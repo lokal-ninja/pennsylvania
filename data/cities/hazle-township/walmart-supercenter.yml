@@ -1,11 +1,11 @@
 id: 373005540
-type: way
+type: node
 latitude: 40.98671
 longitude: -76.01359
 postcode: "18202"
 city: Hazle Township
-street: "Airport Road"
-housenumber: 761
-phone: "+1 570-454-8322"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2255/hazle-township-pa/whats-new"
+street: Airport Road
+housenumber: "761"
+phone: +1 570-454-8322
+opening_hours: 24/7
+website: https://www.walmart.com/store/2255/hazle-township-pa/whats-new

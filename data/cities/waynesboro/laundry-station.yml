@@ -1,11 +1,11 @@
 id: 865692750
-type: way
+type: node
 latitude: 39.76066
 longitude: -77.58423
 postcode: "17268"
 city: Waynesboro
-street: "West Main Street"
-housenumber: 321
+street: West Main Street
+housenumber: "321"
 phone: ""
-opening_hours: "Mo-Su 05:30-23:00"
-website: "https://laundry-station-waynesboro.edan.io/"
+opening_hours: Mo-Su 05:30-23:00
+website: https://laundry-station-waynesboro.edan.io/

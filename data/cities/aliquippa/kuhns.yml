@@ -1,11 +1,11 @@
 id: 472711050
-type: way
+type: node
 latitude: 40.58696
 longitude: -80.25687
 postcode: "15001"
 city: Aliquippa
-street: "Broadhead rd"
-housenumber: 2284
+street: Broadhead rd
+housenumber: "2284"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

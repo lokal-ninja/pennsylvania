@@ -1,11 +1,11 @@
 id: 220548389
-type: way
+type: node
 latitude: 40.07807
 longitude: -75.30164
-postcode: "19428-1704"
+postcode: 19428-1704
 city: Conshohocken
-street: "Fayette Street"
-housenumber: 601
-phone: "+1 610-828-3523"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/pa/conshohocken/601-fayette-street-23682"
+street: Fayette Street
+housenumber: "601"
+phone: +1 610-828-3523
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/pa/conshohocken/601-fayette-street-23682

@@ -1,11 +1,12 @@
 id: 696732798
-type: way
+type: node
 latitude: 40.07744
 longitude: -75.68727
 postcode: "19425"
 city: Chester Springs
-street: "Pottstown Pike"
-housenumber: 102
-phone: "+1 610-458-3445"
-opening_hours: "Mo 11:00-19:00; Tu-Th 09:00-21:00; Fr 09:00-17:00; Sa 08:00-16:00; Su off"
-website: "https://www.bellasalonandspa.org"
+street: Pottstown Pike
+housenumber: "102"
+phone: +1 610-458-3445
+opening_hours: Mo 11:00-19:00; Tu-Th 09:00-21:00; Fr 09:00-17:00; Sa 08:00-16:00;
+    Su off
+website: https://www.bellasalonandspa.org

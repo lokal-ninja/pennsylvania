@@ -1,11 +1,11 @@
 id: 204124626
-type: way
+type: node
 latitude: 40.42739
 longitude: -79.96898
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 2520
-phone: "+1 412-381-5109"
+street: East Carson Street
+housenumber: "2520"
+phone: +1 412-381-5109
 opening_hours: ""
-website: "http://www.thetanningroom.com/"
+website: http://www.thetanningroom.com/

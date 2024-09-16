@@ -1,11 +1,11 @@
 id: 803499155
-type: way
+type: node
 latitude: 40.99124
 longitude: -75.18801
 postcode: "18360"
 city: Stroudsburg
-street: "North 2nd Street"
-housenumber: 12
+street: North 2nd Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/pa/stroudsburg/oil-change-an3138.html"
+website: https://store.vioc.com/pa/stroudsburg/oil-change-an3138.html

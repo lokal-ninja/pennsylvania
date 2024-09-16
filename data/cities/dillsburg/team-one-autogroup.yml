@@ -4,8 +4,8 @@ latitude: 40.11748
 longitude: -77.03774
 postcode: "17019"
 city: Dillsburg
-street: "US-15"
-housenumber: 501
-phone: "+1 (717) 432-2000"
+street: US-15
+housenumber: "501"
+phone: +1 (717) 432-2000
 opening_hours: ""
-website: "https://teamoneautogroup.com/"
+website: https://teamoneautogroup.com/

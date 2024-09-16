@@ -1,11 +1,11 @@
 id: 367201707
-type: way
+type: node
 latitude: 40.19673
 longitude: -74.86474
 postcode: "19067"
 city: Yardley
-street: "Big Oak Road"
-housenumber: 1641
-phone: "+1 215-369-1050"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/pa/yardley-282.shtml"
+street: Big Oak Road
+housenumber: "1641"
+phone: +1 215-369-1050
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/pa/yardley-282.shtml

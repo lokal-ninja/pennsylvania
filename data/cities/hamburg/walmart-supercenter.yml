@@ -1,11 +1,11 @@
 id: 278451885
-type: way
+type: node
 latitude: 40.5647
 longitude: -76.01246
 postcode: "19526"
 city: Hamburg
-street: "Tilden Ridge"
-housenumber: 1800
-phone: "+1 484-668-4001"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4612/hamburg-pa/whats-new"
+street: Tilden Ridge
+housenumber: "1800"
+phone: +1 484-668-4001
+opening_hours: 24/7
+website: https://www.walmart.com/store/4612/hamburg-pa/whats-new

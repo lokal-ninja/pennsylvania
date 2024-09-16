@@ -1,11 +1,11 @@
 id: 601093043
-type: way
+type: node
 latitude: 39.86435
 longitude: -75.36971
 postcode: "19013"
 city: Chester
-street: "Edgmont Avenue"
-housenumber: 2217
+street: Edgmont Avenue
+housenumber: "2217"
 phone: ""
 opening_hours: ""
 website: ""

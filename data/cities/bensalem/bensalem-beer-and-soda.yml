@@ -1,11 +1,11 @@
 id: 380577443
-type: way
+type: node
 latitude: 40.09702
 longitude: -74.94471
 postcode: "19020"
 city: Bensalem
-street: "Street Road"
-housenumber: 1919
-phone: "+1 215-639-4790"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://bensalembeerandsoda.com"
+street: Street Road
+housenumber: "1919"
+phone: +1 215-639-4790
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://bensalembeerandsoda.com

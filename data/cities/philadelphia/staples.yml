@@ -4,8 +4,8 @@ latitude: 39.95098
 longitude: -75.16578
 postcode: "19102"
 city: Philadelphia
-street: "Chestnut Street"
-housenumber: 1500
-phone: "+1 215-864-9520"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://stores.staples.com/pa/philadelphia/1500-chestnut-street-suite-2"
+street: Chestnut Street
+housenumber: "1500"
+phone: +1 215-864-9520
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://stores.staples.com/pa/philadelphia/1500-chestnut-street-suite-2

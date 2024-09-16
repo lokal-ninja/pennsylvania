@@ -1,11 +1,11 @@
 id: 543413083
-type: way
+type: node
 latitude: 40.44795
 longitude: -80.17272
 postcode: "15071"
 city: Oakdale
-street: "Montour Church Road"
-housenumber: 2901
+street: Montour Church Road
+housenumber: "2901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 856215791
-type: way
+type: node
 latitude: 40.30048
 longitude: -78.88727
 postcode: "15902"
 city: Johnstown
-street: "Bedford Street"
-housenumber: 1800
+street: Bedford Street
+housenumber: "1800"
 phone: ""
 opening_hours: ""
-website: "https://www.laurelbmwpa.com"
+website: https://www.laurelbmwpa.com

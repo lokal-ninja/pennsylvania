@@ -1,11 +1,11 @@
 id: 851738348
-type: way
+type: node
 latitude: 39.92233
 longitude: -75.31766
 postcode: "19064"
 city: Springfield
-street: "Baltimore Pike"
-housenumber: 225
-phone: "+1 610-328-4823"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-15:00"
-website: "https://www.jiffylube.com/locations/pa/springfield/113"
+street: Baltimore Pike
+housenumber: "225"
+phone: +1 610-328-4823
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-15:00
+website: https://www.jiffylube.com/locations/pa/springfield/113

@@ -1,11 +1,11 @@
 id: 232249051
-type: way
+type: node
 latitude: 41.46532
 longitude: -75.57387
 postcode: "18434"
 city: Jessup
-street: "Mid Valley Drive"
-housenumber: 1290
+street: Mid Valley Drive
+housenumber: "1290"
 phone: ""
 opening_hours: ""
-website: "https://haletrailer.com/locations/scranton-pa/"
+website: https://haletrailer.com/locations/scranton-pa/

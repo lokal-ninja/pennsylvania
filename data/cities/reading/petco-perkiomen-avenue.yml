@@ -1,11 +1,11 @@
 id: 963749679
-type: way
+type: node
 latitude: 40.30721
 longitude: -75.86029
-postcode: "19606-3217"
+postcode: 19606-3217
 city: Reading
-street: "Perkiomen Avenue"
-housenumber: 4607
-phone: "+1 610-779-6176"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/pa/reading/pet-supplies-reading-pa-1895.html"
+street: Perkiomen Avenue
+housenumber: "4607"
+phone: +1 610-779-6176
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/pa/reading/pet-supplies-reading-pa-1895.html

@@ -1,11 +1,11 @@
 id: 852234621
-type: way
+type: node
 latitude: 40.7818
 longitude: -77.80862
 postcode: "16801"
 city: State College
-street: "South Atherton Street"
-housenumber: 3604
-phone: "+1-814-466-8736"
-opening_hours: "Mo-Tu 09:00-17:00; We 10:00-18:00; Th-Fr 09:00-17:00"
-website: "https://tandbmedical.com/"
+street: South Atherton Street
+housenumber: "3604"
+phone: +1-814-466-8736
+opening_hours: Mo-Tu 09:00-17:00; We 10:00-18:00; Th-Fr 09:00-17:00
+website: https://tandbmedical.com/

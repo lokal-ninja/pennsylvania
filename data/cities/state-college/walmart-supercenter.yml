@@ -1,11 +1,11 @@
 id: 43678246
-type: way
+type: node
 latitude: 40.81033
 longitude: -77.89629
 postcode: "16803"
 city: State College
-street: "North Atherton Street"
-housenumber: 1665
-phone: "+1 814-237-8401"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1640/state-college-pa/whats-new"
+street: North Atherton Street
+housenumber: "1665"
+phone: +1 814-237-8401
+opening_hours: 24/7
+website: https://www.walmart.com/store/1640/state-college-pa/whats-new

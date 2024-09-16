@@ -4,8 +4,8 @@ latitude: 40.04843
 longitude: -76.39207
 postcode: "17603"
 city: Lancaster
-street: "Centerville Road"
-housenumber: 245
-phone: "+1 717-435-9374"
-opening_hours: "Mo 12:00-20:00; Tu-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://www.salonenso.net"
+street: Centerville Road
+housenumber: "245"
+phone: +1 717-435-9374
+opening_hours: Mo 12:00-20:00; Tu-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-15:00
+website: https://www.salonenso.net

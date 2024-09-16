@@ -1,11 +1,11 @@
 id: 360962976
-type: way
+type: node
 latitude: 40.28278
 longitude: -76.89759
-postcode: "17110-1815"
+postcode: 17110-1815
 city: Harrisburg
-street: "North 3rd Street"
-housenumber: 2304
-phone: "+1 223-234-1445"
-opening_hours: "07:00-22:00"
-website: "https://www.familydollar.com/locations/pa/harrisburg/30554/?sscid=a1k7_y00ci&"
+street: North 3rd Street
+housenumber: "2304"
+phone: +1 223-234-1445
+opening_hours: 07:00-22:00
+website: https://www.familydollar.com/locations/pa/harrisburg/30554/?sscid=a1k7_y00ci&

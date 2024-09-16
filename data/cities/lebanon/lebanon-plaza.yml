@@ -1,11 +1,11 @@
 id: 471615762
-type: way
+type: node
 latitude: 40.31941
 longitude: -76.42583
 postcode: "17042"
 city: Lebanon
-street: "Quentin Road"
-housenumber: 1301
+street: Quentin Road
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

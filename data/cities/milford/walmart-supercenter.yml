@@ -1,11 +1,11 @@
 id: 296601523
-type: way
+type: node
 latitude: 41.35005
 longitude: -74.73481
 postcode: "18337"
 city: Milford
-street: "Route 6 & 209"
-housenumber: 220
-phone: "+1 570-491-4940"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2064-milford-pa"
+street: Route 6 & 209
+housenumber: "220"
+phone: +1 570-491-4940
+opening_hours: 24/7
+website: https://www.walmart.com/store/2064-milford-pa

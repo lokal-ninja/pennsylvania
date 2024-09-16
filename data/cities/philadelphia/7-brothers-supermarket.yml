@@ -1,11 +1,11 @@
 id: 746772802
-type: way
+type: node
 latitude: 40.0282
 longitude: -75.12538
 postcode: ""
 city: Philadelphia
-street: "West Duncannon Avenue"
-housenumber: 180
+street: West Duncannon Avenue
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

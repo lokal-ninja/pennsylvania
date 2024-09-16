@@ -1,11 +1,11 @@
 id: 224604012
-type: way
+type: node
 latitude: 40.0778
 longitude: -75.30273
 postcode: "19428"
 city: Conshohocken
-street: "Fayette Street"
-housenumber: 516
-phone: "+1 610 828 1336"
-opening_hours: "24/7"
-website: "https://www.ciavarellifuneralhomes.com/"
+street: Fayette Street
+housenumber: "516"
+phone: +1 610 828 1336
+opening_hours: 24/7
+website: https://www.ciavarellifuneralhomes.com/

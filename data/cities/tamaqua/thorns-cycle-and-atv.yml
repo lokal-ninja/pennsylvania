@@ -1,11 +1,11 @@
 id: 665466994
-type: way
+type: node
 latitude: 40.80454
 longitude: -75.97152
 postcode: "18252"
 city: Tamaqua
-street: "North Railroad Street"
-housenumber: 615
+street: North Railroad Street
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

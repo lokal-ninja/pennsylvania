@@ -1,11 +1,11 @@
 id: 1160203280
-type: way
+type: node
 latitude: 40.2447
 longitude: -76.80447
 postcode: "17111"
 city: Harrisburg
-street: "High Pointe Boulevard"
-housenumber: 4621
-phone: "+1 717-603-4314"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/pa/harrisburg/pet-supplies-harrisburg-pa-3826.html"
+street: High Pointe Boulevard
+housenumber: "4621"
+phone: +1 717-603-4314
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/pa/harrisburg/pet-supplies-harrisburg-pa-3826.html

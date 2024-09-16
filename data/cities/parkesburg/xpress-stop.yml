@@ -1,11 +1,11 @@
 id: 746504239
-type: way
+type: node
 latitude: 39.95979
 longitude: -75.91362
 postcode: ""
 city: Parkesburg
-street: "South Church Street"
-housenumber: 100
+street: South Church Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

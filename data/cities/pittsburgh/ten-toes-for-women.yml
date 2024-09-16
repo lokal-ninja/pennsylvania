@@ -4,8 +4,8 @@ latitude: 40.451
 longitude: -79.9336
 postcode: "15232"
 city: Pittsburgh
-street: "Walnut Street"
-housenumber: 5502
-phone: "+1 412-683-2082"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-17:00"
+street: Walnut Street
+housenumber: "5502"
+phone: +1 412-683-2082
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-17:00
 website: ""

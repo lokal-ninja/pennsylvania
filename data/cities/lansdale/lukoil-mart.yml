@@ -1,11 +1,11 @@
 id: 573405004
-type: way
+type: node
 latitude: 40.24471
 longitude: -75.339
 postcode: "19446"
 city: Lansdale
-street: "Sumneytown Pike"
-housenumber: 1685
+street: Sumneytown Pike
+housenumber: "1685"
 phone: ""
 opening_hours: ""
 website: ""

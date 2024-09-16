@@ -1,11 +1,11 @@
 id: 1007501898
-type: way
+type: node
 latitude: 40.15481
 longitude: -75.22421
 postcode: "19002"
 city: Ambler
-street: "North Main Street"
-housenumber: 27
-phone: "+1 215 646 0201"
-opening_hours: "Mo-Sa 08:00-16:00"
-website: "https://stores.truevalue.com/pa/ambler/12890/"
+street: North Main Street
+housenumber: "27"
+phone: +1 215 646 0201
+opening_hours: Mo-Sa 08:00-16:00
+website: https://stores.truevalue.com/pa/ambler/12890/

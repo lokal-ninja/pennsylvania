@@ -1,11 +1,11 @@
 id: 1214407156
-type: way
+type: node
 latitude: 40.30538
 longitude: -76.59981
 postcode: "17078"
 city: Palmyra
-street: "West Main Street"
-housenumber: 248
+street: West Main Street
+housenumber: "248"
 phone: ""
 opening_hours: ""
 website: ""

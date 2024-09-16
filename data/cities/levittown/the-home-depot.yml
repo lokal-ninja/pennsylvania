@@ -1,11 +1,11 @@
 id: 416298107
-type: way
+type: node
 latitude: 40.14071
 longitude: -74.82241
 postcode: "19055"
 city: Levittown
-street: "Levittown Parkway"
-housenumber: 145
+street: Levittown Parkway
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 41406793
-type: way
+type: node
 latitude: 40.67553
 longitude: -75.34261
 postcode: "18020"
 city: Bethlehem
-street: "Nazareth Pike"
-housenumber: 3926
+street: Nazareth Pike
+housenumber: "3926"
 phone: ""
 opening_hours: ""
 website: ""

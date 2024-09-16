@@ -1,11 +1,11 @@
 id: 244903669
-type: way
+type: node
 latitude: 40.78679
 longitude: -77.8567
 postcode: "16801"
 city: State College
-street: "West Hamilton Avenue"
-housenumber: 260
-phone: "+1-888-843-4886"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-12:00; Su off"
-website: "https://www.bastiantire.com/"
+street: West Hamilton Avenue
+housenumber: "260"
+phone: +1-888-843-4886
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-12:00; Su off
+website: https://www.bastiantire.com/

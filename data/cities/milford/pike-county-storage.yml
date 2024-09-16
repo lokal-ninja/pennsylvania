@@ -1,11 +1,11 @@
 id: 828617175
-type: way
+type: node
 latitude: 41.30817
 longitude: -74.84629
 postcode: "18337"
 city: Milford
-street: "Fisher Lane"
-housenumber: 105
+street: Fisher Lane
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

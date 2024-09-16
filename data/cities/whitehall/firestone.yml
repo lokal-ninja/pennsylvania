@@ -1,11 +1,11 @@
 id: 30761778
-type: way
+type: node
 latitude: 40.63083
 longitude: -75.48446
 postcode: "18052"
 city: Whitehall
-street: "Lehigh Valley Mall"
-housenumber: 100
+street: Lehigh Valley Mall
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 553368225
-type: way
+type: node
 latitude: 40.51167
 longitude: -79.94997
 postcode: "15223"
 city: Pittsburgh
-street: "Butler Street"
-housenumber: 925
+street: Butler Street
+housenumber: "925"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 338983189
-type: way
+type: node
 latitude: 39.93794
 longitude: -75.15788
 postcode: "19147"
 city: Philadelphia
-street: "South 9th Street"
-housenumber: 937
+street: South 9th Street
+housenumber: "937"
 phone: ""
 opening_hours: ""
 website: ""

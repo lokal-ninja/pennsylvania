@@ -1,11 +1,11 @@
 id: 261087278
-type: way
+type: node
 latitude: 40.23638
 longitude: -75.24476
 postcode: "19454"
 city: North Wales
-street: "Montgomery Mall"
-housenumber: 500
-phone: "+1 267-677-0700"
+street: Montgomery Mall
+housenumber: "500"
+phone: +1 267-677-0700
 opening_hours: ""
-website: "https://www.wegmans.com/stores/montgomeryville-pa"
+website: https://www.wegmans.com/stores/montgomeryville-pa

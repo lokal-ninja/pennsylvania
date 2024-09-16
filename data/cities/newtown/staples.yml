@@ -1,11 +1,11 @@
 id: 109034290
-type: way
+type: node
 latitude: 40.23499
 longitude: -74.94864
 postcode: "18940"
 city: Newtown
-street: "West Road"
-housenumber: 10
-phone: "+1 215-579-0151"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/pa/newtown/10-west-road"
+street: West Road
+housenumber: "10"
+phone: +1 215-579-0151
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/pa/newtown/10-west-road

@@ -1,11 +1,11 @@
 id: 303260867
-type: way
+type: node
 latitude: 40.69346
 longitude: -79.99409
 postcode: "16046"
 city: Mars
-street: "Brickyard Road"
-housenumber: 186
+street: Brickyard Road
+housenumber: "186"
 phone: ""
 opening_hours: ""
 website: ""

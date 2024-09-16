@@ -1,11 +1,12 @@
 id: 895369701
-type: way
+type: node
 latitude: 40.91948
 longitude: -77.67497
 postcode: "16823"
 city: Bellefonte
-street: "Nittany Valley Drive"
-housenumber: 252
-phone: "+1-814-383-2211"
-opening_hours: "Su-Mo off; Tu 09:00-17:00; We 09:00-20:00; Th 11:00-20:00; Fr 08:00-17:00; Sa 07:00-14:00"
-website: "https://www.manelyhairsalon.com/"
+street: Nittany Valley Drive
+housenumber: "252"
+phone: +1-814-383-2211
+opening_hours: Su-Mo off; Tu 09:00-17:00; We 09:00-20:00; Th 11:00-20:00; Fr 08:00-17:00;
+    Sa 07:00-14:00
+website: https://www.manelyhairsalon.com/

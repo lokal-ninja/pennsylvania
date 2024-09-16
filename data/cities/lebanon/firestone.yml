@@ -1,11 +1,11 @@
 id: 471615645
-type: way
+type: node
 latitude: 40.32131
 longitude: -76.42497
 postcode: "17042"
 city: Lebanon
-street: "Quentin Road"
-housenumber: 1143
-phone: "+1 717-639-3335"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00"
-website: "https://local.firestonecompleteautocare.com/pennsylvania/lebanon/1143-quentin-rd/"
+street: Quentin Road
+housenumber: "1143"
+phone: +1 717-639-3335
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00
+website: https://local.firestonecompleteautocare.com/pennsylvania/lebanon/1143-quentin-rd/

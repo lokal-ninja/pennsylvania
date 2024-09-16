@@ -1,11 +1,11 @@
 id: 641064209
-type: way
+type: node
 latitude: 39.86983
 longitude: -75.42822
-postcode: "19063-6501"
+postcode: 19063-6501
 city: Media
-street: "Pennell Road"
-housenumber: 5110
-phone: "+1 610-546-4458"
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-20:00"
-website: "https://www.dollartree.com/locations/pa/media/4904"
+street: Pennell Road
+housenumber: "5110"
+phone: +1 610-546-4458
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-20:00
+website: https://www.dollartree.com/locations/pa/media/4904

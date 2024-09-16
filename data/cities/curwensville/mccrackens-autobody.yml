@@ -1,11 +1,11 @@
 id: 1051395031
-type: way
+type: node
 latitude: 40.97783
 longitude: -78.52355
 postcode: "16833"
 city: Curwensville
-street: "Filbert Street"
-housenumber: 613
+street: Filbert Street
+housenumber: "613"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1062485632
-type: way
+type: node
 latitude: 41.89081
 longitude: -80.36602
 postcode: "16401"
 city: Albion
-street: "East State Street"
-housenumber: 9
+street: East State Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

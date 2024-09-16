@@ -1,11 +1,11 @@
 id: 909142555
-type: way
+type: node
 latitude: 39.98691
 longitude: -75.15629
 postcode: ""
 city: Philadelphia
-street: "North Broad Street"
-housenumber: 2224
+street: North Broad Street
+housenumber: "2224"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-19:00"
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-19:00
 website: ""

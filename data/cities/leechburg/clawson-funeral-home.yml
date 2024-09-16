@@ -1,11 +1,11 @@
 id: 397126966
-type: way
+type: node
 latitude: 40.62747
 longitude: -79.60537
 postcode: "15656"
 city: Leechburg
-street: "Main Street"
-housenumber: 170
+street: Main Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

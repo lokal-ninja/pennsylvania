@@ -4,8 +4,8 @@ latitude: 40.22702
 longitude: -76.13101
 postcode: "17517"
 city: Denver
-street: "Main Street"
-housenumber: 2
-phone: "+1 717-336-8288"
-opening_hours: "Mo-Fr 07:00-17:00; Sa by appointment only; Su off"
-website: "https://hertzogsgarage.net"
+street: Main Street
+housenumber: "2"
+phone: +1 717-336-8288
+opening_hours: Mo-Fr 07:00-17:00; Sa "by appointment only"; Su off
+website: https://hertzogsgarage.net

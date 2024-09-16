@@ -1,11 +1,11 @@
 id: 334800846
-type: way
+type: node
 latitude: 40.23774
 longitude: -75.57352
 postcode: ""
 city: Limerick
-street: "Lightcap Road"
-housenumber: 18
+street: Lightcap Road
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.premiumoutlets.com/outlets/outlet.asp?id=75"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.premiumoutlets.com/outlets/outlet.asp?id=75

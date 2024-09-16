@@ -1,11 +1,11 @@
 id: 882084076
-type: way
+type: node
 latitude: 41.32865
 longitude: -77.74365
 postcode: "17764"
 city: Renovo
-street: "15th Street"
-housenumber: 150
-phone: "+1 (570)-923-0343"
-opening_hours: "Mo-Su 08:00-21:00"
+street: 15th Street
+housenumber: "150"
+phone: +1 (570)-923-0343
+opening_hours: Mo-Su 08:00-21:00
 website: ""

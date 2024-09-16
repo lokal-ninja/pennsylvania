@@ -1,11 +1,11 @@
 id: 209289376
-type: way
+type: node
 latitude: 40.43146
 longitude: -79.80023
 postcode: "15146"
 city: Monroeville
-street: "Mall Circle Drive"
-housenumber: 200
-phone: "+1 412-856-7344"
+street: Mall Circle Drive
+housenumber: "200"
+phone: +1 412-856-7344
 opening_hours: ""
-website: "https://stores.bestbuy.com/pa/monroeville/200-mall-circle-dr-432.html"
+website: https://stores.bestbuy.com/pa/monroeville/200-mall-circle-dr-432.html

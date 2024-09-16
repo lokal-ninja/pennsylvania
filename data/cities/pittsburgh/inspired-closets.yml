@@ -4,8 +4,8 @@ latitude: 40.38703
 longitude: -80.04385
 postcode: "15216"
 city: Pittsburgh
-street: "Washington Road"
-housenumber: 443
-phone: "+1-412-443-4710"
-opening_hours: "by appointment"
+street: Washington Road
+housenumber: "443"
+phone: +1-412-443-4710
+opening_hours: '"by appointment"'
 website: ""

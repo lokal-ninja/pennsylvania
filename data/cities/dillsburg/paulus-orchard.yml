@@ -1,11 +1,11 @@
 id: 243245091
-type: way
+type: node
 latitude: 40.12472
 longitude: -76.939
 postcode: "17019"
 city: Dillsburg
-street: "East Mount Airy Road"
-housenumber: 522
+street: East Mount Airy Road
+housenumber: "522"
 phone: ""
 opening_hours: ""
 website: ""

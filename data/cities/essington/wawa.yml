@@ -1,11 +1,11 @@
 id: 631969320
-type: way
+type: node
 latitude: 39.86649
 longitude: -75.29423
 postcode: ""
 city: Essington
-street: "South Governor Printz Boulevard"
-housenumber: 600
-phone: "+1 610-521-5324"
-opening_hours: "24/7"
-website: "https://www.wawa.com/store/254/ma/pa-essington-600-s-governor-printz-blvd"
+street: South Governor Printz Boulevard
+housenumber: "600"
+phone: +1 610-521-5324
+opening_hours: 24/7
+website: https://www.wawa.com/store/254/ma/pa-essington-600-s-governor-printz-blvd

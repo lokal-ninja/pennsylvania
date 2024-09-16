@@ -1,11 +1,11 @@
 id: 547295523
-type: way
+type: node
 latitude: 40.45781
 longitude: -79.92418
 postcode: "15206"
 city: Pittsburgh
-street: "Carron Street"
+street: Carron Street
 housenumber: 235½
-phone: "+1 (412) 361-3554"
-opening_hours: "07:00-17:00"
+phone: +1 (412) 361-3554
+opening_hours: 07:00-17:00
 website: ""

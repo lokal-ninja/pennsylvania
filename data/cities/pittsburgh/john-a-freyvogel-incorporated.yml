@@ -1,11 +1,11 @@
 id: 170328365
-type: way
+type: node
 latitude: 40.45315
 longitude: -79.94682
-postcode: "15213-1713"
+postcode: 15213-1713
 city: Pittsburgh
-street: "Centre Avenue"
-housenumber: 4900
-phone: "+1-412-621-1665"
+street: Centre Avenue
+housenumber: "4900"
+phone: +1-412-621-1665
 opening_hours: ""
-website: "https://freyvogelfuneralhome.com/"
+website: https://freyvogelfuneralhome.com/

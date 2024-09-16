@@ -1,11 +1,11 @@
 id: 649775680
-type: way
+type: node
 latitude: 41.23696
 longitude: -75.8774
 postcode: "18702"
 city: Wilkes-Barre
-street: "East Northampton Street"
-housenumber: 336
+street: East Northampton Street
+housenumber: "336"
 phone: ""
 opening_hours: ""
 website: ""

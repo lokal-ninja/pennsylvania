@@ -1,11 +1,11 @@
 id: 504891111
-type: way
+type: node
 latitude: 40.26425
 longitude: -76.78322
 postcode: "17111"
 city: Harrisburg
-street: "Derry Street"
-housenumber: 6010
-phone: "+1 717-564-2123"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/449"
+street: Derry Street
+housenumber: "6010"
+phone: +1 717-564-2123
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/449

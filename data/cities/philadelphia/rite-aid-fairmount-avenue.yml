@@ -1,11 +1,11 @@
 id: 337636391
-type: way
+type: node
 latitude: 39.96714
 longitude: -75.16959
 postcode: ""
 city: Philadelphia
-street: "Fairmount Avenue"
-housenumber: 1924
+street: Fairmount Avenue
+housenumber: "1924"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.riteaid.com/locations/pa/philadelphia/1924-fairmount-avenue.html"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.riteaid.com/locations/pa/philadelphia/1924-fairmount-avenue.html

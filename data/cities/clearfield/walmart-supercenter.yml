@@ -1,11 +1,11 @@
 id: 1085597179
-type: way
+type: node
 latitude: 41.03217
 longitude: -78.40169
 postcode: "16830"
 city: Clearfield
-street: "Supercenter Drive"
-housenumber: 100
-phone: "+1 814-765-8089"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2129/clearfield-pa"
+street: Supercenter Drive
+housenumber: "100"
+phone: +1 814-765-8089
+opening_hours: 24/7
+website: https://www.walmart.com/store/2129/clearfield-pa

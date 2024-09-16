@@ -1,11 +1,11 @@
 id: 914008917
-type: way
+type: node
 latitude: 40.11333
 longitude: -75.28565
 postcode: "19462"
 city: Plymouth Meeting
-street: "West Germantown Pike"
-housenumber: 445
+street: West Germantown Pike
+housenumber: "445"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.34175
 longitude: -75.98171
 postcode: "19610"
 city: Wyomissing
-street: "Berkshire Boulevard"
-housenumber: 1183
-phone: "+1 610-396-3660"
-opening_hours: "Mo,We-Sa 09:00-21:00; Tu 09:00-18:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/pa/wyomissing-store1221.html"
+street: Berkshire Boulevard
+housenumber: "1183"
+phone: +1 610-396-3660
+opening_hours: Mo,We-Sa 09:00-21:00; Tu 09:00-18:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/pa/wyomissing-store1221.html

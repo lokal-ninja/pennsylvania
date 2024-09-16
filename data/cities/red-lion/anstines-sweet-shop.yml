@@ -1,11 +1,11 @@
 id: 589098081
-type: way
+type: node
 latitude: 39.90174
 longitude: -76.60701
 postcode: "17356"
 city: Red Lion
-street: "North Main Street"
-housenumber: 35
+street: North Main Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

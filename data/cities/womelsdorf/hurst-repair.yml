@@ -1,11 +1,11 @@
 id: 650091523
-type: way
+type: node
 latitude: 40.35912
 longitude: -76.1881
 postcode: "19567"
 city: Womelsdorf
-street: "South 2nd Street"
-housenumber: 255
-phone: "+1 610-589-2881"
-opening_hours: "Mo-Fr 07:00-17:00; Sa-Su closed"
-website: "https://hurstrepair.com/"
+street: South 2nd Street
+housenumber: "255"
+phone: +1 610-589-2881
+opening_hours: Mo-Fr 07:00-17:00; Sa-Su closed
+website: https://hurstrepair.com/

@@ -4,8 +4,8 @@ latitude: 40.36566
 longitude: -79.98337
 postcode: "15227"
 city: Pittsburgh
-street: "Towne Square Way"
-housenumber: 600
-phone: "+1 412-881-4075"
-opening_hours: "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00"
+street: Towne Square Way
+housenumber: "600"
+phone: +1 412-881-4075
+opening_hours: Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1066663797
-type: way
+type: node
 latitude: 40.17909
 longitude: -80.25972
 postcode: "15301"
 city: Washington
-street: "Jefferson Avenue"
-housenumber: 750
+street: Jefferson Avenue
+housenumber: "750"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/pa/washington/autoparts-5107.html"
+website: https://locations.oreillyauto.com/pa/washington/autoparts-5107.html

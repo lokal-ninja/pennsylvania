@@ -1,11 +1,11 @@
 id: 131277986
-type: way
+type: node
 latitude: 40.38248
 longitude: -79.85757
 postcode: "15110"
 city: Duquesne
-street: "Duquesne Boulevard"
-housenumber: 825
-phone: "+1-412-469-0892"
-opening_hours: "24/7"
-website: "https://www.sunoco.com/locations/store/825-duquesne-blvd-duquesne-pa-0363372402"
+street: Duquesne Boulevard
+housenumber: "825"
+phone: +1-412-469-0892
+opening_hours: 24/7
+website: https://www.sunoco.com/locations/store/825-duquesne-blvd-duquesne-pa-0363372402

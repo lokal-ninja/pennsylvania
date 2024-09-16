@@ -1,11 +1,11 @@
 id: 754378554
-type: way
+type: node
 latitude: 39.9782
 longitude: -75.22071
 postcode: "19131"
 city: Philadelphia
-street: "North 50th Street"
-housenumber: 1500
-phone: "+1 215-796-6640"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/pa-philadelphia/2378"
+street: North 50th Street
+housenumber: "1500"
+phone: +1 215-796-6640
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/pa-philadelphia/2378

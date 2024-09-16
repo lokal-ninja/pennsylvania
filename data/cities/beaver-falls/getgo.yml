@@ -1,11 +1,11 @@
 id: 1054578381
-type: way
+type: node
 latitude: 40.7709
 longitude: -80.37211
 postcode: "15010"
 city: Beaver Falls
-street: "McMillen Avenue"
-housenumber: 111
+street: McMillen Avenue
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.getgocafe.com/stores/pa/beaver-falls/chippewa-getgo-wetgo/3166"
+website: https://www.getgocafe.com/stores/pa/beaver-falls/chippewa-getgo-wetgo/3166

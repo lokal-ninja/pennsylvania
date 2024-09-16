@@ -1,11 +1,11 @@
 id: 984079621
-type: way
+type: node
 latitude: 40.23107
 longitude: -78.93388
 postcode: "15928"
 city: Davidsville
-street: "North Main Street"
-housenumber: 312
+street: North Main Street
+housenumber: "312"
 phone: "+18144794511"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 152421783
-type: way
+type: node
 latitude: 39.95689
 longitude: -75.58542
 postcode: "19382"
 city: West Chester
-street: "Autopark Boulevard"
-housenumber: 715
+street: Autopark Boulevard
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

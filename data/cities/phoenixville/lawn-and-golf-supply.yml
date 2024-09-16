@@ -1,11 +1,11 @@
 id: 665110959
-type: way
+type: node
 latitude: 40.13295
 longitude: -75.5324
 postcode: "19460"
 city: Phoenixville
-street: "Nutt Road"
-housenumber: 700
-phone: "+1 610-917-9800"
+street: Nutt Road
+housenumber: "700"
+phone: +1 610-917-9800
 opening_hours: ""
-website: "https://phoenixvillehardware.com/"
+website: https://phoenixvillehardware.com/

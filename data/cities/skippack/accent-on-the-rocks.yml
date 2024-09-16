@@ -1,11 +1,11 @@
 id: 988522773
-type: way
+type: node
 latitude: 40.22491
 longitude: -75.4025
 postcode: "19474"
 city: Skippack,
-street: "West Skippack Pike"
-housenumber: 4064
+street: West Skippack Pike
+housenumber: "4064"
 phone: ""
 opening_hours: ""
 website: ""

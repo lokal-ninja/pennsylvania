@@ -1,11 +1,11 @@
 id: 537720296
-type: way
+type: node
 latitude: 40.39571
 longitude: -80.02412
 postcode: "15226"
 city: Pittsburgh
-street: "Pioneer Avenue"
-housenumber: 2600
-phone: "+1-412-531-9909"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.autorepairpittsburghpa.com/"
+street: Pioneer Avenue
+housenumber: "2600"
+phone: +1-412-531-9909
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.autorepairpittsburghpa.com/

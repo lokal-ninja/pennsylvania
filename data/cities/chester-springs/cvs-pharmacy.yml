@@ -1,11 +1,11 @@
 id: 696732800
-type: way
+type: node
 latitude: 40.07772
 longitude: -75.68748
 postcode: "19425"
 city: Chester Springs
-street: "North Pottstown Pike"
-housenumber: 104
-phone: "+1 610-458-3401"
-opening_hours: "08:00-22:00"
-website: "https://www.cvs.com/store-locator/chester-springs-pa-pharmacies/104-n-pottstown-pike-chester-springs-pa-19425/storeid=2951"
+street: North Pottstown Pike
+housenumber: "104"
+phone: +1 610-458-3401
+opening_hours: 08:00-22:00
+website: https://www.cvs.com/store-locator/chester-springs-pa-pharmacies/104-n-pottstown-pike-chester-springs-pa-19425/storeid=2951

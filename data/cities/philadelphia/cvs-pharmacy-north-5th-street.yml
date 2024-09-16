@@ -1,11 +1,11 @@
 id: 871495849
-type: way
+type: node
 latitude: 40.0456
 longitude: -75.12901
 postcode: "19138"
 city: Philadelphia
-street: "North 5th Street"
-housenumber: 6150
+street: North 5th Street
+housenumber: "6150"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/philadelphia-pa-pharmacies/6150-n-5th-street-philadelphia-pa-19120/storeid=771"
+website: https://www.cvs.com/store-locator/philadelphia-pa-pharmacies/6150-n-5th-street-philadelphia-pa-19120/storeid=771

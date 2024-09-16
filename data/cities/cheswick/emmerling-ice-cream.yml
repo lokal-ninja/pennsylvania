@@ -1,11 +1,11 @@
 id: 373434537
-type: way
+type: node
 latitude: 40.58213
 longitude: -79.86803
 postcode: "15024"
 city: Cheswick
-street: "PA-910"
-housenumber: 932
+street: PA-910
+housenumber: "932"
 phone: ""
 opening_hours: ""
 website: ""

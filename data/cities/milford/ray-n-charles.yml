@@ -1,11 +1,11 @@
 id: 650404718
-type: way
+type: node
 latitude: 41.30342
 longitude: -74.97226
 postcode: "18337"
 city: Milford
-street: "PA-739"
-housenumber: 1220
+street: PA-739
+housenumber: "1220"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1291171524
-type: way
+type: node
 latitude: 39.95914
 longitude: -76.70084
 postcode: "17403"
 city: York
-street: "Mount Rose Avenue"
-housenumber: 1200
-phone: "+1 717-893-2194"
-opening_hours: "Mo-Fr 06:00-00:00; Sa-Su 07:00-00:00"
-website: "https://www.facebook.com/people/Central-Mart/100064673276238/"
+street: Mount Rose Avenue
+housenumber: "1200"
+phone: +1 717-893-2194
+opening_hours: Mo-Fr 06:00-00:00; Sa-Su 07:00-00:00
+website: https://www.facebook.com/people/Central-Mart/100064673276238/

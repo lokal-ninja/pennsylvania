@@ -4,8 +4,8 @@ latitude: 40.91203
 longitude: -77.78212
 postcode: "16823"
 city: Bellefonte
-street: "North Potter Street"
-housenumber: 105
+street: North Potter Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://thecakerycakes.com/"
+website: https://thecakerycakes.com/

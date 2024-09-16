@@ -4,8 +4,8 @@ latitude: 40.01676
 longitude: -75.14696
 postcode: "19140"
 city: Philadelphia
-street: "Old York Road"
-housenumber: 4200
+street: Old York Road
+housenumber: "4200"
 phone: ""
-opening_hours: "Jun-Nov: Sa 10:00-14:00"
-website: "https://thefoodtrust.org/farmers-markets/market/hunting-park"
+opening_hours: 'Jun-Nov: Sa 10:00-14:00'
+website: https://thefoodtrust.org/farmers-markets/market/hunting-park

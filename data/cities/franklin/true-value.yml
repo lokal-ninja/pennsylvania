@@ -1,11 +1,11 @@
 id: 360735165
-type: way
+type: node
 latitude: 41.4063
 longitude: -79.8009
 postcode: "16323"
 city: Franklin
-street: "Allegheny Boulevard"
-housenumber: 767
-phone: "+1 814-437-4080"
+street: Allegheny Boulevard
+housenumber: "767"
+phone: +1 814-437-4080
 opening_hours: ""
-website: "http://ww3.truevalue.com/franklintruevalue/home.aspx"
+website: http://ww3.truevalue.com/franklintruevalue/home.aspx

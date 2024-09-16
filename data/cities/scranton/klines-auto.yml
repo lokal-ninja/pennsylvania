@@ -1,11 +1,11 @@
 id: 45294996
-type: way
+type: node
 latitude: 41.42162
 longitude: -75.65098
 postcode: "18509"
 city: Scranton
-street: "Wyoming Avenue"
-housenumber: 1245
+street: Wyoming Avenue
+housenumber: "1245"
 phone: ""
 opening_hours: ""
 website: ""

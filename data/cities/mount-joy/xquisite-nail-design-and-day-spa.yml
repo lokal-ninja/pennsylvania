@@ -1,11 +1,11 @@
 id: 200190559
-type: way
+type: node
 latitude: 40.10932
 longitude: -76.49832
 postcode: "17552"
 city: Mount Joy
-street: "East Main Street"
-housenumber: 115
-phone: "+1 717 653 2402"
+street: East Main Street
+housenumber: "115"
+phone: +1 717 653 2402
 opening_hours: ""
-website: "http://www.xndanddayspa.com"
+website: http://www.xndanddayspa.com

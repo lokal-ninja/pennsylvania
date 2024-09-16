@@ -4,8 +4,8 @@ latitude: 40.79554
 longitude: -77.85895
 postcode: "16801"
 city: State College
-street: "East Calder Way"
-housenumber: 242
+street: East Calder Way
+housenumber: "242"
 phone: ""
-opening_hours: "Mo-Fr 09:00-15:00; Sa 09:00-12:00"
-website: "https://www.avantgardenfloral.com/"
+opening_hours: Mo-Fr 09:00-15:00; Sa 09:00-12:00
+website: https://www.avantgardenfloral.com/

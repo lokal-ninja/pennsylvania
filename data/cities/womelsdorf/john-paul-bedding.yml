@@ -1,11 +1,11 @@
 id: 645828336
-type: way
+type: node
 latitude: 40.36622
 longitude: -76.18918
 postcode: "19567"
 city: Womelsdorf
-street: "North 3rd Street"
-housenumber: 30
-phone: "+1 610-451-8823"
-opening_hours: "by appointment"
-website: "https://www.johnpaulbedding.com/"
+street: North 3rd Street
+housenumber: "30"
+phone: +1 610-451-8823
+opening_hours: '"by appointment"'
+website: https://www.johnpaulbedding.com/

@@ -4,8 +4,8 @@ latitude: 40.07814
 longitude: -75.02724
 postcode: "19114"
 city: Philadelphia
-street: "Grant Avenue"
-housenumber: 2550
-phone: "+1 215-464-8280"
-opening_hours: "07:00-23:00"
-website: "https://stores.giantfoodstores.com/pa/philadelphia/2550-grant-ave"
+street: Grant Avenue
+housenumber: "2550"
+phone: +1 215-464-8280
+opening_hours: 07:00-23:00
+website: https://stores.giantfoodstores.com/pa/philadelphia/2550-grant-ave

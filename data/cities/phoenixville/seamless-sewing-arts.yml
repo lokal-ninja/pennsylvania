@@ -1,11 +1,11 @@
 id: 661456907
-type: way
+type: node
 latitude: 40.13049
 longitude: -75.54955
 postcode: ""
 city: Phoenixville
-street: "Kimberton Road"
-housenumber: 546
-phone: "+1 484-920-8971"
-opening_hours: "Mo,Su off; Tu,Th-Sa 10:00-17:00; We 10:00-19:00"
-website: "https://www.seamlesssewingarts.com"
+street: Kimberton Road
+housenumber: "546"
+phone: +1 484-920-8971
+opening_hours: Mo,Su off; Tu,Th-Sa 10:00-17:00; We 10:00-19:00
+website: https://www.seamlesssewingarts.com

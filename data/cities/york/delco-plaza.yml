@@ -1,11 +1,11 @@
 id: 305995198
-type: way
+type: node
 latitude: 39.96553
 longitude: -76.76998
 postcode: "17408"
 city: York
-street: "Carlisle Road"
-housenumber: 1201
+street: Carlisle Road
+housenumber: "1201"
 phone: ""
 opening_hours: ""
-website: "https://www.alliedretailprop.com/delcoplaza/"
+website: https://www.alliedretailprop.com/delcoplaza/

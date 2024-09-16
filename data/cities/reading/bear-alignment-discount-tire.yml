@@ -1,11 +1,11 @@
 id: 746153322
-type: way
+type: node
 latitude: 40.31203
 longitude: -75.94962
 postcode: ""
 city: Reading
-street: "East Lancaster Avenue"
-housenumber: 1347
-phone: "+1 610-777-4041"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off"
+street: East Lancaster Avenue
+housenumber: "1347"
+phone: +1 610-777-4041
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off
 website: ""

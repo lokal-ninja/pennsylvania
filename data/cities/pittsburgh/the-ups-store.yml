@@ -1,11 +1,11 @@
 id: 204009473
-type: way
+type: node
 latitude: 40.42888
 longitude: -79.98071
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 1739
+street: East Carson Street
+housenumber: "1739"
 phone: ""
 opening_hours: ""
-website: "http://www.theupsstorelocal.com/1080/"
+website: http://www.theupsstorelocal.com/1080/

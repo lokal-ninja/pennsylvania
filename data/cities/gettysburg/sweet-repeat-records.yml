@@ -1,11 +1,11 @@
 id: 1071382708
-type: way
+type: node
 latitude: 39.83046
 longitude: -77.23123
 postcode: "17325"
 city: Gettysburg
-street: "Baltimore Street"
-housenumber: 5
+street: Baltimore Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

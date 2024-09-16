@@ -1,11 +1,11 @@
 id: 458003444
-type: way
+type: node
 latitude: 40.18636
 longitude: -80.22803
 postcode: "15301"
 city: Washington
-street: "Washington Road"
-housenumber: 327
-phone: "+1 724-223-1227"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/pa/washington-store0589.html"
+street: Washington Road
+housenumber: "327"
+phone: +1 724-223-1227
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/pa/washington-store0589.html

@@ -1,11 +1,11 @@
 id: 465430834
-type: way
+type: node
 latitude: 40.30527
 longitude: -76.42295
 postcode: "17042"
 city: Lebanon
-street: "Rocherty Road"
-housenumber: 195
-phone: "+1 717-277-5768"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/370"
+street: Rocherty Road
+housenumber: "195"
+phone: +1 717-277-5768
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/370

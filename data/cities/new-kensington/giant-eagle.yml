@@ -1,11 +1,11 @@
 id: 294441787
-type: way
+type: node
 latitude: 40.59309
 longitude: -79.75041
 postcode: "15068"
 city: New Kensington
-street: "Tarentum Bridge Road"
-housenumber: 200
-phone: "+1 724-339-4940"
-opening_hours: "06:00-24:00"
+street: Tarentum Bridge Road
+housenumber: "200"
+phone: +1 724-339-4940
+opening_hours: 06:00-24:00
 website: ""

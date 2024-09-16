@@ -1,11 +1,11 @@
 id: 863535094
-type: way
+type: node
 latitude: 40.81336
 longitude: -77.83937
 postcode: "16801"
 city: State College
-street: "Puddintown Road"
-housenumber: 629
+street: Puddintown Road
+housenumber: "629"
 phone: ""
 opening_hours: ""
 website: ""

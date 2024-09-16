@@ -1,11 +1,11 @@
 id: 720015215
-type: way
+type: node
 latitude: 40.23719
 longitude: -75.45757
 postcode: "19473"
 city: Perkiomen Township
-street: "Gravel Pike"
-housenumber: 841
+street: Gravel Pike
+housenumber: "841"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
+opening_hours: Mo-Su 08:00-21:00
 website: ""

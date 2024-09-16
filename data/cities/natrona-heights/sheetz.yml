@@ -1,11 +1,11 @@
 id: 379123764
-type: way
+type: node
 latitude: 40.61896
 longitude: -79.73232
 postcode: "15065"
 city: Natrona Heights
-street: "California Avenue"
-housenumber: 1002
-phone: "+1 724-409-4200"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/631"
+street: California Avenue
+housenumber: "1002"
+phone: +1 724-409-4200
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/631

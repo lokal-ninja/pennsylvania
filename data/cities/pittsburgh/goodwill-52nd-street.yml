@@ -4,8 +4,9 @@ latitude: 40.48052
 longitude: -79.95564
 postcode: "15201"
 city: Pittsburgh
-street: "52nd Street"
-housenumber: 118
-phone: "+1 412-696-0092"
-opening_hours: "Mo-Su 10:00-19:00; Mo-Su 10:00-11:00 unknown Only open for Seniors and At-Risk shoppers"
+street: 52nd Street
+housenumber: "118"
+phone: +1 412-696-0092
+opening_hours: Mo-Su 10:00-19:00; Mo-Su 10:00-11:00 unknown "Only open for Seniors
+    and At-Risk shoppers"
 website: ""

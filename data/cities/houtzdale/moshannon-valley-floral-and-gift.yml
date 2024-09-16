@@ -1,11 +1,12 @@
 id: 921552529
-type: way
+type: node
 latitude: 40.82518
 longitude: -78.35048
 postcode: "16651"
 city: Houtzdale
-street: "Hannah Street"
-housenumber: 580
+street: Hannah Street
+housenumber: "580"
 phone: "+18143788802"
-opening_hours: "Mo-Tu 09:00-17:00 We 09:00-14:00 Th-Fr 09:00-18:00 Sa 09:00-14:00 Su Closed"
-website: "https://www.moshannonvalleyflorist.com/"
+opening_hours: Mo-Tu 09:00-17:00 We 09:00-14:00 Th-Fr 09:00-18:00 Sa 09:00-14:00 Su
+    Closed
+website: https://www.moshannonvalleyflorist.com/

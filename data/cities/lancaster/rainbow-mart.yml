@@ -1,11 +1,11 @@
 id: 328243705
-type: way
+type: node
 latitude: 40.08102
 longitude: -76.23646
 postcode: "17601"
 city: Lancaster
-street: "New Holland Pike"
-housenumber: 2270
+street: New Holland Pike
+housenumber: "2270"
 phone: ""
 opening_hours: ""
 website: ""

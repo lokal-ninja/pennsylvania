@@ -1,11 +1,11 @@
 id: 197961843
-type: way
+type: node
 latitude: 40.17153
 longitude: -76.3851
 postcode: "17543"
 city: Manheim
-street: "Doe Run Road"
-housenumber: 75
-phone: "+1 717-665-2315"
-opening_hours: "24/7"
-website: "https://www.weismarkets.com/"
+street: Doe Run Road
+housenumber: "75"
+phone: +1 717-665-2315
+opening_hours: 24/7
+website: https://www.weismarkets.com/

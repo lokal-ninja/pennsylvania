@@ -1,11 +1,11 @@
 id: 916292525
-type: way
+type: node
 latitude: 40.33423
 longitude: -76.84312
 postcode: "17110"
 city: Harrisburg
-street: "EG Drive"
-housenumber: 2047
-phone: "+1-717-695-0246"
+street: EG Drive
+housenumber: "2047"
+phone: +1-717-695-0246
 opening_hours: ""
-website: "https://tidecleaners.com/en-us"
+website: https://tidecleaners.com/en-us

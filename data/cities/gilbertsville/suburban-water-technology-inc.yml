@@ -1,11 +1,11 @@
 id: 670072842
-type: way
+type: node
 latitude: 40.30813
 longitude: -75.59984
 postcode: "19525"
 city: Gilbertsville
-street: "Swamp Pike"
-housenumber: 1697
-phone: "+1 800-525-6464"
+street: Swamp Pike
+housenumber: "1697"
+phone: +1 800-525-6464
 opening_hours: ""
-website: "https://www.wefixwater.com/"
+website: https://www.wefixwater.com/

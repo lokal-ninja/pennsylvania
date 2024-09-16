@@ -1,11 +1,11 @@
 id: 489662470
-type: way
+type: node
 latitude: 41.44806
 longitude: -75.64267
 postcode: "18508"
 city: Scranton
-street: "North Main Avenue"
-housenumber: 3400
+street: North Main Avenue
+housenumber: "3400"
 phone: ""
 opening_hours: ""
 website: ""

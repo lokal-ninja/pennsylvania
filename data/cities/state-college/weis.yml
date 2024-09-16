@@ -1,11 +1,11 @@
 id: 56178727
-type: way
+type: node
 latitude: 40.80525
 longitude: -77.89073
 postcode: "16803"
 city: State College
-street: "Martin Street"
-housenumber: 1471
+street: Martin Street
+housenumber: "1471"
 phone: ""
-opening_hours: "07:00-20:00"
+opening_hours: 07:00-20:00
 website: ""

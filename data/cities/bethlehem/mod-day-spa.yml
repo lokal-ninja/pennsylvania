@@ -1,11 +1,11 @@
 id: 198872828
-type: way
+type: node
 latitude: 40.64261
 longitude: -75.34966
 postcode: "18017"
 city: Bethlehem
-street: "Easton Avenue"
-housenumber: 2432
+street: Easton Avenue
+housenumber: "2432"
 phone: ""
 opening_hours: ""
 website: ""

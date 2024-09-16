@@ -4,8 +4,8 @@ latitude: 40.43494
 longitude: -79.92266
 postcode: "15217"
 city: Pittsburgh
-street: "Murray Avenue"
-housenumber: 1937
-phone: "+1 412 449 9833"
-opening_hours: "Mo-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 10:00-20:00"
+street: Murray Avenue
+housenumber: "1937"
+phone: +1 412 449 9833
+opening_hours: Mo-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 10:00-20:00
 website: ""

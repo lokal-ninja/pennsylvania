@@ -1,11 +1,11 @@
 id: 1269238582
-type: way
+type: node
 latitude: 40.08173
 longitude: -76.38122
 postcode: "17601"
 city: Lancaster
-street: "State Road"
-housenumber: 2149
-phone: "+1 717-537-2129"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/717"
+street: State Road
+housenumber: "2149"
+phone: +1 717-537-2129
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/717

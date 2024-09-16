@@ -1,11 +1,11 @@
 id: 431277861
-type: way
+type: node
 latitude: 40.53583
 longitude: -80.18439
 postcode: "15143"
 city: Sewickley
-street: "Ohio River Boulevard"
-housenumber: 526
-phone: "+1 888 865 1613"
-opening_hours: "Mo,Tu,Th 09:00-20:30, We,Fr 09:00-06:00, Sa 10:00-16:00"
-website: "https://www.sewickleyaudipa.com/"
+street: Ohio River Boulevard
+housenumber: "526"
+phone: +1 888 865 1613
+opening_hours: Mo,Tu,Th 09:00-20:30, We,Fr 09:00-06:00, Sa 10:00-16:00
+website: https://www.sewickleyaudipa.com/

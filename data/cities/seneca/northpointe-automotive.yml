@@ -1,11 +1,11 @@
 id: 678326550
-type: way
+type: node
 latitude: 41.3883
 longitude: -79.70393
 postcode: "16346"
 city: Seneca
-street: "PA 257"
-housenumber: 3485
+street: PA 257
+housenumber: "3485"
 phone: ""
 opening_hours: ""
-website: "https://www.northpointeauto.com/"
+website: https://www.northpointeauto.com/

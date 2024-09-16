@@ -1,11 +1,11 @@
 id: 337078707
-type: way
+type: node
 latitude: 40.32003
 longitude: -79.89066
 postcode: ""
 city: Glassport
-street: "Ohio Avenue"
-housenumber: 937
+street: Ohio Avenue
+housenumber: "937"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 261980460
-type: way
+type: node
 latitude: 40.51196
 longitude: -79.84306
 postcode: "15139"
 city: Oakmont
-street: "Allegheny River Boulevard"
-housenumber: 100
-phone: "+1-412-828-5830"
+street: Allegheny River Boulevard
+housenumber: "100"
+phone: +1-412-828-5830
 opening_hours: ""
-website: "https://armstrongautosales.com/"
+website: https://armstrongautosales.com/

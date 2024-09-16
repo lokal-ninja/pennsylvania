@@ -1,11 +1,11 @@
 id: 579959725
-type: way
+type: node
 latitude: 41.02113
 longitude: -75.18432
 postcode: "18301"
 city: East Stroudsburg
-street: "Paradise Trail"
-housenumber: 1752
-phone: "+1-888-296-0882"
+street: Paradise Trail
+housenumber: "1752"
+phone: +1-888-296-0882
 opening_hours: ""
-website: "https://www.haltermansmitsubishi.com/"
+website: https://www.haltermansmitsubishi.com/

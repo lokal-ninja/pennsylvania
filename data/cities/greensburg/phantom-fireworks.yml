@@ -1,11 +1,11 @@
 id: 159724205
-type: way
+type: node
 latitude: 40.30589
 longitude: -79.50856
 postcode: "15601"
 city: Greensburg
-street: "Donohoe Road"
-housenumber: 135
-phone: "+1 724 383-8254"
-opening_hours: "Mo-Su 09:00-21:00"
+street: Donohoe Road
+housenumber: "135"
+phone: +1 724 383-8254
+opening_hours: Mo-Su 09:00-21:00
 website: ""

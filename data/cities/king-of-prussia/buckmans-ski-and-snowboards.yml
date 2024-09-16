@@ -1,11 +1,11 @@
 id: 47094429
-type: way
+type: node
 latitude: 40.08638
 longitude: -75.38746
 postcode: "19406"
 city: King of Prussia
-street: "West Dekalb Pike"
-housenumber: 740
-phone: "+1 610-265-3330"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-17:00; Su off"
-website: "https://buckmans.com/retail-store/king-of-prussia"
+street: West Dekalb Pike
+housenumber: "740"
+phone: +1 610-265-3330
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-17:00; Su off
+website: https://buckmans.com/retail-store/king-of-prussia

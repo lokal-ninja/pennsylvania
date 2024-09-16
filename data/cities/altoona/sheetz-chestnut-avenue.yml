@@ -1,11 +1,11 @@
 id: 895994899
-type: way
+type: node
 latitude: 40.51977
 longitude: -78.39797
 postcode: "16601"
 city: Altoona
-street: "Chestnut Avenue"
-housenumber: 700
-phone: "+1 814-942-2315"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/11"
+street: Chestnut Avenue
+housenumber: "700"
+phone: +1 814-942-2315
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/11

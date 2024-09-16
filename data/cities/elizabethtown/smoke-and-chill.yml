@@ -1,11 +1,11 @@
 id: 319525841
-type: way
+type: node
 latitude: 40.14425
 longitude: -76.59853
 postcode: "17022"
 city: Elizabethtown
-street: "South Market Street"
-housenumber: 735
+street: South Market Street
+housenumber: "735"
 phone: ""
 opening_hours: ""
 website: ""

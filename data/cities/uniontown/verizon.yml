@@ -1,11 +1,11 @@
 id: 1117273466
-type: way
+type: node
 latitude: 39.91535
 longitude: -79.75177
 postcode: "15401"
 city: Uniontown
-street: "Synergy Drive"
-housenumber: 505
-phone: "+1-800-880-1077"
+street: Synergy Drive
+housenumber: "505"
+phone: +1-800-880-1077
 opening_hours: ""
-website: "https://www.verizon.com/stores/details/pennsylvania/uniontown/uniontown-north-337623/"
+website: https://www.verizon.com/stores/details/pennsylvania/uniontown/uniontown-north-337623/

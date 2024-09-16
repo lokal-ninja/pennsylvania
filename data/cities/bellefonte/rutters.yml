@@ -1,11 +1,11 @@
 id: 896324120
-type: way
+type: node
 latitude: 40.87674
 longitude: -77.77732
 postcode: "16823"
 city: Bellefonte
-street: "Rishel Hill Road"
-housenumber: 731
-phone: "+1-814-424-7859"
-opening_hours: "24/7"
+street: Rishel Hill Road
+housenumber: "731"
+phone: +1-814-424-7859
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 620197329
-type: way
+type: node
 latitude: 40.94231
 longitude: -75.8305
 postcode: "18255"
 city: Weatherly
-street: "West Main Street"
-housenumber: 20
+street: West Main Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/pa/weatherly/12481"
+website: https://www.dollargeneral.com/store-directory/pa/weatherly/12481

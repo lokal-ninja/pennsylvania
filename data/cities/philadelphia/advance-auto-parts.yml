@@ -4,8 +4,8 @@ latitude: 40.10156
 longitude: -75.03018
 postcode: "19115"
 city: Philadelphia
-street: "Bustleton Avenue"
-housenumber: 9920
-phone: "+1 215-969-5105"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/pa/philadelphia/9920-bustleton-ave"
+street: Bustleton Avenue
+housenumber: "9920"
+phone: +1 215-969-5105
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/pa/philadelphia/9920-bustleton-ave

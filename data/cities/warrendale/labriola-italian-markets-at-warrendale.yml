@@ -1,11 +1,11 @@
 id: 533939476
-type: way
+type: node
 latitude: 40.65065
 longitude: -80.07821
 postcode: "15086"
 city: Warrendale
-street: "Northgate Drive"
-housenumber: 112
+street: Northgate Drive
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

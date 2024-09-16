@@ -1,11 +1,11 @@
 id: 1286686739
-type: way
+type: node
 latitude: 40.5143
 longitude: -76.11229
 postcode: "19554"
 city: Shartlesville
-street: "Roadside Drive"
-housenumber: 4
+street: Roadside Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 373841507
-type: way
+type: node
 latitude: 40.21192
 longitude: -75.49953
 postcode: "19468"
 city: Royersford
-street: "Ridge Pike"
-housenumber: 1824
-phone: "+1 610-831-5450"
-opening_hours: "06:00-22:00"
-website: "https://stores.giantfoodstores.com/pa/royersford/1824-ridge-pike"
+street: Ridge Pike
+housenumber: "1824"
+phone: +1 610-831-5450
+opening_hours: 06:00-22:00
+website: https://stores.giantfoodstores.com/pa/royersford/1824-ridge-pike

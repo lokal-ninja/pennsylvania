@@ -1,11 +1,11 @@
 id: 419473850
-type: way
+type: node
 latitude: 40.60729
 longitude: -79.60915
 postcode: "15656"
 city: Leechburg
-street: "Towne Center Drive"
-housenumber: 41
-phone: "+1 724-845-9298"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Towne Center Drive
+housenumber: "41"
+phone: +1 724-845-9298
+opening_hours: Mo-Su 07:00-21:00
 website: ""

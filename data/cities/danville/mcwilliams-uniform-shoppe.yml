@@ -1,11 +1,11 @@
 id: 1204054167
-type: way
+type: node
 latitude: 40.96115
 longitude: -76.61818
 postcode: "17821"
 city: Danville
-street: "Mill Street"
-housenumber: 364
-phone: "+1-570-275-1141"
-opening_hours: "Mo-Th 09:00-17:00, Fr 08:00-17:00, Sa 09:00-17:00"
-website: "https://mcwilliamsuniforms.com/"
+street: Mill Street
+housenumber: "364"
+phone: +1-570-275-1141
+opening_hours: Mo-Th 09:00-17:00, Fr 08:00-17:00, Sa 09:00-17:00
+website: https://mcwilliamsuniforms.com/

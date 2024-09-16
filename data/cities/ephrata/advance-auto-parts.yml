@@ -1,11 +1,11 @@
 id: 340482991
-type: way
+type: node
 latitude: 40.16665
 longitude: -76.16531
 postcode: "17522"
 city: Ephrata
-street: "East Main Street"
-housenumber: 737
-phone: "+1 717-733-0859"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/pa/ephrata/737-e-main-st"
+street: East Main Street
+housenumber: "737"
+phone: +1 717-733-0859
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/pa/ephrata/737-e-main-st

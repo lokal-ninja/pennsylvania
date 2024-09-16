@@ -1,11 +1,11 @@
 id: 1022454005
-type: way
+type: node
 latitude: 40.15569
 longitude: -74.97159
 postcode: "19053"
 city: Trevose
-street: "Brownsville Road"
-housenumber: 1952
-phone: "+1 215-322-8815"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/pa/trevose/1952-brownsville-rd-15928"
+street: Brownsville Road
+housenumber: "1952"
+phone: +1 215-322-8815
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/pa/trevose/1952-brownsville-rd-15928

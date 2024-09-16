@@ -1,11 +1,11 @@
 id: 865047576
-type: way
+type: node
 latitude: 40.26458
 longitude: -76.77766
 postcode: "17111"
 city: Harrisburg
-street: "Derry Street"
-housenumber: 6308
+street: Derry Street
+housenumber: "6308"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/pa/harrisburg/6308-derry-st"
+website: https://stores.advanceautoparts.com/pa/harrisburg/6308-derry-st

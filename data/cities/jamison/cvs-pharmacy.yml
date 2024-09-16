@@ -1,11 +1,11 @@
 id: 516749420
-type: way
+type: node
 latitude: 40.25383
 longitude: -75.08866
 postcode: "18929"
 city: Jamison
-street: "York Rd"
-housenumber: 2193
+street: York Rd
+housenumber: "2193"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/jamison-pa-pharmacies/2193-york-rd-jamison-pa-18929/storeid=2040"
+website: https://www.cvs.com/store-locator/jamison-pa-pharmacies/2193-york-rd-jamison-pa-18929/storeid=2040

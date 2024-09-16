@@ -1,11 +1,11 @@
 id: 452136408
-type: way
+type: node
 latitude: 40.30206
 longitude: -75.17493
 postcode: "18901"
 city: New Britain
-street: "East Butler Avenue"
-housenumber: 241
+street: East Butler Avenue
+housenumber: "241"
 phone: ""
 opening_hours: ""
 website: ""

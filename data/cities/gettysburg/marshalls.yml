@@ -1,11 +1,11 @@
 id: 1071724824
-type: way
+type: node
 latitude: 39.84232
 longitude: -77.20145
 postcode: "17325"
 city: Gettysburg
-street: "York Road"
-housenumber: 1275
-phone: "+1 717-334-2060"
+street: York Road
+housenumber: "1275"
+phone: +1 717-334-2060
 opening_hours: ""
-website: "https://www.marshalls.com/us/store/stores/Gettysburg-PA-17325/1447/aboutstore"
+website: https://www.marshalls.com/us/store/stores/Gettysburg-PA-17325/1447/aboutstore

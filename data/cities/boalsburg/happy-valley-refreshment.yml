@@ -1,11 +1,11 @@
 id: 763193440
-type: way
+type: node
 latitude: 40.77619
 longitude: -77.78721
 postcode: "16827"
 city: Boalsburg
-street: "Boal Avenue"
-housenumber: 420
-phone: "+1-814-466-6360"
+street: Boal Avenue
+housenumber: "420"
+phone: +1-814-466-6360
 opening_hours: ""
-website: "http://hvrbeer.com/"
+website: http://hvrbeer.com/

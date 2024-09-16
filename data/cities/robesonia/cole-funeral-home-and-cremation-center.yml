@@ -1,11 +1,11 @@
 id: 554527064
-type: way
+type: node
 latitude: 40.34722
 longitude: -76.12295
 postcode: "19551"
 city: Robesonia
-street: "East Penn Avenue"
-housenumber: 402
-phone: "+1 610 693 6347"
+street: East Penn Avenue
+housenumber: "402"
+phone: +1 610 693 6347
 opening_hours: ""
-website: "https://www.colefh.com/"
+website: https://www.colefh.com/

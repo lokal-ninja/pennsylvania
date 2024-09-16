@@ -4,8 +4,8 @@ latitude: 40.91131
 longitude: -77.7797
 postcode: "16823"
 city: Bellefonte
-street: "South Spring Street"
-housenumber: 107
-phone: "+1-814-571-6430"
-opening_hours: "by appointment"
-website: "https://bronzed814.com/"
+street: South Spring Street
+housenumber: "107"
+phone: +1-814-571-6430
+opening_hours: '"by appointment"'
+website: https://bronzed814.com/

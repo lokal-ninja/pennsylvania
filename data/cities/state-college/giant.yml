@@ -1,11 +1,11 @@
 id: 290683925
-type: way
+type: node
 latitude: 40.80291
 longitude: -77.88755
 postcode: "16803"
 city: State College
-street: "Northland Center"
-housenumber: 255
-phone: "+1-814-237-1828"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://stores.giantfoodstores.com/pa/state-college/255-northland-ctr"
+street: Northland Center
+housenumber: "255"
+phone: +1-814-237-1828
+opening_hours: Mo-Su 06:00-23:00
+website: https://stores.giantfoodstores.com/pa/state-college/255-northland-ctr

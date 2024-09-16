@@ -1,11 +1,11 @@
 id: 588416696
-type: way
+type: node
 latitude: 39.95909
 longitude: -76.69581
 postcode: "17403"
 city: York
-street: "Mount Rose Avenue"
-housenumber: 1501
-phone: "+1 717-819-5834"
-opening_hours: "Mo-Fr 10:00-19:00; Sa-Su 10:00-16:00"
-website: "https://mothershipyork.com/"
+street: Mount Rose Avenue
+housenumber: "1501"
+phone: +1 717-819-5834
+opening_hours: Mo-Fr 10:00-19:00; Sa-Su 10:00-16:00
+website: https://mothershipyork.com/

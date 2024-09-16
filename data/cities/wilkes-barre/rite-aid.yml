@@ -1,11 +1,11 @@
 id: 422899645
-type: way
+type: node
 latitude: 41.24064
 longitude: -75.88257
 postcode: "18702"
 city: Wilkes-Barre
-street: "East Northampton Street"
-housenumber: 155
-phone: "+1-570-822-2791"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/pa/wilkes-barre/155-east-northampton-street.html"
+street: East Northampton Street
+housenumber: "155"
+phone: +1-570-822-2791
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/pa/wilkes-barre/155-east-northampton-street.html

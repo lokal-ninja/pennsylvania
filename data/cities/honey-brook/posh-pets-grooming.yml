@@ -1,11 +1,11 @@
 id: 906669201
-type: way
+type: node
 latitude: 40.08905
 longitude: -75.90276
 postcode: "19344"
 city: Honey Brook
-street: "Horseshoe Pike"
-housenumber: 3845
-phone: "+1 610-273-3845"
-opening_hours: "Mo-Fr 09:00-15:00"
+street: Horseshoe Pike
+housenumber: "3845"
+phone: +1 610-273-3845
+opening_hours: Mo-Fr 09:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 554302614
-type: way
+type: node
 latitude: 40.00415
 longitude: -75.70753
 postcode: "19335"
 city: Downingtown
-street: "West Lancaster Avenue"
-housenumber: 68
-phone: "+1 610-357-6831"
-opening_hours: "Mo-Sa 10:00-17:00; Su off"
-website: "https://forthenestwithkimrowe.com/"
+street: West Lancaster Avenue
+housenumber: "68"
+phone: +1 610-357-6831
+opening_hours: Mo-Sa 10:00-17:00; Su off
+website: https://forthenestwithkimrowe.com/

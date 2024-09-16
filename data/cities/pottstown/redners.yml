@@ -1,11 +1,11 @@
 id: 878764036
-type: way
+type: node
 latitude: 40.2644
 longitude: -75.62717
 postcode: "19464"
 city: Pottstown
-street: "North Charlotte Street"
-housenumber: 1300
-phone: "+1 610-705-4350"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.rednersmarkets.com/store-locations/pottstown"
+street: North Charlotte Street
+housenumber: "1300"
+phone: +1 610-705-4350
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.rednersmarkets.com/store-locations/pottstown

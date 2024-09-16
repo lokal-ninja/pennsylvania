@@ -1,11 +1,11 @@
 id: 469531654
-type: way
+type: node
 latitude: 40.31328
 longitude: -76.40794
 postcode: "17042"
 city: Lebanon
-street: "South Lincoln Avenue"
-housenumber: 1635
-phone: "+1 717-273-6572"
-opening_hours: "Mo-Sa 09:00-17:00; Su off"
-website: "https://www.shydasoutdoorcenter.com/"
+street: South Lincoln Avenue
+housenumber: "1635"
+phone: +1 717-273-6572
+opening_hours: Mo-Sa 09:00-17:00; Su off
+website: https://www.shydasoutdoorcenter.com/

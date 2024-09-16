@@ -4,8 +4,8 @@ latitude: 40.08409
 longitude: -76.21908
 postcode: "17540"
 city: Leola
-street: "West Main Street"
-housenumber: 370
+street: West Main Street
+housenumber: "370"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.rutters.com"
+opening_hours: 24/7
+website: https://www.rutters.com

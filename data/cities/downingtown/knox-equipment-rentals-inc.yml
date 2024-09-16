@@ -1,11 +1,11 @@
 id: 888055808
-type: way
+type: node
 latitude: 40.00053
 longitude: -75.69543
 postcode: "19335"
 city: Downingtown
-street: "Boot Road"
-housenumber: 300
+street: Boot Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

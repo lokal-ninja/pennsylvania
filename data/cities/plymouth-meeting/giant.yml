@@ -1,11 +1,11 @@
 id: 220969069
-type: way
+type: node
 latitude: 40.10606
 longitude: -75.29232
 postcode: "19462"
 city: Plymouth Meeting
-street: "Chemical Road"
-housenumber: 2450
-phone: "+1-610-941-5448"
-opening_hours: "07:00-22:00"
-website: "https://stores.giantfoodstores.com/pa/plymouth-meeting/2450-chemical-rd"
+street: Chemical Road
+housenumber: "2450"
+phone: +1-610-941-5448
+opening_hours: 07:00-22:00
+website: https://stores.giantfoodstores.com/pa/plymouth-meeting/2450-chemical-rd

@@ -4,8 +4,8 @@ latitude: 40.43988
 longitude: -79.99856
 postcode: "15219"
 city: Pittsburgh
-street: "Smithfield Street"
-housenumber: 482
-phone: "+1 412-258-8500"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.target.com/sl/pittsburgh-downtown/3392"
+street: Smithfield Street
+housenumber: "482"
+phone: +1 412-258-8500
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.target.com/sl/pittsburgh-downtown/3392

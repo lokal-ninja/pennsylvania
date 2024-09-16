@@ -1,11 +1,11 @@
 id: 990263959
-type: way
+type: node
 latitude: 39.93789
 longitude: -75.25452
-postcode: "19050-3202"
+postcode: 19050-3202
 city: Yeadon
-street: "Church Lane"
-housenumber: 501
-phone: "+1 267-408-3362"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/pa/yeadon/501-church-lane-20700"
+street: Church Lane
+housenumber: "501"
+phone: +1 267-408-3362
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/pa/yeadon/501-church-lane-20700

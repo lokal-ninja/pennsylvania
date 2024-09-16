@@ -1,11 +1,11 @@
 id: 1099413490
-type: way
+type: node
 latitude: 40.84365
 longitude: -76.83738
 postcode: "17870"
 city: Selinsgrove
-street: "Martketplace"
-housenumber: 486
-phone: "+1 570-743-1780"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/pa/selinsgrove/389/"
+street: Martketplace
+housenumber: "486"
+phone: +1 570-743-1780
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/pa/selinsgrove/389/

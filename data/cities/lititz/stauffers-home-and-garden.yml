@@ -1,11 +1,11 @@
 id: 1033678582
-type: way
+type: node
 latitude: 40.12832
 longitude: -76.30785
 postcode: "17543"
 city: Lititz
-street: "Lititz Pike"
-housenumber: 1050
-phone: "+1 717-627-7654"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.skh.com"
+street: Lititz Pike
+housenumber: "1050"
+phone: +1 717-627-7654
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.skh.com

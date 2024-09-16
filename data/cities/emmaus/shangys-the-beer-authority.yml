@@ -1,11 +1,11 @@
 id: 846606183
-type: way
+type: node
 latitude: 40.54161
 longitude: -75.48553
 postcode: "18049"
 city: Emmaus
-street: "East Main Street"
-housenumber: 40
+street: East Main Street
+housenumber: "40"
 phone: "+16109671701"
 opening_hours: ""
-website: "www.shangys.com"
+website: www.shangys.com

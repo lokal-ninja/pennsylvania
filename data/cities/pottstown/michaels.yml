@@ -1,11 +1,11 @@
 id: 878754206
-type: way
+type: node
 latitude: 40.25289
 longitude: -75.66234
 postcode: "19464"
 city: Pottstown
-street: "Shoemaker Road"
-housenumber: 223
-phone: "+1 484-948-4200"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/pa/pottstown/5143"
+street: Shoemaker Road
+housenumber: "223"
+phone: +1 484-948-4200
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/pa/pottstown/5143

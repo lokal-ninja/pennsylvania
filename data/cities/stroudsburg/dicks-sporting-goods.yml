@@ -1,11 +1,11 @@
 id: 531606025
-type: way
+type: node
 latitude: 40.99864
 longitude: -75.26625
 postcode: "18360"
 city: Stroudsburg
-street: "Commerce Boulevard"
-housenumber: 500
-phone: "+1 570-421-7501"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/pa/stroudsburg/1127/"
+street: Commerce Boulevard
+housenumber: "500"
+phone: +1 570-421-7501
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/pa/stroudsburg/1127/

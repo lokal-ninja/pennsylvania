@@ -1,11 +1,11 @@
 id: 460266014
-type: way
+type: node
 latitude: 39.74283
 longitude: -77.54741
 postcode: "17268"
 city: Waynesboro
-street: "East Main Street"
-housenumber: 2081
+street: East Main Street
+housenumber: "2081"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 116498636
-type: way
+type: node
 latitude: 41.26128
 longitude: -75.9054
 postcode: "18704"
 city: Edwardsville
-street: "West Side Mall"
-housenumber: 50
-phone: "+1 570-285-6000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/pa-edwardsville/2412"
+street: West Side Mall
+housenumber: "50"
+phone: +1 570-285-6000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/pa-edwardsville/2412

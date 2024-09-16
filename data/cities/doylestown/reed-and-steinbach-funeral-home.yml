@@ -1,11 +1,11 @@
 id: 598407964
-type: way
+type: node
 latitude: 40.29884
 longitude: -75.14335
 postcode: "18901"
 city: Doylestown
-street: "Lower State Road"
-housenumber: 2335
+street: Lower State Road
+housenumber: "2335"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1079499856
-type: way
+type: node
 latitude: 41.23796
 longitude: -76.81267
 postcode: "17756"
 city: Muncy
-street: "Lycoming Mall Drive"
-housenumber: 140
+street: Lycoming Mall Drive
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

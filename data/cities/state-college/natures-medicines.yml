@@ -1,11 +1,11 @@
 id: 239019960
-type: way
+type: node
 latitude: 40.81022
 longitude: -77.90982
 postcode: "16803"
 city: State College
-street: "North Atherton Street"
-housenumber: 2105
+street: North Atherton Street
+housenumber: "2105"
 phone: ""
-opening_hours: "We-Sa 11:00-22:00"
-website: "https://naturesmedicines.com/"
+opening_hours: We-Sa 11:00-22:00
+website: https://naturesmedicines.com/

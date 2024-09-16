@@ -1,11 +1,11 @@
 id: 490278036
-type: way
+type: node
 latitude: 41.46351
 longitude: -75.64792
 postcode: "18519"
 city: Dickson City
-street: "Commerce Boulevard"
-housenumber: 630
-phone: "+1 570-291-6911"
+street: Commerce Boulevard
+housenumber: "630"
+phone: +1 570-291-6911
 opening_hours: ""
-website: "https://stores.partycity.com/us/pa/dicksoncity/party-store-pc5268.html"
+website: https://stores.partycity.com/us/pa/dicksoncity/party-store-pc5268.html

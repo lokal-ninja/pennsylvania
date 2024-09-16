@@ -1,11 +1,11 @@
 id: 374335049
-type: way
+type: node
 latitude: 40.60291
 longitude: -75.19709
 postcode: "18077"
 city: Riegelsville
-street: "Walnut Lane"
-housenumber: 149
+street: Walnut Lane
+housenumber: "149"
 phone: "+16107492483"
 opening_hours: ""
-website: "https://frigid-freeze-lockers.edan.io/"
+website: https://frigid-freeze-lockers.edan.io/

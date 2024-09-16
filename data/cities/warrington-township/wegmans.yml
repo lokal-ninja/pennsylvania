@@ -1,11 +1,11 @@
 id: 189287691
-type: way
+type: node
 latitude: 40.23058
 longitude: -75.13261
 postcode: "18976"
 city: Warrington Township
-street: "Main Street"
-housenumber: 1405
-phone: "+1 215-918-3900"
-opening_hours: "Mo-Fr 08:30-21:00; Sa 08:30-18:00; Su 09:00-16:00"
-website: "https://www.wegmans.com/stores/warrington-pa"
+street: Main Street
+housenumber: "1405"
+phone: +1 215-918-3900
+opening_hours: Mo-Fr 08:30-21:00; Sa 08:30-18:00; Su 09:00-16:00
+website: https://www.wegmans.com/stores/warrington-pa

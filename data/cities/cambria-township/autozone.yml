@@ -1,11 +1,11 @@
 id: 560199275
-type: way
+type: node
 latitude: 40.4683
 longitude: -78.75583
 postcode: "15931"
 city: Cambria Township
-street: "Admiral Peary Highway"
-housenumber: 4401
+street: Admiral Peary Highway
+housenumber: "4401"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/pa/ebensburg/4401-admiral-peary-hwy.html"
+website: https://www.autozone.com/locations/pa/ebensburg/4401-admiral-peary-hwy.html

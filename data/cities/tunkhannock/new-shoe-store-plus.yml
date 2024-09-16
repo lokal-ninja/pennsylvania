@@ -1,11 +1,11 @@
 id: 544922652
-type: way
+type: node
 latitude: 41.52599
 longitude: -75.94882
 postcode: "18657"
 city: Tunkhannock
-street: "Hunter Highway"
-housenumber: 700
+street: Hunter Highway
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "http://newshoestoreplus.com"
+website: http://newshoestoreplus.com

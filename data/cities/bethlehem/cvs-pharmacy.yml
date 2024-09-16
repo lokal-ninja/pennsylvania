@@ -1,11 +1,11 @@
 id: 148902767
-type: way
+type: node
 latitude: 40.63305
 longitude: -75.39636
 postcode: "18018"
 city: Bethlehem
-street: "8th Avenue"
-housenumber: 1457
+street: 8th Avenue
+housenumber: "1457"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/bethlehem-pa-pharmacies/1457-8th-avenue-bethlehem-pa-18018/storeid=820"
+website: https://www.cvs.com/store-locator/bethlehem-pa-pharmacies/1457-8th-avenue-bethlehem-pa-18018/storeid=820

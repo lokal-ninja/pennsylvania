@@ -1,11 +1,11 @@
 id: 547136937
-type: way
+type: node
 latitude: 40.48633
 longitude: -77.11737
 postcode: "17074"
 city: Newport
-street: "Red Hill Court"
-housenumber: 42
+street: Red Hill Court
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

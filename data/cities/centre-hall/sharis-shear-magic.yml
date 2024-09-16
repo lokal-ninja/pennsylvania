@@ -1,11 +1,11 @@
 id: 920905883
-type: way
+type: node
 latitude: 40.83031
 longitude: -77.68098
 postcode: "16828"
 city: Centre Hall
-street: "Earlystown Road"
-housenumber: 2782
-phone: "+1-814-364-2176"
-opening_hours: "Tu,Th 09:00-20:00; We,Fr 09:00-18:00; Sa 09:00-12:00"
+street: Earlystown Road
+housenumber: "2782"
+phone: +1-814-364-2176
+opening_hours: Tu,Th 09:00-20:00; We,Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 147069683
-type: way
+type: node
 latitude: 40.27863
 longitude: -76.81458
 postcode: "17111"
 city: Harrisburg
-street: "Union Deposit Road"
-housenumber: 4299
+street: Union Deposit Road
+housenumber: "4299"
 phone: ""
 opening_hours: ""
-website: "https://www.riteaid.com/locations/pa/harrisburg/4299-union-deposit-road.html"
+website: https://www.riteaid.com/locations/pa/harrisburg/4299-union-deposit-road.html

@@ -1,11 +1,11 @@
 id: 659713817
-type: way
+type: node
 latitude: 40.92196
 longitude: -75.09693
 postcode: "18351"
 city: Portland
-street: "Delaware Avenue"
-housenumber: 409
+street: Delaware Avenue
+housenumber: "409"
 phone: ""
 opening_hours: ""
 website: ""

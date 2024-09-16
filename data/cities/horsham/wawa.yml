@@ -1,11 +1,11 @@
 id: 680112007
-type: way
+type: node
 latitude: 40.18723
 longitude: -75.14545
 postcode: "19044"
 city: Horsham
-street: "Horsham Road"
-housenumber: 535
+street: Horsham Road
+housenumber: "535"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

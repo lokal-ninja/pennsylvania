@@ -1,11 +1,11 @@
 id: 1192774447
-type: way
+type: node
 latitude: 39.92017
 longitude: -78.94208
 postcode: "15530"
 city: Berlin
-street: "Main Street"
-housenumber: 1302
-phone: "(814) 267-5509"
+street: Main Street
+housenumber: "1302"
+phone: (814) 267-5509
 opening_hours: ""
 website: ""

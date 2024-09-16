@@ -4,8 +4,8 @@ latitude: 40.03402
 longitude: -75.17185
 postcode: "19144"
 city: Philadelphia
-street: "Germantown Avenue"
-housenumber: 5445
+street: Germantown Avenue
+housenumber: "5445"
 phone: ""
-opening_hours: "Mo-Th 09:00-21:00; Fr 07:00-23:00; Sa 08:00-23:00; Su 08:00-19:00"
-website: "https://www.unclebobbies.com/"
+opening_hours: Mo-Th 09:00-21:00; Fr 07:00-23:00; Sa 08:00-23:00; Su 08:00-19:00
+website: https://www.unclebobbies.com/

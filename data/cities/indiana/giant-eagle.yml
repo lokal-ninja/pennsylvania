@@ -1,11 +1,11 @@
 id: 524074788
-type: way
+type: node
 latitude: 40.61397
 longitude: -79.18925
 postcode: "15701"
 city: Indiana
-street: "Ben Franklin Road South"
-housenumber: 475
-phone: "+1 724-349-9376"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Ben Franklin Road South
+housenumber: "475"
+phone: +1 724-349-9376
+opening_hours: Mo-Su 07:00-21:00
 website: ""

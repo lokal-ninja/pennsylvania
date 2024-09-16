@@ -1,11 +1,11 @@
 id: 707303288
-type: way
+type: node
 latitude: 40.06966
 longitude: -76.30105
 postcode: "17601"
 city: Lancaster
-street: "Oregon Pike"
-housenumber: 1699
-phone: "+1 717-435-9469"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/257"
+street: Oregon Pike
+housenumber: "1699"
+phone: +1 717-435-9469
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/257

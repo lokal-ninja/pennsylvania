@@ -1,11 +1,11 @@
 id: 824963699
-type: way
+type: node
 latitude: 41.88044
 longitude: -80.16111
 postcode: "16412"
 city: Edinboro
-street: "Route 6N"
-housenumber: 5701
+street: Route 6N
+housenumber: "5701"
 phone: ""
 opening_hours: ""
 website: ""

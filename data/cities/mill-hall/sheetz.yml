@@ -1,11 +1,11 @@
 id: 638254221
-type: way
+type: node
 latitude: 41.11445
 longitude: -77.47969
 postcode: "17751"
 city: Mill Hall
-street: "Hogan Boulevard"
-housenumber: 288
-phone: "+1 570-893-7581"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/280"
+street: Hogan Boulevard
+housenumber: "288"
+phone: +1 570-893-7581
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/280

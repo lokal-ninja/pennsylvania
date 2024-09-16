@@ -1,11 +1,11 @@
 id: 1092226961
-type: way
+type: node
 latitude: 40.41486
 longitude: -77.01296
 postcode: "17020"
 city: Duncannon
-street: "Benvenue Road"
-housenumber: 77
+street: Benvenue Road
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

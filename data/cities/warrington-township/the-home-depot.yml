@@ -1,11 +1,11 @@
 id: 483276282
-type: way
+type: node
 latitude: 40.23445
 longitude: -75.13862
 postcode: "18976"
 city: Warrington Township
-street: "Easton Road"
-housenumber: 650
+street: Easton Road
+housenumber: "650"
 phone: ""
 opening_hours: ""
 website: ""

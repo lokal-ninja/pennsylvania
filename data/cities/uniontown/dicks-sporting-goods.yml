@@ -1,11 +1,11 @@
 id: 679286701
-type: way
+type: node
 latitude: 39.9174
 longitude: -79.75522
 postcode: "15401"
 city: Uniontown
-street: "Walmart Drive"
-housenumber: 320
-phone: "+1 724-415-3460"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/pa/uniontown/1233/"
+street: Walmart Drive
+housenumber: "320"
+phone: +1 724-415-3460
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/pa/uniontown/1233/

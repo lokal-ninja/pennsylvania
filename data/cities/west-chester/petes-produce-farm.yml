@@ -1,11 +1,11 @@
 id: 575778400
-type: way
+type: node
 latitude: 39.93945
 longitude: -75.53533
 postcode: "19382"
 city: West Chester
-street: "Street Road"
-housenumber: 1225
-phone: "+1 610-399-3711"
+street: Street Road
+housenumber: "1225"
+phone: +1 610-399-3711
 opening_hours: ""
-website: "https://www.petesproducefarm.com/"
+website: https://www.petesproducefarm.com/

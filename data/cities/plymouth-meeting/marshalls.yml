@@ -1,11 +1,11 @@
 id: 220969073
-type: way
+type: node
 latitude: 40.106
 longitude: -75.29282
 postcode: "19462"
 city: Plymouth Meeting
-street: "Chemical Road"
-housenumber: 2430
-phone: "+1-610-834-4024"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.marshalls.com/us/store/stores/Plymouth+Meeting-PA-19462/385/aboutstore"
+street: Chemical Road
+housenumber: "2430"
+phone: +1-610-834-4024
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.marshalls.com/us/store/stores/Plymouth+Meeting-PA-19462/385/aboutstore

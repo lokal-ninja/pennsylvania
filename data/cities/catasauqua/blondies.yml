@@ -1,11 +1,11 @@
 id: 1304572331
-type: way
+type: node
 latitude: 40.65249
 longitude: -75.47298
 postcode: "18032"
 city: Catasauqua
-street: "Front Street"
-housenumber: 333
+street: Front Street
+housenumber: "333"
 phone: "+16104431741"
 opening_hours: ""
-website: "https://www.blondiesfood.com/"
+website: https://www.blondiesfood.com/

@@ -1,11 +1,11 @@
 id: 1152790356
-type: way
+type: node
 latitude: 40.15852
 longitude: -75.409
 postcode: "19403"
 city: Norristown
-street: "Eagleville Road"
-housenumber: 20
-phone: "+1-888-210-5576"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.spectrumhc.com/"
+street: Eagleville Road
+housenumber: "20"
+phone: +1-888-210-5576
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.spectrumhc.com/

@@ -1,11 +1,11 @@
 id: 199160877
-type: way
+type: node
 latitude: 40.16422
 longitude: -76.39599
 postcode: "17545"
 city: Manheim
-street: "North Main Street"
-housenumber: 20
+street: North Main Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

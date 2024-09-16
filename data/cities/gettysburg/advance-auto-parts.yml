@@ -1,11 +1,11 @@
 id: 683014653
-type: way
+type: node
 latitude: 39.8371
 longitude: -77.21406
 postcode: "17325"
 city: Gettysburg
-street: "York Road"
-housenumber: 861
-phone: "+1 717-398-3379"
+street: York Road
+housenumber: "861"
+phone: +1 717-398-3379
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/pa/gettysburg/861-york-rd"
+website: https://stores.advanceautoparts.com/pa/gettysburg/861-york-rd

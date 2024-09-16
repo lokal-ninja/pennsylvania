@@ -5,7 +5,7 @@ longitude: -75.18126
 postcode: "19146"
 city: Philadelphia
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Jun-Nov: Tu 14:00-18:00"
-website: "https://thefoodtrust.org/farmers-markets/market/22nd-tasker"
+opening_hours: 'Jun-Nov: Tu 14:00-18:00'
+website: https://thefoodtrust.org/farmers-markets/market/22nd-tasker

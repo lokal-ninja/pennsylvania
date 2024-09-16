@@ -1,11 +1,11 @@
 id: 516268521
-type: way
+type: node
 latitude: 40.47462
 longitude: -80.05893
 postcode: "15136"
 city: McKees Rocks
-street: "Munson Avenue"
-housenumber: 326
+street: Munson Avenue
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1272812934
-type: way
+type: node
 latitude: 39.94651
 longitude: -76.75047
 postcode: "17404"
 city: York
-street: "Zinns Quarry Road"
-housenumber: 1290
-phone: "+1 717-515-7722"
-opening_hours: "Mo-Fr 07:00-14:00"
-website: "https://www.lynxlumberyork.com/"
+street: Zinns Quarry Road
+housenumber: "1290"
+phone: +1 717-515-7722
+opening_hours: Mo-Fr 07:00-14:00
+website: https://www.lynxlumberyork.com/

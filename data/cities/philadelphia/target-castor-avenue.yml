@@ -1,11 +1,11 @@
 id: 213248094
-type: way
+type: node
 latitude: 39.99192
 longitude: -75.08877
 postcode: "19134"
 city: Philadelphia
-street: "Castor Avenue"
-housenumber: 2701
-phone: "+1 215-305-9050"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/philadelphia-bridesburg/2075"
+street: Castor Avenue
+housenumber: "2701"
+phone: +1 215-305-9050
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/philadelphia-bridesburg/2075

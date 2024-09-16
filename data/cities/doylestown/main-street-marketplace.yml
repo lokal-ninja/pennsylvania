@@ -1,11 +1,11 @@
 id: 274839978
-type: way
+type: node
 latitude: 40.30931
 longitude: -75.13086
 postcode: "18901"
 city: Doylestown
-street: "South Main Street"
-housenumber: 22
+street: South Main Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://marketdoylestown.com/"
+website: https://marketdoylestown.com/

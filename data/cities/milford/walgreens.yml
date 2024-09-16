@@ -1,11 +1,11 @@
 id: 486894065
-type: way
+type: node
 latitude: 41.32218
 longitude: -74.80444
 postcode: "18337"
 city: Milford
-street: "West Harford Street"
-housenumber: 100
-phone: "+1 570-296-6014"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-18:00"
-website: "https://www.walgreens.com/locator/walgreens-100+w+harford+st-milford-pa-18337/id=19871"
+street: West Harford Street
+housenumber: "100"
+phone: +1 570-296-6014
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-18:00
+website: https://www.walgreens.com/locator/walgreens-100+w+harford+st-milford-pa-18337/id=19871

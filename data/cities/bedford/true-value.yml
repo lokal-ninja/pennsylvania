@@ -1,11 +1,11 @@
 id: 713879479
-type: way
+type: node
 latitude: 40.01792
 longitude: -78.49038
 postcode: "15522"
 city: Bedford
-street: "East Penn Street"
-housenumber: 648
-phone: "+1 814-623-3900"
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-17:00"
-website: "http://www.bedfordtruevalue.com"
+street: East Penn Street
+housenumber: "648"
+phone: +1 814-623-3900
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-17:00
+website: http://www.bedfordtruevalue.com

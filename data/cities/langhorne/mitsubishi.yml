@@ -1,11 +1,11 @@
 id: 556202586
-type: way
+type: node
 latitude: 40.18065
 longitude: -74.86629
 postcode: "19047"
 city: Langhorne
-street: "Lincoln Highway"
-housenumber: 130
+street: Lincoln Highway
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1052771013
-type: way
+type: node
 latitude: 41.4852
 longitude: -80.44249
 postcode: "16134"
 city: Jamestown
-street: "Liberty Street"
-housenumber: 104
+street: Liberty Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/pa/jamestown/12790"
+website: https://www.dollargeneral.com/store-directory/pa/jamestown/12790

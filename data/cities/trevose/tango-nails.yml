@@ -1,11 +1,11 @@
 id: 1017504586
-type: way
+type: node
 latitude: 40.15464
 longitude: -74.97422
 postcode: "19053"
 city: Trevose
-street: "Andrews Road"
-housenumber: 538
+street: Andrews Road
+housenumber: "538"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:30; Sa 09:00-18:00"
+opening_hours: Mo-Fr 10:00-19:30; Sa 09:00-18:00
 website: ""

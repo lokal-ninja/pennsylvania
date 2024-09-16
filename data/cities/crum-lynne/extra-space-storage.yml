@@ -1,11 +1,11 @@
 id: 912458382
-type: way
+type: node
 latitude: 39.86495
 longitude: -75.34629
 postcode: "19022"
 city: Crum Lynne
-street: "Chester Pike"
-housenumber: 1240
+street: Chester Pike
+housenumber: "1240"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 715182573
-type: way
+type: node
 latitude: 40.36725
 longitude: -80.23645
 postcode: "15057"
 city: McDonald
-street: "Station Street"
-housenumber: 200
-phone: "+1 724-926-2830"
-opening_hours: "Mo-Su 07:30-21:00"
+street: Station Street
+housenumber: "200"
+phone: +1 724-926-2830
+opening_hours: Mo-Su 07:30-21:00
 website: ""

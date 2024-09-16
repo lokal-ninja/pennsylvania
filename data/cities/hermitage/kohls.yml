@@ -1,11 +1,11 @@
 id: 666788502
-type: way
+type: node
 latitude: 41.22719
 longitude: -80.45323
 postcode: "16148"
 city: Hermitage
-street: "South Hermitage Road"
-housenumber: 570
-phone: "+1 724-981-8090"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/pa/hermitage-1504.shtml"
+street: South Hermitage Road
+housenumber: "570"
+phone: +1 724-981-8090
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/pa/hermitage-1504.shtml

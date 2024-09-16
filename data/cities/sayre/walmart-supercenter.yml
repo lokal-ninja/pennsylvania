@@ -1,11 +1,11 @@
 id: 131826233
-type: way
+type: node
 latitude: 41.97727
 longitude: -76.54427
 postcode: "18840"
 city: Sayre
-street: "Elmira Street"
-housenumber: 1887
-phone: "+1 570-888-9791"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2208/sayre-pa/whats-new"
+street: Elmira Street
+housenumber: "1887"
+phone: +1 570-888-9791
+opening_hours: 24/7
+website: https://www.walmart.com/store/2208/sayre-pa/whats-new

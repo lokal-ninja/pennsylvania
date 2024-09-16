@@ -4,8 +4,8 @@ latitude: 40.24208
 longitude: -74.83868
 postcode: "19067"
 city: Yardley
-street: "South Main Street"
-housenumber: 15
-phone: "+1 215-321-7171"
+street: South Main Street
+housenumber: "15"
+phone: +1 215-321-7171
 opening_hours: ""
-website: "http://www.firehousecycles.com"
+website: http://www.firehousecycles.com

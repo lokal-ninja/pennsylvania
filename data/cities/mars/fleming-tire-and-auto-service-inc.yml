@@ -1,11 +1,11 @@
 id: 303256733
-type: way
+type: node
 latitude: 40.69159
 longitude: -80.00308
 postcode: "16046"
 city: Mars
-street: "Pennsylvania 228"
-housenumber: 649
+street: Pennsylvania 228
+housenumber: "649"
 phone: ""
 opening_hours: ""
 website: ""

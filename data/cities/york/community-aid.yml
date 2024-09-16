@@ -4,8 +4,8 @@ latitude: 39.93945
 longitude: -76.69173
 postcode: "17403"
 city: York
-street: "Springwood Road"
-housenumber: 2001
+street: Springwood Road
+housenumber: "2001"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://communityaid.org/"
+opening_hours: Mo-Sa 09:00-21:00
+website: https://communityaid.org/

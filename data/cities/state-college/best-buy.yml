@@ -1,11 +1,11 @@
 id: 59525129
-type: way
+type: node
 latitude: 40.80702
 longitude: -77.89448
 postcode: "16803"
 city: State College
-street: "North Atherton Street"
-housenumber: 1650
-phone: "+1 814-237-5610"
+street: North Atherton Street
+housenumber: "1650"
+phone: +1 814-237-5610
 opening_hours: ""
-website: "https://stores.bestbuy.com/pa/state-college/1650-n-atherton-st-369.html"
+website: https://stores.bestbuy.com/pa/state-college/1650-n-atherton-st-369.html

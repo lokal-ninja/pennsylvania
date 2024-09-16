@@ -1,11 +1,11 @@
 id: 131198854
-type: way
+type: node
 latitude: 40.04025
 longitude: -75.3708
 postcode: "19087"
 city: Saint Davids
-street: "East Lancaster Ave"
-housenumber: 550
-phone: "+1 610-989-0781"
-opening_hours: "06:00-22:00"
-website: "https://stores.giantfoodstores.com/pa/saint-davids/550-e-lancaster-ave"
+street: East Lancaster Ave
+housenumber: "550"
+phone: +1 610-989-0781
+opening_hours: 06:00-22:00
+website: https://stores.giantfoodstores.com/pa/saint-davids/550-e-lancaster-ave

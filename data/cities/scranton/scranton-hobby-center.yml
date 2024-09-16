@@ -1,11 +1,11 @@
 id: 44933601
-type: way
+type: node
 latitude: 41.40645
 longitude: -75.66428
 postcode: ""
 city: Scranton
-street: "Lackawanna Avenue"
-housenumber: 517
+street: Lackawanna Avenue
+housenumber: "517"
 phone: ""
 opening_hours: ""
 website: ""

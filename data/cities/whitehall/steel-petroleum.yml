@@ -1,11 +1,11 @@
 id: 685343042
-type: way
+type: node
 latitude: 40.63455
 longitude: -75.47102
 postcode: "18052"
 city: Whitehall
-street: "3rd Street"
-housenumber: 844
+street: 3rd Street
+housenumber: "844"
 phone: ""
 opening_hours: ""
 website: ""

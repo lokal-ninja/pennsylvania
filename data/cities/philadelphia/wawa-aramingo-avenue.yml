@@ -1,11 +1,11 @@
 id: 1053450224
-type: way
+type: node
 latitude: 39.99727
 longitude: -75.08816
 postcode: "19137"
 city: Philadelphia
-street: "Aramingo Avenue"
-housenumber: 3901
-phone: "+1 215-533-2153"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8065"
+street: Aramingo Avenue
+housenumber: "3901"
+phone: +1 215-533-2153
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8065

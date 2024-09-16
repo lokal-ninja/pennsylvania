@@ -1,11 +1,11 @@
 id: 1196030297
-type: way
+type: node
 latitude: 39.99584
 longitude: -75.12142
 postcode: "19134"
 city: Philadelphia
-street: "D Street"
-housenumber: 3061
+street: D Street
+housenumber: "3061"
 phone: ""
 opening_hours: ""
 website: ""

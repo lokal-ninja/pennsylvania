@@ -1,11 +1,11 @@
 id: 1071807537
-type: way
+type: node
 latitude: 39.83229
 longitude: -77.23124
 postcode: "17325"
 city: Gettysburg
-street: "Carlisle Street"
-housenumber: 102
-phone: "+1 717-516-8647"
-opening_hours: "Mo-Tu off; We,Su 10:00-15:00; Th-Sa 10:00-18:00"
-website: "https://locafloradesign.com"
+street: Carlisle Street
+housenumber: "102"
+phone: +1 717-516-8647
+opening_hours: Mo-Tu off; We,Su 10:00-15:00; Th-Sa 10:00-18:00
+website: https://locafloradesign.com

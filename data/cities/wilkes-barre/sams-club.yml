@@ -1,11 +1,11 @@
 id: 497048445
-type: way
+type: node
 latitude: 41.23429
 longitude: -75.86273
 postcode: "18702"
 city: Wilkes-Barre
-street: "Wilkes-Barre Township Boulevard"
-housenumber: 441
-phone: "+1 570-821-5500"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/wilkes-barre-pa-sams-club/8191"
+street: Wilkes-Barre Township Boulevard
+housenumber: "441"
+phone: +1 570-821-5500
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/wilkes-barre-pa-sams-club/8191

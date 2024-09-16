@@ -1,11 +1,11 @@
 id: 531124964
-type: way
+type: node
 latitude: 40.64489
 longitude: -75.49223
 postcode: "18052"
 city: Whitehall
-street: "Mickley Avenue"
-housenumber: 2603
+street: Mickley Avenue
+housenumber: "2603"
 phone: ""
 opening_hours: ""
 website: ""

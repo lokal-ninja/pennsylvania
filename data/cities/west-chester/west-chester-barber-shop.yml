@@ -4,8 +4,8 @@ latitude: 39.95891
 longitude: -75.60382
 postcode: "19382"
 city: West Chester
-street: "South High Street"
-housenumber: 34
+street: South High Street
+housenumber: "34"
 phone: ""
-opening_hours: "Tu 09:00-17:00; We-Fr 09:00-18:00; Sa 07:00-14:00"
-website: "https://thewcbarbershop.com/"
+opening_hours: Tu 09:00-17:00; We-Fr 09:00-18:00; Sa 07:00-14:00
+website: https://thewcbarbershop.com/

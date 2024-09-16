@@ -1,11 +1,11 @@
 id: 622480248
-type: way
+type: node
 latitude: 40.05295
 longitude: -75.08056
 postcode: ""
 city: Philadelphia
-street: "Tyson Avenue"
-housenumber: 901
+street: Tyson Avenue
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1125520287
-type: way
+type: node
 latitude: 40.05132
 longitude: -75.01254
 postcode: "19136"
 city: Philadelphia
-street: "Frankford Avenue"
-housenumber: 8800
+street: Frankford Avenue
+housenumber: "8800"
 phone: ""
 opening_hours: ""
-website: "https://www.kmart.com/"
+website: https://www.kmart.com/

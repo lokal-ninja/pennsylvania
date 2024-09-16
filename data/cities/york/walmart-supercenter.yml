@@ -4,8 +4,8 @@ latitude: 39.97789
 longitude: -76.67153
 postcode: "17402"
 city: York
-street: "East Market Street"
-housenumber: 2801
-phone: "+1 717-755-1600"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1529/york-pa/whats-new"
+street: East Market Street
+housenumber: "2801"
+phone: +1 717-755-1600
+opening_hours: 24/7
+website: https://www.walmart.com/store/1529/york-pa/whats-new

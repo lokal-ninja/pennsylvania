@@ -1,11 +1,11 @@
 id: 390805659
-type: way
+type: node
 latitude: 40.87969
 longitude: -79.95134
 postcode: "16001"
 city: Butler
-street: "Greenwood Plaza"
-housenumber: 400
-phone: "+1 724-234-3505"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/pa/butler/1209/"
+street: Greenwood Plaza
+housenumber: "400"
+phone: +1 724-234-3505
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/pa/butler/1209/

@@ -1,11 +1,11 @@
 id: 570380420
-type: way
+type: node
 latitude: 40.98222
 longitude: -75.21186
 postcode: "18360"
 city: Stroudsburg
-street: "West Main Street"
-housenumber: 1229
+street: West Main Street
+housenumber: "1229"
 phone: ""
 opening_hours: ""
 website: ""

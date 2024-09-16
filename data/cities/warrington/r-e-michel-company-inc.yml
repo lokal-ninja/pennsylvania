@@ -1,11 +1,11 @@
 id: 664981730
-type: way
+type: node
 latitude: 40.24071
 longitude: -75.13606
 postcode: "18976"
 city: Warrington
-street: "Easton Road"
-housenumber: 915
-phone: "+1-215-343-2004"
-opening_hours: "Mo-Fr 07:30-16:30; Sa 07:30-11:30; Su closed"
+street: Easton Road
+housenumber: "915"
+phone: +1-215-343-2004
+opening_hours: Mo-Fr 07:30-16:30; Sa 07:30-11:30; Su closed
 website: ""

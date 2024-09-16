@@ -1,11 +1,11 @@
 id: 788215519
-type: way
+type: node
 latitude: 41.18366
 longitude: -77.32259
 postcode: "17721"
 city: Avis
-street: "Woodward Avenue"
-housenumber: 3292
-phone: "+1 570-753-3270"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Woodward Avenue
+housenumber: "3292"
+phone: +1 570-753-3270
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

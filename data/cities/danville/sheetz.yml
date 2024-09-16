@@ -1,11 +1,11 @@
 id: 469290956
-type: way
+type: node
 latitude: 40.96043
 longitude: -76.57699
 postcode: "17821"
 city: Danville
-street: "Woodbine Lane"
-housenumber: 9
-phone: "+1 570-271-1282"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/372"
+street: Woodbine Lane
+housenumber: "9"
+phone: +1 570-271-1282
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/372

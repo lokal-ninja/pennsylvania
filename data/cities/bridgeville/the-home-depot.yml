@@ -1,11 +1,11 @@
 id: 396591686
-type: way
+type: node
 latitude: 40.36644
 longitude: -80.1126
 postcode: "15017"
 city: Bridgeville
-street: "Washington Pike"
-housenumber: 1025
-phone: "+1-412-220-2241"
+street: Washington Pike
+housenumber: "1025"
+phone: +1-412-220-2241
 opening_hours: ""
-website: "https://www.homedepot.com/l/Collier/PA/Bridgeville/15017/4160"
+website: https://www.homedepot.com/l/Collier/PA/Bridgeville/15017/4160

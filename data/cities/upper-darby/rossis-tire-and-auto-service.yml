@@ -1,11 +1,11 @@
 id: 595619288
-type: way
+type: node
 latitude: 39.97206
 longitude: -75.28596
 postcode: "19082"
 city: Upper Darby
-street: "East Township Line Road"
-housenumber: 291
-phone: "+1 610-789-2121"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:00-14:00"
-website: "https://www.rossitireandservice.com"
+street: East Township Line Road
+housenumber: "291"
+phone: +1 610-789-2121
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:00-14:00
+website: https://www.rossitireandservice.com

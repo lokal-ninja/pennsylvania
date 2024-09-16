@@ -1,11 +1,11 @@
 id: 822062513
-type: way
+type: node
 latitude: 41.12212
 longitude: -80.33394
 postcode: "16142"
 city: New Wilmington
-street: "West Neshannock Avenue"
-housenumber: 129
+street: West Neshannock Avenue
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

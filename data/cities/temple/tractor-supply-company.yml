@@ -1,11 +1,11 @@
 id: 1108037706
-type: way
+type: node
 latitude: 40.41536
 longitude: -75.92251
 postcode: "19560"
 city: Temple
-street: "Allentown Pike"
-housenumber: 5370
-phone: "+1 610-929-2134"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Temple-PA-19560_710"
+street: Allentown Pike
+housenumber: "5370"
+phone: +1 610-929-2134
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Temple-PA-19560_710

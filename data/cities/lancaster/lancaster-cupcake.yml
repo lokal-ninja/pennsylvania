@@ -4,8 +4,8 @@ latitude: 40.03937
 longitude: -76.30673
 postcode: "17603"
 city: Lancaster
-street: "West Orange Street"
-housenumber: 24
-phone: "+1 717-553-5287"
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 12:00-18:00"
-website: "https://www.lancastercupcake.com"
+street: West Orange Street
+housenumber: "24"
+phone: +1 717-553-5287
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 12:00-18:00
+website: https://www.lancastercupcake.com

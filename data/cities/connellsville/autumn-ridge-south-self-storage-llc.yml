@@ -1,11 +1,11 @@
 id: 681520457
-type: way
+type: node
 latitude: 39.99498
 longitude: -79.60975
 postcode: "15425"
 city: Connellsville
-street: "Morrell Avenue"
-housenumber: 1707
+street: Morrell Avenue
+housenumber: "1707"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:00"
+opening_hours: Mo-Fr 09:00-16:00
 website: ""

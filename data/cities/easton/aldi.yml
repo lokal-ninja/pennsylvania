@@ -1,11 +1,11 @@
 id: 223767193
-type: way
+type: node
 latitude: 40.67418
 longitude: -75.24734
 postcode: "18045"
 city: Easton
-street: "Freemansburg Avenue"
-housenumber: 2510
-phone: "+1 844-460-7081"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/pa/easton/2510-freemansburg-avenue"
+street: Freemansburg Avenue
+housenumber: "2510"
+phone: +1 844-460-7081
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/pa/easton/2510-freemansburg-avenue

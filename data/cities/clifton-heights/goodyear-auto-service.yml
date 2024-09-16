@@ -1,11 +1,11 @@
 id: 1012319759
-type: way
+type: node
 latitude: 39.92758
 longitude: -75.30237
 postcode: "19018"
 city: Clifton Heights
-street: "West Baltimore Avenue"
-housenumber: 243
+street: West Baltimore Avenue
+housenumber: "243"
 phone: ""
 opening_hours: ""
 website: ""

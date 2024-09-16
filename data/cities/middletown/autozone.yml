@@ -1,11 +1,11 @@
 id: 1161791803
-type: way
+type: node
 latitude: 40.20072
 longitude: -76.72366
 postcode: "17057"
 city: Middletown
-street: "East Main Street"
-housenumber: 422
+street: East Main Street
+housenumber: "422"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/pa/middletown/422-e-main-st.html"
+website: https://www.autozone.com/locations/pa/middletown/422-e-main-st.html

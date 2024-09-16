@@ -4,8 +4,8 @@ latitude: 40.34528
 longitude: -76.39733
 postcode: "17046"
 city: Lebanon
-street: "Bowman Street"
-housenumber: 801
-phone: "+1 717-273-4001"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/pa/lebanon/801-bowman-st"
+street: Bowman Street
+housenumber: "801"
+phone: +1 717-273-4001
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/pa/lebanon/801-bowman-st

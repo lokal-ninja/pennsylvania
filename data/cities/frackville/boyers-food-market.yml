@@ -1,11 +1,11 @@
 id: 607981763
-type: way
+type: node
 latitude: 40.78082
 longitude: -76.23802
 postcode: "17931"
 city: Frackville
-street: "West Oak Street"
-housenumber: 550
+street: West Oak Street
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

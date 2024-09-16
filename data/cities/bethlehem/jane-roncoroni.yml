@@ -1,11 +1,11 @@
 id: 1204488742
-type: way
+type: node
 latitude: 40.62115
 longitude: -75.3788
 postcode: "18018"
 city: Bethlehem
-street: "North New Street"
-housenumber: 515
-phone: "+1 610 861 8550"
-opening_hours: "We-Fr 12:00-16:00; Sa 12:00-15:00"
-website: "https://www.janeroncoroni.com/"
+street: North New Street
+housenumber: "515"
+phone: +1 610 861 8550
+opening_hours: We-Fr 12:00-16:00; Sa 12:00-15:00
+website: https://www.janeroncoroni.com/

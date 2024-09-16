@@ -4,8 +4,8 @@ latitude: 40.32812
 longitude: -75.89279
 postcode: "19606"
 city: Reading
-street: "Perkiomen Avenue"
-housenumber: 2239
-phone: "+1 610-779-7939"
-opening_hours: "Mo-Fr 08:00-22:00; Sa 08:00-21:00; Su 08:00-19:00"
-website: "https://www.cvs.com/store-locator/reading-pa-pharmacies/2239-perkiomen-ave-reading-pa-19606/storeid=10045"
+street: Perkiomen Avenue
+housenumber: "2239"
+phone: +1 610-779-7939
+opening_hours: Mo-Fr 08:00-22:00; Sa 08:00-21:00; Su 08:00-19:00
+website: https://www.cvs.com/store-locator/reading-pa-pharmacies/2239-perkiomen-ave-reading-pa-19606/storeid=10045

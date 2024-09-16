@@ -1,11 +1,11 @@
 id: 1195897957
-type: way
+type: node
 latitude: 39.99308
 longitude: -75.12286
 postcode: "19134"
 city: Philadelphia
-street: "East Cambria Street"
-housenumber: 437
+street: East Cambria Street
+housenumber: "437"
 phone: ""
 opening_hours: ""
 website: ""

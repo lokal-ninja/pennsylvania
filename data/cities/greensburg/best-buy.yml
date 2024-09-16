@@ -1,11 +1,11 @@
 id: 156739217
-type: way
+type: node
 latitude: 40.30494
 longitude: -79.50998
 postcode: "15601"
 city: Greensburg
-street: "Donohoe Road"
-housenumber: 125
-phone: "+1 724-838-8901"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://stores.bestbuy.com/pa/greensburg/125-donohoe-rd-595.html"
+street: Donohoe Road
+housenumber: "125"
+phone: +1 724-838-8901
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://stores.bestbuy.com/pa/greensburg/125-donohoe-rd-595.html

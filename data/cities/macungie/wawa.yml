@@ -1,11 +1,11 @@
 id: 575424425
-type: way
+type: node
 latitude: 40.5197
 longitude: -75.56471
 postcode: "18062"
 city: Macungie
-street: "Willow Lane"
-housenumber: 3321
-phone: "+1 610-628-1703"
-opening_hours: "24/7"
-website: "https://www.wawa.com/store/98/ma/pa-macungie-3321-willow-lane-(rt-100)"
+street: Willow Lane
+housenumber: "3321"
+phone: +1 610-628-1703
+opening_hours: 24/7
+website: https://www.wawa.com/store/98/ma/pa-macungie-3321-willow-lane-(rt-100)

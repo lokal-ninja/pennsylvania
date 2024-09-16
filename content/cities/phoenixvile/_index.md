@@ -1,6 +1,6 @@
 ---
 title: Phoenixvile
 url: /phoenixvile/
-latitude: 40.132
-longitude: -75.536
+latitude: 40.133
+longitude: -75.516
 ---

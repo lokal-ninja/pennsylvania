@@ -4,8 +4,8 @@ latitude: 39.93735
 longitude: -75.15835
 postcode: "19147"
 city: Philadelphia
-street: "South 9th Street"
-housenumber: 1006
-phone: "+1 215-922-5557"
-opening_hours: "Mo-Tu off; We-Sa 10:00-17:00; Su 10:00-14:00"
-website: "https://fantes.com/"
+street: South 9th Street
+housenumber: "1006"
+phone: +1 215-922-5557
+opening_hours: Mo-Tu off; We-Sa 10:00-17:00; Su 10:00-14:00
+website: https://fantes.com/

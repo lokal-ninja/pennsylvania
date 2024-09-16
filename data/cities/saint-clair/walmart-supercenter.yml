@@ -1,11 +1,11 @@
 id: 611912793
-type: way
+type: node
 latitude: 40.72729
 longitude: -76.19124
 postcode: "17970"
 city: Saint Clair
-street: "Terry Rich Boulevard"
-housenumber: 500
-phone: "+1 570-429-1959"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2535/saint-clair-pa/whats-new"
+street: Terry Rich Boulevard
+housenumber: "500"
+phone: +1 570-429-1959
+opening_hours: 24/7
+website: https://www.walmart.com/store/2535/saint-clair-pa/whats-new

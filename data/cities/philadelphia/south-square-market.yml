@@ -1,11 +1,11 @@
 id: 335293069
-type: way
+type: node
 latitude: 39.94548
 longitude: -75.17963
 postcode: "19146"
 city: Philadelphia
-street: "South Street"
-housenumber: 2221
-phone: "+1 215-545-4349"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://ssqmarket.com/"
+street: South Street
+housenumber: "2221"
+phone: +1 215-545-4349
+opening_hours: Mo-Su 06:00-22:00
+website: https://ssqmarket.com/

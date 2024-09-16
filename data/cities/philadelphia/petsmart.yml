@@ -4,8 +4,8 @@ latitude: 40.03182
 longitude: -75.10043
 postcode: "19124"
 city: Philadelphia
-street: "Roosevelt Boulevard"
-housenumber: 4640
-phone: "+1 215-743-9602"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.petsmart.com/stores/us/pa/philadelphia-store0573.html"
+street: Roosevelt Boulevard
+housenumber: "4640"
+phone: +1 215-743-9602
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.petsmart.com/stores/us/pa/philadelphia-store0573.html

@@ -1,11 +1,11 @@
 id: 749959723
-type: way
+type: node
 latitude: 40.04653
 longitude: -78.52839
 postcode: "15522"
 city: Bedford
-street: "Lincoln Highway"
-housenumber: 6985
+street: Lincoln Highway
+housenumber: "6985"
 phone: ""
 opening_hours: ""
-website: "https://www.bedfordford.com/"
+website: https://www.bedfordford.com/

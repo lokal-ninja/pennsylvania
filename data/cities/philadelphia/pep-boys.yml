@@ -4,8 +4,8 @@ latitude: 39.90369
 longitude: -75.23888
 postcode: "19153"
 city: Philadelphia
-street: "Lindbergh Boulevard"
-housenumber: 7720
-phone: "+1 215-921-7912"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.pepboys.com/stores/pa/philadelphia/7720-lindbergh-blvd?storeCode=1051"
+street: Lindbergh Boulevard
+housenumber: "7720"
+phone: +1 215-921-7912
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.pepboys.com/stores/pa/philadelphia/7720-lindbergh-blvd?storeCode=1051

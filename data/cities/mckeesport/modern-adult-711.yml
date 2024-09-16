@@ -1,11 +1,11 @@
 id: 535381327
-type: way
+type: node
 latitude: 40.34587
 longitude: -79.88131
 postcode: "15132"
 city: McKeesport
-street: "West 5th Avenue"
-housenumber: 711
+street: West 5th Avenue
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

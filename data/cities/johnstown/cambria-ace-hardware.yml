@@ -1,11 +1,11 @@
 id: 102315394
-type: way
+type: node
 latitude: 40.32413
 longitude: -78.95441
-postcode: "15905-1101"
+postcode: 15905-1101
 city: Johnstown
-street: "Goucher Street"
-housenumber: 1765
-phone: "+1 814-255-4752"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-17:00"
+street: Goucher Street
+housenumber: "1765"
+phone: +1 814-255-4752
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-17:00
 website: ""

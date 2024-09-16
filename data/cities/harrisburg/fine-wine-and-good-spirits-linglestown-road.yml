@@ -1,11 +1,11 @@
 id: 936158843
-type: way
+type: node
 latitude: 40.3313
 longitude: -76.86139
 postcode: "17110"
 city: Harrisburg
-street: "Linglestown Road"
-housenumber: 2310
-phone: "+1-717-671-8751"
-opening_hours: "Mo-Sa 09:00-22:00; Su 11:00-19:00"
-website: "https://www.finewineandgoodspirits.com/store-2220"
+street: Linglestown Road
+housenumber: "2310"
+phone: +1-717-671-8751
+opening_hours: Mo-Sa 09:00-22:00; Su 11:00-19:00
+website: https://www.finewineandgoodspirits.com/store-2220

@@ -1,11 +1,11 @@
 id: 1038903507
-type: way
+type: node
 latitude: 40.67066
 longitude: -75.20838
 postcode: "18042"
 city: Easton
-street: "Cedarville Road"
-housenumber: 480
+street: Cedarville Road
+housenumber: "480"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 255794201
-type: way
+type: node
 latitude: 41.42804
 longitude: -78.55919
 postcode: "15857"
 city: Saint Mary'S
-street: "South Michael Street"
-housenumber: 117
-phone: "+1 814-781-6310"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/400"
+street: South Michael Street
+housenumber: "117"
+phone: +1 814-781-6310
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/400

@@ -1,11 +1,11 @@
 id: 1195118070
-type: way
+type: node
 latitude: 39.99522
 longitude: -75.12285
 postcode: "19134"
 city: Philadelphia
-street: "Boudinot Street"
-housenumber: 3040
+street: Boudinot Street
+housenumber: "3040"
 phone: ""
 opening_hours: ""
 website: ""

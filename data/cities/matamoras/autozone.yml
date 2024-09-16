@@ -1,11 +1,11 @@
 id: 323268075
-type: way
+type: node
 latitude: 41.36484
 longitude: -74.70553
 postcode: "18336"
 city: Matamoras
-street: "Pennsylvania Avenue"
-housenumber: 807
+street: Pennsylvania Avenue
+housenumber: "807"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/pa/matamoras/807-pennsylvania-ave.html"
+website: https://www.autozone.com/locations/pa/matamoras/807-pennsylvania-ave.html

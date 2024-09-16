@@ -1,11 +1,11 @@
 id: 148905716
-type: way
+type: node
 latitude: 40.64945
 longitude: -75.42599
 postcode: "18017"
 city: Bethlehem
-street: "Avenue A"
-housenumber: 2255
+street: Avenue A
+housenumber: "2255"
 phone: "+16106918473"
 opening_hours: ""
-website: "https://www.sttc.com/locations/pennsylvania/bethlehem/"
+website: https://www.sttc.com/locations/pennsylvania/bethlehem/

@@ -1,11 +1,11 @@
 id: 474663826
-type: way
+type: node
 latitude: 40.24304
 longitude: -76.99404
 postcode: "17050"
 city: Mechanicsburg
-street: "Carlisle Pike"
-housenumber: 6100
+street: Carlisle Pike
+housenumber: "6100"
 phone: ""
 opening_hours: ""
-website: "http://storelocator.pepboys.com/pepboys/stores/mechanicsburg/pep_boys_mechanicsburg/00021"
+website: http://storelocator.pepboys.com/pepboys/stores/mechanicsburg/pep_boys_mechanicsburg/00021

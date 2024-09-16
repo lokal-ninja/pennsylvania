@@ -1,11 +1,11 @@
 id: 887640701
-type: way
+type: node
 latitude: 39.93851
 longitude: -76.79718
 postcode: "17404"
 city: York
-street: "Gillespie Road"
-housenumber: 3560
-phone: "+1 717-792-5500"
-opening_hours: "Mo-Fr 07:00-16:30; Sa 08:00-11:00"
-website: "https://www.remichel.com/branches/york-pa-17404-hvac"
+street: Gillespie Road
+housenumber: "3560"
+phone: +1 717-792-5500
+opening_hours: Mo-Fr 07:00-16:30; Sa 08:00-11:00
+website: https://www.remichel.com/branches/york-pa-17404-hvac

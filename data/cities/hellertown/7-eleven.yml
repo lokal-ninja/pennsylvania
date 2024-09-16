@@ -1,11 +1,11 @@
 id: 116433078
-type: way
+type: node
 latitude: 40.5851
 longitude: -75.3417
 postcode: "18055"
 city: Hellertown
-street: "Main Street"
-housenumber: 1100
-phone: "+1 610-838-8566"
+street: Main Street
+housenumber: "1100"
+phone: +1 610-838-8566
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/hellertown/1100-main-st-11380"
+website: https://www.7-eleven.com/locations/pa/hellertown/1100-main-st-11380

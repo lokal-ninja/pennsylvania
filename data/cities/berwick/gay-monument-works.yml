@@ -1,11 +1,11 @@
 id: 1282840582
-type: way
+type: node
 latitude: 41.04827
 longitude: -76.26646
 postcode: "18603"
 city: Berwick
-street: "West Front Street"
-housenumber: 1801
-phone: "+1 (570) 752-6631"
+street: West Front Street
+housenumber: "1801"
+phone: +1 (570) 752-6631
 opening_hours: ""
-website: "http://www.familymonuments.com/"
+website: http://www.familymonuments.com/

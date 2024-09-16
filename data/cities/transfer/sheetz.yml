@@ -1,11 +1,11 @@
 id: 969243212
-type: way
+type: node
 latitude: 41.32977
 longitude: -80.4144
 postcode: "16154"
 city: Transfer
-street: "Edgewood Drive Extension"
-housenumber: 270
-phone: "+1 724-646-0902"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/188"
+street: Edgewood Drive Extension
+housenumber: "270"
+phone: +1 724-646-0902
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/188

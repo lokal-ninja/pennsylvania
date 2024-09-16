@@ -4,8 +4,8 @@ latitude: 39.93811
 longitude: -75.35298
 postcode: "19064"
 city: Springfield
-street: "South State Road"
-housenumber: 400
-phone: "+1 610-328-7095"
-opening_hours: "09:00-22:00"
-website: "https://locations.fivebelow.com/pa/springfield/400-south-state-rd"
+street: South State Road
+housenumber: "400"
+phone: +1 610-328-7095
+opening_hours: 09:00-22:00
+website: https://locations.fivebelow.com/pa/springfield/400-south-state-rd

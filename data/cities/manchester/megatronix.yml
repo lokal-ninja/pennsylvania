@@ -1,11 +1,11 @@
 id: 666913189
-type: way
+type: node
 latitude: 40.04346
 longitude: -76.72284
 postcode: "17345"
 city: Manchester
-street: "Glen Drive"
-housenumber: 60
+street: Glen Drive
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

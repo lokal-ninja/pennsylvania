@@ -4,8 +4,8 @@ latitude: 40.39269
 longitude: -80.06566
 postcode: "15220"
 city: Pittsburgh
-street: "Cochran Road"
-housenumber: 1717
-phone: "+1 412-343-8020"
-opening_hours: "Mo-Fr 06:00-21:00; Sa-Su 07:00-21:00"
+street: Cochran Road
+housenumber: "1717"
+phone: +1 412-343-8020
+opening_hours: Mo-Fr 06:00-21:00; Sa-Su 07:00-21:00
 website: ""

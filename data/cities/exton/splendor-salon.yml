@@ -4,8 +4,9 @@ latitude: 40.0295
 longitude: -75.62104
 postcode: ""
 city: Exton
-street: "East Lincoln Highway"
-housenumber: 331
-phone: "+1 484-872-8872"
-opening_hours: "Tu,Th 10:00-19:00; We 09:00-17:00; Fr 10:00-17:00; Sa 09:00-16:00; Mo,Su off"
-website: "https://www.facebook.com/splendorsalonpa"
+street: East Lincoln Highway
+housenumber: "331"
+phone: +1 484-872-8872
+opening_hours: Tu,Th 10:00-19:00; We 09:00-17:00; Fr 10:00-17:00; Sa 09:00-16:00;
+    Mo,Su off
+website: https://www.facebook.com/splendorsalonpa

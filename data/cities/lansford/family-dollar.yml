@@ -1,11 +1,11 @@
 id: 621353887
-type: way
+type: node
 latitude: 40.8343
 longitude: -75.87187
 postcode: "18232"
 city: Lansford
-street: "East Patterson Street"
-housenumber: 700
+street: East Patterson Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

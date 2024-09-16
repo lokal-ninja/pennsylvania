@@ -1,11 +1,11 @@
 id: 608798216
-type: way
+type: node
 latitude: 39.96002
 longitude: -76.72712
 postcode: "17401"
 city: York
-street: "South George Street"
-housenumber: 140
+street: South George Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

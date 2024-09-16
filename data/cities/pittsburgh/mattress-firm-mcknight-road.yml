@@ -1,11 +1,11 @@
 id: 339470314
-type: way
+type: node
 latitude: 40.55005
 longitude: -80.01965
 postcode: "15237"
 city: Pittsburgh
-street: "McKnight Road"
-housenumber: 7975
-phone: "+1 412-367-1289"
+street: McKnight Road
+housenumber: "7975"
+phone: +1 412-367-1289
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/pa/pittsburgh/077008/"
+website: https://www.mattressfirm.com/en-us/stores/pa/pittsburgh/077008/

@@ -1,11 +1,11 @@
 id: 878985313
-type: way
+type: node
 latitude: 40.23435
 longitude: -75.66271
 postcode: "19465"
 city: Pottstown
-street: "West Schuylkill Road"
-housenumber: 351
+street: West Schuylkill Road
+housenumber: "351"
 phone: ""
 opening_hours: ""
 website: ""

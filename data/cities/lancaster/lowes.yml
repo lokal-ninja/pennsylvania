@@ -1,11 +1,11 @@
 id: 34317247
-type: way
+type: node
 latitude: 40.04142
 longitude: -76.36277
 postcode: "17603"
 city: Lancaster
-street: "Rohrerstown Road"
-housenumber: 25
-phone: "+1 717-672-0300"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/PA-Lancaster/1127"
+street: Rohrerstown Road
+housenumber: "25"
+phone: +1 717-672-0300
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/PA-Lancaster/1127

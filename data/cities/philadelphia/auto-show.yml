@@ -1,11 +1,11 @@
 id: 333776329
-type: way
+type: node
 latitude: 39.93163
 longitude: -75.16011
 postcode: ""
 city: Philadelphia
-street: "Reed Street"
-housenumber: 916
+street: Reed Street
+housenumber: "916"
 phone: ""
 opening_hours: ""
 website: ""

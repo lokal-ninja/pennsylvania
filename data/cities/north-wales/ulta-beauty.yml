@@ -4,8 +4,8 @@ latitude: 40.23966
 longitude: -75.24039
 postcode: "19454"
 city: North Wales
-street: "Airport Square"
-housenumber: 10
-phone: "+1 215-616-4601"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/north-wales-pa-1461"
+street: Airport Square
+housenumber: "10"
+phone: +1 215-616-4601
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/north-wales-pa-1461

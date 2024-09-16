@@ -4,8 +4,8 @@ latitude: 40.43962
 longitude: -79.99877
 postcode: "15219"
 city: Pittsburgh
-street: "Smithfield Street"
-housenumber: 440
-phone: "+1-412-474-2223"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-20:00; Su 11:00-18:00"
+street: Smithfield Street
+housenumber: "440"
+phone: +1-412-474-2223
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-20:00; Su 11:00-18:00
 website: ""

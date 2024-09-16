@@ -1,11 +1,11 @@
 id: 286268327
-type: way
+type: node
 latitude: 40.09614
 longitude: -75.28817
 postcode: "19428"
 city: Conshohocken
-street: "West Ridge Pike"
-housenumber: 200
-phone: "+1-610-940-0809"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.rei.com/stores/conshohocken-plymouth-meeting"
+street: West Ridge Pike
+housenumber: "200"
+phone: +1-610-940-0809
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.rei.com/stores/conshohocken-plymouth-meeting

@@ -1,11 +1,11 @@
 id: 780960601
-type: way
+type: node
 latitude: 40.30355
 longitude: -79.53469
 postcode: "15601"
 city: Greensburg
-street: "East Pittsburgh Street"
-housenumber: 505
-phone: "+1 724 837-7118"
+street: East Pittsburgh Street
+housenumber: "505"
+phone: +1 724 837-7118
 opening_hours: ""
-website: "https://www.barnhartfuneralhome.com/"
+website: https://www.barnhartfuneralhome.com/

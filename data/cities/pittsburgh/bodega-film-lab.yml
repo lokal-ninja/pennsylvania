@@ -4,8 +4,8 @@ latitude: 40.46507
 longitude: -79.95454
 postcode: "15224"
 city: Pittsburgh
-street: "Main Street"
-housenumber: 4120
-phone: "+1-412-802-6397"
+street: Main Street
+housenumber: "4120"
+phone: +1-412-802-6397
 opening_hours: ""
-website: "https://www.bodegafilmlab.com"
+website: https://www.bodegafilmlab.com

@@ -4,8 +4,8 @@ latitude: 40.43367
 longitude: -79.96664
 postcode: "15219"
 city: Pittsburgh
-street: "Technology Drive"
-housenumber: 350
+street: Technology Drive
+housenumber: "350"
 phone: ""
-opening_hours: "Mo-Fr 07:00-14:30"
-website: "https://www.defer.coffee/riviera"
+opening_hours: Mo-Fr 07:00-14:30
+website: https://www.defer.coffee/riviera

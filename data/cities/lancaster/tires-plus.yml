@@ -1,11 +1,11 @@
 id: 160772456
-type: way
+type: node
 latitude: 40.0694
 longitude: -76.34219
 postcode: "17601"
 city: Lancaster
-street: "Plaza Boulevard"
-housenumber: 875
-phone: "+1 717-826-0840"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00"
-website: "https://local.tiresplus.com/pennsylvania/lancaster/875-plaza-blvd/"
+street: Plaza Boulevard
+housenumber: "875"
+phone: +1 717-826-0840
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00
+website: https://local.tiresplus.com/pennsylvania/lancaster/875-plaza-blvd/

@@ -1,11 +1,11 @@
 id: 924892581
-type: way
+type: node
 latitude: 42.09574
 longitude: -80.11696
 postcode: "16508"
 city: Erie
-street: "West 26th Street"
-housenumber: 1945
+street: West 26th Street
+housenumber: "1945"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 261631463
-type: way
+type: node
 latitude: 40.48468
 longitude: -79.94694
 postcode: "15201"
 city: Pittsburgh
-street: "Butler Street"
-housenumber: 5648
-phone: "+1-412-784-9144"
+street: Butler Street
+housenumber: "5648"
+phone: +1-412-784-9144
 opening_hours: ""
 website: ""

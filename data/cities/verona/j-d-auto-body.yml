@@ -1,11 +1,11 @@
 id: 443777153
-type: way
+type: node
 latitude: 40.5068
 longitude: -79.79268
 postcode: "15147"
 city: Verona
-street: "Hulton Road"
-housenumber: 1300
+street: Hulton Road
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

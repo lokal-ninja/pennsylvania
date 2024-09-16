@@ -1,11 +1,11 @@
 id: 638254194
-type: way
+type: node
 latitude: 41.11377
 longitude: -77.47763
 postcode: "17751"
 city: Mill Hall
-street: "Hogan Boulevard"
-housenumber: 284
-phone: "+1 570-484-4100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/pa-mill-hall/2229"
+street: Hogan Boulevard
+housenumber: "284"
+phone: +1 570-484-4100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/pa-mill-hall/2229

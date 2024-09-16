@@ -1,11 +1,11 @@
 id: 731230439
-type: way
+type: node
 latitude: 40.26456
 longitude: -76.77804
 postcode: "17111"
 city: Harrisburg
-street: "Derry Street"
-housenumber: 6300
+street: Derry Street
+housenumber: "6300"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

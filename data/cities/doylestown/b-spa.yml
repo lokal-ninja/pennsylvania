@@ -1,11 +1,11 @@
 id: 408936364
-type: way
+type: node
 latitude: 40.3084
 longitude: -75.13214
 postcode: "18901"
 city: Doylestown
-street: "Mary Street"
-housenumber: 76
+street: Mary Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

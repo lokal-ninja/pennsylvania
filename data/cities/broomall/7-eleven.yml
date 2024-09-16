@@ -1,11 +1,11 @@
 id: 840299928
-type: way
+type: node
 latitude: 39.98283
 longitude: -75.3729
-postcode: "19008-1308"
+postcode: 19008-1308
 city: Broomall
-street: "Springfield Road"
-housenumber: 2915
-phone: "+1 610-353-8515"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/pa/broomall/2915-springfield-rd-11321"
+street: Springfield Road
+housenumber: "2915"
+phone: +1 610-353-8515
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/pa/broomall/2915-springfield-rd-11321

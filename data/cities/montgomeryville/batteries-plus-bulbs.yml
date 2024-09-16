@@ -1,11 +1,11 @@
 id: 521147195
-type: way
+type: node
 latitude: 40.24123
 longitude: -75.24265
 postcode: "18936"
 city: Montgomeryville
-street: "Bethlehem Pike"
-housenumber: 777
+street: Bethlehem Pike
+housenumber: "777"
 phone: ""
 opening_hours: ""
 website: ""

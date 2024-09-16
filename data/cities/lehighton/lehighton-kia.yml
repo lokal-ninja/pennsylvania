@@ -1,11 +1,11 @@
 id: 678295975
-type: way
+type: node
 latitude: 40.81532
 longitude: -75.73561
 postcode: "18235"
 city: Lehighton
-street: "Blakeslee Boulevard Drive East"
-housenumber: 1502
-phone: "+1 855 474 1765"
+street: Blakeslee Boulevard Drive East
+housenumber: "1502"
+phone: +1 855 474 1765
 opening_hours: ""
-website: "https://www.lehightonkia.com/"
+website: https://www.lehightonkia.com/

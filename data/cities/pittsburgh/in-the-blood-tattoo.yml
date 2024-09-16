@@ -1,11 +1,11 @@
 id: 204087576
-type: way
+type: node
 latitude: 40.42868
 longitude: -79.97735
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 2005
-phone: "+1 412-481-3380"
-opening_hours: "Mo 13:00-20:00; Tu-Sa 13:00-21:00"
-website: "www.inthebloodtattoo.com"
+street: East Carson Street
+housenumber: "2005"
+phone: +1 412-481-3380
+opening_hours: Mo 13:00-20:00; Tu-Sa 13:00-21:00
+website: www.inthebloodtattoo.com

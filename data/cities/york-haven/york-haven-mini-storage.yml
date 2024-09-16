@@ -1,11 +1,11 @@
 id: 667595867
-type: way
+type: node
 latitude: 40.11899
 longitude: -76.7309
 postcode: ""
 city: York Haven
-street: "River Drive"
-housenumber: 350
+street: River Drive
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

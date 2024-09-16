@@ -1,11 +1,11 @@
 id: 704625400
-type: way
+type: node
 latitude: 40.15591
 longitude: -75.86891
 postcode: "19520"
 city: Elverson
-street: "Crossings Boulevard"
-housenumber: 1050
+street: Crossings Boulevard
+housenumber: "1050"
 phone: ""
-opening_hours: "Mo-Su 07:30-21:00"
+opening_hours: Mo-Su 07:30-21:00
 website: ""

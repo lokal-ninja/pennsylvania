@@ -1,11 +1,11 @@
 id: 374119382
-type: way
+type: node
 latitude: 40.0029
 longitude: -75.07891
 postcode: "19137"
 city: Philadelphia
-street: "Aramingo Avenue"
-housenumber: 4571
-phone: "+1 215-288-7632"
+street: Aramingo Avenue
+housenumber: "4571"
+phone: +1 215-288-7632
 opening_hours: ""
 website: ""

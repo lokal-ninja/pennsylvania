@@ -1,11 +1,11 @@
 id: 488967098
-type: way
+type: node
 latitude: 41.40694
 longitude: -75.67695
 postcode: ""
 city: Scranton
-street: "Railroad Avenue"
-housenumber: 262
+street: Railroad Avenue
+housenumber: "262"
 phone: ""
 opening_hours: ""
 website: ""

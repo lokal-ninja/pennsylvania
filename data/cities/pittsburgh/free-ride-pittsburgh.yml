@@ -4,8 +4,8 @@ latitude: 40.45032
 longitude: -79.89847
 postcode: "15208"
 city: Pittsburgh
-street: "North Lexington Street"
-housenumber: 214
-phone: "+1 412-731-2474"
+street: North Lexington Street
+housenumber: "214"
+phone: +1 412-731-2474
 opening_hours: ""
-website: "https://freeridepgh.org/"
+website: https://freeridepgh.org/

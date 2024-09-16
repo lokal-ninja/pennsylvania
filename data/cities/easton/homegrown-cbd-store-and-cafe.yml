@@ -1,11 +1,11 @@
 id: 551264327
-type: way
+type: node
 latitude: 40.69098
 longitude: -75.21221
 postcode: "18042"
 city: Easton
-street: "Northampton Street"
-housenumber: 436
-phone: "+1-484-548-1408;+1 484-548-1408"
-opening_hours: "We-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su-Mo 10:00-18:00; Mo-Su 10:00-18:00"
-website: "https://420cbdlounge.com/"
+street: Northampton Street
+housenumber: "436"
+phone: +1-484-548-1408;+1 484-548-1408
+opening_hours: We-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su-Mo 10:00-18:00; Mo-Su 10:00-18:00
+website: https://420cbdlounge.com/

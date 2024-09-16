@@ -4,8 +4,8 @@ latitude: 40.43886
 longitude: -79.99922
 postcode: "15222"
 city: Pittsburgh
-street: "Smithfield Street"
-housenumber: 404
-phone: "+1 412-281-6170"
+street: Smithfield Street
+housenumber: "404"
+phone: +1 412-281-6170
 opening_hours: ""
-website: "http://ninjaent.com/"
+website: http://ninjaent.com/

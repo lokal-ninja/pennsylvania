@@ -1,11 +1,11 @@
 id: 866675151
-type: way
+type: node
 latitude: 42.21612
 longitude: -79.83371
 postcode: "16428"
 city: North East
-street: "East Main Street"
-housenumber: 21
+street: East Main Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

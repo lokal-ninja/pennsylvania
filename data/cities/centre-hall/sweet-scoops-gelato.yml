@@ -1,11 +1,11 @@
 id: 374447516
-type: way
+type: node
 latitude: 40.84777
 longitude: -77.68776
 postcode: "16828"
 city: Centre Hall
-street: "North Pennsylvania Avenue"
-housenumber: 237
+street: North Pennsylvania Avenue
+housenumber: "237"
 phone: ""
 opening_hours: ""
 website: ""

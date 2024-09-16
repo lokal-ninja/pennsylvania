@@ -1,11 +1,11 @@
 id: 729082200
-type: way
+type: node
 latitude: 40.15117
 longitude: -77.13062
 postcode: "17007"
 city: Boiling Springs
-street: "Front Street"
-housenumber: 8
+street: Front Street
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

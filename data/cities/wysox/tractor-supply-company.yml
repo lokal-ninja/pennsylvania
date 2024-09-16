@@ -1,11 +1,11 @@
 id: 498127338
-type: way
+type: node
 latitude: 41.77602
 longitude: -76.39882
 postcode: "18854"
 city: Wysox
-street: "Route 187"
-housenumber: 22725
-phone: "+1 570-265-1900"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Route 187
+housenumber: "22725"
+phone: +1 570-265-1900
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

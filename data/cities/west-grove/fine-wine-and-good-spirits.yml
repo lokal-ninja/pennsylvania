@@ -1,11 +1,11 @@
 id: 680456473
-type: way
+type: node
 latitude: 39.82225
 longitude: -75.87183
 postcode: "19390"
 city: West Grove
-street: "West Baltimore Pike"
-housenumber: 853
+street: West Baltimore Pike
+housenumber: "853"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-19:00"
-website: "https://www.finewineandgoodspirits.com/store-1509"
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-19:00
+website: https://www.finewineandgoodspirits.com/store-1509

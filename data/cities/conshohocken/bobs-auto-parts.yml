@@ -1,11 +1,11 @@
 id: 375248516
-type: way
+type: node
 latitude: 40.09618
 longitude: -75.28451
 postcode: "19428"
 city: Conshohocken
-street: "Butler Pike"
-housenumber: 3032
+street: Butler Pike
+housenumber: "3032"
 phone: ""
 opening_hours: ""
 website: ""

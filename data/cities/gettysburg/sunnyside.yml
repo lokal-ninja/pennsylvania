@@ -1,11 +1,11 @@
 id: 1136167078
-type: way
+type: node
 latitude: 39.84675
 longitude: -77.19834
 postcode: "17325"
 city: Gettysburg
-street: "York Road"
-housenumber: 1380
-phone: "(223) 255-6052"
+street: York Road
+housenumber: "1380"
+phone: (223) 255-6052
 opening_hours: ""
 website: ""

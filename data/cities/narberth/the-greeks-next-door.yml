@@ -1,11 +1,11 @@
 id: 372593389
-type: way
+type: node
 latitude: 40.00592
 longitude: -75.2606
 postcode: "19072"
 city: Narberth
-street: "Haverford Avenue"
-housenumber: 237
+street: Haverford Avenue
+housenumber: "237"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1071807536
-type: way
+type: node
 latitude: 39.83235
 longitude: -77.23124
 postcode: "17325"
 city: Gettysburg
-street: "Carlisle Street"
-housenumber: 104
-phone: "+1 717-398-2558"
-opening_hours: "Mo,Su off; Tu-Sa 12:00-20:00"
-website: "https://www.modernvintagetattoo.com"
+street: Carlisle Street
+housenumber: "104"
+phone: +1 717-398-2558
+opening_hours: Mo,Su off; Tu-Sa 12:00-20:00
+website: https://www.modernvintagetattoo.com

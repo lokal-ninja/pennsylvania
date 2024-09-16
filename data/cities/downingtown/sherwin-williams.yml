@@ -1,11 +1,11 @@
 id: 554099664
-type: way
+type: node
 latitude: 40.00868
 longitude: -75.70143
 postcode: "19335"
 city: Downingtown
-street: "East Pennsylvania Avenue"
-housenumber: 150
-phone: "+1 610-269-5323"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/downingtown/pa/703773"
+street: East Pennsylvania Avenue
+housenumber: "150"
+phone: +1 610-269-5323
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/downingtown/pa/703773

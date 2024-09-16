@@ -1,11 +1,11 @@
 id: 1116416477
-type: way
+type: node
 latitude: 39.90672
 longitude: -79.759
 postcode: "15401"
 city: Uniontown
-street: "Matthew Drive"
-housenumber: 112
-phone: "+1-724-912-0011"
+street: Matthew Drive
+housenumber: "112"
+phone: +1-724-912-0011
 opening_hours: ""
-website: "https://www.dollartree.com/locations/pa/uniontown/274/"
+website: https://www.dollartree.com/locations/pa/uniontown/274/

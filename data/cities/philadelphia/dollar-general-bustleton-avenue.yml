@@ -1,11 +1,11 @@
 id: 642139697
-type: way
+type: node
 latitude: 40.0933
 longitude: -75.03267
-postcode: "19115-2190"
+postcode: 19115-2190
 city: Philadelphia
-street: "Bustleton Avenue"
-housenumber: 9808
-phone: "+1 267-831-4129"
-opening_hours: "08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/pa/philadelphia/10788"
+street: Bustleton Avenue
+housenumber: "9808"
+phone: +1 267-831-4129
+opening_hours: 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/pa/philadelphia/10788

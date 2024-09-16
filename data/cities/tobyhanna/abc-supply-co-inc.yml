@@ -1,11 +1,11 @@
 id: 551349275
-type: way
+type: node
 latitude: 41.14283
 longitude: -75.35921
 postcode: "18466"
 city: Tobyhanna
-street: "Sterling Road"
-housenumber: 264
+street: Sterling Road
+housenumber: "264"
 phone: ""
 opening_hours: ""
 website: ""

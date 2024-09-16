@@ -1,11 +1,11 @@
 id: 456378263
-type: way
+type: node
 latitude: 39.93684
 longitude: -75.1668
 postcode: ""
 city: Philadelphia
-street: "South Broad Street"
-housenumber: 1131
+street: South Broad Street
+housenumber: "1131"
 phone: ""
-opening_hours: "Mo-Su 08:00-26:00"
-website: "https://solarmythbar.com/"
+opening_hours: Mo-Su 08:00-26:00
+website: https://solarmythbar.com/

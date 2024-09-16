@@ -1,11 +1,11 @@
 id: 1155210848
-type: way
+type: node
 latitude: 39.8996
 longitude: -76.18084
 postcode: ""
 city: New Providence
-street: "Beaver Valley Pike"
-housenumber: 2442
-phone: "+1 717-786-8177"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su off"
+street: Beaver Valley Pike
+housenumber: "2442"
+phone: +1 717-786-8177
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su off
 website: ""

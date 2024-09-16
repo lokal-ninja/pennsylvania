@@ -4,8 +4,8 @@ latitude: 39.78635
 longitude: -76.9711
 postcode: "17331"
 city: Hanover
-street: "Baltimore Street"
-housenumber: 793
-phone: "+1 717-412-7706"
-opening_hours: "Mo-Sa 09:00-21:00, 09:00-18:00; Su 11:00-18:00"
-website: "https://communityaid.net/"
+street: Baltimore Street
+housenumber: "793"
+phone: +1 717-412-7706
+opening_hours: Mo-Sa 09:00-21:00, 09:00-18:00; Su 11:00-18:00
+website: https://communityaid.net/

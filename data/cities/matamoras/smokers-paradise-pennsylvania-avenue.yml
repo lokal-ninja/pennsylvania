@@ -1,11 +1,11 @@
 id: 824714526
-type: way
+type: node
 latitude: 41.36917
 longitude: -74.69945
 postcode: "18336"
 city: Matamoras
-street: "Pennsylvania Avenue"
-housenumber: 202
+street: Pennsylvania Avenue
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

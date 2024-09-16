@@ -1,11 +1,11 @@
 id: 1260405029
-type: way
+type: node
 latitude: 40.20802
 longitude: -76.22394
 postcode: "17522"
 city: Ephrata
-street: "West Main Street"
-housenumber: 1928
+street: West Main Street
+housenumber: "1928"
 phone: "+17177330020"
 opening_hours: ""
-website: "https://braxtonmotorco.com/"
+website: https://braxtonmotorco.com/

@@ -1,11 +1,11 @@
 id: 1099464658
-type: way
+type: node
 latitude: 41.09026
 longitude: -79.89332
 postcode: "16040"
 city: Hilliards
-street: "West Sunbury Road"
-housenumber: 2103
-phone: "+1-724-735-2535"
+street: West Sunbury Road
+housenumber: "2103"
+phone: +1-724-735-2535
 opening_hours: ""
 website: ""

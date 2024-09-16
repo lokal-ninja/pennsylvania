@@ -1,11 +1,11 @@
 id: 864223340
-type: way
+type: node
 latitude: 40.9059
 longitude: -77.78447
 postcode: "16823"
 city: Bellefonte
-street: "Willowbank Street"
-housenumber: 544
+street: Willowbank Street
+housenumber: "544"
 phone: ""
 opening_hours: ""
 website: ""

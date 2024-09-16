@@ -1,11 +1,11 @@
 id: 984079622
-type: way
+type: node
 latitude: 40.23174
 longitude: -78.93242
 postcode: "15928"
 city: Davidsville
-street: "Church Road"
-housenumber: 109
+street: Church Road
+housenumber: "109"
 phone: "+18144794790"
 opening_hours: ""
 website: ""

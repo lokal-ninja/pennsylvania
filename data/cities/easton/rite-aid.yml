@@ -1,11 +1,11 @@
 id: 687987851
-type: way
+type: node
 latitude: 40.69114
 longitude: -75.22127
 postcode: "18042"
 city: Easton
-street: "Northampton Street"
-housenumber: 901
-phone: "+1 610 258 2353"
+street: Northampton Street
+housenumber: "901"
+phone: +1 610 258 2353
 opening_hours: ""
-website: "https://riteaid.com"
+website: https://riteaid.com

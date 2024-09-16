@@ -1,11 +1,11 @@
 id: 609308848
-type: way
+type: node
 latitude: 40.07909
 longitude: -75.16624
 postcode: "19095"
 city: Cheltenham Township
-street: "Cheltenham Avenue"
-housenumber: 3001
-phone: "+1 215-884-1326"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:30-21:00"
+street: Cheltenham Avenue
+housenumber: "3001"
+phone: +1 215-884-1326
+opening_hours: Mo-Sa 09:00-22:00; Su 09:30-21:00
 website: ""

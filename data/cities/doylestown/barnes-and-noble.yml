@@ -4,8 +4,8 @@ latitude: 40.27277
 longitude: -75.12689
 postcode: "18901"
 city: Doylestown
-street: "South Easton Road"
-housenumber: 1745
+street: South Easton Road
+housenumber: "1745"
 phone: ""
-opening_hours: "opening September 2024"
+opening_hours: '"opening September 2024"'
 website: ""

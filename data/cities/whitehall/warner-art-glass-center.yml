@@ -1,11 +1,11 @@
 id: 585461181
-type: way
+type: node
 latitude: 40.62985
 longitude: -75.47609
 postcode: "18052"
 city: Whitehall
-street: "8th Street"
-housenumber: 603
-phone: "+1 610-264-1100"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://warnerartglass.com/"
+street: 8th Street
+housenumber: "603"
+phone: +1 610-264-1100
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://warnerartglass.com/

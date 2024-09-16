@@ -1,11 +1,11 @@
 id: 991220031
-type: way
+type: node
 latitude: 40.40614
 longitude: -79.87567
 postcode: "15104"
 city: Braddock
-street: "Talbot Avenue"
-housenumber: 19
-phone: "+1-412-271-6900"
+street: Talbot Avenue
+housenumber: "19"
+phone: +1-412-271-6900
 opening_hours: ""
-website: "https://www.graywelding.com/"
+website: https://www.graywelding.com/

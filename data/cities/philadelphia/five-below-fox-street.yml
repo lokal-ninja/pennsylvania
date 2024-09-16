@@ -4,8 +4,8 @@ latitude: 40.00886
 longitude: -75.17553
 postcode: "19132"
 city: Philadelphia
-street: "Fox Street"
-housenumber: 2800
+street: Fox Street
+housenumber: "2800"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://locations.fivebelow.com/pa/philadelphia/2800-fox-street"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://locations.fivebelow.com/pa/philadelphia/2800-fox-street

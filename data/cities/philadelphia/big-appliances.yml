@@ -1,11 +1,11 @@
 id: 1194509008
-type: way
+type: node
 latitude: 39.99717
 longitude: -75.12893
 postcode: "19134"
 city: Philadelphia
-street: "East Clearfield Street"
-housenumber: 119
+street: East Clearfield Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

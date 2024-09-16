@@ -1,11 +1,11 @@
 id: 249818600
-type: way
+type: node
 latitude: 39.9795
 longitude: -76.69606
-postcode: "17406;17402"
+postcode: 17406;17402
 city: York
-street: "North Hills Road"
-housenumber: 950
+street: North Hills Road
+housenumber: "950"
 phone: ""
 opening_hours: ""
 website: ""

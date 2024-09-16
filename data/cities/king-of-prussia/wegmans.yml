@@ -1,11 +1,11 @@
 id: 261087279
-type: way
+type: node
 latitude: 40.08385
 longitude: -75.40292
 postcode: "19406"
 city: King of Prussia
-street: "Village Drive"
-housenumber: 1
-phone: "+1 484-690-3500"
-opening_hours: "24/7"
-website: "https://www.wegmans.com/stores/king-of-prussia-pa"
+street: Village Drive
+housenumber: "1"
+phone: +1 484-690-3500
+opening_hours: 24/7
+website: https://www.wegmans.com/stores/king-of-prussia-pa

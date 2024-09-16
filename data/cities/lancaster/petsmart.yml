@@ -1,11 +1,11 @@
 id: 161356288
-type: way
+type: node
 latitude: 40.06937
 longitude: -76.31924
 postcode: "17601"
 city: Lancaster
-street: "Fruitville Pike"
-housenumber: 1700
-phone: "+1 717-481-9902"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/pa/lancaster-store0584.html"
+street: Fruitville Pike
+housenumber: "1700"
+phone: +1 717-481-9902
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/pa/lancaster-store0584.html

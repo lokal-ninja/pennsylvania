@@ -1,11 +1,11 @@
 id: 405751238
-type: way
+type: node
 latitude: 39.90805
 longitude: -79.7529
 postcode: "15401"
 city: Uniontown
-street: "Matthews Drive"
-housenumber: 115
-phone: "+1-724-439-6479"
+street: Matthews Drive
+housenumber: "115"
+phone: +1-724-439-6479
 opening_hours: ""
-website: "https://www.homedepot.com/l/Uniontown/PA/Uniontown/15401/4172"
+website: https://www.homedepot.com/l/Uniontown/PA/Uniontown/15401/4172

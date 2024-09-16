@@ -1,11 +1,11 @@
 id: 305880005
-type: way
+type: node
 latitude: 40.30839
 longitude: -75.95411
 postcode: "19607"
 city: Shillington
-street: "South Summit Avenue"
-housenumber: 10
-phone: "+1 610-775-7675"
-opening_hours: "Mo-We,Su off; Th-Fr 07:00-19:00; Sa 07:00-16:00"
-website: "https://shillingtonfarmersmarket.com/"
+street: South Summit Avenue
+housenumber: "10"
+phone: +1 610-775-7675
+opening_hours: Mo-We,Su off; Th-Fr 07:00-19:00; Sa 07:00-16:00
+website: https://shillingtonfarmersmarket.com/

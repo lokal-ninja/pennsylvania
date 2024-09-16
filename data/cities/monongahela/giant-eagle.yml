@@ -1,11 +1,11 @@
 id: 468920680
-type: way
+type: node
 latitude: 40.17204
 longitude: -79.91722
 postcode: "15063"
 city: Monongahela
-street: "Country Club Road"
-housenumber: 1300
-phone: "+1 724-258-5011"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Country Club Road
+housenumber: "1300"
+phone: +1 724-258-5011
+opening_hours: Mo-Su 07:00-21:00
 website: ""

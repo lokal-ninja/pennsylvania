@@ -1,11 +1,11 @@
 id: 692833588
-type: way
+type: node
 latitude: 40.19952
 longitude: -76.75459
 postcode: "17057"
 city: Middletown
-street: "West Harrisburg Pike"
-housenumber: 1401
-phone: "+1 717-944-2535"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/574"
+street: West Harrisburg Pike
+housenumber: "1401"
+phone: +1 717-944-2535
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/574

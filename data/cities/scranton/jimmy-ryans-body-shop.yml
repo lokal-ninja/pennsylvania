@@ -1,11 +1,11 @@
 id: 422333229
-type: way
+type: node
 latitude: 41.43209
 longitude: -75.69032
 postcode: "18504"
 city: Scranton
-street: "Hudson Flume"
-housenumber: 201
+street: Hudson Flume
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

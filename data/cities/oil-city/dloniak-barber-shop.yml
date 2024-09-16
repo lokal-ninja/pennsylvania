@@ -1,11 +1,11 @@
 id: 1210180563
-type: way
+type: node
 latitude: 41.43458
 longitude: -79.70828
 postcode: "16301"
 city: Oil City
-street: "Center Street"
-housenumber: 108
+street: Center Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

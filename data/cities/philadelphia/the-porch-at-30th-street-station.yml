@@ -5,7 +5,7 @@ longitude: -75.18213
 postcode: "19104"
 city: Philadelphia
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "May-Sep: We 11:00-14:00"
-website: "https://www.facebook.com/theporchat30th"
+opening_hours: 'May-Sep: We 11:00-14:00'
+website: https://www.facebook.com/theporchat30th

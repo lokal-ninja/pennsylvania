@@ -4,8 +4,8 @@ latitude: 40.18114
 longitude: -75.45191
 postcode: "19426"
 city: Collegeville
-street: "2nd Avenue"
-housenumber: 201
-phone: "+1 484-506-6192"
-opening_hours: "We-Su 12:00-18:00; PH closed"
+street: 2nd Avenue
+housenumber: "201"
+phone: +1 484-506-6192
+opening_hours: We-Su 12:00-18:00; PH closed
 website: ""

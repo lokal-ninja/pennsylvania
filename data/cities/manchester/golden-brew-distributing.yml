@@ -1,11 +1,11 @@
 id: 667039734
-type: way
+type: node
 latitude: 40.04033
 longitude: -76.72465
 postcode: "17345"
 city: Manchester
-street: "North George Street"
-housenumber: 3995
+street: North George Street
+housenumber: "3995"
 phone: ""
 opening_hours: ""
 website: ""

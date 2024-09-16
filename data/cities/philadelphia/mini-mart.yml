@@ -1,11 +1,11 @@
 id: 338426291
-type: way
+type: node
 latitude: 39.96071
 longitude: -75.1376
 postcode: "19123"
 city: Philadelphia
-street: "North Delaware Avenue"
-housenumber: 600
+street: North Delaware Avenue
+housenumber: "600"
 phone: ""
-opening_hours: "24/7"
-website: "https://lukoilamericas.com/en/ForMotorists/PetrolStations/PetrolStation?type=gasStation&id=72423"
+opening_hours: 24/7
+website: https://lukoilamericas.com/en/ForMotorists/PetrolStations/PetrolStation?type=gasStation&id=72423

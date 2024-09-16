@@ -1,11 +1,11 @@
 id: 60945088
-type: way
+type: node
 latitude: 40.34867
 longitude: -75.96644
 postcode: "19610"
 city: Wyomissing
-street: "Crossing Drive"
-housenumber: 1701
-phone: "+1 610-375-3340"
-opening_hours: "Mo,We-Sa 10:00-20:00; Tu,Su 10:00-19:00"
-website: "https://stores.bestbuy.com/pa/wyomissing/1701-crossing-dr-580.html"
+street: Crossing Drive
+housenumber: "1701"
+phone: +1 610-375-3340
+opening_hours: Mo,We-Sa 10:00-20:00; Tu,Su 10:00-19:00
+website: https://stores.bestbuy.com/pa/wyomissing/1701-crossing-dr-580.html

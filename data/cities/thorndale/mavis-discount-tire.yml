@@ -1,11 +1,11 @@
 id: 1121685950
-type: way
+type: node
 latitude: 39.99464
 longitude: -75.75723
 postcode: "19372"
 city: Thorndale
-street: "East Lincoln Highway"
-housenumber: 3453
-phone: "+1 484-206-7168"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00"
-website: "https://www.mavis.com/locations/thorndale-pa"
+street: East Lincoln Highway
+housenumber: "3453"
+phone: +1 484-206-7168
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00
+website: https://www.mavis.com/locations/thorndale-pa

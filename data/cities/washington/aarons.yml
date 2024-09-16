@@ -1,11 +1,11 @@
 id: 1066663796
-type: way
+type: node
 latitude: 40.18146
 longitude: -80.26265
 postcode: "15301"
 city: Washington
-street: "Jefferson Avenue"
-housenumber: 940
+street: Jefferson Avenue
+housenumber: "940"
 phone: ""
 opening_hours: ""
 website: ""

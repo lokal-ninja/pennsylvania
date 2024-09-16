@@ -1,11 +1,11 @@
 id: 1308073775
-type: way
+type: node
 latitude: 40.30812
 longitude: -75.35713
 postcode: "18964"
 city: Souderton
-street: "Harleysville Pike"
-housenumber: 466
+street: Harleysville Pike
+housenumber: "466"
 phone: ""
 opening_hours: ""
 website: ""

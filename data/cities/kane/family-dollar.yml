@@ -1,11 +1,11 @@
 id: 1096317856
-type: way
+type: node
 latitude: 41.66962
 longitude: -78.81423
 postcode: "16735"
 city: Kane
-street: "North Fraley Street"
-housenumber: 519
+street: North Fraley Street
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

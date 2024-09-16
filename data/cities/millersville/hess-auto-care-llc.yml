@@ -1,11 +1,11 @@
 id: 40820119
-type: way
+type: node
 latitude: 40.0121
 longitude: -76.35429
 postcode: ""
 city: Millersville
-street: "Manor Avenue"
-housenumber: 237
-phone: "+1 717-584-3513"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.hessrepair.com/"
+street: Manor Avenue
+housenumber: "237"
+phone: +1 717-584-3513
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.hessrepair.com/

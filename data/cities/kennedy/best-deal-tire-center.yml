@@ -1,11 +1,11 @@
 id: 519377788
-type: way
+type: node
 latitude: 40.46961
 longitude: -80.09969
 postcode: "15136"
 city: Kennedy
-street: "Clever Road"
-housenumber: 89
+street: Clever Road
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

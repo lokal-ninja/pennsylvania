@@ -1,11 +1,11 @@
 id: 503609137
-type: way
+type: node
 latitude: 40.66309
 longitude: -79.93198
 postcode: "15044"
 city: Gibsonia
-street: "William Flynn Highway"
-housenumber: 6090
-phone: "+1 724-449-5700"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: William Flynn Highway
+housenumber: "6090"
+phone: +1 724-449-5700
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

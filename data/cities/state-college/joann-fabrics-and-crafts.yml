@@ -1,11 +1,11 @@
 id: 536918403
-type: way
+type: node
 latitude: 40.83476
 longitude: -77.80432
 postcode: "16801"
 city: State College
-street: "Benner Pike"
-housenumber: 505
-phone: "+1 814-238-0082"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://stores.joann.com/pa/state-college/236/"
+street: Benner Pike
+housenumber: "505"
+phone: +1 814-238-0082
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-18:00
+website: https://stores.joann.com/pa/state-college/236/

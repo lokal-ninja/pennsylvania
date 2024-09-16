@@ -1,11 +1,11 @@
 id: 570810792
-type: way
+type: node
 latitude: 40.77606
 longitude: -79.52459
 postcode: "16226"
 city: Ford City
-street: "5th Avenue"
-housenumber: 1400
-phone: "+1 724-763-7666"
+street: 5th Avenue
+housenumber: "1400"
+phone: +1 724-763-7666
 opening_hours: ""
 website: ""

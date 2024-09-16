@@ -1,11 +1,11 @@
 id: 203750705
-type: way
+type: node
 latitude: 40.42868
 longitude: -79.981
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 1730
+street: East Carson Street
+housenumber: "1730"
 phone: ""
 opening_hours: ""
-website: "https://www.southside.minutemanpress.com/"
+website: https://www.southside.minutemanpress.com/

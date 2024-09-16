@@ -1,11 +1,11 @@
 id: 740407927
-type: way
+type: node
 latitude: 41.42339
 longitude: -78.72893
 postcode: "15853"
 city: Ridgway
-street: "Baker Alley"
-housenumber: 1
-phone: "+1-814-772-1334"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.elkcountyfoods.com/"
+street: Baker Alley
+housenumber: "1"
+phone: +1-814-772-1334
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.elkcountyfoods.com/

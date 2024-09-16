@@ -1,11 +1,11 @@
 id: 1254569543
-type: way
+type: node
 latitude: 39.81564
 longitude: -75.44535
 postcode: "19703"
 city: Claymont
-street: "Hickman Road"
-housenumber: 100
+street: Hickman Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

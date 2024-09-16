@@ -1,11 +1,11 @@
 id: 997526599
-type: way
+type: node
 latitude: 40.33654
 longitude: -75.95565
 postcode: ""
 city: Wyomissing
-street: "Penn Avenue"
-housenumber: 837
-phone: "+1 610-910-9337"
-opening_hours: "24/7"
-website: "https://www.wawa.com/store/8124/ma/pa-wyomissing-837-penn-ave"
+street: Penn Avenue
+housenumber: "837"
+phone: +1 610-910-9337
+opening_hours: 24/7
+website: https://www.wawa.com/store/8124/ma/pa-wyomissing-837-penn-ave

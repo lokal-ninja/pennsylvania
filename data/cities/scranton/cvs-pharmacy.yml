@@ -1,11 +1,11 @@
 id: 1009018273
-type: way
+type: node
 latitude: 41.39703
 longitude: -75.64859
 postcode: "18505"
 city: Scranton
-street: "Moosic Street"
-housenumber: 1101
+street: Moosic Street
+housenumber: "1101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/scranton-pa-pharmacies/1101-moosic-st-scranton-pa-18505/storeid=1611"
+website: https://www.cvs.com/store-locator/scranton-pa-pharmacies/1101-moosic-st-scranton-pa-18505/storeid=1611

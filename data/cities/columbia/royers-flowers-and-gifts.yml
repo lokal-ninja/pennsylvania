@@ -1,11 +1,11 @@
 id: 261331165
-type: way
+type: node
 latitude: 40.03162
 longitude: -76.49144
 postcode: "17512"
 city: Columbia
-street: "Lancaster Avenue"
-housenumber: 902
+street: Lancaster Avenue
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

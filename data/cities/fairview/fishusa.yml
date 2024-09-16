@@ -1,11 +1,11 @@
 id: 1063618130
-type: way
+type: node
 latitude: 42.04257
 longitude: -80.24031
 postcode: "16415"
 city: Fairview
-street: "West Ridge Road"
-housenumber: 6960
+street: West Ridge Road
+housenumber: "6960"
 phone: ""
 opening_hours: ""
 website: ""

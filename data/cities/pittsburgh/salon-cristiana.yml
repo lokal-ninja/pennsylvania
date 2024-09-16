@@ -4,8 +4,8 @@ latitude: 40.34895
 longitude: -80.05232
 postcode: "15241"
 city: Pittsburgh
-street: "North Highland Road"
-housenumber: 1796
-phone: "+1-412-343-2212"
-opening_hours: "Tu,Th 11:00-20:00; We,Fr,Sa 09:00-16:00"
+street: North Highland Road
+housenumber: "1796"
+phone: +1-412-343-2212
+opening_hours: Tu,Th 11:00-20:00; We,Fr,Sa 09:00-16:00
 website: ""

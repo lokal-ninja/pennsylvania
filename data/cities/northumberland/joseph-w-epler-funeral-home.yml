@@ -1,11 +1,11 @@
 id: 544564057
-type: way
+type: node
 latitude: 40.89096
 longitude: -76.79606
 postcode: "17857"
 city: Northumberland
-street: "King Street"
-housenumber: 210
-phone: "+1 570-473-3098"
+street: King Street
+housenumber: "210"
+phone: +1 570-473-3098
 opening_hours: ""
-website: "https://eplerfuneralhome.com/"
+website: https://eplerfuneralhome.com/

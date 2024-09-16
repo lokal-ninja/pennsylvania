@@ -1,11 +1,11 @@
 id: 589660940
-type: way
+type: node
 latitude: 39.9597
 longitude: -76.6605
 postcode: "17402"
 city: York
-street: "East Prospect Road"
-housenumber: 2873
+street: East Prospect Road
+housenumber: "2873"
 phone: ""
 opening_hours: ""
 website: ""

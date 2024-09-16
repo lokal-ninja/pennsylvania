@@ -1,11 +1,11 @@
 id: 1122964941
-type: way
+type: node
 latitude: 39.92904
 longitude: -75.15063
 postcode: ""
 city: Philadelphia
-street: "East Moyamensing Avenue"
-housenumber: 1512
+street: East Moyamensing Avenue
+housenumber: "1512"
 phone: ""
 opening_hours: ""
 website: ""

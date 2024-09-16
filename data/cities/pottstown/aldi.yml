@@ -1,11 +1,11 @@
 id: 878754205
-type: way
+type: node
 latitude: 40.25298
 longitude: -75.66274
 postcode: "19464"
 city: Pottstown
-street: "Shoemaker Road"
-housenumber: 223
-phone: "+1 844-460-7145"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/pa/pottstown/223-shoemaker-rd"
+street: Shoemaker Road
+housenumber: "223"
+phone: +1 844-460-7145
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/pa/pottstown/223-shoemaker-rd

@@ -1,11 +1,11 @@
 id: 660872500
-type: way
+type: node
 latitude: 40.82752
 longitude: -75.86878
 postcode: "18250"
 city: Summit Hill
-street: "North Pine Street"
-housenumber: 250
+street: North Pine Street
+housenumber: "250"
 phone: ""
 opening_hours: ""
 website: ""

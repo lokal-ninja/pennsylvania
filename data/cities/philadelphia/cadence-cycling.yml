@@ -4,8 +4,8 @@ latitude: 39.94967
 longitude: -75.18087
 postcode: "19103"
 city: Philadelphia
-street: "South 25th Street"
-housenumber: 201
-phone: "+1-267-909-9224"
+street: South 25th Street
+housenumber: "201"
+phone: +1-267-909-9224
 opening_hours: ""
-website: "https://www.cadencecycling.com"
+website: https://www.cadencecycling.com

@@ -1,11 +1,11 @@
 id: 1280050470
-type: way
+type: node
 latitude: 40.62508
 longitude: -75.85369
 postcode: "19529"
 city: Kempton
-street: "Kistler Valley Road"
-housenumber: 9927
+street: Kistler Valley Road
+housenumber: "9927"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00, Sa 07:30-12:00"
-website: "https://albrightsmill.net/"
+opening_hours: Mo-Fr 07:30-17:00, Sa 07:30-12:00
+website: https://albrightsmill.net/

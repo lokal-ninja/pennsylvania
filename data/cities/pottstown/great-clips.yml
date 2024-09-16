@@ -4,8 +4,8 @@ latitude: 40.20844
 longitude: -75.65762
 postcode: "19465"
 city: Pottstown
-street: "Glocker Way"
-housenumber: 80
-phone: "+1 610-323-2548"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00"
-website: "https://salons.greatclips.com/us/pa/pottstown/80-glocker-way"
+street: Glocker Way
+housenumber: "80"
+phone: +1 610-323-2548
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00
+website: https://salons.greatclips.com/us/pa/pottstown/80-glocker-way

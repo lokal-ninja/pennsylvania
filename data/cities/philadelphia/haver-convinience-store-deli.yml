@@ -1,11 +1,11 @@
 id: 410080548
-type: way
+type: node
 latitude: 39.97488
 longitude: -75.26135
 postcode: ""
 city: Philadelphia
-street: "Haverford Avenue"
-housenumber: 7226
+street: Haverford Avenue
+housenumber: "7226"
 phone: ""
 opening_hours: ""
 website: ""

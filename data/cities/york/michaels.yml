@@ -4,8 +4,8 @@ latitude: 39.9893
 longitude: -76.67873
 postcode: "17402"
 city: York
-street: "Pleasant Valley Road"
-housenumber: 2700
-phone: "+1 717-600-2512"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/pa/york/9902"
+street: Pleasant Valley Road
+housenumber: "2700"
+phone: +1 717-600-2512
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/pa/york/9902

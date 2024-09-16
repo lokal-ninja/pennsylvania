@@ -1,11 +1,11 @@
 id: 616430623
-type: way
+type: node
 latitude: 40.97883
 longitude: -75.1882
 postcode: "18360"
 city: Stroudsburg
-street: "Broad Street"
-housenumber: 201
+street: Broad Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

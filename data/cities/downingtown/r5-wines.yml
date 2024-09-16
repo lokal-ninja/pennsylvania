@@ -1,11 +1,11 @@
 id: 554091125
-type: way
+type: node
 latitude: 40.00703
 longitude: -75.70077
 postcode: "19335"
 city: Downingtown
-street: "East Lancaster Avenue"
-housenumber: 206
-phone: "+1 484-364-4504"
-opening_hours: "Mo-We off; Th 16:00-21:00; Fr 16:00-22:00; Sa 13:00-22:00; Su 13:00-18:00"
-website: "https://rfivewines.com"
+street: East Lancaster Avenue
+housenumber: "206"
+phone: +1 484-364-4504
+opening_hours: Mo-We off; Th 16:00-21:00; Fr 16:00-22:00; Sa 13:00-22:00; Su 13:00-18:00
+website: https://rfivewines.com

@@ -1,11 +1,11 @@
 id: 238866660
-type: way
+type: node
 latitude: 39.97363
 longitude: -76.68061
 postcode: "17402"
 city: York
-street: "East Market Street"
-housenumber: 2350
+street: East Market Street
+housenumber: "2350"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2350+e+market+st-york-pa-17402/id=9591"
+website: https://www.walgreens.com/locator/walgreens-2350+e+market+st-york-pa-17402/id=9591

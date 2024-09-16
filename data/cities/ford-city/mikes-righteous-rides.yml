@@ -1,11 +1,11 @@
 id: 607960331
-type: way
+type: node
 latitude: 40.77989
 longitude: -79.52435
 postcode: "16226"
 city: Ford City
-street: "4th Avenue"
-housenumber: 1700
+street: 4th Avenue
+housenumber: "1700"
 phone: ""
 opening_hours: ""
 website: ""

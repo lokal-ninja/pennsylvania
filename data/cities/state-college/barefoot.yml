@@ -4,8 +4,8 @@ latitude: 40.79495
 longitude: -77.86067
 postcode: "16801"
 city: State College
-street: "East College Avenue"
-housenumber: 130
-phone: "+1-814-234-8080"
-opening_hours: "11:00-18:00"
-website: "https://barefootpsu.com/"
+street: East College Avenue
+housenumber: "130"
+phone: +1-814-234-8080
+opening_hours: 11:00-18:00
+website: https://barefootpsu.com/

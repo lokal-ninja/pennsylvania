@@ -1,11 +1,11 @@
 id: 1211841089
-type: way
+type: node
 latitude: 40.07832
 longitude: -75.68787
 postcode: "19425"
 city: Chester Springs
-street: "Pottstown Pike"
-housenumber: 110
-phone: "+1 610-242-9422"
-opening_hours: "Mo-Tu off; We-Sa 11:00-18:00; Su 11:00-16:00"
-website: "https://thejeweledwarrior.com"
+street: Pottstown Pike
+housenumber: "110"
+phone: +1 610-242-9422
+opening_hours: Mo-Tu off; We-Sa 11:00-18:00; Su 11:00-16:00
+website: https://thejeweledwarrior.com

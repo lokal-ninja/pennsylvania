@@ -1,11 +1,11 @@
 id: 867118576
-type: way
+type: node
 latitude: 40.34873
 longitude: -80.11148
 postcode: "15017"
 city: Bridgeville
-street: "Washington Pike"
-housenumber: 3109
-phone: "+1 412-319-7057"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/677"
+street: Washington Pike
+housenumber: "3109"
+phone: +1 412-319-7057
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/677

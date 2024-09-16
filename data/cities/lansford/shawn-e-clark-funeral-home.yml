@@ -1,11 +1,11 @@
 id: 657395579
-type: way
+type: node
 latitude: 40.83165
 longitude: -75.88078
 postcode: "18232"
 city: Lansford
-street: "East Bertsch Street"
-housenumber: 200
+street: East Bertsch Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

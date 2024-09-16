@@ -1,11 +1,11 @@
 id: 1213632933
-type: way
+type: node
 latitude: 40.64552
 longitude: -75.36221
 postcode: "18017"
 city: Bethlehem
-street: "Jennings Street"
-housenumber: 2350
+street: Jennings Street
+housenumber: "2350"
 phone: ""
 opening_hours: ""
 website: ""

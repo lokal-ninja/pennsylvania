@@ -1,11 +1,11 @@
 id: 1096445270
-type: way
+type: node
 latitude: 40.33403
 longitude: -75.63442
 postcode: "19512"
 city: Boyertown
-street: "N. Chestnut St."
-housenumber: 124
+street: N. Chestnut St.
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

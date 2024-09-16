@@ -1,11 +1,11 @@
 id: 200250657
-type: way
+type: node
 latitude: 40.11036
 longitude: -76.50731
 postcode: "17552"
 city: Mount Joy
-street: "West Main Street"
-housenumber: 100
-phone: "+1 717-492-0027"
-opening_hours: "Mo-Fr 8:30-20:30; Sa 8:30-18:30"
-website: "https://www.keystonepetplace.com/"
+street: West Main Street
+housenumber: "100"
+phone: +1 717-492-0027
+opening_hours: Mo-Fr 8:30-20:30; Sa 8:30-18:30
+website: https://www.keystonepetplace.com/

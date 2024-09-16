@@ -4,8 +4,8 @@ latitude: 40.01887
 longitude: -78.50394
 postcode: "15522"
 city: Bedford
-street: "South Juliana Street"
-housenumber: 100
+street: South Juliana Street
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00; Su 12:00-16:00"
-website: "http://www.founderscrossing.us/"
+opening_hours: Mo-Sa 10:00-17:00; Su 12:00-16:00
+website: http://www.founderscrossing.us/

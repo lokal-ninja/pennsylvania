@@ -1,11 +1,11 @@
 id: 34832401
-type: way
+type: node
 latitude: 40.30154
 longitude: -76.92743
 postcode: "17025"
 city: Enola
-street: "North Enola Road"
-housenumber: 499
-phone: "+1 717-732-5065"
+street: North Enola Road
+housenumber: "499"
+phone: +1 717-732-5065
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/enola/499-north-enola-rd.-40448"
+website: https://www.7-eleven.com/locations/pa/enola/499-north-enola-rd.-40448

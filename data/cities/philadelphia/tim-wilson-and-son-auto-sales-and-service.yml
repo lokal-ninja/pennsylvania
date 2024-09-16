@@ -1,11 +1,11 @@
 id: 213248099
-type: way
+type: node
 latitude: 39.98878
 longitude: -75.08956
 postcode: ""
 city: Philadelphia
-street: "Richmond Street"
-housenumber: 3685
+street: Richmond Street
+housenumber: "3685"
 phone: ""
 opening_hours: ""
 website: ""

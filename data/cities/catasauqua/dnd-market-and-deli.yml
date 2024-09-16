@@ -1,11 +1,11 @@
 id: 1273969116
-type: way
+type: node
 latitude: 40.65082
 longitude: -75.46609
 postcode: "18032"
 city: Catasauqua
-street: "Race Street"
-housenumber: 252
+street: Race Street
+housenumber: "252"
 phone: "+16102642235"
 opening_hours: ""
 website: ""

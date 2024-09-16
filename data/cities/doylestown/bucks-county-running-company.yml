@@ -1,11 +1,11 @@
 id: 339006459
-type: way
+type: node
 latitude: 40.30975
 longitude: -75.1312
 postcode: "18901"
 city: Doylestown
-street: "West State Street"
-housenumber: 25
+street: West State Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

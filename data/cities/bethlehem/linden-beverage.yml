@@ -1,11 +1,11 @@
 id: 1213632942
-type: way
+type: node
 latitude: 40.65548
 longitude: -75.35605
 postcode: "18017"
 city: Bethlehem
-street: "Linden Street"
-housenumber: 2930
+street: Linden Street
+housenumber: "2930"
 phone: ""
 opening_hours: ""
 website: ""

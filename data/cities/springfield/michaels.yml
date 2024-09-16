@@ -2,10 +2,10 @@ id: 1481362092
 type: node
 latitude: 39.91891
 longitude: -75.32585
-postcode: "19064-3812"
+postcode: 19064-3812
 city: Springfield
-street: "Baltimore Pike"
-housenumber: 601
-phone: "+1 610-690-1633"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/pa/springfield/2034"
+street: Baltimore Pike
+housenumber: "601"
+phone: +1 610-690-1633
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/pa/springfield/2034

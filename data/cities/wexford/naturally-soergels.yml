@@ -1,11 +1,11 @@
 id: 228796812
-type: way
+type: node
 latitude: 40.61428
 longitude: -80.09299
 postcode: "15090"
 city: Wexford
-street: "Brandt School Rd"
-housenumber: 2573
+street: Brandt School Rd
+housenumber: "2573"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa-Su 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:30, Sa-Su 09:00-18:00
 website: ""

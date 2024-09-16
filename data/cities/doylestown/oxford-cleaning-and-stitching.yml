@@ -1,11 +1,11 @@
 id: 389920715
-type: way
+type: node
 latitude: 40.3088
 longitude: -75.12925
 postcode: "18901"
 city: Doylestown
-street: "Taylor Avenue"
-housenumber: 9
+street: Taylor Avenue
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1000893911
-type: way
+type: node
 latitude: 40.6475
 longitude: -80.23337
 postcode: "15005"
 city: Baden
-street: "West State Street"
-housenumber: 1010
+street: West State Street
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

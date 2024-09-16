@@ -1,11 +1,11 @@
 id: 204009470
-type: way
+type: node
 latitude: 40.42918
 longitude: -79.98157
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 1705
-phone: "+1 412-488-1808"
-opening_hours: "11:00-22:00"
-website: "https://www.edwardmarc.com/"
+street: East Carson Street
+housenumber: "1705"
+phone: +1 412-488-1808
+opening_hours: 11:00-22:00
+website: https://www.edwardmarc.com/

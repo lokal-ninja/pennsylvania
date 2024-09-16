@@ -1,11 +1,11 @@
 id: 570767195
-type: way
+type: node
 latitude: 41.49106
 longitude: -75.55403
 postcode: "18403"
 city: Archbald
-street: "Kennedy Drive"
-housenumber: 7
-phone: "+1 570-877-7333"
+street: Kennedy Drive
+housenumber: "7"
+phone: +1 570-877-7333
 opening_hours: ""
-website: "https://www.loyaltybarber.com/"
+website: https://www.loyaltybarber.com/

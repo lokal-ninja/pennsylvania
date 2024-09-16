@@ -1,11 +1,11 @@
 id: 152669579
-type: way
+type: node
 latitude: 39.96228
 longitude: -75.59983
 postcode: ""
 city: West Chester
-street: "East Market Street"
-housenumber: 301
-phone: "+1 610-344-7700"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
-website: "https://aaamarble.com"
+street: East Market Street
+housenumber: "301"
+phone: +1 610-344-7700
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
+website: https://aaamarble.com

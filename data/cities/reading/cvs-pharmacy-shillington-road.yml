@@ -1,11 +1,11 @@
 id: 285265543
-type: way
+type: node
 latitude: 40.32133
 longitude: -76.01053
 postcode: "19608"
 city: Reading
-street: "Shillington Road"
-housenumber: 3100
-phone: "+1 610-678-9054"
-opening_hours: "Mo-Sa 07:00-21:30; Su 08:00-20:00"
-website: "https://www.cvs.com/store-locator/sinking-spring-pa-pharmacies/3100-shillington-rd-sinking-spring-pa-19608/storeid=1923"
+street: Shillington Road
+housenumber: "3100"
+phone: +1 610-678-9054
+opening_hours: Mo-Sa 07:00-21:30; Su 08:00-20:00
+website: https://www.cvs.com/store-locator/sinking-spring-pa-pharmacies/3100-shillington-rd-sinking-spring-pa-19608/storeid=1923

@@ -1,11 +1,11 @@
 id: 334094810
-type: way
+type: node
 latitude: 40.42969
 longitude: -78.38721
 postcode: "16648"
 city: Hollidaysburg
-street: "Church Street"
-housenumber: 810
+street: Church Street
+housenumber: "810"
 phone: ""
 opening_hours: ""
-website: "https://hometownmarket.biz/"
+website: https://hometownmarket.biz/

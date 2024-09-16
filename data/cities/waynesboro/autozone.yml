@@ -1,11 +1,11 @@
 id: 460193639
-type: way
+type: node
 latitude: 39.74394
 longitude: -77.55288
 postcode: "17268"
 city: Waynesboro
-street: "East Main Street"
-housenumber: 1600
+street: East Main Street
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/pa/waynesboro/1600-e-main-st.html"
+website: https://www.autozone.com/locations/pa/waynesboro/1600-e-main-st.html

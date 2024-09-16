@@ -1,11 +1,11 @@
 id: 1313900844
-type: way
+type: node
 latitude: 40.54457
 longitude: -75.60536
 postcode: "18087"
 city: Trexlertown
-street: "Trexlertown Road"
-housenumber: 1236
+street: Trexlertown Road
+housenumber: "1236"
 phone: "+14843477333"
 opening_hours: ""
 website: ""

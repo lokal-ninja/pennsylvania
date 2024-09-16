@@ -1,11 +1,11 @@
 id: 641993119
-type: way
+type: node
 latitude: 40.11074
 longitude: -75.02364
 postcode: "19116"
 city: Philadelphia
-street: "Bustleton Avenue"
-housenumber: 10875
-phone: "+1 215-673-0994"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00; Su off"
-website: "https://www.suburbanpharmacy.com/"
+street: Bustleton Avenue
+housenumber: "10875"
+phone: +1 215-673-0994
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00; Su off
+website: https://www.suburbanpharmacy.com/

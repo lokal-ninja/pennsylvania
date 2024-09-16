@@ -1,11 +1,11 @@
 id: 677124641
-type: way
+type: node
 latitude: 39.98367
 longitude: -76.64973
 postcode: "17402"
 city: York
-street: "East Market Street"
-housenumber: 3651
+street: East Market Street
+housenumber: "3651"
 phone: ""
 opening_hours: ""
 website: ""

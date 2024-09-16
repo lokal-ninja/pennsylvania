@@ -5,7 +5,7 @@ longitude: -75.16786
 postcode: "19123"
 city: Philadelphia
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Jun-Oct: Th-Fr 10:00-17:00; Sa 09:00-16:00"
+opening_hours: 'Jun-Oct: Th-Fr 10:00-17:00; Sa 09:00-16:00'
 website: ""

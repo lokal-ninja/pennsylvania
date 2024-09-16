@@ -1,11 +1,11 @@
 id: 278451742
-type: way
+type: node
 latitude: 40.67385
 longitude: -75.51602
 postcode: "18052"
 city: Whitehall
-street: "MacArthur Road"
-housenumber: 5001
-phone: "+1 610-262-8782"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/330"
+street: MacArthur Road
+housenumber: "5001"
+phone: +1 610-262-8782
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/330

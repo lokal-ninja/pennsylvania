@@ -1,11 +1,11 @@
 id: 1071787664
-type: way
+type: node
 latitude: 39.83533
 longitude: -77.21902
 postcode: "17325"
 city: Gettysburg
-street: "York Road"
-housenumber: 720
-phone: "+1 717-334-0021"
+street: York Road
+housenumber: "720"
+phone: +1 717-334-0021
 opening_hours: ""
-website: "https://gettysburgrentalcenter.com/"
+website: https://gettysburgrentalcenter.com/

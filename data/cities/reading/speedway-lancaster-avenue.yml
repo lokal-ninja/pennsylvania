@@ -1,11 +1,11 @@
 id: 1010094428
-type: way
+type: node
 latitude: 40.32221
 longitude: -75.93384
 postcode: "19611"
 city: Reading
-street: "Lancaster Avenue"
-housenumber: 200
+street: Lancaster Avenue
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/PA/Reading/200-LANCASTER-AVE"
+website: https://www.speedway.com/locations/PA/Reading/200-LANCASTER-AVE

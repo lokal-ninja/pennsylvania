@@ -1,11 +1,11 @@
 id: 363197816
-type: way
+type: node
 latitude: 41.35122
 longitude: -80.0792
 postcode: "16145"
 city: Sandy Lake
-street: "Franklin Street"
-housenumber: 5327
-phone: "+1 724 376 3105"
+street: Franklin Street
+housenumber: "5327"
+phone: +1 724 376 3105
 opening_hours: ""
 website: ""

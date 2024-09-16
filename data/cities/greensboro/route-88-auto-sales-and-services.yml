@@ -1,11 +1,11 @@
 id: 564173450
-type: way
+type: node
 latitude: 39.81872
 longitude: -79.94606
 postcode: "15338"
 city: greensboro
-street: "South Eighty Eight Road"
-housenumber: 1722
+street: South Eighty Eight Road
+housenumber: "1722"
 phone: ""
 opening_hours: ""
 website: ""

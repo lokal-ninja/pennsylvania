@@ -1,11 +1,11 @@
 id: 544589622
-type: way
+type: node
 latitude: 40.56363
 longitude: -76.00771
 postcode: "19526"
 city: Hamburg
-street: "Wilderness Trail"
-housenumber: 20
-phone: "+1 484-660-7970"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/pa-hamburg/2894"
+street: Wilderness Trail
+housenumber: "20"
+phone: +1 484-660-7970
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/pa-hamburg/2894

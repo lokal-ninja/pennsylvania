@@ -1,11 +1,11 @@
 id: 690064920
-type: way
+type: node
 latitude: 40.7121
 longitude: -79.00843
 postcode: "15734"
 city: Dixonville
-street: "PA 403"
-housenumber: 17659
+street: PA 403
+housenumber: "17659"
 phone: ""
 opening_hours: ""
 website: ""

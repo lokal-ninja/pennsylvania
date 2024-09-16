@@ -1,11 +1,11 @@
 id: 465946954
-type: way
+type: node
 latitude: 40.13529
 longitude: -76.57378
 postcode: "17022"
 city: Elizabethtown
-street: "South Market Street"
-housenumber: 2005
-phone: "+1-717-361-7776"
-opening_hours: "Mo-Th 07:30-20:00; Fr 07:30-18:00; Sa 08:30-17:00"
-website: "https://www.hondruchevyetown.com/"
+street: South Market Street
+housenumber: "2005"
+phone: +1-717-361-7776
+opening_hours: Mo-Th 07:30-20:00; Fr 07:30-18:00; Sa 08:30-17:00
+website: https://www.hondruchevyetown.com/

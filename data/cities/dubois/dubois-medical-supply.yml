@@ -1,11 +1,11 @@
 id: 644579485
-type: way
+type: node
 latitude: 41.12123
 longitude: -78.75841
 postcode: "15801"
 city: DuBois
-street: "Liberty Boulevard"
-housenumber: 320
+street: Liberty Boulevard
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

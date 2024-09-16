@@ -4,8 +4,8 @@ latitude: 39.84659
 longitude: -75.71172
 postcode: "19348"
 city: Kennett Square
-street: "West State Street"
-housenumber: 100
-phone: "+1 610-444-4887"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 09:00-17:00; Su off"
-website: "https://www.picone1.com"
+street: West State Street
+housenumber: "100"
+phone: +1 610-444-4887
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 09:00-17:00; Su off
+website: https://www.picone1.com

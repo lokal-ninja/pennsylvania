@@ -1,11 +1,11 @@
 id: 1038383345
-type: way
+type: node
 latitude: 40.17072
 longitude: -75.03772
 postcode: "18966"
 city: Southampton
-street: "Street Road"
-housenumber: 932
-phone: "+1 215-388-4385"
+street: Street Road
+housenumber: "932"
+phone: +1 215-388-4385
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/southampton/932-street-rd-11372"
+website: https://www.7-eleven.com/locations/pa/southampton/932-street-rd-11372

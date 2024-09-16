@@ -1,11 +1,11 @@
 id: 693116860
-type: way
+type: node
 latitude: 40.01589
 longitude: -75.30798
 postcode: "19041"
 city: Haverford
-street: "West Lancaster Avenue"
-housenumber: 532
-phone: "+1 610-525-3042"
+street: West Lancaster Avenue
+housenumber: "532"
+phone: +1 610-525-3042
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/pa/haverford/168023/"
+website: https://www.mattressfirm.com/en-us/stores/pa/haverford/168023/

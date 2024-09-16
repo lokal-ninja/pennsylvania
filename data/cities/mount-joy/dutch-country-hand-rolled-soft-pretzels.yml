@@ -1,11 +1,11 @@
 id: 200250654
-type: way
+type: node
 latitude: 40.11002
 longitude: -76.50464
 postcode: "17552"
 city: Mount Joy
-street: "West Main Street"
-housenumber: 26
-phone: "+1 717-492-8571"
-opening_hours: "Mo,Su off; Tu-Th 11:00-19:00; Fr-Sa 10:00-19:00"
-website: "https://www.dutchcountryhandrolledsoftpretzels.com/"
+street: West Main Street
+housenumber: "26"
+phone: +1 717-492-8571
+opening_hours: Mo,Su off; Tu-Th 11:00-19:00; Fr-Sa 10:00-19:00
+website: https://www.dutchcountryhandrolledsoftpretzels.com/

@@ -1,11 +1,11 @@
 id: 372873321
-type: way
+type: node
 latitude: 40.07221
 longitude: -75.30185
 postcode: "19428"
 city: Conshohocken
-street: "Poplar Street"
-housenumber: 65
+street: Poplar Street
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 335308202
-type: way
+type: node
 latitude: 39.94036
 longitude: -75.15181
 postcode: "19147"
 city: Philadelphia
-street: "East Passyunk Avenue"
-housenumber: 704
-phone: "+1 215-627-3151"
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-22:00"
-website: "https://www.riteaid.com/locations/pa/philadelphia/704-20-east-passyunk-avenue.html"
+street: East Passyunk Avenue
+housenumber: "704"
+phone: +1 215-627-3151
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-22:00
+website: https://www.riteaid.com/locations/pa/philadelphia/704-20-east-passyunk-avenue.html

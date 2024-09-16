@@ -1,11 +1,11 @@
 id: 595965272
-type: way
+type: node
 latitude: 40.45219
 longitude: -80.12941
 postcode: "15136"
 city: McKees Rocks
-street: "Steubenville Pike"
-housenumber: 5554
-phone: "+1 412-788-3637"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/629"
+street: Steubenville Pike
+housenumber: "5554"
+phone: +1 412-788-3637
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/629

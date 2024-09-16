@@ -1,11 +1,11 @@
 id: 1310907479
-type: way
+type: node
 latitude: 40.6821
 longitude: -75.52742
 postcode: "18052"
 city: Whitehall
-street: "Main Street"
-housenumber: 4344
+street: Main Street
+housenumber: "4344"
 phone: "+16102623081"
 opening_hours: ""
-website: "https://www.eberhardtmotors.com/"
+website: https://www.eberhardtmotors.com/

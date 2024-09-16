@@ -1,11 +1,11 @@
 id: 532445063
-type: way
+type: node
 latitude: 39.9481
 longitude: -75.22083
 postcode: "19143"
 city: Philadelphia
-street: "Baltimore Avenue"
-housenumber: 4828
+street: Baltimore Avenue
+housenumber: "4828"
 phone: ""
 opening_hours: ""
-website: "https://www.hairvyce.com/"
+website: https://www.hairvyce.com/

@@ -1,11 +1,11 @@
 id: 541205090
-type: way
+type: node
 latitude: 40.11246
 longitude: -76.06806
 postcode: "17557"
 city: New Holland
-street: "South Tower Road"
-housenumber: 151
-phone: "+1 717-354-0608"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_NewHolland-PA-17557_1615"
+street: South Tower Road
+housenumber: "151"
+phone: +1 717-354-0608
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_NewHolland-PA-17557_1615

@@ -1,11 +1,11 @@
 id: 263532110
-type: way
+type: node
 latitude: 40.30159
 longitude: -75.85373
 postcode: "19606"
 city: Reading
-street: "Perkiomen Avenue"
-housenumber: 5060
+street: Perkiomen Avenue
+housenumber: "5060"
 phone: ""
 opening_hours: ""
 website: ""

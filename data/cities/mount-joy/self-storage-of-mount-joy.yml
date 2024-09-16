@@ -1,11 +1,11 @@
 id: 200138161
-type: way
+type: node
 latitude: 40.11049
 longitude: -76.47605
 postcode: "17552"
 city: Mount Joy
-street: "East Main Street"
-housenumber: 1005
-phone: "+1-717-653-0606"
+street: East Main Street
+housenumber: "1005"
+phone: +1-717-653-0606
 opening_hours: ""
-website: "https://www.selfstoragemtjoy.com/"
+website: https://www.selfstoragemtjoy.com/

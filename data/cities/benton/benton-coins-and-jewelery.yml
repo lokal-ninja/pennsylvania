@@ -1,11 +1,11 @@
 id: 1154811856
-type: way
+type: node
 latitude: 41.1953
 longitude: -76.38389
 postcode: "17814"
 city: Benton
-street: "Market Street"
-housenumber: 213
+street: Market Street
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

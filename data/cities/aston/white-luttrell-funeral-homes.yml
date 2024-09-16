@@ -1,11 +1,11 @@
 id: 709074545
-type: way
+type: node
 latitude: 39.86754
 longitude: -75.42706
 postcode: "19014"
 city: Aston
-street: "Concord Road"
-housenumber: 3551
-phone: "+1 610-494-3424"
+street: Concord Road
+housenumber: "3551"
+phone: +1 610-494-3424
 opening_hours: ""
-website: "https://www.whiteluttrell.com"
+website: https://www.whiteluttrell.com

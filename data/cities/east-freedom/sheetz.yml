@@ -1,11 +1,11 @@
 id: 939383824
-type: way
+type: node
 latitude: 40.36145
 longitude: -78.42043
 postcode: "16637"
 city: East Freedom
-street: "Woodbury Pike"
-housenumber: 8711
-phone: "+1 814-693-8532"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/169"
+street: Woodbury Pike
+housenumber: "8711"
+phone: +1 814-693-8532
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/169

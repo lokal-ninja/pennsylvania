@@ -1,11 +1,11 @@
 id: 1245424598
-type: way
+type: node
 latitude: 39.98116
 longitude: -75.36045
 postcode: "19008"
 city: Broomall
-street: "West Chester Pike"
-housenumber: 2590
+street: West Chester Pike
+housenumber: "2590"
 phone: "4844204534"
-opening_hours: "Mo-Fr 06:00-15:00, Sa 07:00-14:00"
+opening_hours: Mo-Fr 06:00-15:00, Sa 07:00-14:00
 website: ""

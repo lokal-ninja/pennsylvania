@@ -1,11 +1,11 @@
 id: 204009487
-type: way
+type: node
 latitude: 40.42915
 longitude: -79.98184
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 1703
+street: East Carson Street
+housenumber: "1703"
 phone: ""
 opening_hours: ""
-website: "www.beadmine.net"
+website: www.beadmine.net

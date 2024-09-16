@@ -1,11 +1,11 @@
 id: 589732086
-type: way
+type: node
 latitude: 41.08339
 longitude: -75.32868
 postcode: "18370"
 city: Swiftwater
-street: "PA 611"
-housenumber: 2122
+street: PA 611
+housenumber: "2122"
 phone: ""
 opening_hours: ""
 website: ""

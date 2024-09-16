@@ -1,11 +1,11 @@
 id: 473627807
-type: way
+type: node
 latitude: 41.23421
 longitude: -75.8671
 postcode: "18702"
 city: Wilkes-Barre
-street: "Wilkes-Barre Township Boulevard"
-housenumber: 464
-phone: "+1 570-822-6437"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/297"
+street: Wilkes-Barre Township Boulevard
+housenumber: "464"
+phone: +1 570-822-6437
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/297

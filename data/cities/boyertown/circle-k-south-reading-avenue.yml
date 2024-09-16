@@ -1,11 +1,11 @@
 id: 729746298
-type: way
+type: node
 latitude: 40.33188
 longitude: -75.63995
 postcode: "19512"
 city: Boyertown
-street: "South Reading Avenue"
-housenumber: 100
+street: South Reading Avenue
+housenumber: "100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

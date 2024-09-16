@@ -1,11 +1,11 @@
 id: 570798198
-type: way
+type: node
 latitude: 40.80234
 longitude: -79.48645
 postcode: "16201"
 city: Kittanning
-street: "Saint Route 422"
-housenumber: 13510
-phone: "+1 724-545-7570"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/445"
+street: Saint Route 422
+housenumber: "13510"
+phone: +1 724-545-7570
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/445

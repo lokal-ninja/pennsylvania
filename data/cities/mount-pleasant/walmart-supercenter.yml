@@ -1,11 +1,11 @@
 id: 427663223
-type: way
+type: node
 latitude: 40.12857
 longitude: -79.5453
 postcode: "15666"
 city: Mount Pleasant
-street: "Summit Ridge Plaza"
-housenumber: 2100
-phone: "+1 724-542-7300"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2611/mount-pleasant-pa/whats-new"
+street: Summit Ridge Plaza
+housenumber: "2100"
+phone: +1 724-542-7300
+opening_hours: 24/7
+website: https://www.walmart.com/store/2611/mount-pleasant-pa/whats-new

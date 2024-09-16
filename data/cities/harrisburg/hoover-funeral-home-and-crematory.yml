@@ -1,11 +1,11 @@
 id: 166274297
-type: way
+type: node
 latitude: 40.34335
 longitude: -76.7915
 postcode: "17112"
 city: Harrisburg
-street: "Linglestown Road"
-housenumber: 6011
+street: Linglestown Road
+housenumber: "6011"
 phone: ""
 opening_hours: ""
 website: ""

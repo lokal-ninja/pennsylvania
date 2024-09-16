@@ -1,11 +1,11 @@
 id: 512890217
-type: way
+type: node
 latitude: 40.46511
 longitude: -80.05956
 postcode: "15136"
 city: McKees Rocks
-street: "Chartiers Avenue"
-housenumber: 522
+street: Chartiers Avenue
+housenumber: "522"
 phone: ""
 opening_hours: ""
 website: ""

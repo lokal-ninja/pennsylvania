@@ -1,11 +1,11 @@
 id: 1054311907
-type: way
+type: node
 latitude: 41.00137
 longitude: -76.45096
 postcode: "17815"
 city: Bloomsburg
-street: "E Fifth Street"
-housenumber: 203
+street: E Fifth Street
+housenumber: "203"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:00, Sa 09:00-16:00"
-website: "http://www.pennsylvaniapets.org"
+opening_hours: Tu-Fr 09:00-17:00, Sa 09:00-16:00
+website: http://www.pennsylvaniapets.org

@@ -4,8 +4,8 @@ latitude: 39.90157
 longitude: -75.24185
 postcode: "19153"
 city: Philadelphia
-street: "Island Avenue"
-housenumber: 2900
-phone: "+1 215-492-1333"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/423"
+street: Island Avenue
+housenumber: "2900"
+phone: +1 215-492-1333
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/423

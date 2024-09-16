@@ -1,11 +1,11 @@
 id: 1071394821
-type: way
+type: node
 latitude: 39.83029
 longitude: -77.23099
 postcode: "17325"
 city: Gettysburg
-street: "Baltimore Street"
-housenumber: 20
-phone: "+1 717-334-3200"
-opening_hours: "Mo-Th off; Fr,Sa,Su 10:00-12:00,13:00-18:00"
-website: "http://www.dirtybillyshats.com"
+street: Baltimore Street
+housenumber: "20"
+phone: +1 717-334-3200
+opening_hours: Mo-Th off; Fr,Sa,Su 10:00-12:00,13:00-18:00
+website: http://www.dirtybillyshats.com

@@ -1,11 +1,11 @@
 id: 419318406
-type: way
+type: node
 latitude: 40.31732
 longitude: -79.73069
 postcode: "15642"
 city: North Huntingdon
-street: "Clay Pike"
-housenumber: 111
-phone: "+1-724-863-9964"
+street: Clay Pike
+housenumber: "111"
+phone: +1-724-863-9964
 opening_hours: ""
-website: "https://campbellsservicecntr.mechanicnet.com"
+website: https://campbellsservicecntr.mechanicnet.com

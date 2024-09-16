@@ -1,11 +1,11 @@
 id: 690096726
-type: way
+type: node
 latitude: 40.66891
 longitude: -79.01115
 postcode: "15728"
 city: Clymer
-street: "Franklin Street"
-housenumber: 310
+street: Franklin Street
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

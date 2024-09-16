@@ -4,8 +4,8 @@ latitude: 39.94906
 longitude: -75.18125
 postcode: "19103"
 city: Philadelphia
-street: "South 25th Street"
-housenumber: 2554
+street: South 25th Street
+housenumber: "2554"
 phone: ""
-opening_hours: "May-Oct: We 15:00-19:00"
-website: "https://thefoodtrust.org/farmers-markets/market/schuylkill-river-park"
+opening_hours: 'May-Oct: We 15:00-19:00'
+website: https://thefoodtrust.org/farmers-markets/market/schuylkill-river-park

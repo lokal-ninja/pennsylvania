@@ -1,11 +1,11 @@
 id: 614310747
-type: way
+type: node
 latitude: 41.03707
 longitude: -75.3038
 postcode: "18372"
 city: Tannersville
-street: "PA 611"
-housenumber: 2895
+street: PA 611
+housenumber: "2895"
 phone: ""
 opening_hours: ""
 website: ""

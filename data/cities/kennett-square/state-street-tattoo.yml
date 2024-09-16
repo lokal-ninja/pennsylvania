@@ -1,11 +1,11 @@
 id: 608963272
-type: way
+type: node
 latitude: 39.84758
 longitude: -75.70865
 postcode: "19348"
 city: Kennett Square
-street: "East State Street"
-housenumber: 316
+street: East State Street
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

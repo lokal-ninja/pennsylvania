@@ -1,11 +1,11 @@
 id: 779448948
-type: way
+type: node
 latitude: 40.91054
 longitude: -77.77805
 postcode: "16823"
 city: Bellefonte
-street: "West Bishop Street"
-housenumber: 120
+street: West Bishop Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "https://www.wingedbeautystudio.com/"
+website: https://www.wingedbeautystudio.com/

@@ -1,11 +1,11 @@
 id: 443988674
-type: way
+type: node
 latitude: 39.95934
 longitude: -75.61656
 postcode: "19382"
 city: West Chester
-street: "West Strasburg Road"
-housenumber: 601
+street: West Strasburg Road
+housenumber: "601"
 phone: ""
 opening_hours: ""
-website: "https://tobaccohutpa.com/west-chester"
+website: https://tobaccohutpa.com/west-chester

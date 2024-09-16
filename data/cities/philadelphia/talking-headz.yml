@@ -4,8 +4,8 @@ latitude: 39.94795
 longitude: -75.22232
 postcode: ""
 city: Philadelphia
-street: "Baltimore Avenue"
-housenumber: 4922
+street: Baltimore Avenue
+housenumber: "4922"
 phone: "+12157292028"
-opening_hours: "Tu-Th 10:00-20:00, Fr 10:00-19:00, Sa 10:00-16:00, Su-Mo off"
-website: "https://www.talkingheadzsalon.com/"
+opening_hours: Tu-Th 10:00-20:00, Fr 10:00-19:00, Sa 10:00-16:00, Su-Mo off
+website: https://www.talkingheadzsalon.com/

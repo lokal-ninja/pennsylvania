@@ -1,11 +1,11 @@
 id: 560728939
-type: way
+type: node
 latitude: 40.04793
 longitude: -75.63638
-postcode: "19341-1844"
+postcode: 19341-1844
 city: Exton
-street: "Marchwood Road"
-housenumber: 32
-phone: "+1 610-363-1640"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://stores.truevalue.com/pa/exton/6183"
+street: Marchwood Road
+housenumber: "32"
+phone: +1 610-363-1640
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://stores.truevalue.com/pa/exton/6183

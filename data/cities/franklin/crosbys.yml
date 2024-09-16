@@ -1,11 +1,11 @@
 id: 583795211
-type: way
+type: node
 latitude: 41.40433
 longitude: -79.8326
 postcode: "16323"
 city: Franklin
-street: "North 13th Street"
-housenumber: 151
+street: North 13th Street
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

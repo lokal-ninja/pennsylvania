@@ -1,11 +1,11 @@
 id: 156582070
-type: way
+type: node
 latitude: 40.98871
 longitude: -79.61397
 postcode: "16028"
 city: East Brady
-street: "Water St"
-housenumber: 319
+street: Water St
+housenumber: "319"
 phone: ""
 opening_hours: ""
 website: ""

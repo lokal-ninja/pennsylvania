@@ -1,11 +1,11 @@
 id: 1011533240
-type: way
+type: node
 latitude: 42.05511
 longitude: -79.77181
 postcode: "16442"
 city: Wattsburg
-street: "Weeks Valley Road"
-housenumber: 13488
+street: Weeks Valley Road
+housenumber: "13488"
 phone: ""
 opening_hours: ""
 website: ""

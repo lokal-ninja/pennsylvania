@@ -1,11 +1,11 @@
 id: 702544048
-type: way
+type: node
 latitude: 41.0076
 longitude: -76.45218
 postcode: "17815"
 city: Bloomsburg
-street: "Lightstreet Road"
-housenumber: 417
+street: Lightstreet Road
+housenumber: "417"
 phone: ""
 opening_hours: ""
 website: ""

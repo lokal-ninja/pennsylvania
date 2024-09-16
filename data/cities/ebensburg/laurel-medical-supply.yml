@@ -1,11 +1,11 @@
 id: 1043109720
-type: way
+type: node
 latitude: 40.48248
 longitude: -78.73215
 postcode: "15931"
 city: Ebensburg
-street: "South West Street"
-housenumber: 405
+street: South West Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1153025731
-type: way
+type: node
 latitude: 40.15912
 longitude: -75.40757
 postcode: "19403"
 city: Norristown
-street: "Ridge Pike"
-housenumber: 3246
-phone: "+1-610-631-1950"
-opening_hours: "Tu-Sa 10:00-17:00"
-website: "https://eaglepoolspa.com"
+street: Ridge Pike
+housenumber: "3246"
+phone: +1-610-631-1950
+opening_hours: Tu-Sa 10:00-17:00
+website: https://eaglepoolspa.com

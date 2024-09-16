@@ -1,11 +1,11 @@
 id: 152422544
-type: way
+type: node
 latitude: 39.96538
 longitude: -75.59252
 postcode: "19382"
 city: West Chester
-street: "East Market Street"
-housenumber: 725
-phone: "+1 610-696-2400"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off"
-website: "http://classiccoachwork.com/west-chester/"
+street: East Market Street
+housenumber: "725"
+phone: +1 610-696-2400
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off
+website: http://classiccoachwork.com/west-chester/

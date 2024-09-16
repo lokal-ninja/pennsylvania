@@ -1,11 +1,11 @@
 id: 254452304
-type: way
+type: node
 latitude: 41.77016
 longitude: -76.41856
 postcode: "18854"
 city: Wysox
-street: "Golden Mile Road"
-housenumber: 990
+street: Golden Mile Road
+housenumber: "990"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

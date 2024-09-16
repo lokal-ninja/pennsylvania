@@ -1,11 +1,11 @@
 id: 645298568
-type: way
+type: node
 latitude: 40.51435
 longitude: -76.11354
 postcode: "19554"
 city: Shartlesville
-street: "Roadside Drive"
-housenumber: 18
-phone: "+1 610 488 6955"
-opening_hours: "Mo 9:00-17:30; Tu off; We-Th 9:00-17:30; Fr-Su 9:00-18:30"
-website: "https://shartlesvillesheepskin.com/"
+street: Roadside Drive
+housenumber: "18"
+phone: +1 610 488 6955
+opening_hours: Mo 9:00-17:30; Tu off; We-Th 9:00-17:30; Fr-Su 9:00-18:30
+website: https://shartlesvillesheepskin.com/

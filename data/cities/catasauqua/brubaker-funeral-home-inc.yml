@@ -1,11 +1,11 @@
 id: 1274249088
-type: way
+type: node
 latitude: 40.65659
 longitude: -75.47474
 postcode: "18032"
 city: Catasauqua
-street: "Walnut Street"
-housenumber: 234
+street: Walnut Street
+housenumber: "234"
 phone: "+16102640601"
 opening_hours: ""
-website: "http://brubakerfuneralhome.com/"
+website: http://brubakerfuneralhome.com/

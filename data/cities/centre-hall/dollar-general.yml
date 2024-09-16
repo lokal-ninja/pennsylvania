@@ -1,11 +1,11 @@
 id: 235062306
-type: way
+type: node
 latitude: 40.83846
 longitude: -77.67846
 postcode: "16828"
 city: Centre Hall
-street: "South Pennsylvania Avenue"
-housenumber: 421
+street: South Pennsylvania Avenue
+housenumber: "421"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/pa/centre-hall/10082"
+website: https://www.dollargeneral.com/store-directory/pa/centre-hall/10082

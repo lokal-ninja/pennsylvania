@@ -1,11 +1,11 @@
 id: 709074551
-type: way
+type: node
 latitude: 39.86714
 longitude: -75.42359
 postcode: "19014"
 city: Aston
-street: "Concord Road"
-housenumber: 3300
-phone: "+1 610-497-5375"
-opening_hours: "06:00-22:00"
-website: "https://stores.giantfoodstores.com/pa/aston/3300-concord-rd"
+street: Concord Road
+housenumber: "3300"
+phone: +1 610-497-5375
+opening_hours: 06:00-22:00
+website: https://stores.giantfoodstores.com/pa/aston/3300-concord-rd

@@ -1,11 +1,11 @@
 id: 294568261
-type: way
+type: node
 latitude: 41.36121
 longitude: -75.67478
 postcode: "18507"
 city: Moosic
-street: "Shoppes Boulevard"
-housenumber: 5031
-phone: "+1 570-941-0970"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/pa/moosic/dsw-designer-shoe-warehouse-shoppes-at-montage.html"
+street: Shoppes Boulevard
+housenumber: "5031"
+phone: +1 570-941-0970
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/pa/moosic/dsw-designer-shoe-warehouse-shoppes-at-montage.html

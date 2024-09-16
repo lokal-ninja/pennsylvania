@@ -1,11 +1,11 @@
 id: 1211015579
-type: way
+type: node
 latitude: 40.17569
 longitude: -74.92001
 postcode: ""
 city: Langhorne
-street: "South Bellevue Avenue"
-housenumber: 121
+street: South Bellevue Avenue
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

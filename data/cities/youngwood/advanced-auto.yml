@@ -1,11 +1,11 @@
 id: 988359557
-type: way
+type: node
 latitude: 40.23347
 longitude: -79.58157
 postcode: "15697"
 city: Youngwood
-street: "South 3rd Street"
-housenumber: 250
-phone: "+1 724-635-4310"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/pa/youngwood/250-s-3rd-st"
+street: South 3rd Street
+housenumber: "250"
+phone: +1 724-635-4310
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/pa/youngwood/250-s-3rd-st

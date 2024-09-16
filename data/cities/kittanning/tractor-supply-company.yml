@@ -1,11 +1,11 @@
 id: 237172296
-type: way
+type: node
 latitude: 40.81347
 longitude: -79.54865
 postcode: "16201"
 city: Kittanning
-street: "Franklin Village Mall"
-housenumber: 31
-phone: "+1 724-545-1783"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Kittanning-PA-16201_709"
+street: Franklin Village Mall
+housenumber: "31"
+phone: +1 724-545-1783
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Kittanning-PA-16201_709

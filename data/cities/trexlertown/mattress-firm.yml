@@ -1,11 +1,11 @@
 id: 888981987
-type: way
+type: node
 latitude: 40.55143
 longitude: -75.59169
 postcode: "18087"
 city: Trexlertown
-street: "Hamilton Boulevard"
-housenumber: 6900
-phone: "+1 610-366-7932"
+street: Hamilton Boulevard
+housenumber: "6900"
+phone: +1 610-366-7932
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/pa/trexlertown/151008/"
+website: https://www.mattressfirm.com/en-us/stores/pa/trexlertown/151008/

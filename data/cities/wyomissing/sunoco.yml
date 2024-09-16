@@ -1,11 +1,11 @@
 id: 60945340
-type: way
+type: node
 latitude: 40.34435
 longitude: -75.99976
 postcode: "19610"
 city: Wyomissing
-street: "State Hill Road"
-housenumber: 3100
-phone: "+1 610-678-8283"
+street: State Hill Road
+housenumber: "3100"
+phone: +1 610-678-8283
 opening_hours: ""
-website: "https://www.sunoco.com/locations/store/3100-state-hill-rd-wyomissing-pa-0867624900"
+website: https://www.sunoco.com/locations/store/3100-state-hill-rd-wyomissing-pa-0867624900

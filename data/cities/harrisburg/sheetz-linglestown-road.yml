@@ -1,11 +1,11 @@
 id: 701019543
-type: way
+type: node
 latitude: 40.35239
 longitude: -76.71492
 postcode: "17112"
 city: Harrisburg
-street: "Linglestown Road"
-housenumber: 7970
-phone: "+1 717-545-2162"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/628"
+street: Linglestown Road
+housenumber: "7970"
+phone: +1 717-545-2162
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/628

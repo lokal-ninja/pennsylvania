@@ -1,11 +1,11 @@
 id: 420914573
-type: way
+type: node
 latitude: 39.82514
 longitude: -76.97376
 postcode: "17331"
 city: Hanover
-street: "George Street"
-housenumber: 1075
-phone: "+1 717-630-2259"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-17:00; Su off"
-website: "https://www.jiffylube.com/locations/pa/hanover/1482"
+street: George Street
+housenumber: "1075"
+phone: +1 717-630-2259
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-17:00; Su off
+website: https://www.jiffylube.com/locations/pa/hanover/1482

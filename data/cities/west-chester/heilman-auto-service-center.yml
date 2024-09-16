@@ -1,11 +1,11 @@
 id: 284958357
-type: way
+type: node
 latitude: 39.9012
 longitude: -75.56299
 postcode: ""
 city: West Chester
-street: "Wilmington Pike"
-housenumber: 1401
-phone: "+1 610-692-2200"
-opening_hours: "Mo-Fr 07:00-18:00; Sa-Su off"
-website: "https://www.heilmanauto.com/"
+street: Wilmington Pike
+housenumber: "1401"
+phone: +1 610-692-2200
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su off
+website: https://www.heilmanauto.com/

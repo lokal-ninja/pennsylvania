@@ -1,11 +1,11 @@
 id: 1076507092
-type: way
+type: node
 latitude: 39.95943
 longitude: -75.61808
 postcode: "19380"
 city: West Chester
-street: "Downingtown Pike"
-housenumber: 698
-phone: "+1 610-430-7150"
-opening_hours: "06:00-22:00"
-website: "https://stores.giantfoodstores.com/pa/west-chester/698-downingtown-pike"
+street: Downingtown Pike
+housenumber: "698"
+phone: +1 610-430-7150
+opening_hours: 06:00-22:00
+website: https://stores.giantfoodstores.com/pa/west-chester/698-downingtown-pike

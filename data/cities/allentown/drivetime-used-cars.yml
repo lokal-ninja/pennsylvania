@@ -1,11 +1,11 @@
 id: 186396475
-type: way
+type: node
 latitude: 40.57211
 longitude: -75.48055
 postcode: "18103"
 city: Allentown
-street: "Lehigh Street"
-housenumber: 2221
+street: Lehigh Street
+housenumber: "2221"
 phone: ""
 opening_hours: ""
 website: ""

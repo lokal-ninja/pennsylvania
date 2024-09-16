@@ -1,11 +1,11 @@
 id: 951338313
-type: way
+type: node
 latitude: 40.18926
 longitude: -80.21284
 postcode: "15301"
 city: Washington
-street: "Washington Road"
-housenumber: 480
+street: Washington Road
+housenumber: "480"
 phone: ""
 opening_hours: ""
 website: ""

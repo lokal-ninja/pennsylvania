@@ -1,11 +1,11 @@
 id: 676323481
-type: way
+type: node
 latitude: 40.51352
 longitude: -75.60072
 postcode: "18011"
 city: Alburtis
-street: "East Penn Avenue"
-housenumber: 125
-phone: "+1-610-820-0222"
+street: East Penn Avenue
+housenumber: "125"
+phone: +1-610-820-0222
 opening_hours: ""
-website: "https://canns-bilco.com/"
+website: https://canns-bilco.com/

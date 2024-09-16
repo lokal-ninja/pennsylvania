@@ -1,11 +1,11 @@
 id: 1066663795
-type: way
+type: node
 latitude: 40.18219
 longitude: -80.26498
 postcode: "15301"
 city: Washington
-street: "Jefferson Avenue"
-housenumber: 1001
+street: Jefferson Avenue
+housenumber: "1001"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://www.riteaid.com/locations/pa/washington/1001-jefferson-avenue.html"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-19:00
+website: https://www.riteaid.com/locations/pa/washington/1001-jefferson-avenue.html

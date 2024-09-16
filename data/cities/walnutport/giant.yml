@@ -1,11 +1,11 @@
 id: 1239542063
-type: way
+type: node
 latitude: 40.75376
 longitude: -75.59382
 postcode: "18088"
 city: Walnutport
-street: "South Best Avenue"
-housenumber: 300
+street: South Best Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

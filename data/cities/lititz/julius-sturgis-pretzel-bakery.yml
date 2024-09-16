@@ -1,11 +1,11 @@
 id: 200020308
-type: way
+type: node
 latitude: 40.15633
 longitude: -76.30145
 postcode: "17543"
 city: Lititz
-street: "East Main Street"
-housenumber: 219
-phone: "+1 717-626-4354"
-opening_hours: "Mo-Sa 10:30-16:30; Su 12:00-16:00"
-website: "https://juliussturgis.com/"
+street: East Main Street
+housenumber: "219"
+phone: +1 717-626-4354
+opening_hours: Mo-Sa 10:30-16:30; Su 12:00-16:00
+website: https://juliussturgis.com/

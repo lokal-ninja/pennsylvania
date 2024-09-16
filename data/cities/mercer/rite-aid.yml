@@ -1,11 +1,11 @@
 id: 780901082
-type: way
+type: node
 latitude: 41.23039
 longitude: -80.23954
 postcode: "16137"
 city: Mercer
-street: "Franklin Street"
-housenumber: 100
+street: Franklin Street
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/pa/mercer/100-franklin-street.html"
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00
+website: https://www.riteaid.com/locations/pa/mercer/100-franklin-street.html

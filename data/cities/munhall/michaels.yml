@@ -1,11 +1,11 @@
 id: 451993321
-type: way
+type: node
 latitude: 40.41208
 longitude: -79.90348
-postcode: "15120-5000"
+postcode: 15120-5000
 city: Munhall
-street: "East Waterfront Drive"
-housenumber: 660
-phone: "+1 412-461-4920"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/pa/munhall/1581"
+street: East Waterfront Drive
+housenumber: "660"
+phone: +1 412-461-4920
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/pa/munhall/1581

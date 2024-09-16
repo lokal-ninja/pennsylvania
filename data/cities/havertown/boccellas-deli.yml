@@ -1,11 +1,11 @@
 id: 680768146
-type: way
+type: node
 latitude: 39.98698
 longitude: -75.3121
 postcode: "19083"
 city: Havertown
-street: "West Eagle Road"
-housenumber: 37
+street: West Eagle Road
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

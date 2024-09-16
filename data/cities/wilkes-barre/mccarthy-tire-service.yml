@@ -1,11 +1,11 @@
 id: 294568200
-type: way
+type: node
 latitude: 41.25065
 longitude: -75.85848
 postcode: "18702"
 city: Wilkes-Barre
-street: "Kidder Street"
-housenumber: 340
+street: Kidder Street
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 326280024
-type: way
+type: node
 latitude: 40.78491
 longitude: -77.84819
 postcode: "16801"
 city: State College
-street: "South Atherton Street"
-housenumber: 1207
+street: South Atherton Street
+housenumber: "1207"
 phone: ""
 opening_hours: ""
-website: "https://nittanyoffice.com/"
+website: https://nittanyoffice.com/

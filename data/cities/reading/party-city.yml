@@ -1,11 +1,11 @@
 id: 263741607
-type: way
+type: node
 latitude: 40.36128
 longitude: -75.98575
 postcode: "19610"
 city: Reading
-street: "Papermill Road"
-housenumber: 2785
-phone: "+1 484-258-9709"
-opening_hours: "Mo,Fr 09:00-22:00; Tu-Th,Su 09:00-21:00; Sa 08:00-22:00"
-website: "https://stores.partycity.com/us/pa/reading/party-store-pc1174.html"
+street: Papermill Road
+housenumber: "2785"
+phone: +1 484-258-9709
+opening_hours: Mo,Fr 09:00-22:00; Tu-Th,Su 09:00-21:00; Sa 08:00-22:00
+website: https://stores.partycity.com/us/pa/reading/party-store-pc1174.html

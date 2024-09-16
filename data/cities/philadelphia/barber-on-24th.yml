@@ -4,8 +4,8 @@ latitude: 39.94665
 longitude: -75.18061
 postcode: "19146"
 city: Philadelphia
-street: "Lombard Street"
-housenumber: 2401
+street: Lombard Street
+housenumber: "2401"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00"
-website: "https://barberon24th.com/"
+opening_hours: Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00
+website: https://barberon24th.com/

@@ -1,11 +1,11 @@
 id: 377919068
-type: way
+type: node
 latitude: 40.78283
 longitude: -80.38451
 postcode: "15010"
 city: Beaver Falls
-street: "Chippewa Town Center"
-housenumber: 100
-phone: "+1 724-843-1100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3223/beaver-falls-pa/whats-new"
+street: Chippewa Town Center
+housenumber: "100"
+phone: +1 724-843-1100
+opening_hours: 24/7
+website: https://www.walmart.com/store/3223/beaver-falls-pa/whats-new

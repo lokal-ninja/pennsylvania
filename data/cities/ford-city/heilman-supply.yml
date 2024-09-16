@@ -1,11 +1,11 @@
 id: 571414454
-type: way
+type: node
 latitude: 40.77717
 longitude: -79.52698
 postcode: "16226"
 city: Ford City
-street: "3rd Avenue"
-housenumber: 1406
-phone: "+1 724-763-9719"
+street: 3rd Avenue
+housenumber: "1406"
+phone: +1 724-763-9719
 opening_hours: ""
 website: ""

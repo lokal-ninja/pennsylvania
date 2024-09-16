@@ -1,11 +1,11 @@
 id: 367161617
-type: way
+type: node
 latitude: 40.07256
 longitude: -74.96699
 postcode: "19020"
 city: Bensalem
-street: "Bristol Pike"
-housenumber: 1336
-phone: "+1 215-638-8190"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-22:00"
-website: "https://local.acmemarkets.com/pa/bensalem/1336-bristol-pike-suite-100.html"
+street: Bristol Pike
+housenumber: "1336"
+phone: +1 215-638-8190
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-22:00
+website: https://local.acmemarkets.com/pa/bensalem/1336-bristol-pike-suite-100.html

@@ -1,11 +1,11 @@
 id: 463939534
-type: way
+type: node
 latitude: 40.14291
 longitude: -76.3051
 postcode: "17543"
 city: Lititz
-street: "South Broad Street"
-housenumber: 730
-phone: "+1 717-568-8046"
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://www.kbford.com"
+street: South Broad Street
+housenumber: "730"
+phone: +1 717-568-8046
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 09:00-16:00
+website: https://www.kbford.com

@@ -1,11 +1,11 @@
 id: 1299929636
-type: way
+type: node
 latitude: 40.64274
 longitude: -75.47394
 postcode: "18052"
 city: Whitehall
-street: "3rd Street"
-housenumber: 1260
+street: 3rd Street
+housenumber: "1260"
 phone: "+16102006961"
 opening_hours: ""
-website: "http://anniesexpresslaundry.com/"
+website: http://anniesexpresslaundry.com/

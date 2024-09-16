@@ -1,11 +1,11 @@
 id: 566855280
-type: way
+type: node
 latitude: 40.98917
 longitude: -75.2225
 postcode: "18360"
 city: Stroudsburg
-street: "North 9th Street"
-housenumber: 1122
+street: North 9th Street
+housenumber: "1122"
 phone: ""
 opening_hours: ""
 website: ""

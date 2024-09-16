@@ -1,11 +1,11 @@
 id: 1060404561
-type: way
+type: node
 latitude: 39.7869
 longitude: -76.96909
 postcode: "17331"
 city: Hanover
-street: "Baltimore Street"
-housenumber: 851
-phone: "+1 717-524-1658"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/pa/hanover/851-baltimore-st"
+street: Baltimore Street
+housenumber: "851"
+phone: +1 717-524-1658
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/pa/hanover/851-baltimore-st

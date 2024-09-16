@@ -1,11 +1,11 @@
 id: 893774783
-type: way
+type: node
 latitude: 40.4167
 longitude: -80.04465
 postcode: "15220"
 city: Pittsburgh
-street: "Greentree Road"
-housenumber: 999
+street: Greentree Road
+housenumber: "999"
 phone: ""
 opening_hours: ""
 website: ""

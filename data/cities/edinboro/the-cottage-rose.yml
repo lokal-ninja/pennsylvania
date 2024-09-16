@@ -1,11 +1,11 @@
 id: 1064001852
-type: way
+type: node
 latitude: 41.87374
 longitude: -80.13173
 postcode: "16412"
 city: Edinboro
-street: "Meadville Street"
-housenumber: 121
+street: Meadville Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

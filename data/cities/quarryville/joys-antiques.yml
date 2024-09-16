@@ -1,11 +1,11 @@
 id: 608295467
-type: way
+type: node
 latitude: 39.77906
 longitude: -76.1171
 postcode: ""
 city: Quarryville
-street: "Nottingham Road"
-housenumber: 400
-phone: "+1 717-529-2693; +1 717-314-2841"
-opening_hours: "Mo-Tu off; We-Su 10:00-17:00"
+street: Nottingham Road
+housenumber: "400"
+phone: +1 717-529-2693; +1 717-314-2841
+opening_hours: Mo-Tu off; We-Su 10:00-17:00
 website: ""

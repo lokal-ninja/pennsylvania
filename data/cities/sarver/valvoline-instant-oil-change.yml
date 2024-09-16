@@ -1,11 +1,11 @@
 id: 479733575
-type: way
+type: node
 latitude: 40.70116
 longitude: -79.72174
 postcode: "16055"
 city: Sarver
-street: "South Pike Road"
-housenumber: 698
+street: South Pike Road
+housenumber: "698"
 phone: "+18783325008"
 opening_hours: ""
-website: "https://store.vioc.com/pa/sarver/oil-change-060123.html"
+website: https://store.vioc.com/pa/sarver/oil-change-060123.html

@@ -1,11 +1,11 @@
 id: 825210981
-type: way
+type: node
 latitude: 40.77603
 longitude: -77.79193
 postcode: "16827"
 city: Boalsburg
-street: "East Main Street"
-housenumber: 121
-phone: "+1-814-466-7788"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
-website: "https://www.basket-full.com/"
+street: East Main Street
+housenumber: "121"
+phone: +1-814-466-7788
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
+website: https://www.basket-full.com/

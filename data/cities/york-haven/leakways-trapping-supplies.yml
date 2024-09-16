@@ -1,11 +1,11 @@
 id: 667595871
-type: way
+type: node
 latitude: 40.11945
 longitude: -76.7414
 postcode: ""
 city: York Haven
-street: "Pleasant Grove Road"
-housenumber: 855
+street: Pleasant Grove Road
+housenumber: "855"
 phone: ""
 opening_hours: ""
 website: ""

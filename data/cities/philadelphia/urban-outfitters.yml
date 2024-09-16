@@ -1,11 +1,11 @@
 id: 334239442
-type: way
+type: node
 latitude: 39.95
 longitude: -75.16883
 postcode: "19103"
 city: Philadelphia
-street: "Walnut Street"
-housenumber: 1627
-phone: "+1 215-569-3131"
-opening_hours: "Mo-Th 11:00-20:00; Fr-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.urbanoutfitters.com/stores/urban-outfitters-walnut-street"
+street: Walnut Street
+housenumber: "1627"
+phone: +1 215-569-3131
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.urbanoutfitters.com/stores/urban-outfitters-walnut-street

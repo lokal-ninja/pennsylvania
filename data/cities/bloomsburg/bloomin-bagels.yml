@@ -1,11 +1,11 @@
 id: 701105338
-type: way
+type: node
 latitude: 41.00406
 longitude: -76.45538
 postcode: "17815"
 city: Bloomsburg
-street: "East Main Street"
-housenumber: 65
-phone: "+1 570-387-9816"
+street: East Main Street
+housenumber: "65"
+phone: +1 570-387-9816
 opening_hours: ""
 website: ""

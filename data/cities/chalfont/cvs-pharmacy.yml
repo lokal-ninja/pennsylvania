@@ -1,11 +1,11 @@
 id: 526975031
-type: way
+type: node
 latitude: 40.24409
 longitude: -75.19104
 postcode: "18914"
 city: Chalfont
-street: "County Line Road"
-housenumber: 3265
+street: County Line Road
+housenumber: "3265"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.cvs.com/store-locator/chalfont-pa-pharmacies/3265-county-line-rd-chalfont-pa-18914/storeid=5241"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.cvs.com/store-locator/chalfont-pa-pharmacies/3265-county-line-rd-chalfont-pa-18914/storeid=5241

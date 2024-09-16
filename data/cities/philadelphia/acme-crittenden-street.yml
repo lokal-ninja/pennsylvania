@@ -1,11 +1,11 @@
 id: 577333781
-type: way
+type: node
 latitude: 40.07197
 longitude: -75.1938
 postcode: "19118"
 city: Philadelphia
-street: "Crittenden Street"
-housenumber: 7700
-phone: "+1 215-248-6490"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00"
-website: "https://local.acmemarkets.com/pa/philadelphia/7700-crittenden-st.html"
+street: Crittenden Street
+housenumber: "7700"
+phone: +1 215-248-6490
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00
+website: https://local.acmemarkets.com/pa/philadelphia/7700-crittenden-st.html

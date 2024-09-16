@@ -1,11 +1,11 @@
 id: 531107414
-type: way
+type: node
 latitude: 40.65095
 longitude: -75.4953
 postcode: "18052"
 city: Whitehall
-street: "Eberhart Road"
-housenumber: 3699
+street: Eberhart Road
+housenumber: "3699"
 phone: "+16104339696"
 opening_hours: ""
-website: "https://cjtire.com/"
+website: https://cjtire.com/

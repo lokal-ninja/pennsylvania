@@ -1,11 +1,11 @@
 id: 1245695149
-type: way
+type: node
 latitude: 39.7453
 longitude: -75.80954
 postcode: "19350"
 city: Landenberg
-street: "New London Road"
-housenumber: 1535
+street: New London Road
+housenumber: "1535"
 phone: ""
 opening_hours: ""
 website: ""

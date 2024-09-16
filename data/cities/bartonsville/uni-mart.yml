@@ -1,11 +1,11 @@
 id: 570395310
-type: way
+type: node
 latitude: 41.00164
 longitude: -75.27101
 postcode: "18321"
 city: Bartonsville
-street: "PA 611"
-housenumber: 3577
+street: PA 611
+housenumber: "3577"
 phone: ""
 opening_hours: ""
 website: ""

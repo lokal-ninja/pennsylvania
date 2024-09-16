@@ -1,11 +1,11 @@
 id: 918267730
-type: way
+type: node
 latitude: 40.30154
 longitude: -76.81488
 postcode: "17109"
 city: Harrisburg
-street: "Jonestown Road"
-housenumber: 4610
+street: Jonestown Road
+housenumber: "4610"
 phone: "+17178396326"
 opening_hours: ""
 website: ""

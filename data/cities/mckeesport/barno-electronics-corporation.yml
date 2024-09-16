@@ -1,11 +1,11 @@
 id: 419711708
-type: way
+type: node
 latitude: 40.30987
 longitude: -79.82982
 postcode: "15135"
 city: McKeesport
-street: "West Smithfield Street"
-housenumber: 5403
-phone: "+1-412-751-5966"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "http://www.barnoelec.com/"
+street: West Smithfield Street
+housenumber: "5403"
+phone: +1-412-751-5966
+opening_hours: Mo-Fr 08:30-17:00
+website: http://www.barnoelec.com/

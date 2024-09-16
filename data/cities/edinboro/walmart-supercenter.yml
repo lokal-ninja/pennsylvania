@@ -1,11 +1,11 @@
 id: 824940761
-type: way
+type: node
 latitude: 41.87712
 longitude: -80.17329
 postcode: "16412"
 city: Edinboro
-street: "Washington Towne Boulevard"
-housenumber: 108
-phone: "+1 814-734-0900"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/3253-edinboro-pa"
+street: Washington Towne Boulevard
+housenumber: "108"
+phone: +1 814-734-0900
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/3253-edinboro-pa

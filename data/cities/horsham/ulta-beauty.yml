@@ -4,8 +4,8 @@ latitude: 40.15854
 longitude: -75.14312
 postcode: "19044"
 city: Horsham
-street: "Welsh Road"
-housenumber: 100
-phone: "+1 215-659-1816"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/horsham-pa-265"
+street: Welsh Road
+housenumber: "100"
+phone: +1 215-659-1816
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/horsham-pa-265

@@ -1,11 +1,11 @@
 id: 139860550
-type: way
+type: node
 latitude: 40.0591
 longitude: -76.31984
 postcode: "17601"
 city: Lancaster
-street: "Manheim Pike"
-housenumber: 1180
-phone: "+1 717-299-6437"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/421"
+street: Manheim Pike
+housenumber: "1180"
+phone: +1 717-299-6437
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/421

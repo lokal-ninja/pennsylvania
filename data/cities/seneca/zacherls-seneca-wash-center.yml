@@ -1,11 +1,11 @@
 id: 579462313
-type: way
+type: node
 latitude: 41.37496
 longitude: -79.7031
 postcode: "16346"
 city: Seneca
-street: "South Main Street"
-housenumber: 300
+street: South Main Street
+housenumber: "300"
 phone: ""
-opening_hours: "24/7"
-website: "SenecaWash.com"
+opening_hours: 24/7
+website: SenecaWash.com

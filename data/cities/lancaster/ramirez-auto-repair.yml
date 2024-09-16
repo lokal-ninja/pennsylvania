@@ -1,11 +1,11 @@
 id: 260698210
-type: way
+type: node
 latitude: 40.03843
 longitude: -76.27469
 postcode: "17602"
 city: Lancaster
-street: "East King Street"
-housenumber: 1423
+street: East King Street
+housenumber: "1423"
 phone: ""
 opening_hours: ""
 website: ""

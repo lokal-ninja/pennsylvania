@@ -1,11 +1,11 @@
 id: 707124495
-type: way
+type: node
 latitude: 40.82644
 longitude: -78.34331
 postcode: "16651"
 city: Houtzdale
-street: "Spring Street"
-housenumber: 541
-phone: "+1 814-378-7659"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-19:00"
-website: "https://www.shopnsavefood.com/circulars/Page/1/Base/2/191121_SNS//?store=3339"
+street: Spring Street
+housenumber: "541"
+phone: +1 814-378-7659
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-19:00
+website: https://www.shopnsavefood.com/circulars/Page/1/Base/2/191121_SNS//?store=3339

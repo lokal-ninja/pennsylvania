@@ -1,11 +1,11 @@
 id: 628136789
-type: way
+type: node
 latitude: 40.07246
 longitude: -75.07586
 postcode: "19111"
 city: Philadelphia
-street: "Verree Road"
-housenumber: 7965
+street: Verree Road
+housenumber: "7965"
 phone: ""
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/philadelphia/7965-verree-rd-40134"
+website: https://www.7-eleven.com/locations/pa/philadelphia/7965-verree-rd-40134

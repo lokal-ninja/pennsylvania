@@ -1,11 +1,11 @@
 id: 465430856
-type: way
+type: node
 latitude: 40.31343
 longitude: -76.42418
 postcode: "17042"
 city: Lebanon
-street: "Quentin Road"
-housenumber: 1700
-phone: "+1 717-454-4355"
-opening_hours: "Mo-We,Fr 08:00-18:00; Th 08:00-20:30; Sa 08:00-17:00; Su 09:00-17:00"
-website: "https://www.mavis.com/locations/lebanon-quentin-rd-pa/"
+street: Quentin Road
+housenumber: "1700"
+phone: +1 717-454-4355
+opening_hours: Mo-We,Fr 08:00-18:00; Th 08:00-20:30; Sa 08:00-17:00; Su 09:00-17:00
+website: https://www.mavis.com/locations/lebanon-quentin-rd-pa/

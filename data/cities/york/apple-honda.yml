@@ -1,11 +1,11 @@
 id: 241949809
-type: way
+type: node
 latitude: 39.97457
 longitude: -76.76314
 postcode: "17404"
 city: York
-street: "Kenneth Road"
-housenumber: 1313
+street: Kenneth Road
+housenumber: "1313"
 phone: ""
 opening_hours: ""
 website: ""

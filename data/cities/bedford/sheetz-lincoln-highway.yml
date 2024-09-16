@@ -1,11 +1,11 @@
 id: 1079794476
-type: way
+type: node
 latitude: 40.0159
 longitude: -78.46699
 postcode: "15522"
 city: Bedford
-street: "Lincoln Highway"
-housenumber: 9402
-phone: "+1 814-623-9392"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/28"
+street: Lincoln Highway
+housenumber: "9402"
+phone: +1 814-623-9392
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/28

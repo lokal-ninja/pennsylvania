@@ -1,11 +1,11 @@
 id: 398725492
-type: way
+type: node
 latitude: 39.8634
 longitude: -75.42677
 postcode: "19014"
 city: Aston
-street: "Pennell Road"
-housenumber: 4940
-phone: "+1 610-364-1100"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://concordpetfoods.com/a/pages/locations/30/valley-view-shopping-center"
+street: Pennell Road
+housenumber: "4940"
+phone: +1 610-364-1100
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://concordpetfoods.com/a/pages/locations/30/valley-view-shopping-center

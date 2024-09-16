@@ -1,11 +1,11 @@
 id: 817733964
-type: way
+type: node
 latitude: 39.82133
 longitude: -77.23364
 postcode: "17325"
 city: Gettysburg
-street: "Steinwehr Avenue"
-housenumber: 219
-phone: "+1 717-334-0347"
-opening_hours: "Mo-Tu,Th-Fr 11:00-17:00; We,Su off; Sa 09:00-17:00"
-website: "https://www.horsesoldier.com/"
+street: Steinwehr Avenue
+housenumber: "219"
+phone: +1 717-334-0347
+opening_hours: Mo-Tu,Th-Fr 11:00-17:00; We,Su off; Sa 09:00-17:00
+website: https://www.horsesoldier.com/

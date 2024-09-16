@@ -1,11 +1,11 @@
 id: 696275830
-type: way
+type: node
 latitude: 40.03477
 longitude: -75.06375
 postcode: "19149"
 city: Philadelphia
-street: "Harbison Avenue"
-housenumber: 6501
-phone: "+1 215-333-4300"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/philadelphia-pa-pharmacies/6501-harbison-avenue-philadelphia-pa-19149/storeid=371"
+street: Harbison Avenue
+housenumber: "6501"
+phone: +1 215-333-4300
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/philadelphia-pa-pharmacies/6501-harbison-avenue-philadelphia-pa-19149/storeid=371

@@ -1,11 +1,11 @@
 id: 143329907
-type: way
+type: node
 latitude: 40.05981
 longitude: -75.23903
 postcode: ""
 city: Philadelphia
-street: "Ridge Avenue"
-housenumber: 8300
+street: Ridge Avenue
+housenumber: "8300"
 phone: ""
 opening_hours: ""
 website: ""

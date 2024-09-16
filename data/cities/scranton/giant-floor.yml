@@ -1,11 +1,11 @@
 id: 422333296
-type: way
+type: node
 latitude: 41.44575
 longitude: -75.67408
 postcode: "18508"
 city: Scranton
-street: "Morgan Highway"
-housenumber: 75
+street: Morgan Highway
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

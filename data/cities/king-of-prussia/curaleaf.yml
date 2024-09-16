@@ -1,11 +1,11 @@
 id: 93342094
-type: way
+type: node
 latitude: 40.08267
 longitude: -75.40065
 postcode: "19406"
 city: King of Prussia
-street: "North Warner Road"
-housenumber: 100
+street: North Warner Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

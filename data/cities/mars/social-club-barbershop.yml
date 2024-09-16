@@ -4,8 +4,8 @@ latitude: 40.69642
 longitude: -80.01018
 postcode: "16046"
 city: Mars
-street: "Grand Avenue"
-housenumber: 135
-phone: "+1-724-991-1451"
+street: Grand Avenue
+housenumber: "135"
+phone: +1-724-991-1451
 opening_hours: ""
-website: "https://facebook.com/SocialClubBarbershopMars/"
+website: https://facebook.com/SocialClubBarbershopMars/

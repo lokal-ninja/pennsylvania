@@ -1,11 +1,11 @@
 id: 1203840858
-type: way
+type: node
 latitude: 41.01678
 longitude: -76.49064
 postcode: "17815"
 city: Bloomsburg
-street: "Columbia Mall Drive"
-housenumber: 177
-phone: "+1 844-460-7152"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/pa/bloomsburg/177-columbia-mall-dr"
+street: Columbia Mall Drive
+housenumber: "177"
+phone: +1 844-460-7152
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/pa/bloomsburg/177-columbia-mall-dr

@@ -1,11 +1,11 @@
 id: 1186778650
-type: way
+type: node
 latitude: 40.04646
 longitude: -75.14199
 postcode: "19141"
 city: Philadelphia
-street: "North Broad Street"
-housenumber: 6119
-phone: "+1 833-460-7011"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/pa/philadelphia/6119-n-broad-street"
+street: North Broad Street
+housenumber: "6119"
+phone: +1 833-460-7011
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/pa/philadelphia/6119-n-broad-street

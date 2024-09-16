@@ -1,11 +1,11 @@
 id: 1274280434
-type: way
+type: node
 latitude: 40.64399
 longitude: -75.48335
 postcode: "18052"
 city: Whitehall
-street: "Main Street"
-housenumber: 2459
+street: Main Street
+housenumber: "2459"
 phone: "+16102660366"
 opening_hours: ""
-website: "https://www.jacobs-auto.net/"
+website: https://www.jacobs-auto.net/

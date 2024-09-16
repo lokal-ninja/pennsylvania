@@ -1,11 +1,11 @@
 id: 1188500008
-type: way
+type: node
 latitude: 40.06567
 longitude: -76.3135
 postcode: "17601"
 city: Lancaster
-street: "Fruitville Pike"
-housenumber: 1563
-phone: "+1 717-984-5700"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/lancaster"
+street: Fruitville Pike
+housenumber: "1563"
+phone: +1 717-984-5700
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/lancaster

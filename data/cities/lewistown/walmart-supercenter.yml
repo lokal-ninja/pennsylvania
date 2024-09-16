@@ -1,11 +1,11 @@
 id: 150646348
-type: way
+type: node
 latitude: 40.5816
 longitude: -77.61232
 postcode: "17044"
 city: Lewistown
-street: "US Highway 522 South"
-housenumber: 10180
-phone: "+1 717-242-6201"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1607/lewistown-pa/whats-new"
+street: US Highway 522 South
+housenumber: "10180"
+phone: +1 717-242-6201
+opening_hours: 24/7
+website: https://www.walmart.com/store/1607/lewistown-pa/whats-new

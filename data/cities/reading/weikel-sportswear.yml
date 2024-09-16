@@ -1,11 +1,11 @@
 id: 727580806
-type: way
+type: node
 latitude: 40.32879
 longitude: -75.87414
 postcode: "19606"
 city: Reading
-street: "St Lawrence Avenue"
-housenumber: 3100
+street: St Lawrence Avenue
+housenumber: "3100"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

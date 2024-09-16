@@ -1,11 +1,11 @@
 id: 45296934
-type: way
+type: node
 latitude: 41.42321
 longitude: -75.65596
 postcode: "18509"
 city: Scranton
-street: "Walnut Street"
-housenumber: 10
+street: Walnut Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

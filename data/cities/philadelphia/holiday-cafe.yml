@@ -1,11 +1,11 @@
 id: 487412694
-type: way
+type: node
 latitude: 39.92819
 longitude: -75.17553
 postcode: ""
 city: Philadelphia
-street: "South 18th Street"
-housenumber: 1824
+street: South 18th Street
+housenumber: "1824"
 phone: ""
 opening_hours: ""
 website: ""

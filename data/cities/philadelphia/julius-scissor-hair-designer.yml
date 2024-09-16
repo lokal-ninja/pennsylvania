@@ -4,8 +4,8 @@ latitude: 39.94973
 longitude: -75.17565
 postcode: "19103"
 city: Philadelphia
-street: "Locust Street"
-housenumber: 2045
-phone: "+1 215-567-7222"
-opening_hours: "Mo,Tu,Su off; We-Fr 10:00-17:30; Sa 09:00-16:00"
-website: "https://juliusscissorhair.wixsite.com/mysite"
+street: Locust Street
+housenumber: "2045"
+phone: +1 215-567-7222
+opening_hours: Mo,Tu,Su off; We-Fr 10:00-17:30; Sa 09:00-16:00
+website: https://juliusscissorhair.wixsite.com/mysite

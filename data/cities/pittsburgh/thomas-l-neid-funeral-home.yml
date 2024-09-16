@@ -1,11 +1,11 @@
 id: 534158540
-type: way
+type: node
 latitude: 40.42064
 longitude: -79.88778
 postcode: "15218"
 city: Pittsburgh
-street: "Washington Avenue"
-housenumber: 7441
-phone: "+1-412-271-0345"
+street: Washington Avenue
+housenumber: "7441"
+phone: +1-412-271-0345
 opening_hours: ""
 website: ""

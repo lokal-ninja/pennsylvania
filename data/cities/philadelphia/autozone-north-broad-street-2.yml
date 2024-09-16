@@ -1,11 +1,11 @@
 id: 883078027
-type: way
+type: node
 latitude: 39.99077
 longitude: -75.15503
 postcode: ""
 city: Philadelphia
-street: "North Broad Street"
-housenumber: 2431
+street: North Broad Street
+housenumber: "2431"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/pa/philadelphia/2445-n-broad-st.html"
+website: https://www.autozone.com/locations/pa/philadelphia/2445-n-broad-st.html

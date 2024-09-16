@@ -1,11 +1,11 @@
 id: 266053839
-type: way
+type: node
 latitude: 39.92933
 longitude: -75.17834
 postcode: "19145"
 city: Philadelphia
-street: "South 20th Street"
-housenumber: 1729
-phone: "+1 215-468-1024"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-18:30; Sa 07:30-18:00; Su closed"
-website: "http://www.cicionebeverage.com"
+street: South 20th Street
+housenumber: "1729"
+phone: +1 215-468-1024
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-18:30; Sa 07:30-18:00; Su closed
+website: http://www.cicionebeverage.com

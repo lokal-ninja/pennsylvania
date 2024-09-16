@@ -1,11 +1,11 @@
 id: 824725432
-type: way
+type: node
 latitude: 41.35991
 longitude: -74.71128
 postcode: "18336"
 city: Matamoras
-street: "Elizabeth Street"
-housenumber: 1
+street: Elizabeth Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

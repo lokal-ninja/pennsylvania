@@ -1,11 +1,11 @@
 id: 1071382707
-type: way
+type: node
 latitude: 39.83081
 longitude: -77.23315
 postcode: "17325"
 city: Gettysburg
-street: "Chambersburg Street"
-housenumber: 62
-phone: "+1 717-420-5280"
-opening_hours: "Mo,Th 11:00-18:00; Tu,We off; Fr,Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://www.calimorecreations.com"
+street: Chambersburg Street
+housenumber: "62"
+phone: +1 717-420-5280
+opening_hours: Mo,Th 11:00-18:00; Tu,We off; Fr,Sa 11:00-19:00; Su 11:00-17:00
+website: https://www.calimorecreations.com

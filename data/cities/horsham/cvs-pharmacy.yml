@@ -1,11 +1,11 @@
 id: 665619738
-type: way
+type: node
 latitude: 40.17177
 longitude: -75.12894
 postcode: "19044"
 city: Horsham
-street: "Easton Road"
-housenumber: 101
+street: Easton Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/horsham-pa-pharmacies/101-easton-rd-suite-b-horsham-pa-19044/storeid=1191"
+website: https://www.cvs.com/store-locator/horsham-pa-pharmacies/101-easton-rd-suite-b-horsham-pa-19044/storeid=1191

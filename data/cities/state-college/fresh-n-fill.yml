@@ -1,11 +1,11 @@
 id: 261432621
-type: way
+type: node
 latitude: 40.79293
 longitude: -77.856
 postcode: "16801"
 city: State College
-street: "South Pugh Street"
-housenumber: 401
+street: South Pugh Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

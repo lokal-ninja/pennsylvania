@@ -4,8 +4,8 @@ latitude: 39.97736
 longitude: -75.27388
 postcode: "19151"
 city: Philadelphia
-street: "City Line Avenue"
-housenumber: 7720
-phone: "+1 215-473-2334"
-opening_hours: "09:00-22:00"
-website: "https://www.rossstores.com"
+street: City Line Avenue
+housenumber: "7720"
+phone: +1 215-473-2334
+opening_hours: 09:00-22:00
+website: https://www.rossstores.com

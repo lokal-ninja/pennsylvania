@@ -4,8 +4,8 @@ latitude: 39.95828
 longitude: -75.60722
 postcode: ""
 city: West Chester
-street: "West Market Street"
-housenumber: 202
-phone: "+1 484-947-5024"
-opening_hours: "We-Sa 07:30-17:00; Su 09:00-14:00"
-website: "https://www.facebook.com/magicbaguette/"
+street: West Market Street
+housenumber: "202"
+phone: +1 484-947-5024
+opening_hours: We-Sa 07:30-17:00; Su 09:00-14:00
+website: https://www.facebook.com/magicbaguette/

@@ -1,11 +1,11 @@
 id: 936158842
-type: way
+type: node
 latitude: 40.3304
 longitude: -76.85563
 postcode: "17110"
 city: Harrisburg
-street: "Linglestown Road"
-housenumber: 2604
+street: Linglestown Road
+housenumber: "2604"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-20:00"
-website: "https://www.riteaid.com/locations/pa/harrisburg/2604-linglestown-road.html"
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-20:00
+website: https://www.riteaid.com/locations/pa/harrisburg/2604-linglestown-road.html

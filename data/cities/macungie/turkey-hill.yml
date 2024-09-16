@@ -1,11 +1,11 @@
 id: 1273185116
-type: way
+type: node
 latitude: 40.51864
 longitude: -75.55998
 postcode: "18062"
 city: Macungie
-street: "West Main Street"
-housenumber: 141
+street: West Main Street
+housenumber: "141"
 phone: "+14842326183"
 opening_hours: ""
 website: ""

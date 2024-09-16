@@ -1,11 +1,12 @@
 id: 1062764230
-type: way
+type: node
 latitude: 40.34944
 longitude: -76.42227
 postcode: "17046"
 city: Lebanon
-street: "North 7th Street"
-housenumber: 640
-phone: "+1 717-272-3681"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-21:00; Dec 25,Jan 01 08:00-20:00; Dec 24,Dec 31 07:00-20:00"
-website: "https://www.idealfoodbaskets.com"
+street: North 7th Street
+housenumber: "640"
+phone: +1 717-272-3681
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-21:00; Dec 25,Jan 01 08:00-20:00; Dec 24,Dec
+    31 07:00-20:00
+website: https://www.idealfoodbaskets.com

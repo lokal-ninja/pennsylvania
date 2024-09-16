@@ -1,11 +1,11 @@
 id: 630994758
-type: way
+type: node
 latitude: 41.13988
 longitude: -80.17512
 postcode: "16137"
 city: Mercer
-street: "Champion Dr"
-housenumber: 1000
-phone: "+1 724-748-9618"
+street: Champion Dr
+housenumber: "1000"
+phone: +1 724-748-9618
 opening_hours: ""
-website: "https://www.hovisauto.com/"
+website: https://www.hovisauto.com/

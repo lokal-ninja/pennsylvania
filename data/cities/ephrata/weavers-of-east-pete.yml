@@ -1,11 +1,11 @@
 id: 740877043
-type: way
+type: node
 latitude: 40.1833
 longitude: -76.19212
 postcode: ""
 city: Ephrata
-street: "South Reading Road"
-housenumber: 201
-phone: "+1 717-721-1789"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-17:00; Sa 10:00-16:00; Su off"
+street: South Reading Road
+housenumber: "201"
+phone: +1 717-721-1789
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-17:00; Sa 10:00-16:00; Su off
 website: ""

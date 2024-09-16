@@ -1,11 +1,11 @@
 id: 141428966
-type: way
+type: node
 latitude: 40.05408
 longitude: -76.39934
 postcode: "17601"
 city: Lancaster
-street: "Centerville Road"
-housenumber: 530
+street: Centerville Road
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

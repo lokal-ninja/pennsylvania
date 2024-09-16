@@ -1,11 +1,11 @@
 id: 338332553
-type: way
+type: node
 latitude: 39.88548
 longitude: -79.73426
 postcode: "15401"
 city: Uniontown
-street: "Morgantown Road"
-housenumber: 575
-phone: "+1 724-430-0870"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Morgantown Road
+housenumber: "575"
+phone: +1 724-430-0870
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

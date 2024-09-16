@@ -1,11 +1,11 @@
 id: 670548715
-type: way
+type: node
 latitude: 40.17595
 longitude: -78.37868
 postcode: "16659"
 city: Loysburg
-street: "Woodbury Pike"
-housenumber: 2092
+street: Woodbury Pike
+housenumber: "2092"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/pa/loysburg/11685"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/pa/loysburg/11685

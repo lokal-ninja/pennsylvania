@@ -1,11 +1,11 @@
 id: 658017100
-type: way
+type: node
 latitude: 40.62315
 longitude: -75.40074
 postcode: "18018"
 city: Bethlehem
-street: "West Broad Street"
-housenumber: 1302
-phone: "+1 610 691 2600"
+street: West Broad Street
+housenumber: "1302"
+phone: +1 610 691 2600
 opening_hours: ""
-website: "https://www.aprsupply.com"
+website: https://www.aprsupply.com

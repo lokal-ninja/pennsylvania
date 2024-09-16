@@ -1,11 +1,11 @@
 id: 82623412
-type: way
+type: node
 latitude: 40.09874
 longitude: -76.35301
 postcode: "17520"
 city: East Petersburg
-street: "Main Street"
-housenumber: 5939
-phone: "+1 717-569-0439"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-20:00; Sa 09:00-15:00; Su off"
-website: "https://www.gochnauers.com/"
+street: Main Street
+housenumber: "5939"
+phone: +1 717-569-0439
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-20:00; Sa 09:00-15:00; Su off
+website: https://www.gochnauers.com/

@@ -1,11 +1,11 @@
 id: 711846109
-type: way
+type: node
 latitude: 40.3016
 longitude: -79.54409
 postcode: "15601"
 city: Greensburg
-street: "South Main Street"
-housenumber: 138
-phone: "+1 724 600 0808"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
+street: South Main Street
+housenumber: "138"
+phone: +1 724 600 0808
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
 website: ""

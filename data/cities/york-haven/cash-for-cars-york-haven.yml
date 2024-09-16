@@ -1,11 +1,11 @@
 id: 833241920
-type: way
+type: node
 latitude: 40.11141
 longitude: -76.78497
 postcode: "17370"
 city: York Haven
-street: "Sipe Road"
-housenumber: 795
+street: Sipe Road
+housenumber: "795"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00"
-website: "https://www.cashforcars.com/locations/pennsylvania/york-haven/"
+opening_hours: Mo-Fr 08:00-20:00
+website: https://www.cashforcars.com/locations/pennsylvania/york-haven/

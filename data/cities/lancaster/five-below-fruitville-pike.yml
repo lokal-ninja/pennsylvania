@@ -1,11 +1,11 @@
 id: 463722989
-type: way
+type: node
 latitude: 40.07518
 longitude: -76.32411
 postcode: "17601"
 city: Lancaster
-street: "Fruitville Pike"
-housenumber: 2020
+street: Fruitville Pike
+housenumber: "2020"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://locations.fivebelow.com/pa/lancaster/2020-fruitville-pike"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://locations.fivebelow.com/pa/lancaster/2020-fruitville-pike

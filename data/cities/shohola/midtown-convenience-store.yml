@@ -1,11 +1,11 @@
 id: 393080123
-type: way
+type: node
 latitude: 41.47215
 longitude: -74.91686
 postcode: "18458"
 city: Shohola
-street: "Route 434"
-housenumber: 128
+street: Route 434
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

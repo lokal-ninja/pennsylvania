@@ -1,11 +1,11 @@
 id: 284578198
-type: way
+type: node
 latitude: 40.28446
 longitude: -76.50012
 postcode: "17042"
 city: Lebanon
-street: "Horseshoe Pike"
-housenumber: 1067
-phone: "+1-717-867-5161"
-opening_hours: "Mo-We,Fr 08:00-17:00; Th 08:00-19:00; Sa 08:00-12:00"
-website: "https://www.powerproequipment.com/powerpro-fontana"
+street: Horseshoe Pike
+housenumber: "1067"
+phone: +1-717-867-5161
+opening_hours: Mo-We,Fr 08:00-17:00; Th 08:00-19:00; Sa 08:00-12:00
+website: https://www.powerproequipment.com/powerpro-fontana

@@ -1,11 +1,11 @@
 id: 1011326664
-type: way
+type: node
 latitude: 41.0611
 longitude: -80.14483
 postcode: "16156"
 city: Volant
-street: "Plain Grove Road"
-housenumber: 832
-phone: "+1 724-530-2752"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Plain Grove Road
+housenumber: "832"
+phone: +1 724-530-2752
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

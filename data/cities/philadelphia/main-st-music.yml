@@ -4,8 +4,8 @@ latitude: 40.02642
 longitude: -75.22621
 postcode: "19127"
 city: Philadelphia
-street: "Main Street"
-housenumber: 4444
-phone: "+1-215-487-7732"
-opening_hours: "We-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://mainstreetmusicpa.com/"
+street: Main Street
+housenumber: "4444"
+phone: +1-215-487-7732
+opening_hours: We-Sa 11:00-19:00; Su 12:00-18:00
+website: https://mainstreetmusicpa.com/

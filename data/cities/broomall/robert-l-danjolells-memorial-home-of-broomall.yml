@@ -1,11 +1,11 @@
 id: 840299923
-type: way
+type: node
 latitude: 39.98337
 longitude: -75.36963
 postcode: "19008"
 city: Broomall
-street: "West Chester Pike"
-housenumber: 2811
-phone: "+1 610-356-4200"
-opening_hours: "08:00-20:00"
-website: "https://www.danjolell.com/location/memorial-home-broomall-pa"
+street: West Chester Pike
+housenumber: "2811"
+phone: +1 610-356-4200
+opening_hours: 08:00-20:00
+website: https://www.danjolell.com/location/memorial-home-broomall-pa

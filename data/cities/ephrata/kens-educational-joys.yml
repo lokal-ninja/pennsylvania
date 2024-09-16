@@ -1,11 +1,11 @@
 id: 340454088
-type: way
+type: node
 latitude: 40.14788
 longitude: -76.12045
 postcode: "17522"
 city: Ephrata
-street: "Division Highway"
-housenumber: 1930
-phone: "+1 717-351-8347"
-opening_hours: "Mo,We,Sa 08:00-17:00; Tu,Th-Fr 08:00-20:00; Su off"
+street: Division Highway
+housenumber: "1930"
+phone: +1 717-351-8347
+opening_hours: Mo,We,Sa 08:00-17:00; Tu,Th-Fr 08:00-20:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 1273199997
-type: way
+type: node
 latitude: 40.54815
 longitude: -75.5601
 postcode: "18046"
 city: East Texas
-street: "East Texas Road"
-housenumber: 5620
+street: East Texas Road
+housenumber: "5620"
 phone: "+16103987556"
 opening_hours: ""
-website: "https://ebcspa.com/"
+website: https://ebcspa.com/

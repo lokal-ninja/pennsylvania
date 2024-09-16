@@ -1,11 +1,11 @@
 id: 686996635
-type: way
+type: node
 latitude: 39.87697
 longitude: -75.54468
 postcode: ""
 city: Glen Mills
-street: "Wilmington Pike"
-housenumber: 1719
-phone: "+1 610-459-9064"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00; Su off"
-website: "https://www.concordautobodyinc.com/"
+street: Wilmington Pike
+housenumber: "1719"
+phone: +1 610-459-9064
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00; Su off
+website: https://www.concordautobodyinc.com/

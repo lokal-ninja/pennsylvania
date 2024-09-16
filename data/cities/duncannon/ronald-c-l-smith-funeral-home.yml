@@ -1,11 +1,11 @@
 id: 1223568418
-type: way
+type: node
 latitude: 40.39504
 longitude: -77.02878
 postcode: "17020"
 city: Duncannon
-street: "North High Street"
-housenumber: 325
+street: North High Street
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

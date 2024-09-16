@@ -1,11 +1,11 @@
 id: 733343829
-type: way
+type: node
 latitude: 40.02215
 longitude: -75.12566
 postcode: "19120"
 city: Philadelphia
-street: "North Mascher Street"
-housenumber: 4701
+street: North Mascher Street
+housenumber: "4701"
 phone: ""
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/philadelphia/4701-mascher-avenue-24569"
+website: https://www.7-eleven.com/locations/pa/philadelphia/4701-mascher-avenue-24569

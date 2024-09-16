@@ -4,8 +4,8 @@ latitude: 39.9623
 longitude: -75.173
 postcode: ""
 city: Philadelphia
-street: "Hamilton Street"
-housenumber: 2040
+street: Hamilton Street
+housenumber: "2040"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

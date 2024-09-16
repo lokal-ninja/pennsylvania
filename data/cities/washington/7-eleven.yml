@@ -1,11 +1,11 @@
 id: 539350784
-type: way
+type: node
 latitude: 40.16494
 longitude: -80.27197
 postcode: "15301"
 city: Washington
-street: "West Chestnut Street"
-housenumber: 1360
+street: West Chestnut Street
+housenumber: "1360"
 phone: ""
 opening_hours: ""
 website: ""

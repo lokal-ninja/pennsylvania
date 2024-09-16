@@ -1,11 +1,11 @@
 id: 1157359115
-type: way
+type: node
 latitude: 40.60769
 longitude: -75.49607
 postcode: "18102"
 city: Allentown
-street: "Sumner Avenue"
-housenumber: 1619
+street: Sumner Avenue
+housenumber: "1619"
 phone: "+14848603065"
 opening_hours: ""
 website: ""

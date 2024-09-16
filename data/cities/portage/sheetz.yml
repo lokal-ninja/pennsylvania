@@ -1,11 +1,11 @@
 id: 1079886399
-type: way
+type: node
 latitude: 40.39361
 longitude: -78.67079
 postcode: "15946"
 city: Portage
-street: "Main Street"
-housenumber: 101
-phone: "+1 814-736-3166"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/49"
+street: Main Street
+housenumber: "101"
+phone: +1 814-736-3166
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/49

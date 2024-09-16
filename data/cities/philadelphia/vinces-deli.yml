@@ -1,11 +1,11 @@
 id: 1147761155
-type: way
+type: node
 latitude: 40.03729
 longitude: -75.03316
 postcode: ""
 city: Philadelphia
-street: "Chippendale Avenue"
-housenumber: 4244
+street: Chippendale Avenue
+housenumber: "4244"
 phone: ""
 opening_hours: ""
 website: ""

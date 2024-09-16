@@ -1,11 +1,11 @@
 id: 739674887
-type: way
+type: node
 latitude: 40.16504
 longitude: -76.15603
 postcode: "17522"
 city: Ephrata
-street: "East Main Street"
-housenumber: 878
-phone: "+1 717-738-1184"
-opening_hours: "Mo,Su off; Tu,Th-Fr 10:00-18:00; We 10:00-19:00; Sa 09:00-14:00"
-website: "https://ecshonda.com"
+street: East Main Street
+housenumber: "878"
+phone: +1 717-738-1184
+opening_hours: Mo,Su off; Tu,Th-Fr 10:00-18:00; We 10:00-19:00; Sa 09:00-14:00
+website: https://ecshonda.com

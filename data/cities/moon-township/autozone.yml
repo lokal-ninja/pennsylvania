@@ -1,11 +1,11 @@
 id: 432950648
-type: way
+type: node
 latitude: 40.51972
 longitude: -80.2188
 postcode: "15108"
 city: Moon Township
-street: "University Boulevard"
-housenumber: 6052
+street: University Boulevard
+housenumber: "6052"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/pa/coraopolis/6052-university-blvd.html"
+website: https://www.autozone.com/locations/pa/coraopolis/6052-university-blvd.html

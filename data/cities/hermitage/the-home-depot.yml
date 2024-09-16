@@ -1,11 +1,11 @@
 id: 658959381
-type: way
+type: node
 latitude: 41.22881
 longitude: -80.44906
 postcode: "16148"
 city: Hermitage
-street: "Shenango Valley Freeway"
-housenumber: 3300
-phone: "+1 724-981-3054"
-opening_hours: "Mo-Sa 06:00-21:00, Su 08:00-19:00"
+street: Shenango Valley Freeway
+housenumber: "3300"
+phone: +1 724-981-3054
+opening_hours: Mo-Sa 06:00-21:00, Su 08:00-19:00
 website: ""

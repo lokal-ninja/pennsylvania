@@ -1,11 +1,11 @@
 id: 414308832
-type: way
+type: node
 latitude: 40.98874
 longitude: -75.2186
 postcode: "18360"
 city: Stroudsburg
-street: "North 9th Street"
-housenumber: 1111
+street: North 9th Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/stroudsburg-pa-pharmacies/1111-north-9th-st-stroudsburg-pa-18360/storeid=1312"
+website: https://www.cvs.com/store-locator/stroudsburg-pa-pharmacies/1111-north-9th-st-stroudsburg-pa-18360/storeid=1312

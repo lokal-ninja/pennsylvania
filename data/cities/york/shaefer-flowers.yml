@@ -1,11 +1,11 @@
 id: 1306649507
-type: way
+type: node
 latitude: 39.96113
 longitude: -76.7303
 postcode: "17401"
 city: York
-street: "West Market Street"
-housenumber: 128
+street: West Market Street
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

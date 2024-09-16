@@ -1,11 +1,11 @@
 id: 551519369
-type: way
+type: node
 latitude: 40.51554
 longitude: -79.9585
 postcode: "15223"
 city: Shaler Township
-street: "Mount Royal Boulevard"
-housenumber: 900
-phone: "+1-412-487-5706"
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00"
+street: Mount Royal Boulevard
+housenumber: "900"
+phone: +1-412-487-5706
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00
 website: ""

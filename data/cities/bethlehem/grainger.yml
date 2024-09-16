@@ -1,11 +1,11 @@
 id: 148905695
-type: way
+type: node
 latitude: 40.65603
 longitude: -75.42095
 postcode: "18017"
 city: Bethlehem
-street: "Avenue C"
-housenumber: 2011
+street: Avenue C
+housenumber: "2011"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.grainger.com/branch/Bethlehem-Branch-032"
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.grainger.com/branch/Bethlehem-Branch-032

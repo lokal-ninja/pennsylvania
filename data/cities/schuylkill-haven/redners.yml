@@ -1,11 +1,11 @@
 id: 617516839
-type: way
+type: node
 latitude: 40.64294
 longitude: -76.16158
 postcode: "17972"
 city: Schuylkill Haven
-street: "Manheim Road"
-housenumber: 191
+street: Manheim Road
+housenumber: "191"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

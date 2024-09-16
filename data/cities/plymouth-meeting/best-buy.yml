@@ -1,11 +1,11 @@
 id: 52430384
-type: way
+type: node
 latitude: 40.10324
 longitude: -75.2952
 postcode: "19462"
 city: Plymouth Meeting
-street: "Chemical Road"
-housenumber: 2010
-phone: "+1-610-567-2835"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/pa/plymouth-meeting/2010-chemical-rd-448.html"
+street: Chemical Road
+housenumber: "2010"
+phone: +1-610-567-2835
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/pa/plymouth-meeting/2010-chemical-rd-448.html

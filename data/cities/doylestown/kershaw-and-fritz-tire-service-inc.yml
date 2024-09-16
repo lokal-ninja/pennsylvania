@@ -1,11 +1,11 @@
 id: 414216414
-type: way
+type: node
 latitude: 40.32751
 longitude: -75.1305
 postcode: "18901"
 city: Doylestown
-street: "North Easton Road"
-housenumber: 670
+street: North Easton Road
+housenumber: "670"
 phone: ""
 opening_hours: ""
 website: ""

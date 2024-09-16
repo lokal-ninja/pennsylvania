@@ -1,11 +1,11 @@
 id: 547172868
-type: way
+type: node
 latitude: 40.16321
 longitude: -75.48112
 postcode: "19426"
 city: Collegeville
-street: "Front Street"
-housenumber: 400
-phone: "+1 610-409-7879"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/pa/collegeville/400-front-st-1193.html"
+street: Front Street
+housenumber: "400"
+phone: +1 610-409-7879
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/pa/collegeville/400-front-st-1193.html

@@ -1,11 +1,11 @@
 id: 311064407
-type: way
+type: node
 latitude: 40.26364
 longitude: -75.81076
 postcode: "19508"
 city: Birdsboro
-street: "West 1st Street"
-housenumber: 236
-phone: "+1 610-582-2431"
+street: West 1st Street
+housenumber: "236"
+phone: +1 610-582-2431
 opening_hours: ""
 website: ""

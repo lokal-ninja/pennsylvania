@@ -1,11 +1,11 @@
 id: 202979700
-type: way
+type: node
 latitude: 40.43762
 longitude: -80.00042
 postcode: "15222"
 city: Pittsburgh
-street: "Smithfield Street"
-housenumber: 115
-phone: "+1 412-391-6980"
-opening_hours: "24/7"
+street: Smithfield Street
+housenumber: "115"
+phone: +1 412-391-6980
+opening_hours: 24/7
 website: ""

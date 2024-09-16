@@ -1,11 +1,11 @@
 id: 865498629
-type: way
+type: node
 latitude: 39.91608
 longitude: -75.38028
 postcode: "19063"
 city: Media
-street: "East Baltimore Pike"
-housenumber: 501
-phone: "+1 610-627-9092"
-opening_hours: "Mo-Fr 05:00-21:00; Sa-Su 05:30-21:00"
-website: "https://www.starbucks.com/store-locator/store/1023501/media-baltimore-pike-501-east-baltimore-pike-media-pa-190633509-us"
+street: East Baltimore Pike
+housenumber: "501"
+phone: +1 610-627-9092
+opening_hours: Mo-Fr 05:00-21:00; Sa-Su 05:30-21:00
+website: https://www.starbucks.com/store-locator/store/1023501/media-baltimore-pike-501-east-baltimore-pike-media-pa-190633509-us

@@ -1,11 +1,11 @@
 id: 90542518
-type: way
+type: node
 latitude: 40.43048
 longitude: -79.79046
 postcode: "15146"
 city: Monroeville
-street: "Mall Plaza Blvd"
-housenumber: 120
+street: Mall Plaza Blvd
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

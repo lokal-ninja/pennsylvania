@@ -1,11 +1,11 @@
 id: 1307809632
-type: way
+type: node
 latitude: 39.96133
 longitude: -76.72445
 postcode: "17401"
 city: York
-street: "South Duke Street"
-housenumber: 119
-phone: "+1 717-303-8437"
+street: South Duke Street
+housenumber: "119"
+phone: +1 717-303-8437
 opening_hours: ""
-website: "https://linktr.ee/Lineandanchor"
+website: https://linktr.ee/Lineandanchor

@@ -4,8 +4,8 @@ latitude: 40.04292
 longitude: -76.30649
 postcode: "17603"
 city: Lancaster
-street: "North Queen Street"
-housenumber: 305
-phone: "+1 717-666-7034"
-opening_hours: "Mo-Tu off; We-Su 10:00-17:00; Fr[1] 10:00-20:00"
+street: North Queen Street
+housenumber: "305"
+phone: +1 717-666-7034
+opening_hours: Mo-Tu off; We-Su 10:00-17:00; Fr[1] 10:00-20:00
 website: ""

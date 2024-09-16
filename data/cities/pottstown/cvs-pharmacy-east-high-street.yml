@@ -1,11 +1,11 @@
 id: 963298846
-type: way
+type: node
 latitude: 40.24468
 longitude: -75.60893
 postcode: "19464"
 city: Pottstown
-street: "East High Street"
-housenumber: 1833
-phone: "+1 610-327-2020"
-opening_hours: "07:00-22:00"
-website: "https://www.cvs.com/store-locator/pottstown-pa-pharmacies/1833-east-high-street-pottstown-pa-19464/storeid=305"
+street: East High Street
+housenumber: "1833"
+phone: +1 610-327-2020
+opening_hours: 07:00-22:00
+website: https://www.cvs.com/store-locator/pottstown-pa-pharmacies/1833-east-high-street-pottstown-pa-19464/storeid=305

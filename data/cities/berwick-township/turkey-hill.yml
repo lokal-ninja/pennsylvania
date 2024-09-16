@@ -1,11 +1,11 @@
 id: 422696280
-type: way
+type: node
 latitude: 39.87082
 longitude: -77.02635
 postcode: "17350"
 city: Berwick Township
-street: "York Road"
-housenumber: 6113
+street: York Road
+housenumber: "6113"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

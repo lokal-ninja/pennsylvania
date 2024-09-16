@@ -1,11 +1,11 @@
 id: 970767202
-type: way
+type: node
 latitude: 40.4879
 longitude: -79.88374
 postcode: "15238"
 city: Pittsburgh
-street: "Freeport Road"
-housenumber: 1081
+street: Freeport Road
+housenumber: "1081"
 phone: ""
 opening_hours: ""
-website: "https://www.get-go.com/Store/PA/Pittsburgh/O%27Hara%20GetGo-WetGo/3172"
+website: https://www.get-go.com/Store/PA/Pittsburgh/O%27Hara%20GetGo-WetGo/3172

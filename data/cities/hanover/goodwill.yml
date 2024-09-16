@@ -1,11 +1,11 @@
 id: 420914516
-type: way
+type: node
 latitude: 39.82596
 longitude: -76.9777
 postcode: "17331"
 city: Hanover
-street: "Eisenhower Drive"
-housenumber: 450
-phone: "+1 717-637-0397"
-opening_hours: "Mo-Sa 09:00-20:00; Su 12:00-18:00"
-website: "https://www.yourgoodwill.org/shop/stores-donation-centers/Goodwill-Store-Donation-Center-1017-Baltimore-St-Hanover-PA-17331"
+street: Eisenhower Drive
+housenumber: "450"
+phone: +1 717-637-0397
+opening_hours: Mo-Sa 09:00-20:00; Su 12:00-18:00
+website: https://www.yourgoodwill.org/shop/stores-donation-centers/Goodwill-Store-Donation-Center-1017-Baltimore-St-Hanover-PA-17331

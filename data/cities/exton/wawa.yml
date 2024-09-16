@@ -1,11 +1,11 @@
 id: 283138197
-type: way
+type: node
 latitude: 40.04765
 longitude: -75.66298
-postcode: "19341-1563"
+postcode: 19341-1563
 city: Exton
-street: "West Uwchlan Avenue"
-housenumber: 551
-phone: "+1 610-363-4046"
-opening_hours: "24/7"
-website: "https://www.wawa.com/store/8033/ma/pa-exton-551-west-uwchlan-ave"
+street: West Uwchlan Avenue
+housenumber: "551"
+phone: +1 610-363-4046
+opening_hours: 24/7
+website: https://www.wawa.com/store/8033/ma/pa-exton-551-west-uwchlan-ave

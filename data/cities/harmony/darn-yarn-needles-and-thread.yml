@@ -1,11 +1,11 @@
 id: 380634641
-type: way
+type: node
 latitude: 40.80386
 longitude: -80.12597
 postcode: "16037"
 city: Harmony
-street: "Mercer Street"
-housenumber: 253
+street: Mercer Street
+housenumber: "253"
 phone: ""
 opening_hours: ""
 website: ""

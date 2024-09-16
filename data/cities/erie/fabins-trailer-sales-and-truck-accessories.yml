@@ -1,11 +1,11 @@
 id: 1243717800
-type: way
+type: node
 latitude: 42.11565
 longitude: -79.96585
 postcode: "16510"
 city: Erie
-street: "Kuhl Road"
-housenumber: 5324
+street: Kuhl Road
+housenumber: "5324"
 phone: "+18148996636"
 opening_hours: ""
-website: "https://www.fabins.com/"
+website: https://www.fabins.com/

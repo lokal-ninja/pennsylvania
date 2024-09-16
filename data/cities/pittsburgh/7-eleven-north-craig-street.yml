@@ -1,11 +1,11 @@
 id: 104431165
-type: way
+type: node
 latitude: 40.44944
 longitude: -79.95106
 postcode: "15213"
 city: Pittsburgh
-street: "North Craig Street"
-housenumber: 195
-phone: "+1 412-687-7554"
+street: North Craig Street
+housenumber: "195"
+phone: +1 412-687-7554
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/pittsburgh/195-north-craig-st-40106"
+website: https://www.7-eleven.com/locations/pa/pittsburgh/195-north-craig-st-40106

@@ -1,11 +1,11 @@
 id: 203532367
-type: way
+type: node
 latitude: 40.0934
 longitude: -75.12589
 postcode: "19046"
 city: Jenkintown
-street: "Old York Road"
-housenumber: 109
-phone: "+1 215-887-3181"
+street: Old York Road
+housenumber: "109"
+phone: +1 215-887-3181
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/pa/jenkintown/168017/"
+website: https://www.mattressfirm.com/en-us/stores/pa/jenkintown/168017/

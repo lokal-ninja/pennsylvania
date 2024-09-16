@@ -4,8 +4,8 @@ latitude: 40.0383
 longitude: -76.06496
 postcode: "17529"
 city: Gordonville
-street: "South New Holland Road"
-housenumber: 10
-phone: "+1 717-442-9451"
-opening_hours: "Mo-Fr 07:00-16:30; Sa by appointment only; Su off"
-website: "https://i-jmanufacturing.com"
+street: South New Holland Road
+housenumber: "10"
+phone: +1 717-442-9451
+opening_hours: Mo-Fr 07:00-16:30; Sa "by appointment only"; Su off
+website: https://i-jmanufacturing.com

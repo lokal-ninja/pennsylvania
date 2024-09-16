@@ -1,11 +1,11 @@
 id: 804784785
-type: way
+type: node
 latitude: 42.15465
 longitude: -79.98658
 postcode: "16510"
 city: Erie
-street: "Buffalo Road"
-housenumber: 5100
-phone: "+1 (814) 899-7786"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bates-collision.com/"
+street: Buffalo Road
+housenumber: "5100"
+phone: +1 (814) 899-7786
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bates-collision.com/

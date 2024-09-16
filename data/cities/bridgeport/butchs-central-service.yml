@@ -1,11 +1,11 @@
 id: 729967528
-type: way
+type: node
 latitude: 40.10508
 longitude: -75.34098
 postcode: "19405"
 city: Bridgeport
-street: "East 4th Street"
-housenumber: 20
+street: East 4th Street
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00"
+opening_hours: Mo-Fr 06:00-18:00
 website: ""

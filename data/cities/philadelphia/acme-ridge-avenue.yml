@@ -1,11 +1,11 @@
 id: 197414127
-type: way
+type: node
 latitude: 40.03179
 longitude: -75.21173
 postcode: "19128"
 city: Philadelphia
-street: "Ridge Avenue"
-housenumber: 5927
-phone: "+1-215-487-7180"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://local.acmemarkets.com/pa/philadelphia/5927-59-ridge-ave.html"
+street: Ridge Avenue
+housenumber: "5927"
+phone: +1-215-487-7180
+opening_hours: Mo-Su 07:00-22:00
+website: https://local.acmemarkets.com/pa/philadelphia/5927-59-ridge-ave.html

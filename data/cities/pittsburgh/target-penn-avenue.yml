@@ -1,11 +1,11 @@
 id: 125708085
-type: way
+type: node
 latitude: 40.46083
 longitude: -79.9224
-postcode: "15206-3978"
+postcode: 15206-3978
 city: Pittsburgh
-street: "Penn Avenue"
-housenumber: 6231
-phone: "+1 412-626-3258"
-opening_hours: "Su-Fr 08:00-22:00; Sa 08:00-21:00"
-website: "https://www.target.com/sl/east-liberty/2757"
+street: Penn Avenue
+housenumber: "6231"
+phone: +1 412-626-3258
+opening_hours: Su-Fr 08:00-22:00; Sa 08:00-21:00
+website: https://www.target.com/sl/east-liberty/2757

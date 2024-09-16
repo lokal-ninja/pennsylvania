@@ -4,8 +4,8 @@ latitude: 40.1722
 longitude: -76.38499
 postcode: "17545"
 city: Manheim
-street: "Doe Run Road"
-housenumber: 101
-phone: "717-664-4247"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-16:00"
-website: "http://www.centralbeautique.com/"
+street: Doe Run Road
+housenumber: "101"
+phone: 717-664-4247
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-16:00
+website: http://www.centralbeautique.com/

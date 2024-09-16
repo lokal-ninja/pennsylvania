@@ -1,11 +1,11 @@
 id: 450517082
-type: way
+type: node
 latitude: 40.86824
 longitude: -77.77237
 postcode: "16823"
 city: Bellefonte
-street: "Progress Drive"
-housenumber: 175
+street: Progress Drive
+housenumber: "175"
 phone: ""
 opening_hours: ""
-website: "https://www.clevelandbrothers.com/company/locations/bellefonte/"
+website: https://www.clevelandbrothers.com/company/locations/bellefonte/

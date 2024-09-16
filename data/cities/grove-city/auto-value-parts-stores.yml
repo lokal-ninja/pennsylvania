@@ -1,11 +1,11 @@
 id: 973103460
-type: way
+type: node
 latitude: 41.16363
 longitude: -80.09789
 postcode: "16127"
 city: Grove City
-street: "West Main Street"
-housenumber: 902
-phone: "+1 724 458 7610"
+street: West Main Street
+housenumber: "902"
+phone: +1 724 458 7610
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 291668254
-type: way
+type: node
 latitude: 40.32614
 longitude: -76.01806
 postcode: "19608"
 city: Reading
-street: "Penn Avenue"
-housenumber: 3723
-phone: "+1 610-927-1232"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-21:00"
-website: "https://www.autozone.com/locations/pa/reading/3723-penn-ave.html"
+street: Penn Avenue
+housenumber: "3723"
+phone: +1 610-927-1232
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-21:00
+website: https://www.autozone.com/locations/pa/reading/3723-penn-ave.html

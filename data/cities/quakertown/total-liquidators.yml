@@ -1,11 +1,11 @@
 id: 207604833
-type: way
+type: node
 latitude: 40.43556
 longitude: -75.35686
 postcode: "18951"
 city: Quakertown
-street: "South West End Boulevard"
-housenumber: 240
+street: South West End Boulevard
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

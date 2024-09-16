@@ -4,8 +4,8 @@ latitude: 39.99533
 longitude: -75.09192
 postcode: "19137"
 city: Philadelphia
-street: "East Butler Street"
-housenumber: 2400
-phone: "+1 215-288-8058"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/pa/philadelphia/2400-e-butler-st"
+street: East Butler Street
+housenumber: "2400"
+phone: +1 215-288-8058
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/pa/philadelphia/2400-e-butler-st

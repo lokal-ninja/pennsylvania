@@ -1,11 +1,11 @@
 id: 721115886
-type: way
+type: node
 latitude: 40.09946
 longitude: -75.15393
 postcode: "19038"
 city: Glenside
-street: "Wesley Avenue"
-housenumber: 9
-phone: "+1 215-962-5245"
+street: Wesley Avenue
+housenumber: "9"
+phone: +1 215-962-5245
 opening_hours: ""
-website: "https://www.dcinteriors.net"
+website: https://www.dcinteriors.net

@@ -1,11 +1,11 @@
 id: 265350364
-type: way
+type: node
 latitude: 40.24906
 longitude: -75.24335
 postcode: "19446"
 city: Lansdale
-street: "Doylestown Road"
-housenumber: 400
-phone: "+1 267-647-9372"
+street: Doylestown Road
+housenumber: "400"
+phone: +1 267-647-9372
 opening_hours: ""
-website: "https://fireworks.com/locations"
+website: https://fireworks.com/locations

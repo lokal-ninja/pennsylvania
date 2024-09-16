@@ -1,11 +1,11 @@
 id: 1143804963
-type: way
+type: node
 latitude: 41.96614
 longitude: -78.62465
 postcode: "16701"
 city: Bradford
-street: "East Main Street"
-housenumber: 507
+street: East Main Street
+housenumber: "507"
 phone: ""
 opening_hours: ""
 website: ""

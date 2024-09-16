@@ -1,11 +1,11 @@
 id: 455547332
-type: way
+type: node
 latitude: 40.51691
 longitude: -80.16177
 postcode: "15108"
 city: Coraopolis
-street: "Broadway Street"
-housenumber: 412
+street: Broadway Street
+housenumber: "412"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.riteaid.com/locations/pa/coraopolis/412-broadway-street.html"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.riteaid.com/locations/pa/coraopolis/412-broadway-street.html

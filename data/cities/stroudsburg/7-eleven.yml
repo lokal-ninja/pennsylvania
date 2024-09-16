@@ -1,11 +1,11 @@
 id: 566316738
-type: way
+type: node
 latitude: 40.98175
 longitude: -75.19091
 postcode: "18360"
 city: Stroudsburg
-street: "Park Avenue"
-housenumber: 134
-phone: "+1 570-421-7999"
+street: Park Avenue
+housenumber: "134"
+phone: +1 570-421-7999
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/stroudsburg/134-park-avenue-40176"
+website: https://www.7-eleven.com/locations/pa/stroudsburg/134-park-avenue-40176

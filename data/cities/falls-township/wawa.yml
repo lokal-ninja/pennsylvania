@@ -1,11 +1,11 @@
 id: 1279231061
-type: way
+type: node
 latitude: 40.20638
 longitude: -74.80409
 postcode: "19067"
 city: Falls Township
-street: "West Trenton Avenue"
-housenumber: 545
+street: West Trenton Avenue
+housenumber: "545"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

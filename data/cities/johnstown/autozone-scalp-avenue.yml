@@ -1,11 +1,11 @@
 id: 560112659
-type: way
+type: node
 latitude: 40.28165
 longitude: -78.86295
 postcode: "15904"
 city: Johnstown
-street: "Scalp Avenue"
-housenumber: 1115
-phone: "+1 814-266-7560"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/pa/johnstown/1115-scalp-ave.html"
+street: Scalp Avenue
+housenumber: "1115"
+phone: +1 814-266-7560
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/pa/johnstown/1115-scalp-ave.html

@@ -1,11 +1,11 @@
 id: 203910686
-type: way
+type: node
 latitude: 40.42833
 longitude: -79.975
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 2130
-phone: "+1 412 488 8200"
-opening_hours: "Mo-Fr 12:00-19:00; Fr-Sa 12:00-20:00; Su off"
-website: "http://www.kyklops.com/"
+street: East Carson Street
+housenumber: "2130"
+phone: +1 412 488 8200
+opening_hours: Mo-Fr 12:00-19:00; Fr-Sa 12:00-20:00; Su off
+website: http://www.kyklops.com/

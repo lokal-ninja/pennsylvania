@@ -1,11 +1,11 @@
 id: 372535930
-type: way
+type: node
 latitude: 40.21064
 longitude: -77.1832
 postcode: "17013"
 city: Carlisle
-street: "North Hanover Street"
-housenumber: 712
+street: North Hanover Street
+housenumber: "712"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/PA/Carlisle/712-N-HANOVER-STREET"
+website: https://www.speedway.com/locations/PA/Carlisle/712-N-HANOVER-STREET

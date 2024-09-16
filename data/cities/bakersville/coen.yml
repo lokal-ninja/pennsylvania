@@ -1,11 +1,11 @@
 id: 930414692
-type: way
+type: node
 latitude: 40.03537
 longitude: -79.21378
 postcode: "15501"
 city: Bakersville
-street: "West Bakersville Edie Road"
-housenumber: 2380
-phone: "+1-814-445-4896"
-opening_hours: "Mo-Su 05:00-23:00"
+street: West Bakersville Edie Road
+housenumber: "2380"
+phone: +1-814-445-4896
+opening_hours: Mo-Su 05:00-23:00
 website: ""

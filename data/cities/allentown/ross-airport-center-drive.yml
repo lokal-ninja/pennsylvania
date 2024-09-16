@@ -1,11 +1,11 @@
 id: 965431630
-type: way
+type: node
 latitude: 40.63907
 longitude: -75.43785
 postcode: "18109"
 city: Allentown
-street: "Airport Center Drive"
-housenumber: 926
-phone: "+1 610-266-8523"
-opening_hours: "09:00-22:00"
+street: Airport Center Drive
+housenumber: "926"
+phone: +1 610-266-8523
+opening_hours: 09:00-22:00
 website: ""

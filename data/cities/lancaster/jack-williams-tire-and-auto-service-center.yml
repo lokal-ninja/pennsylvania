@@ -1,11 +1,11 @@
 id: 469539953
-type: way
+type: node
 latitude: 40.06353
 longitude: -76.30547
 postcode: "17601"
 city: Lancaster
-street: "Oregon Pike"
-housenumber: 1543
-phone: "+1 717-879-9376"
-opening_hours: "Mo-We,Fr 08:00-18:00; Th 08:00-20:30; Sa 08:00-17:00; Su 09:00-17:00"
-website: "https://www.mavis.com/locations/lancaster-oregon-pike-pa"
+street: Oregon Pike
+housenumber: "1543"
+phone: +1 717-879-9376
+opening_hours: Mo-We,Fr 08:00-18:00; Th 08:00-20:30; Sa 08:00-17:00; Su 09:00-17:00
+website: https://www.mavis.com/locations/lancaster-oregon-pike-pa

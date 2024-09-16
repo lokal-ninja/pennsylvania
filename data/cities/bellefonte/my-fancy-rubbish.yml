@@ -1,11 +1,11 @@
 id: 896325996
-type: way
+type: node
 latitude: 40.91209
 longitude: -77.7816
 postcode: "16823"
 city: Bellefonte
-street: "Dunlop Street"
-housenumber: 120
+street: Dunlop Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

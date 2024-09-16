@@ -1,11 +1,11 @@
 id: 1289017988
-type: way
+type: node
 latitude: 41.82409
 longitude: -75.68388
 postcode: "18834"
 city: New Milford
-street: "Oliver Road"
-housenumber: 1615
+street: Oliver Road
+housenumber: "1615"
 phone: ""
 opening_hours: ""
 website: ""

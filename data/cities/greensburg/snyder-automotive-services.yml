@@ -1,11 +1,11 @@
 id: 706351695
-type: way
+type: node
 latitude: 40.30121
 longitude: -79.54951
 postcode: "15601"
 city: Greensburg
-street: "West Pittsburgh Street"
-housenumber: 300
-phone: "+1 724 216 5110"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.snyderautomotiveservices.com/"
+street: West Pittsburgh Street
+housenumber: "300"
+phone: +1 724 216 5110
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.snyderautomotiveservices.com/

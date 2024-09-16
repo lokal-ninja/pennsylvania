@@ -1,11 +1,11 @@
 id: 514804932
-type: way
+type: node
 latitude: 40.12865
 longitude: -75.29979
 postcode: "19462"
 city: Plymouth Meeting
-street: "East Germantown Pike"
-housenumber: 1007
-phone: "+1 610-239-6750"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off"
-website: "https://www.carlveneziameats.com/"
+street: East Germantown Pike
+housenumber: "1007"
+phone: +1 610-239-6750
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
+website: https://www.carlveneziameats.com/

@@ -1,11 +1,11 @@
 id: 499725911
-type: way
+type: node
 latitude: 39.96012
 longitude: -76.65324
 postcode: "17402"
 city: Windsor Township
-street: "East Prospect Road"
-housenumber: 2983
-phone: "+1-717 650 6126"
-opening_hours: "Mo off; Tu-Th 09:00-20:00; Fr 09:00-17:00; Sa 08:00-16:00; Su 09:00-15:00"
-website: "https://salonblustudio.com/"
+street: East Prospect Road
+housenumber: "2983"
+phone: +1-717 650 6126
+opening_hours: Mo off; Tu-Th 09:00-20:00; Fr 09:00-17:00; Sa 08:00-16:00; Su 09:00-15:00
+website: https://salonblustudio.com/

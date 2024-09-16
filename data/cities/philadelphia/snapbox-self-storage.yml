@@ -1,11 +1,11 @@
 id: 738709444
-type: way
+type: node
 latitude: 39.91536
 longitude: -75.24642
 postcode: "19142"
 city: Philadelphia
-street: "Island Avenue"
-housenumber: 2240
+street: Island Avenue
+housenumber: "2240"
 phone: ""
 opening_hours: ""
 website: ""

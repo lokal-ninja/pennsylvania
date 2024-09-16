@@ -1,11 +1,11 @@
 id: 1134952214
-type: way
+type: node
 latitude: 40.31974
 longitude: -76.89816
 postcode: "17110"
 city: Harrisburg
-street: "North Front Street"
-housenumber: 4101
-phone: "+1 717-695-3117"
+street: North Front Street
+housenumber: "4101"
+phone: +1 717-695-3117
 opening_hours: ""
 website: ""

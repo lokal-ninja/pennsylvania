@@ -1,11 +1,11 @@
 id: 173040244
-type: way
+type: node
 latitude: 39.77009
 longitude: -76.66311
 postcode: "17361"
 city: Shrewsbury
-street: "East Forrest Avenue"
-housenumber: 836
-phone: "+1 717-993-7101"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/863-e-forrest-ave-shrewsbury-17361?number=3255"
+street: East Forrest Avenue
+housenumber: "836"
+phone: +1 717-993-7101
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/863-e-forrest-ave-shrewsbury-17361?number=3255

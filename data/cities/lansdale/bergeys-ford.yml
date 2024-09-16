@@ -1,11 +1,11 @@
 id: 1308073773
-type: way
+type: node
 latitude: 40.23899
 longitude: -75.27919
 postcode: "19446"
 city: Lansdale
-street: "East Main Street"
-housenumber: 301
+street: East Main Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

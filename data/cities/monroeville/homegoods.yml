@@ -1,11 +1,11 @@
 id: 90609874
-type: way
+type: node
 latitude: 40.43249
 longitude: -79.78968
 postcode: "15146"
 city: Monroeville
-street: "Mall Boulevard"
-housenumber: 200
-phone: "+1 412-856-1459"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Mall Boulevard
+housenumber: "200"
+phone: +1 412-856-1459
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

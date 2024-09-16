@@ -1,11 +1,11 @@
 id: 337225124
-type: way
+type: node
 latitude: 40.63015
 longitude: -80.05546
 postcode: "15090"
 city: Wexford
-street: "Perry Highway"
-housenumber: 11800
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/pa/wexford/11800-perry-highway"
+street: Perry Highway
+housenumber: "11800"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/pa/wexford/11800-perry-highway

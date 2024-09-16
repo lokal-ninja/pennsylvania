@@ -1,11 +1,11 @@
 id: 416298055
-type: way
+type: node
 latitude: 40.13988
 longitude: -74.82048
 postcode: "19055"
 city: Levittown
-street: "Levittown Parkway"
-housenumber: 151
-phone: "+1 215-792-6885"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00"
-website: "https://www.firestonecompleteautocare.com/pennsylvania/levittown/151-levittown-pkwy/"
+street: Levittown Parkway
+housenumber: "151"
+phone: +1 215-792-6885
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00
+website: https://www.firestonecompleteautocare.com/pennsylvania/levittown/151-levittown-pkwy/

@@ -4,8 +4,8 @@ latitude: 40.33919
 longitude: -79.95319
 postcode: "15236"
 city: Pittsburgh
-street: "Clairton Boulevard"
-housenumber: 251
-phone: "+1 412-650-0175"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1812.html"
+street: Clairton Boulevard
+housenumber: "251"
+phone: +1 412-650-0175
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1812.html

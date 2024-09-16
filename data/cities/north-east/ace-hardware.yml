@@ -4,8 +4,8 @@ latitude: 42.21109
 longitude: -79.84878
 postcode: "16428"
 city: North East
-street: "West Main Street"
-housenumber: 10730
-phone: "+1 814-725-3502"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-18:00; Su 08:00-16:00"
+street: West Main Street
+housenumber: "10730"
+phone: +1 814-725-3502
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-18:00; Su 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 294568251
-type: way
+type: node
 latitude: 41.36186
 longitude: -75.67456
 postcode: "18507"
 city: Moosic
-street: "Shoppes Blvd"
-housenumber: 3001
+street: Shoppes Blvd
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

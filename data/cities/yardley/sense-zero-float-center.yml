@@ -4,8 +4,8 @@ latitude: 40.24112
 longitude: -74.83855
 postcode: "19067"
 city: Yardley
-street: "South Main Street"
-housenumber: 25
-phone: "+1-215-259-8353"
+street: South Main Street
+housenumber: "25"
+phone: +1-215-259-8353
 opening_hours: ""
-website: "https://www.sensezerofloat.com"
+website: https://www.sensezerofloat.com

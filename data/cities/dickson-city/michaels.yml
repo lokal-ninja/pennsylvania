@@ -1,11 +1,11 @@
 id: 398742819
-type: way
+type: node
 latitude: 41.46835
 longitude: -75.63797
 postcode: "18519"
 city: Dickson City
-street: "Commerce Boulevard"
-housenumber: 1150
-phone: "+1 570-383-7930"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/pa/dickson-city/3722"
+street: Commerce Boulevard
+housenumber: "1150"
+phone: +1 570-383-7930
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/pa/dickson-city/3722

@@ -1,11 +1,11 @@
 id: 510624757
-type: way
+type: node
 latitude: 41.22228
 longitude: -75.88347
 postcode: "18702"
 city: Wilkes-Barre
-street: "Wilkes-Barre Township Boulevard"
-housenumber: 1040
+street: Wilkes-Barre Township Boulevard
+housenumber: "1040"
 phone: ""
 opening_hours: ""
 website: ""

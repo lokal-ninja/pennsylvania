@@ -1,11 +1,11 @@
 id: 937852979
-type: way
+type: node
 latitude: 40.44059
 longitude: -80.24315
 postcode: "15071"
 city: Oakdale
-street: "West Steuben Street"
-housenumber: 121
-phone: "+1 724-695-3626"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Steuben Street
+housenumber: "121"
+phone: +1 724-695-3626
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.95856
 longitude: -75.60657
 postcode: "19382"
 city: West Chester
-street: "West Market Street"
-housenumber: 132
-phone: "+1 610-601-9170"
-opening_hours: "Mo-Tu off; We,Fr 10:00-19:00; Th 13:00-20:00; Sa 09:00-17:00; Su 11:00-17:00"
-website: "https://marketsalonwc.com/"
+street: West Market Street
+housenumber: "132"
+phone: +1 610-601-9170
+opening_hours: Mo-Tu off; We,Fr 10:00-19:00; Th 13:00-20:00; Sa 09:00-17:00; Su 11:00-17:00
+website: https://marketsalonwc.com/

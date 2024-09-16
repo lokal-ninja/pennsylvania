@@ -1,11 +1,11 @@
 id: 489781052
-type: way
+type: node
 latitude: 41.42515
 longitude: -75.65132
 postcode: "18509"
 city: Scranton
-street: "Capouse Avenue"
-housenumber: 1401
+street: Capouse Avenue
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

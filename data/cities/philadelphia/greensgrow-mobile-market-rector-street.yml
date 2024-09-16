@@ -4,8 +4,8 @@ latitude: 40.02769
 longitude: -75.21401
 postcode: "19128"
 city: Philadelphia
-street: "Rector Street"
-housenumber: 403
+street: Rector Street
+housenumber: "403"
 phone: ""
-opening_hours: "We 10:00-11:30"
-website: "https://www.greensgrow.org/mobile-markets/"
+opening_hours: We 10:00-11:30
+website: https://www.greensgrow.org/mobile-markets/

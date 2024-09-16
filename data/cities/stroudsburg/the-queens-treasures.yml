@@ -1,11 +1,11 @@
 id: 810292131
-type: way
+type: node
 latitude: 40.99578
 longitude: -75.19364
 postcode: "18360"
 city: Stroudsburg
-street: "North 5th Street"
-housenumber: 777
+street: North 5th Street
+housenumber: "777"
 phone: ""
 opening_hours: ""
 website: ""

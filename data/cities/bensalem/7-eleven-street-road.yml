@@ -1,11 +1,11 @@
 id: 1037203395
-type: way
+type: node
 latitude: 40.12183
 longitude: -74.96276
 postcode: "19020"
 city: Bensalem
-street: "Street Road"
-housenumber: 3508
-phone: "+1 215-639-1156"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/pa/bensalem-township/3508-street-rd-11358"
+street: Street Road
+housenumber: "3508"
+phone: +1 215-639-1156
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/pa/bensalem-township/3508-street-rd-11358

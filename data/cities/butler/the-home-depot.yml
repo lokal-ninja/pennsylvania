@@ -1,11 +1,11 @@
 id: 203215964
-type: way
+type: node
 latitude: 40.87156
 longitude: -79.95373
 postcode: "16001"
 city: Butler
-street: "Moraine Pointe Plaza"
-housenumber: 400
-phone: "+1 724-282-7458"
-opening_hours: "Mo-Sa 06:00-21:00, Su 08:00-19:00"
-website: "https://www.homedepot.com/l/Butler/PA/Butler/16001/4139"
+street: Moraine Pointe Plaza
+housenumber: "400"
+phone: +1 724-282-7458
+opening_hours: Mo-Sa 06:00-21:00, Su 08:00-19:00
+website: https://www.homedepot.com/l/Butler/PA/Butler/16001/4139

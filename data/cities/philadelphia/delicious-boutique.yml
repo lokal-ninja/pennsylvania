@@ -1,11 +1,11 @@
 id: 1218379667
-type: way
+type: node
 latitude: 39.96896
 longitude: -75.133
 postcode: "19125"
 city: Philadelphia
-street: "East Girard Avenue"
-housenumber: 212
-phone: "+1 215-413-0375"
-opening_hours: "12:00-20:00"
-website: "https://www.deliciousboutique.com/"
+street: East Girard Avenue
+housenumber: "212"
+phone: +1 215-413-0375
+opening_hours: 12:00-20:00
+website: https://www.deliciousboutique.com/

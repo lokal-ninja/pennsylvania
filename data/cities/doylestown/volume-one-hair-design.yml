@@ -1,11 +1,11 @@
 id: 389832269
-type: way
+type: node
 latitude: 40.30944
 longitude: -75.12934
 postcode: "18901"
 city: Doylestown
-street: "East Oakland Avenue"
-housenumber: 26
+street: East Oakland Avenue
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

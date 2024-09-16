@@ -1,11 +1,11 @@
 id: 203507408
-type: way
+type: node
 latitude: 40.42885
 longitude: -79.985
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 1305
-phone: "+1 412-431-0700"
-opening_hours: "Mo-Th 11:00-20:00; Fr-Sa 11:00-17:00"
-website: "www.pittsburghguitars.com"
+street: East Carson Street
+housenumber: "1305"
+phone: +1 412-431-0700
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 11:00-17:00
+website: www.pittsburghguitars.com

@@ -1,11 +1,11 @@
 id: 813184076
-type: way
+type: node
 latitude: 40.98406
 longitude: -75.19821
 postcode: "18360"
 city: Stroudsburg
-street: "Main Street"
-housenumber: 905
+street: Main Street
+housenumber: "905"
 phone: "+15708011657"
 opening_hours: ""
-website: "https://www.monteroviolins.com/"
+website: https://www.monteroviolins.com/

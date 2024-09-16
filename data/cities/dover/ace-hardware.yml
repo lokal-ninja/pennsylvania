@@ -2,10 +2,10 @@ id: 2701412323
 type: node
 latitude: 39.99532
 longitude: -76.84482
-postcode: "17315-3508"
+postcode: 17315-3508
 city: Dover
-street: "Carlisle Road"
-housenumber: 4072
-phone: "+1 717-292-6055"
-opening_hours: "Mo-Fr 07:30-20:30; Sa 07:30-19:00; Su 09:00-17:00"
+street: Carlisle Road
+housenumber: "4072"
+phone: +1 717-292-6055
+opening_hours: Mo-Fr 07:30-20:30; Sa 07:30-19:00; Su 09:00-17:00
 website: ""

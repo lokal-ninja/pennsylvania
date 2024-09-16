@@ -1,11 +1,11 @@
 id: 404144743
-type: way
+type: node
 latitude: 40.02638
 longitude: -75.20949
 postcode: "19128"
 city: Philadelphia
-street: "Ridge Avenue"
-housenumber: 5632
-phone: "+1 215-482-9918"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/pa/philadelphia/5632-ridge-av-11336"
+street: Ridge Avenue
+housenumber: "5632"
+phone: +1 215-482-9918
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/pa/philadelphia/5632-ridge-av-11336

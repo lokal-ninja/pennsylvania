@@ -1,11 +1,11 @@
 id: 1302652365
-type: way
+type: node
 latitude: 40.61792
 longitude: -75.47862
 postcode: "18052"
 city: Whitehall
-street: "MacArthur Road"
-housenumber: 1025
+street: MacArthur Road
+housenumber: "1025"
 phone: ""
 opening_hours: ""
 website: ""

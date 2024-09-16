@@ -1,11 +1,11 @@
 id: 719910306
-type: way
+type: node
 latitude: 40.69166
 longitude: -77.59479
 postcode: "17084"
 city: Reedsville
-street: "Old US Route 322"
-housenumber: 4707
+street: Old US Route 322
+housenumber: "4707"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00, Su 08:00-19:00"
+opening_hours: Mo-Sa 08:00-21:00, Su 08:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1134337368
-type: way
+type: node
 latitude: 39.83183
 longitude: -77.2326
 postcode: "17325"
 city: Gettysburg
-street: "North Washington Street"
-housenumber: 39
-phone: "(717) 253-4141"
+street: North Washington Street
+housenumber: "39"
+phone: (717) 253-4141
 opening_hours: ""
 website: ""

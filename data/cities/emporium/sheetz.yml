@@ -1,11 +1,11 @@
 id: 823152427
-type: way
+type: node
 latitude: 41.511
 longitude: -78.23818
 postcode: "15834"
 city: Emporium
-street: "West 4th Street"
-housenumber: 1
-phone: "+1 814-486-9475"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/151"
+street: West 4th Street
+housenumber: "1"
+phone: +1 814-486-9475
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/151

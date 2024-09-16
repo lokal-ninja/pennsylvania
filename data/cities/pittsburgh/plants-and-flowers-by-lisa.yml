@@ -1,11 +1,11 @@
 id: 349870485
-type: way
+type: node
 latitude: 40.41764
 longitude: -79.98663
 postcode: "15210"
 city: Pittsburgh
-street: "Brownsville Road"
-housenumber: 100
-phone: "+1 412 481 5472"
+street: Brownsville Road
+housenumber: "100"
+phone: +1 412 481 5472
 opening_hours: ""
 website: ""

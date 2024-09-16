@@ -4,8 +4,8 @@ latitude: 39.97431
 longitude: -75.32134
 postcode: "19083"
 city: Havertown
-street: "Westchester Pike"
-housenumber: 1305
-phone: "+1 610-449-8030"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/pa/havertown/1305-westchester-pike-suite-18"
+street: Westchester Pike
+housenumber: "1305"
+phone: +1 610-449-8030
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/pa/havertown/1305-westchester-pike-suite-18

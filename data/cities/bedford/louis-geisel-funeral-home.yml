@@ -1,11 +1,11 @@
 id: 1079663687
-type: way
+type: node
 latitude: 40.01914
 longitude: -78.49869
 postcode: "15522"
 city: Bedford
-street: "East Pitt Street"
-housenumber: 330
+street: East Pitt Street
+housenumber: "330"
 phone: ""
 opening_hours: ""
-website: "https://www.geiselfuneral.com"
+website: https://www.geiselfuneral.com

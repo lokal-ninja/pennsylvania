@@ -1,11 +1,11 @@
 id: 965995276
-type: way
+type: node
 latitude: 40.23836
 longitude: -75.2388
 postcode: "19454"
 city: North Wales
-street: "Airport Square"
-housenumber: 34
-phone: "+1 215-393-4923"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Airport Square
+housenumber: "34"
+phone: +1 215-393-4923
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

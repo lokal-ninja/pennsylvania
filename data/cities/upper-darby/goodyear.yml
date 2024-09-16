@@ -1,11 +1,11 @@
 id: 948209177
-type: way
+type: node
 latitude: 39.95646
 longitude: -75.25873
 postcode: "19082"
 city: Upper Darby
-street: "Walnut Street"
-housenumber: 6930
+street: Walnut Street
+housenumber: "6930"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 614324334
-type: way
+type: node
 latitude: 41.00766
 longitude: -75.47648
 postcode: "18610"
 city: Blakeslee
-street: "PA 115"
-housenumber: 3797
+street: PA 115
+housenumber: "3797"
 phone: ""
 opening_hours: ""
 website: ""

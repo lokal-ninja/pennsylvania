@@ -1,11 +1,11 @@
 id: 1273941280
-type: way
+type: node
 latitude: 40.55639
 longitude: -75.58397
 postcode: "18106"
 city: Allentown
-street: "Mill Creek Road"
-housenumber: 950
-phone: "+1 844-460-7080"
-opening_hours: "08:30-20:00"
-website: "https://stores.aldi.us/pa/allentown/950-mill-creek-road"
+street: Mill Creek Road
+housenumber: "950"
+phone: +1 844-460-7080
+opening_hours: 08:30-20:00
+website: https://stores.aldi.us/pa/allentown/950-mill-creek-road

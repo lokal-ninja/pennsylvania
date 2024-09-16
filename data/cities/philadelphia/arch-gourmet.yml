@@ -4,8 +4,8 @@ latitude: 39.95599
 longitude: -75.17635
 postcode: "19103"
 city: Philadelphia
-street: "Arch Street"
-housenumber: 2200
-phone: "+1 215-567-1796"
-opening_hours: "07:00-19:00"
-website: "https://archgourmetphilly.com"
+street: Arch Street
+housenumber: "2200"
+phone: +1 215-567-1796
+opening_hours: 07:00-19:00
+website: https://archgourmetphilly.com

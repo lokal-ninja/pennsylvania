@@ -4,8 +4,8 @@ latitude: 39.95197
 longitude: -75.17562
 postcode: "19103"
 city: Philadelphia
-street: "South 21st Street"
-housenumber: 100
+street: South 21st Street
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:59"
-website: "http://mondemarket.blogspot.com"
+opening_hours: Mo-Su 07:00-23:59
+website: http://mondemarket.blogspot.com

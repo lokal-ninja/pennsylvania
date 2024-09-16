@@ -1,11 +1,11 @@
 id: 724381196
-type: way
+type: node
 latitude: 40.24378
 longitude: -75.61798
 postcode: "19464"
 city: Pottstown
-street: "East High Street"
-housenumber: 1423
-phone: "+1 610-323-2194"
+street: East High Street
+housenumber: "1423"
+phone: +1 610-323-2194
 opening_hours: ""
 website: ""

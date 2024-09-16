@@ -1,11 +1,11 @@
 id: 1099477340
-type: way
+type: node
 latitude: 40.11266
 longitude: -75.3803
 postcode: "19406"
 city: King of Prussia
-street: "West Beidler Road"
-housenumber: 216
-phone: "+1 610-815-4730"
-opening_hours: "Mo 08:00-18:00"
+street: West Beidler Road
+housenumber: "216"
+phone: +1 610-815-4730
+opening_hours: Mo 08:00-18:00
 website: ""

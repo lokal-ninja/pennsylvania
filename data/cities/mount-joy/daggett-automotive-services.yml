@@ -1,11 +1,11 @@
 id: 200250539
-type: way
+type: node
 latitude: 40.11244
 longitude: -76.51339
 postcode: "17552"
 city: Mount Joy
-street: "West Main Street"
-housenumber: 347
+street: West Main Street
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

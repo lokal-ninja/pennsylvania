@@ -4,8 +4,8 @@ latitude: 40.44041
 longitude: -79.99923
 postcode: "15222"
 city: Pittsburgh
-street: "Fifth Avenue"
-housenumber: 339
-phone: "+1-412-281-3725"
-opening_hours: "Su 12:00-17:00, Mo-Sa 09:00-19:00"
+street: Fifth Avenue
+housenumber: "339"
+phone: +1-412-281-3725
+opening_hours: Su 12:00-17:00, Mo-Sa 09:00-19:00
 website: ""

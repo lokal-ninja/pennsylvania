@@ -1,11 +1,11 @@
 id: 1273149045
-type: way
+type: node
 latitude: 40.51868
 longitude: -75.52579
 postcode: "18049"
 city: Emmaus
-street: "Buckeye Road"
-housenumber: 4845
+street: Buckeye Road
+housenumber: "4845"
 phone: "+16109652357"
 opening_hours: ""
 website: ""

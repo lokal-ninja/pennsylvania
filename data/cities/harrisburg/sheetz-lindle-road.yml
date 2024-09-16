@@ -1,11 +1,11 @@
 id: 1160203282
-type: way
+type: node
 latitude: 40.24224
 longitude: -76.80245
 postcode: "17111"
 city: Harrisburg
-street: "Lindle Road"
-housenumber: 4651
-phone: "+1 717-939-6186"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/580"
+street: Lindle Road
+housenumber: "4651"
+phone: +1 717-939-6186
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/580

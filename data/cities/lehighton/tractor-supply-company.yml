@@ -1,11 +1,11 @@
 id: 660915645
-type: way
+type: node
 latitude: 40.79899
 longitude: -75.77548
 postcode: "18235"
 city: Lehighton
-street: "Blakeslee Boulevard Drive West"
-housenumber: 486
-phone: "+1 570-386-3584"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Blakeslee Boulevard Drive West
+housenumber: "486"
+phone: +1 570-386-3584
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

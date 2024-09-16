@@ -1,11 +1,11 @@
 id: 490567863
-type: way
+type: node
 latitude: 41.43532
 longitude: -75.64416
 postcode: "18509"
 city: Scranton
-street: "Boulevard Avenue"
-housenumber: 2117
+street: Boulevard Avenue
+housenumber: "2117"
 phone: ""
 opening_hours: ""
 website: ""

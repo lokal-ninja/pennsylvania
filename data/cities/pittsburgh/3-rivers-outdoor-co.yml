@@ -1,11 +1,11 @@
 id: 534168260
-type: way
+type: node
 latitude: 40.43176
 longitude: -79.89387
 postcode: "15218"
 city: Pittsburgh
-street: "South Braddock Avenue"
-housenumber: 1130
-phone: "+1 412 871 5038"
-opening_hours: "Mo off; Tu-Fr 12:00-20:00; Sa 10:00-20:00; Su 10:00-17:00"
-website: "https://3riversoutdoor.com/"
+street: South Braddock Avenue
+housenumber: "1130"
+phone: +1 412 871 5038
+opening_hours: Mo off; Tu-Fr 12:00-20:00; Sa 10:00-20:00; Su 10:00-17:00
+website: https://3riversoutdoor.com/

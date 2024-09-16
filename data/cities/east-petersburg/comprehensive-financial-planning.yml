@@ -1,11 +1,11 @@
 id: 82667907
-type: way
+type: node
 latitude: 40.09996
 longitude: -76.35528
 postcode: "17520"
 city: East Petersburg
-street: "Lemon Street"
-housenumber: 5995
-phone: "+1 717-569-6667"
+street: Lemon Street
+housenumber: "5995"
+phone: +1 717-569-6667
 opening_hours: ""
-website: "https://www.compcos.com/"
+website: https://www.compcos.com/

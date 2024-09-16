@@ -1,11 +1,11 @@
 id: 340418025
-type: way
+type: node
 latitude: 40.5175
 longitude: -80.14817
 postcode: "15225"
 city: Neville
-street: "Grand Avenue"
-housenumber: 7500
+street: Grand Avenue
+housenumber: "7500"
 phone: ""
 opening_hours: ""
 website: ""

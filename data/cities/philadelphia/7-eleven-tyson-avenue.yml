@@ -1,11 +1,11 @@
 id: 990263958
-type: way
+type: node
 latitude: 40.03541
 longitude: -75.04889
 postcode: "19149"
 city: Philadelphia
-street: "Tyson Avenue"
-housenumber: 3301
-phone: "+1 215-332-6677"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/pa/philadelphia/3301-tyson-avenue-23854"
+street: Tyson Avenue
+housenumber: "3301"
+phone: +1 215-332-6677
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/pa/philadelphia/3301-tyson-avenue-23854

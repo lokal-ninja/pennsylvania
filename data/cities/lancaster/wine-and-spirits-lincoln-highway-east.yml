@@ -1,11 +1,11 @@
 id: 260697092
-type: way
+type: node
 latitude: 40.0372
 longitude: -76.27046
 postcode: "17602"
 city: Lancaster
-street: "Lincoln Highway East"
-housenumber: 1622
-phone: "+1 717-826-0450"
-opening_hours: "Mo-Sa 09:00-22:00; Su 11:00-19:00"
-website: "https://www.finewineandgoodspirits.com/store-3615"
+street: Lincoln Highway East
+housenumber: "1622"
+phone: +1 717-826-0450
+opening_hours: Mo-Sa 09:00-22:00; Su 11:00-19:00
+website: https://www.finewineandgoodspirits.com/store-3615

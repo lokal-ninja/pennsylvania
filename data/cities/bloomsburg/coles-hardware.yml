@@ -1,11 +1,11 @@
 id: 633986855
-type: way
+type: node
 latitude: 41.00586
 longitude: -76.43381
 postcode: "17815"
 city: Bloomsburg
-street: "Columbia Boulevard"
-housenumber: 1089
+street: Columbia Boulevard
+housenumber: "1089"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00, Sa 7:30-18:00, Su 9:00-16:00"
+opening_hours: Mo-Fr 07:30-19:00, Sa 7:30-18:00, Su 9:00-16:00
 website: ""

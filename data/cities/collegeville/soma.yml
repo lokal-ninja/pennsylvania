@@ -4,8 +4,8 @@ latitude: 40.16554
 longitude: -75.48009
 postcode: "19426"
 city: Collegeville
-street: "Market Street"
-housenumber: 171
-phone: "+1 610-226-2105"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.soma.com/locations/us/pa/collegeville/171-market-street/"
+street: Market Street
+housenumber: "171"
+phone: +1 610-226-2105
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.soma.com/locations/us/pa/collegeville/171-market-street/

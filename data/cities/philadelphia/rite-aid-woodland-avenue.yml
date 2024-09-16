@@ -1,11 +1,11 @@
 id: 738709484
-type: way
+type: node
 latitude: 39.92357
 longitude: -75.23849
 postcode: "19142"
 city: Philadelphia
-street: "Woodland Avenue"
-housenumber: 6731
-phone: "+1 215-724-9677"
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-21:00"
-website: "https://www.riteaid.com/locations/pa/philadelphia/6731-woodland-avenue.html"
+street: Woodland Avenue
+housenumber: "6731"
+phone: +1 215-724-9677
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-21:00
+website: https://www.riteaid.com/locations/pa/philadelphia/6731-woodland-avenue.html

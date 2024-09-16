@@ -4,8 +4,8 @@ latitude: 39.93789
 longitude: -75.34865
 postcode: "19064"
 city: Springfield
-street: "South State Road"
-housenumber: 129
-phone: "+1 610-541-0102"
-opening_hours: "Mo,Su off; Tu,Th-Fr 10:00-19:00; We by appointment; Sa 09:00-16:00"
-website: "https://www.richarddouglassalon.com"
+street: South State Road
+housenumber: "129"
+phone: +1 610-541-0102
+opening_hours: Mo,Su off; Tu,Th-Fr 10:00-19:00; We "by appointment"; Sa 09:00-16:00
+website: https://www.richarddouglassalon.com

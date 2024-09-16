@@ -1,11 +1,11 @@
 id: 878788999
-type: way
+type: node
 latitude: 40.08697
 longitude: -75.29397
 postcode: "19428"
 city: Conshohocken
-street: "Butler Pike"
-housenumber: 1602
-phone: "+1 610 940 0670"
+street: Butler Pike
+housenumber: "1602"
+phone: +1 610 940 0670
 opening_hours: ""
-website: "https://www.hometownauto.com/"
+website: https://www.hometownauto.com/

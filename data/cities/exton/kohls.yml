@@ -1,11 +1,11 @@
 id: 61853746
-type: way
+type: node
 latitude: 40.02852
 longitude: -75.63433
 postcode: "19341"
 city: Exton
-street: "West Lincoln Highway"
-housenumber: 229
-phone: "+1 610-280-1140"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/pa/exton-277.shtml"
+street: West Lincoln Highway
+housenumber: "229"
+phone: +1 610-280-1140
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/pa/exton-277.shtml

@@ -4,8 +4,8 @@ latitude: 40.44031
 longitude: -80.14734
 postcode: "15205"
 city: Pittsburgh
-street: "Settlers Ridge Center Drive"
-housenumber: 1310
-phone: "+1 412-787-8780"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/pittsburgh-pa-484"
+street: Settlers Ridge Center Drive
+housenumber: "1310"
+phone: +1 412-787-8780
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/pittsburgh-pa-484

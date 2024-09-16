@@ -1,11 +1,11 @@
 id: 431905309
-type: way
+type: node
 latitude: 41.00213
 longitude: -75.1497
 postcode: "18301"
 city: East Stroudsburg
-street: "Seven Bridge Road"
-housenumber: 831
+street: Seven Bridge Road
+housenumber: "831"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 363410627
-type: way
+type: node
 latitude: 40.14575
 longitude: -75.3169
 postcode: "19401"
 city: Norristown
-street: "West Germantown Pike"
-housenumber: 69
-phone: "+1 610-279-6720"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.pepboys.com/stores/pa/norristown/69-w-germantown-pike?storeCode=1073"
+street: West Germantown Pike
+housenumber: "69"
+phone: +1 610-279-6720
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.pepboys.com/stores/pa/norristown/69-w-germantown-pike?storeCode=1073

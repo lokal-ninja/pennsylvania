@@ -1,11 +1,11 @@
 id: 658597481
-type: way
+type: node
 latitude: 40.30173
 longitude: -79.49164
 postcode: "15601"
 city: Greensburg
-street: "State Route 30"
-housenumber: 5085
-phone: "+1 724-837-1600"
+street: State Route 30
+housenumber: "5085"
+phone: +1 724-837-1600
 opening_hours: ""
-website: "https://www.sendellsubaru.com"
+website: https://www.sendellsubaru.com

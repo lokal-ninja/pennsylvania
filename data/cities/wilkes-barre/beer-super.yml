@@ -1,11 +1,11 @@
 id: 422900159
-type: way
+type: node
 latitude: 41.24858
 longitude: -75.85621
 postcode: "18702"
 city: Wilkes-Barre
-street: "Scott Street"
-housenumber: 485
+street: Scott Street
+housenumber: "485"
 phone: ""
 opening_hours: ""
 website: ""

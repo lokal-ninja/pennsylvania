@@ -1,11 +1,11 @@
 id: 265349407
-type: way
+type: node
 latitude: 41.48518
 longitude: -75.69466
 postcode: "18411"
 city: South Abington Township
-street: "Northern Boulevard"
-housenumber: 1109
-phone: "+1 570-587-1048"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/363"
+street: Northern Boulevard
+housenumber: "1109"
+phone: +1 570-587-1048
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/363

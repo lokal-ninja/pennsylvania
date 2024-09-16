@@ -4,8 +4,8 @@ latitude: 39.96739
 longitude: -75.1709
 postcode: "19130"
 city: Philadelphia
-street: "Fairmount Avenue"
-housenumber: 2017
+street: Fairmount Avenue
+housenumber: "2017"
 phone: ""
 opening_hours: ""
-website: "https://aliswagon.com/"
+website: https://aliswagon.com/

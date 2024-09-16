@@ -1,11 +1,11 @@
 id: 356167914
-type: way
+type: node
 latitude: 40.5152
 longitude: -80.00963
 postcode: "15237"
 city: Pittsburgh
-street: "Babcock Boulevard"
-housenumber: 3025
-phone: "+1 412-931-1716"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/476"
+street: Babcock Boulevard
+housenumber: "3025"
+phone: +1 412-931-1716
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/476

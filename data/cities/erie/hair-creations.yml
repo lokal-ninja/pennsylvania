@@ -1,11 +1,11 @@
 id: 810030674
-type: way
+type: node
 latitude: 42.15538
 longitude: -79.98386
 postcode: "16510"
 city: Erie
-street: "Buffalo Road"
-housenumber: 5158
+street: Buffalo Road
+housenumber: "5158"
 phone: ""
 opening_hours: ""
 website: ""

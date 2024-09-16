@@ -1,11 +1,11 @@
 id: 398812676
-type: way
+type: node
 latitude: 40.4405
 longitude: -80.07291
 postcode: "15205"
 city: Pittsburgh
-street: "Walsh Road"
-housenumber: 51
-phone: "+1 412-921-4504"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Walsh Road
+housenumber: "51"
+phone: +1 412-921-4504
+opening_hours: Mo-Su 07:00-21:00
 website: ""

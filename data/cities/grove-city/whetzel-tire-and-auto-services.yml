@@ -1,11 +1,11 @@
 id: 906001070
-type: way
+type: node
 latitude: 41.16476
 longitude: -80.08226
 postcode: "16127"
 city: Grove City
-street: "North Broad Street"
-housenumber: 402
-phone: "+1 724-264-4900"
+street: North Broad Street
+housenumber: "402"
+phone: +1 724-264-4900
 opening_hours: ""
-website: "http://www.whetzeltire.com"
+website: http://www.whetzeltire.com

@@ -1,11 +1,11 @@
 id: 442791171
-type: way
+type: node
 latitude: 41.05206
 longitude: -76.22283
 postcode: "18635"
 city: Nescopeck
-street: "3rd Street"
-housenumber: 406
-phone: "+1 (570) 759-3675"
+street: 3rd Street
+housenumber: "406"
+phone: +1 (570) 759-3675
 opening_hours: ""
 website: ""

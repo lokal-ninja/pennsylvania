@@ -1,11 +1,11 @@
 id: 640876508
-type: way
+type: node
 latitude: 40.51504
 longitude: -80.22442
 postcode: "15108"
 city: Moon Township
-street: "University Boulevard"
-housenumber: 7500
-phone: "+1 412-893-0143"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4644-moon-township-pa"
+street: University Boulevard
+housenumber: "7500"
+phone: +1 412-893-0143
+opening_hours: 24/7
+website: https://www.walmart.com/store/4644-moon-township-pa

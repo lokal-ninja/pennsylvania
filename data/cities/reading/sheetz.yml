@@ -1,11 +1,11 @@
 id: 320528003
-type: way
+type: node
 latitude: 40.30682
 longitude: -75.97911
 postcode: "19607"
 city: Reading
-street: "Lancaster Pike"
-housenumber: 2246
-phone: "+1 610-743-5753"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/655"
+street: Lancaster Pike
+housenumber: "2246"
+phone: +1 610-743-5753
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/655

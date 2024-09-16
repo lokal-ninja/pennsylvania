@@ -1,11 +1,11 @@
 id: 347302115
-type: way
+type: node
 latitude: 40.59817
 longitude: -75.3412
 postcode: "18015"
 city: Bethlehem
-street: "Hellertown Road"
-housenumber: 1140
+street: Hellertown Road
+housenumber: "1140"
 phone: ""
 opening_hours: ""
 website: ""

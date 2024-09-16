@@ -1,11 +1,11 @@
 id: 682096433
-type: way
+type: node
 latitude: 40.02679
 longitude: -75.63238
 postcode: "19341"
 city: Exton
-street: "West Lincoln Highway"
-housenumber: 190
-phone: "+1 833-460-7017"
-opening_hours: "08:30-20:00"
-website: "https://stores.aldi.us/pa/exton/190-w-lincoln-highway"
+street: West Lincoln Highway
+housenumber: "190"
+phone: +1 833-460-7017
+opening_hours: 08:30-20:00
+website: https://stores.aldi.us/pa/exton/190-w-lincoln-highway

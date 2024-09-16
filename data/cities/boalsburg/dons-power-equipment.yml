@@ -1,11 +1,11 @@
 id: 847323304
-type: way
+type: node
 latitude: 40.77605
 longitude: -77.80969
 postcode: "16827"
 city: Boalsburg
-street: "Shingletown Road"
-housenumber: 717
-phone: "+1-814-466-6821"
+street: Shingletown Road
+housenumber: "717"
+phone: +1-814-466-6821
 opening_hours: ""
 website: ""

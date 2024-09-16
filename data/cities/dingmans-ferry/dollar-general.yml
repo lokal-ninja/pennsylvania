@@ -1,11 +1,11 @@
 id: 1267954611
-type: way
+type: node
 latitude: 41.25939
 longitude: -74.90431
 postcode: "18328"
 city: Dingmans Ferry
-street: "PA-739"
-housenumber: 1722
-phone: "+1 570-832-2624"
+street: PA-739
+housenumber: "1722"
+phone: +1 570-832-2624
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/pa/delaware-township/15589"
+website: https://www.dollargeneral.com/store-directory/pa/delaware-township/15589

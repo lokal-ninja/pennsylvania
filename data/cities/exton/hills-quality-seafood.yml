@@ -1,11 +1,11 @@
 id: 692398767
-type: way
+type: node
 latitude: 40.03986
 longitude: -75.63375
 postcode: "19341"
 city: Exton
-street: "North Pottstown Pike"
-housenumber: 354
-phone: "+1 610-594-1290"
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-17:00"
-website: "https://www.hillsqualityseafood.com"
+street: North Pottstown Pike
+housenumber: "354"
+phone: +1 610-594-1290
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-17:00
+website: https://www.hillsqualityseafood.com

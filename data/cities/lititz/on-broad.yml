@@ -1,11 +1,11 @@
 id: 199983021
-type: way
+type: node
 latitude: 40.15657
 longitude: -76.30715
 postcode: "17543"
 city: Lititz
-street: "South Broad Street"
-housenumber: 11
-phone: "+1 717-675-8104"
-opening_hours: "Mo,Su off; Tu-Fr 11:00-16:00; Sa 10:00-16:00"
-website: "https://www.onbroadlititz.com"
+street: South Broad Street
+housenumber: "11"
+phone: +1 717-675-8104
+opening_hours: Mo,Su off; Tu-Fr 11:00-16:00; Sa 10:00-16:00
+website: https://www.onbroadlititz.com

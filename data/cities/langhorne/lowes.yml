@@ -1,11 +1,11 @@
 id: 55132769
-type: way
+type: node
 latitude: 40.17034
 longitude: -74.89678
 postcode: "19047"
 city: Langhorne
-street: "East Lincoln Highway"
-housenumber: 1400
-phone: "+1 215-702-7730"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/pa-langhorne/1572"
+street: East Lincoln Highway
+housenumber: "1400"
+phone: +1 215-702-7730
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/pa-langhorne/1572

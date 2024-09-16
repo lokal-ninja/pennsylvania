@@ -1,11 +1,11 @@
 id: 372413603
-type: way
+type: node
 latitude: 40.23497
 longitude: -76.96839
 postcode: "17050"
 city: Mechanicsburg
-street: "Carlisle Pike"
-housenumber: 4870
+street: Carlisle Pike
+housenumber: "4870"
 phone: ""
-opening_hours: "07:00-22:00;Dec 25 off"
+opening_hours: 07:00-22:00;Dec 25 off
 website: ""

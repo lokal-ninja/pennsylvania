@@ -1,11 +1,11 @@
 id: 630446493
-type: way
+type: node
 latitude: 39.87141
 longitude: -77.02866
 postcode: "17350"
 city: Hamilton Township
-street: "York Road"
-housenumber: 6100
-phone: "+1 717-688-7001"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/644"
+street: York Road
+housenumber: "6100"
+phone: +1 717-688-7001
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/644

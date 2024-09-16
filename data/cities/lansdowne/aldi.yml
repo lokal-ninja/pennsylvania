@@ -1,11 +1,11 @@
 id: 992714921
-type: way
+type: node
 latitude: 39.93747
 longitude: -75.27314
 postcode: "19050"
 city: Lansdowne
-street: "West Baltimore Avenue"
-housenumber: 48
-phone: "+1 833-460-7010"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/pa/lansdowne/48-w-baltimore-ave"
+street: West Baltimore Avenue
+housenumber: "48"
+phone: +1 833-460-7010
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/pa/lansdowne/48-w-baltimore-ave

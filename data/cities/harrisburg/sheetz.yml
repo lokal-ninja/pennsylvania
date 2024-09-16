@@ -1,11 +1,11 @@
 id: 166384894
-type: way
+type: node
 latitude: 40.32512
 longitude: -76.78267
 postcode: "17112"
 city: Harrisburg
-street: "Allentown Boulevard"
-housenumber: 6290
-phone: "+1 717-671-6710"
-opening_hours: "24/7"
-website: "https://orderz.sheetz.com/#/main/location/store/412"
+street: Allentown Boulevard
+housenumber: "6290"
+phone: +1 717-671-6710
+opening_hours: 24/7
+website: https://orderz.sheetz.com/#/main/location/store/412

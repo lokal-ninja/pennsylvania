@@ -4,8 +4,8 @@ latitude: 41.80729
 longitude: -77.07839
 postcode: "16933"
 city: Mansfield
-street: "North Main Street"
-housenumber: 7
-phone: "+1-570-662-3097"
-opening_hours: "Mo,We,Fr 10:00-18:00; Tu,Th,Sa 10:00-16:00"
-website: "https://www.oswaldcycleworks.com/"
+street: North Main Street
+housenumber: "7"
+phone: +1-570-662-3097
+opening_hours: Mo,We,Fr 10:00-18:00; Tu,Th,Sa 10:00-16:00
+website: https://www.oswaldcycleworks.com/

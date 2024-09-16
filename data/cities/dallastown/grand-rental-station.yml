@@ -1,11 +1,11 @@
 id: 236787998
-type: way
+type: node
 latitude: 39.90718
 longitude: -76.67148
 postcode: "17408"
 city: Dallastown
-street: "South Queen Street"
-housenumber: 2801
+street: South Queen Street
+housenumber: "2801"
 phone: ""
 opening_hours: ""
 website: ""

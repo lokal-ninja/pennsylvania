@@ -1,11 +1,11 @@
 id: 650083885
-type: way
+type: node
 latitude: 40.3533
 longitude: -76.1924
 postcode: "19567"
 city: Womelsdorf
-street: "Brickplant Road"
-housenumber: 41
-phone: "+1 610 589 1133"
-opening_hours: "Mo-Fr 07:00-17:00; Sa-Su closed"
-website: "https://www.drautobody.net/"
+street: Brickplant Road
+housenumber: "41"
+phone: +1 610 589 1133
+opening_hours: Mo-Fr 07:00-17:00; Sa-Su closed
+website: https://www.drautobody.net/

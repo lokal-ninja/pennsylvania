@@ -1,11 +1,11 @@
 id: 484645523
-type: way
+type: node
 latitude: 39.87923
 longitude: -75.39548
 postcode: "19015"
 city: Brookhaven
-street: "Edgmont Avenue"
-housenumber: 5005
-phone: "+1 610-990-8186"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/PA-Brookhaven/3277"
+street: Edgmont Avenue
+housenumber: "5005"
+phone: +1 610-990-8186
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/PA-Brookhaven/3277

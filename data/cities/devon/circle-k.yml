@@ -1,11 +1,11 @@
 id: 753447748
-type: way
+type: node
 latitude: 40.046
 longitude: -75.42389
 postcode: ""
 city: Devon
-street: "West Lancaster Avenue"
-housenumber: 201
-phone: "+1 484-582-0452"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/devon/201-w-lancaster-ave/2655755"
+street: West Lancaster Avenue
+housenumber: "201"
+phone: +1 484-582-0452
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/devon/201-w-lancaster-ave/2655755

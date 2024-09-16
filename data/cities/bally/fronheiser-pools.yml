@@ -4,8 +4,8 @@ latitude: 40.39478
 longitude: -75.59133
 postcode: "19503"
 city: Bally
-street: "Main Street"
-housenumber: 26
+street: Main Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://fronheiser.com/"
+website: https://fronheiser.com/

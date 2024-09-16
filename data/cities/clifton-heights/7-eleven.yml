@@ -1,11 +1,11 @@
 id: 989796581
-type: way
+type: node
 latitude: 39.93266
 longitude: -75.28838
 postcode: "19018"
 city: Clifton Heights
-street: "East Baltimore Avenue"
-housenumber: 500
-phone: "+1 610-622-3830"
+street: East Baltimore Avenue
+housenumber: "500"
+phone: +1 610-622-3830
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/clifton-heights/500-e.-baltimore-pike-20056"
+website: https://www.7-eleven.com/locations/pa/clifton-heights/500-e.-baltimore-pike-20056

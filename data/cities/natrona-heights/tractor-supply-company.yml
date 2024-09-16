@@ -1,11 +1,11 @@
 id: 484017974
-type: way
+type: node
 latitude: 40.64675
 longitude: -79.71044
 postcode: "15065"
 city: Natrona Heights
-street: "Freeport Road"
-housenumber: 4015
-phone: "+1 724-224-1292"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Freeport Road
+housenumber: "4015"
+phone: +1 724-224-1292
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 995203356
-type: way
+type: node
 latitude: 39.96011
 longitude: -75.58775
 postcode: "19382"
 city: West Chester
-street: "Westtown Road"
-housenumber: 326
-phone: "+1 610-429-3500"
+street: Westtown Road
+housenumber: "326"
+phone: +1 610-429-3500
 opening_hours: ""
 website: ""

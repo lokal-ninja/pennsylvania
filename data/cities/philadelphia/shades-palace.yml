@@ -1,11 +1,11 @@
 id: 1312089176
-type: way
+type: node
 latitude: 39.96385
 longitude: -75.1928
 postcode: ""
 city: Philadelphia
-street: "North 35th Street"
-housenumber: 537
-phone: "+1-215-596-0994"
-opening_hours: "Mo-Su 09:00-19:00"
+street: North 35th Street
+housenumber: "537"
+phone: +1-215-596-0994
+opening_hours: Mo-Su 09:00-19:00
 website: ""

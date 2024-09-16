@@ -1,11 +1,11 @@
 id: 386991483
-type: way
+type: node
 latitude: 40.30994
 longitude: -75.12965
 postcode: "18901"
 city: Doylestown
-street: "Donaldson Street"
-housenumber: 20
+street: Donaldson Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 670357998
-type: way
+type: node
 latitude: 40.32333
 longitude: -75.61869
 postcode: "19525"
 city: Gilbertsville
-street: "East Philadelphia Avenue"
-housenumber: 1070
-phone: "+1 610-369-2870"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-16:00"
+street: East Philadelphia Avenue
+housenumber: "1070"
+phone: +1 610-369-2870
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-16:00
 website: ""

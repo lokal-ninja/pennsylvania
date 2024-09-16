@@ -1,11 +1,11 @@
 id: 148905654
-type: way
+type: node
 latitude: 40.65604
 longitude: -75.41745
 postcode: "18017"
 city: Bethlehem
-street: "Schoenersville Road"
-housenumber: 3201
-phone: "+1 610-264-0947"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/384"
+street: Schoenersville Road
+housenumber: "3201"
+phone: +1 610-264-0947
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/384

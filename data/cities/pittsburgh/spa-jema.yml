@@ -1,11 +1,11 @@
 id: 202864132
-type: way
+type: node
 latitude: 40.4389
 longitude: -80.00481
 postcode: "15222"
 city: Pittsburgh
-street: "First Avenue"
-housenumber: 117
-phone: "+1 412-281-3336"
-opening_hours: "Tu 11:00-20:00; We 11:00-20:00; Sa 11:00-18:00"
-website: "https://www.spajema.com/"
+street: First Avenue
+housenumber: "117"
+phone: +1 412-281-3336
+opening_hours: Tu 11:00-20:00; We 11:00-20:00; Sa 11:00-18:00
+website: https://www.spajema.com/

@@ -1,11 +1,11 @@
 id: 1085597198
-type: way
+type: node
 latitude: 41.03422
 longitude: -78.40488
 postcode: "16830"
 city: Clearfield
-street: "Clearfield Shawville Highway"
-housenumber: 14259
-phone: "+1 814-768-7533"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/252"
+street: Clearfield Shawville Highway
+housenumber: "14259"
+phone: +1 814-768-7533
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/252

@@ -4,8 +4,8 @@ latitude: 40.01679
 longitude: -75.6758
 postcode: "19335"
 city: Downingtown
-street: "Quarry Road"
-housenumber: 40
-phone: "+1 610-518-5300"
-opening_hours: "Mo,We,Th 12:00-20:00; Tu 12:00-17:00; Fr-Sa 11:00-20:00; Su 11:00-19:00"
-website: "https://www.gamestop.com/store/us/PA/DOWNINGTOWN/4732/Brandywine-Square-GameStop"
+street: Quarry Road
+housenumber: "40"
+phone: +1 610-518-5300
+opening_hours: Mo,We,Th 12:00-20:00; Tu 12:00-17:00; Fr-Sa 11:00-20:00; Su 11:00-19:00
+website: https://www.gamestop.com/store/us/PA/DOWNINGTOWN/4732/Brandywine-Square-GameStop

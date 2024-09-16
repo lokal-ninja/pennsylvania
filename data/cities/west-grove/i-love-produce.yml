@@ -1,11 +1,11 @@
 id: 727139039
-type: way
+type: node
 latitude: 39.8246
 longitude: -75.87863
 postcode: "19390"
 city: West Grove
-street: "Commerce Boulevard"
-housenumber: 15
+street: Commerce Boulevard
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:30-16:30; Sa,Su off"
-website: "https://iloveproduce.com/"
+opening_hours: Mo-Fr 08:30-16:30; Sa,Su off
+website: https://iloveproduce.com/

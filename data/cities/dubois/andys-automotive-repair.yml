@@ -1,11 +1,11 @@
 id: 809241144
-type: way
+type: node
 latitude: 41.13041
 longitude: -78.76791
 postcode: "15801"
 city: DuBois
-street: "West Dubois Avenue"
-housenumber: 601
-phone: "(814) 375-5670"
+street: West Dubois Avenue
+housenumber: "601"
+phone: (814) 375-5670
 opening_hours: ""
 website: ""

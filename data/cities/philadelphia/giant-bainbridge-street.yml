@@ -4,8 +4,8 @@ latitude: 39.94483
 longitude: -75.18057
 postcode: "19146"
 city: Philadelphia
-street: "Bainbridge Street"
-housenumber: 2303
+street: Bainbridge Street
+housenumber: "2303"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.heirloommarket.com/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.heirloommarket.com/

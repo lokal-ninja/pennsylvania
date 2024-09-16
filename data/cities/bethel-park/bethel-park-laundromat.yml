@@ -1,11 +1,11 @@
 id: 465940426
-type: way
+type: node
 latitude: 40.34791
 longitude: -80.02708
 postcode: "15102"
 city: Bethel Park
-street: "Library Road"
-housenumber: 4790
+street: Library Road
+housenumber: "4790"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 425093444
-type: way
+type: node
 latitude: 40.21719
 longitude: -79.6078
 postcode: "15672"
 city: New Stanton
-street: "North Center Avenue"
-housenumber: 106
-phone: "+1-724-925-8061"
-opening_hours: "Mo-Su 07:00-19:00"
+street: North Center Avenue
+housenumber: "106"
+phone: +1-724-925-8061
+opening_hours: Mo-Su 07:00-19:00
 website: ""

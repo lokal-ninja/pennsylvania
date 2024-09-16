@@ -1,11 +1,11 @@
 id: 247979012
-type: way
+type: node
 latitude: 40.05477
 longitude: -76.25906
 postcode: "17601"
 city: Lancaster
-street: "Hempstead Road"
-housenumber: 1845
-phone: "+1 717-399-1760"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/PA-Lancaster/2687"
+street: Hempstead Road
+housenumber: "1845"
+phone: +1 717-399-1760
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/PA-Lancaster/2687

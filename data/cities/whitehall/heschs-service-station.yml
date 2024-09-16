@@ -1,11 +1,11 @@
 id: 1297592947
-type: way
+type: node
 latitude: 40.66046
 longitude: -75.48729
 postcode: "18052"
 city: Whitehall
-street: "South Front Street"
-housenumber: 3028
+street: South Front Street
+housenumber: "3028"
 phone: "+16102640261"
 opening_hours: ""
 website: ""

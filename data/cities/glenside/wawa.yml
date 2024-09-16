@@ -1,11 +1,11 @@
 id: 1287274991
-type: way
+type: node
 latitude: 40.098
 longitude: -75.15627
 postcode: "19038"
 city: Glenside
-street: "Easton Road"
-housenumber: 200
-phone: "+1 267-996-3858"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8158"
+street: Easton Road
+housenumber: "200"
+phone: +1 267-996-3858
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8158

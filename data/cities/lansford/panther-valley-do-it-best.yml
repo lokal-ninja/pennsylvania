@@ -1,11 +1,11 @@
 id: 657664465
-type: way
+type: node
 latitude: 40.83372
 longitude: -75.86943
 postcode: "18232"
 city: Lansford
-street: "Riley Street"
-housenumber: 99
+street: Riley Street
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

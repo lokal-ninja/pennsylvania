@@ -2,10 +2,10 @@ id: 5839155344
 type: node
 latitude: 40.65455
 longitude: -76.10996
-postcode: "17961-1001"
+postcode: 17961-1001
 city: Orwigsburg
-street: "West Market Street"
-housenumber: 715
-phone: "+1 570-366-2323"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:30; Su 10:00-14:00"
+street: West Market Street
+housenumber: "715"
+phone: +1 570-366-2323
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-17:30; Su 10:00-14:00
 website: ""

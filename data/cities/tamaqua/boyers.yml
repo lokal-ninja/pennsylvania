@@ -1,11 +1,11 @@
 id: 329266814
-type: way
+type: node
 latitude: 40.79589
 longitude: -75.96719
 postcode: "18252"
 city: Tamaqua
-street: "Cedar Street"
-housenumber: 210
+street: Cedar Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

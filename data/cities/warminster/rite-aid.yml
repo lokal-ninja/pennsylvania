@@ -1,11 +1,11 @@
 id: 536197755
-type: way
+type: node
 latitude: 40.20548
 longitude: -75.09962
 postcode: "18974"
 city: Warminster
-street: "York Road"
-housenumber: 599
+street: York Road
+housenumber: "599"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
 website: ""

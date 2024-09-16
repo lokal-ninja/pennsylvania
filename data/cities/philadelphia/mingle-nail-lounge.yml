@@ -4,8 +4,8 @@ latitude: 40.02441
 longitude: -75.22098
 postcode: "19127"
 city: Philadelphia
-street: "Main Street"
-housenumber: 4237
-phone: "+1-215-483-5522"
+street: Main Street
+housenumber: "4237"
+phone: +1-215-483-5522
 opening_hours: ""
-website: "https://www.minglenaillounge.com/"
+website: https://www.minglenaillounge.com/

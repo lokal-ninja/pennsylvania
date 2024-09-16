@@ -1,11 +1,11 @@
 id: 740569015
-type: way
+type: node
 latitude: 40.00045
 longitude: -76.85164
 postcode: "17315"
 city: Dover
-street: "West Canal Street"
-housenumber: 24
+street: West Canal Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

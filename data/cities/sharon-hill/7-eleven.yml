@@ -1,11 +1,11 @@
 id: 990263961
-type: way
+type: node
 latitude: 39.90702
 longitude: -75.27602
 postcode: "19079"
 city: Sharon Hill
-street: "Chester Pike"
-housenumber: 1307
-phone: "+1 610-586-8813"
+street: Chester Pike
+housenumber: "1307"
+phone: +1 610-586-8813
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/sharon-hill/1307-chester-pike-11317"
+website: https://www.7-eleven.com/locations/pa/sharon-hill/1307-chester-pike-11317

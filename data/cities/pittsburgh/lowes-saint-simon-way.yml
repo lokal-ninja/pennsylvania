@@ -1,11 +1,11 @@
 id: 344449275
-type: way
+type: node
 latitude: 40.57148
 longitude: -80.02588
 postcode: "15237"
 city: Pittsburgh
-street: "Saint Simon Way"
-housenumber: 9051
-phone: "+1 412-536-2027"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/pa-pittsburgh/3051"
+street: Saint Simon Way
+housenumber: "9051"
+phone: +1 412-536-2027
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/pa-pittsburgh/3051

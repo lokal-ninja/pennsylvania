@@ -1,11 +1,11 @@
 id: 1098705814
-type: way
+type: node
 latitude: 40.43541
 longitude: -78.43549
 postcode: "16635"
 city: Duncansville
-street: "Kuhn Lane"
-housenumber: 234
+street: Kuhn Lane
+housenumber: "234"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

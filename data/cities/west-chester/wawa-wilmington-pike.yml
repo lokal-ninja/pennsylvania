@@ -1,11 +1,11 @@
 id: 284941912
-type: way
+type: node
 latitude: 39.90088
 longitude: -75.56211
-postcode: "19382-8316"
+postcode: 19382-8316
 city: West Chester
-street: "Wilmington Pike"
-housenumber: 1413
-phone: "+1 610-696-6781"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/298"
+street: Wilmington Pike
+housenumber: "1413"
+phone: +1 610-696-6781
+opening_hours: 24/7
+website: https://www.wawa.com/locations/298

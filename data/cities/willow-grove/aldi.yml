@@ -1,11 +1,11 @@
 id: 286298940
-type: way
+type: node
 latitude: 40.14048
 longitude: -75.11649
 postcode: "19090"
 city: Willow Grove
-street: "Davisville Road"
-housenumber: 1955
-phone: "+1 844-460-7047"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/pa/willow-grove/1955-davisville-road"
+street: Davisville Road
+housenumber: "1955"
+phone: +1 844-460-7047
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/pa/willow-grove/1955-davisville-road

@@ -1,11 +1,11 @@
 id: 443998746
-type: way
+type: node
 latitude: 40.32015
 longitude: -79.943
 postcode: "15236"
 city: Pleasant Hills
-street: "Clairton Boulevard"
-housenumber: 1000
-phone: "+1 412-896-5459"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/376"
+street: Clairton Boulevard
+housenumber: "1000"
+phone: +1 412-896-5459
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/376

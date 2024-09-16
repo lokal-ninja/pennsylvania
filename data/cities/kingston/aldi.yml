@@ -1,11 +1,11 @@
 id: 422685624
-type: way
+type: node
 latitude: 41.258
 longitude: -75.8849
 postcode: "18704"
 city: Kingston
-street: "Pierce Street"
-housenumber: 481
-phone: "+1 844-460-7097"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/pa/kingston/481-pierce-street"
+street: Pierce Street
+housenumber: "481"
+phone: +1 844-460-7097
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/pa/kingston/481-pierce-street

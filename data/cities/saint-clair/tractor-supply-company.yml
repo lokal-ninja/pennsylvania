@@ -1,11 +1,11 @@
 id: 611912794
-type: way
+type: node
 latitude: 40.72836
 longitude: -76.18812
 postcode: "17970"
 city: Saint Clair
-street: "Terry Rich Boulevard"
-housenumber: 550
-phone: "+1 570-429-2700"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Terry Rich Boulevard
+housenumber: "550"
+phone: +1 570-429-2700
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 443276406
-type: way
+type: node
 latitude: 41.05253
 longitude: -76.2227
 postcode: "18635"
 city: Nescopeck
-street: "3rd Street"
-housenumber: 411
+street: 3rd Street
+housenumber: "411"
 phone: "+18007562484"
 opening_hours: ""
 website: ""

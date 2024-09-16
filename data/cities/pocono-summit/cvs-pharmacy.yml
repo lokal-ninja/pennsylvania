@@ -1,11 +1,11 @@
 id: 550764081
-type: way
+type: node
 latitude: 41.11746
 longitude: -75.38057
 postcode: "18346"
 city: Pocono Summit
-street: "PA 940"
-housenumber: 3016
+street: PA 940
+housenumber: "3016"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/pocono-summit-pa-pharmacies/3016-route-940-po-box-2320-pocono-summit-pa-18346/storeid=342"
+website: https://www.cvs.com/store-locator/pocono-summit-pa-pharmacies/3016-route-940-po-box-2320-pocono-summit-pa-18346/storeid=342

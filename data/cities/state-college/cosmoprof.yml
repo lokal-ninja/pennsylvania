@@ -1,11 +1,11 @@
 id: 902367548
-type: way
+type: node
 latitude: 40.78594
 longitude: -77.82796
 postcode: "16801"
 city: State College
-street: "Rolling Ridge Drive"
-housenumber: 168
-phone: "+1-814-238-1498"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 12:00-16:00"
-website: "https://stores.cosmoprofbeauty.com/pa/statecollege/salon-supply-statecollege-pa-6733.html"
+street: Rolling Ridge Drive
+housenumber: "168"
+phone: +1-814-238-1498
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 12:00-16:00
+website: https://stores.cosmoprofbeauty.com/pa/statecollege/salon-supply-statecollege-pa-6733.html

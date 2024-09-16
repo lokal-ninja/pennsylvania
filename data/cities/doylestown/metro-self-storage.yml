@@ -1,11 +1,11 @@
 id: 628133464
-type: way
+type: node
 latitude: 40.27757
 longitude: -75.12665
 postcode: "18901"
 city: Doylestown
-street: "South Easton Road"
-housenumber: 1767
+street: South Easton Road
+housenumber: "1767"
 phone: ""
 opening_hours: ""
 website: ""

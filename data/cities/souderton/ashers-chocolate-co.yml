@@ -1,11 +1,11 @@
 id: 987946229
-type: way
+type: node
 latitude: 40.27505
 longitude: -75.33799
 postcode: "18964"
 city: Souderton
-street: "Wambold Road"
-housenumber: 80
+street: Wambold Road
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

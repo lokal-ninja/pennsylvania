@@ -1,11 +1,11 @@
 id: 1154165638
-type: way
+type: node
 latitude: 39.97268
 longitude: -75.31937
 postcode: "19083"
 city: Havertown
-street: "West Chester Pike"
-housenumber: 1260
-phone: "+1 610-853-3320"
-opening_hours: "Mo-Su 05:00-21:00"
-website: "https://www.starbucks.com/store-locator/store/13564/havertown-1260-westchester-pike-havertown-pa-190833309-us"
+street: West Chester Pike
+housenumber: "1260"
+phone: +1 610-853-3320
+opening_hours: Mo-Su 05:00-21:00
+website: https://www.starbucks.com/store-locator/store/13564/havertown-1260-westchester-pike-havertown-pa-190833309-us

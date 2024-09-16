@@ -1,11 +1,11 @@
 id: 896325136
-type: way
+type: node
 latitude: 40.86278
 longitude: -77.75319
 postcode: "16823"
 city: Pleasant Gap
-street: "West College Avenue"
-housenumber: 294
+street: West College Avenue
+housenumber: "294"
 phone: "+18143592761"
 opening_hours: ""
-website: "https://pennwoodhomeandhearth.com/"
+website: https://pennwoodhomeandhearth.com/

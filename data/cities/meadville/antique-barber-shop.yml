@@ -1,11 +1,11 @@
 id: 991585328
-type: way
+type: node
 latitude: 41.63159
 longitude: -80.15304
 postcode: "16335"
 city: Meadville
-street: "Willow Street"
-housenumber: 320
+street: Willow Street
+housenumber: "320"
 phone: ""
-opening_hours: "Tu 09:00-17:00; We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-15:00"
+opening_hours: Tu 09:00-17:00; We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 692795858
-type: way
+type: node
 latitude: 40.23079
 longitude: -75.31447
 postcode: "19446"
 city: Lansdale
-street: "South Valley Forge Road"
-housenumber: 1390
-phone: "+1 215 361 1759"
+street: South Valley Forge Road
+housenumber: "1390"
+phone: +1 215 361 1759
 opening_hours: ""
 website: ""

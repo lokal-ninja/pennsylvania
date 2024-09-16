@@ -1,11 +1,11 @@
 id: 1128117945
-type: way
+type: node
 latitude: 41.86369
 longitude: -80.12417
 postcode: "16412"
 city: Edinboro
-street: "Cambridge Springs Road"
-housenumber: 13080
+street: Cambridge Springs Road
+housenumber: "13080"
 phone: ""
 opening_hours: ""
 website: ""

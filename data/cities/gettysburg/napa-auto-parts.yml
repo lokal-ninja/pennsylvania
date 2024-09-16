@@ -1,11 +1,11 @@
 id: 1071942414
-type: way
+type: node
 latitude: 39.83027
 longitude: -77.22357
 postcode: "17325"
 city: Gettysburg
-street: "East Middle Street"
-housenumber: 340
-phone: "+1 717-334-0071"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su off"
-website: "https://www.napagettysburg.com/"
+street: East Middle Street
+housenumber: "340"
+phone: +1 717-334-0071
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su off
+website: https://www.napagettysburg.com/

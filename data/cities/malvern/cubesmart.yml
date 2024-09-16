@@ -1,11 +1,11 @@
 id: 1175056803
-type: way
+type: node
 latitude: 40.04334
 longitude: -75.52002
 postcode: "19355"
 city: Malvern
-street: "Old Lancaster Road"
-housenumber: 5
+street: Old Lancaster Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

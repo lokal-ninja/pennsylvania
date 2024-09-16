@@ -1,11 +1,11 @@
 id: 199160876
-type: way
+type: node
 latitude: 40.16457
 longitude: -76.39607
 postcode: "17545"
 city: Manheim
-street: "North Main Street"
-housenumber: 32
+street: North Main Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://thebeehivemanheim.com/"
+website: https://thebeehivemanheim.com/

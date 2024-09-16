@@ -1,11 +1,11 @@
 id: 290936386
-type: way
+type: node
 latitude: 40.32787
 longitude: -75.98799
 postcode: "19609"
 city: West Lawn
-street: "Penn Avenue"
-housenumber: 2005
+street: Penn Avenue
+housenumber: "2005"
 phone: ""
 opening_hours: ""
 website: ""

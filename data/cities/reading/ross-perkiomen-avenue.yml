@@ -1,11 +1,11 @@
 id: 963749731
-type: way
+type: node
 latitude: 40.30781
 longitude: -75.85714
 postcode: "19606"
 city: Reading
-street: "Perkiomen Avenue"
-housenumber: 4711
-phone: "+1 610-370-3009"
-opening_hours: "Mo-Th 10:30-21:00; Fr-Sa 09:30-21:00; Su 10:00-19:30"
+street: Perkiomen Avenue
+housenumber: "4711"
+phone: +1 610-370-3009
+opening_hours: Mo-Th 10:30-21:00; Fr-Sa 09:30-21:00; Su 10:00-19:30
 website: ""

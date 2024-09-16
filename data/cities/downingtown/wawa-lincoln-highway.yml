@@ -1,11 +1,11 @@
 id: 779706458
-type: way
+type: node
 latitude: 39.99542
 longitude: -75.74658
 postcode: "19335"
 city: Downingtown
-street: "Lincoln Highway"
-housenumber: 3710
-phone: "+1 484-258-9475"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8098"
+street: Lincoln Highway
+housenumber: "3710"
+phone: +1 484-258-9475
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8098

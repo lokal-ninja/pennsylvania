@@ -1,11 +1,11 @@
 id: 1273941273
-type: way
+type: node
 latitude: 40.55237
 longitude: -75.58162
 postcode: "18106"
 city: Allentown
-street: "Mill Creek Road"
-housenumber: 1116
+street: Mill Creek Road
+housenumber: "1116"
 phone: "+16106284810"
 opening_hours: ""
 website: ""

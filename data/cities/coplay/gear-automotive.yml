@@ -1,11 +1,11 @@
 id: 1311833841
-type: way
+type: node
 latitude: 40.66953
 longitude: -75.56681
 postcode: "18037"
 city: Coplay
-street: "Mauch Chunk Road"
-housenumber: 4111
+street: Mauch Chunk Road
+housenumber: "4111"
 phone: "+16107995561"
 opening_hours: ""
 website: ""

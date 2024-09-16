@@ -1,11 +1,11 @@
 id: 851738354
-type: way
+type: node
 latitude: 39.90493
 longitude: -75.2914
 postcode: "19036"
 city: Glenolden
-street: "North Macdade Boulevard"
-housenumber: 3
-phone: "+1 610-586-1660"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/174"
+street: North Macdade Boulevard
+housenumber: "3"
+phone: +1 610-586-1660
+opening_hours: 24/7
+website: https://www.wawa.com/locations/174

@@ -1,11 +1,11 @@
 id: 268687925
-type: way
+type: node
 latitude: 40.63571
 longitude: -75.35096
 postcode: "18017"
 city: Bethlehem
-street: "Stefko Boulevard"
-housenumber: 1621
+street: Stefko Boulevard
+housenumber: "1621"
 phone: ""
 opening_hours: ""
 website: ""

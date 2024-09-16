@@ -1,11 +1,11 @@
 id: 469297512
-type: way
+type: node
 latitude: 41.23747
 longitude: -76.82381
 postcode: "17756"
 city: Muncy
-street: "Lycoming Mall Road"
-housenumber: 809
-phone: "+1 570-546-2447"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/pa/muncy/809-lycoming-mall-rd"
+street: Lycoming Mall Road
+housenumber: "809"
+phone: +1 570-546-2447
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/pa/muncy/809-lycoming-mall-rd

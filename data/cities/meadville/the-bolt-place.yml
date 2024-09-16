@@ -1,11 +1,11 @@
 id: 1093259504
-type: way
+type: node
 latitude: 41.63827
 longitude: -80.15796
 postcode: "16335"
 city: Meadville
-street: "Mead Avenue"
-housenumber: 131
+street: Mead Avenue
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

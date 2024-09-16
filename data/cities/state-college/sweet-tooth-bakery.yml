@@ -1,11 +1,11 @@
 id: 66097502
-type: way
+type: node
 latitude: 40.79269
 longitude: -77.86287
 postcode: "16801"
 city: State College
-street: "Miller Alley"
-housenumber: 120
-phone: "+1-814-238-8835"
-opening_hours: "We-Fr 09:00-17:00, Sa 10:00-12:00"
-website: "https://www.sweettoothbakery.com/"
+street: Miller Alley
+housenumber: "120"
+phone: +1-814-238-8835
+opening_hours: We-Fr 09:00-17:00, Sa 10:00-12:00
+website: https://www.sweettoothbakery.com/

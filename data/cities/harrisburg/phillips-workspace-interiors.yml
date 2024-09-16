@@ -1,11 +1,11 @@
 id: 38893903
-type: way
+type: node
 latitude: 40.32623
 longitude: -76.77919
 postcode: "17112"
 city: Harrisburg
-street: "Allentown Boulevard"
-housenumber: 6345
+street: Allentown Boulevard
+housenumber: "6345"
 phone: ""
 opening_hours: ""
-website: "https://www.phillipsatwork.com/"
+website: https://www.phillipsatwork.com/

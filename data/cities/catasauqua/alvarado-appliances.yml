@@ -1,11 +1,11 @@
 id: 1273969100
-type: way
+type: node
 latitude: 40.64836
 longitude: -75.46798
 postcode: "18032"
 city: Catasauqua
-street: "Lehigh Street"
-housenumber: 7
+street: Lehigh Street
+housenumber: "7"
 phone: "+16107145616"
 opening_hours: ""
 website: ""

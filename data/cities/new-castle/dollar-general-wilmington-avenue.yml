@@ -1,11 +1,11 @@
 id: 656395645
-type: way
+type: node
 latitude: 41.00923
 longitude: -80.34779
 postcode: "16101"
 city: New Castle
-street: "Wilmington Avenue"
-housenumber: 704
+street: Wilmington Avenue
+housenumber: "704"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/pa/new-castle/21531"
+website: https://www.dollargeneral.com/store-directory/pa/new-castle/21531

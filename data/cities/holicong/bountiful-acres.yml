@@ -1,11 +1,11 @@
 id: 525060599
-type: way
+type: node
 latitude: 40.33266
 longitude: -75.0515
 postcode: "18928"
 city: Holicong
-street: "York Road"
-housenumber: 5074
+street: York Road
+housenumber: "5074"
 phone: ""
 opening_hours: ""
 website: ""

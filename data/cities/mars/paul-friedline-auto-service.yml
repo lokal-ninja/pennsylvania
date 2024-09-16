@@ -1,11 +1,11 @@
 id: 303256744
-type: way
+type: node
 latitude: 40.69119
 longitude: -80.00769
 postcode: "16046"
 city: Mars
-street: "Mars Valencia Road"
-housenumber: 258
+street: Mars Valencia Road
+housenumber: "258"
 phone: ""
 opening_hours: ""
 website: ""

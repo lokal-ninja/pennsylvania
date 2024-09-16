@@ -1,11 +1,11 @@
 id: 42992542
-type: way
+type: node
 latitude: 41.0258
 longitude: -76.42851
 postcode: "17815"
 city: Bloomsburg
-street: "Paper Mill Rd"
-housenumber: 111
-phone: "570-784-2442"
+street: Paper Mill Rd
+housenumber: "111"
+phone: 570-784-2442
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/bloomsburg/111-papermill-rd-40407"
+website: https://www.7-eleven.com/locations/pa/bloomsburg/111-papermill-rd-40407

@@ -1,11 +1,11 @@
 id: 805166169
-type: way
+type: node
 latitude: 40.98679
 longitude: -75.20289
 postcode: "18360"
 city: Stroudsburg
-street: "North 9th Street"
-housenumber: 301
-phone: "+1-877-817-9126"
+street: North 9th Street
+housenumber: "301"
+phone: +1-877-817-9126
 opening_hours: ""
-website: "https://www.raypricestroudford.com/"
+website: https://www.raypricestroudford.com/

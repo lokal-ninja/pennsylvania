@@ -1,11 +1,11 @@
 id: 203511311
-type: way
+type: node
 latitude: 40.42909
 longitude: -79.98551
 postcode: "15203"
 city: Pittsburgh
-street: "East Carson Street"
-housenumber: 1221
+street: East Carson Street
+housenumber: "1221"
 phone: ""
 opening_hours: ""
 website: ""

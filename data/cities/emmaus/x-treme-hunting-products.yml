@@ -1,11 +1,11 @@
 id: 889971206
-type: way
+type: node
 latitude: 40.50054
 longitude: -75.52891
 postcode: "18049"
 city: Emmaus
-street: "Chestnut Street"
-housenumber: 4972
+street: Chestnut Street
+housenumber: "4972"
 phone: "+16109674588"
 opening_hours: ""
-website: "http://www.xtremehunting.com/products.php"
+website: http://www.xtremehunting.com/products.php

@@ -1,11 +1,11 @@
 id: 1304572337
-type: way
+type: node
 latitude: 40.65217
 longitude: -75.47271
 postcode: "18032"
 city: Catasauqua
-street: "Front Street"
-housenumber: 327
+street: Front Street
+housenumber: "327"
 phone: "+16104430140"
 opening_hours: ""
-website: "https://crownbicycles.com/"
+website: https://crownbicycles.com/

@@ -1,11 +1,11 @@
 id: 575081931
-type: way
+type: node
 latitude: 40.80689
 longitude: -79.51316
-postcode: "16201-1705"
+postcode: 16201-1705
 city: Kittanning
-street: "Indiana Avenue"
-housenumber: 100
-phone: "+1 724-548-2114"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
+street: Indiana Avenue
+housenumber: "100"
+phone: +1 724-548-2114
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
 website: ""

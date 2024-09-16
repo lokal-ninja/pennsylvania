@@ -4,8 +4,8 @@ latitude: 40.39037
 longitude: -80.04067
 postcode: "15216"
 city: Pittsburgh
-street: "West Liberty Avenue"
-housenumber: 3200
-phone: "+1-412-343-3200"
-opening_hours: "Mo,Tu,Th 09:00-20:00; We,Fr 09:00-18:00; Sa 09:00-17:00"
+street: West Liberty Avenue
+housenumber: "3200"
+phone: +1-412-343-3200
+opening_hours: Mo,Tu,Th 09:00-20:00; We,Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

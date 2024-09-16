@@ -1,11 +1,11 @@
 id: 1154046084
-type: way
+type: node
 latitude: 40.00337
 longitude: -75.22087
 postcode: "19131"
 city: Philadelphia
-street: "City Avenue"
-housenumber: 4400
+street: City Avenue
+housenumber: "4400"
 phone: ""
-opening_hours: "24/7"
-website: "https://lukoilamericas.com/en/ForMotorists/PetrolStations/PetrolStation?type=gasStation&id=72417"
+opening_hours: 24/7
+website: https://lukoilamericas.com/en/ForMotorists/PetrolStations/PetrolStation?type=gasStation&id=72417

@@ -1,11 +1,11 @@
 id: 546470253
-type: way
+type: node
 latitude: 40.36273
 longitude: -74.96588
 postcode: "18938"
 city: New Hope
-street: "West Bridge Street"
-housenumber: 341
+street: West Bridge Street
+housenumber: "341"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1071356356
-type: way
+type: node
 latitude: 39.83099
 longitude: -77.23277
 postcode: "17325"
 city: Gettysburg
-street: "Chambersburg Street"
-housenumber: 51
-phone: "+1 717-334-0840"
+street: Chambersburg Street
+housenumber: "51"
+phone: +1 717-334-0840
 opening_hours: ""
 website: ""

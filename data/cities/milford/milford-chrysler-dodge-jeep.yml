@@ -1,11 +1,11 @@
 id: 159514056
-type: way
+type: node
 latitude: 41.33329
 longitude: -74.77888
 postcode: "18337"
 city: Milford
-street: "Route 6 & 209"
-housenumber: 500
+street: Route 6 & 209
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

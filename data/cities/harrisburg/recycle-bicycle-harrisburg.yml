@@ -1,11 +1,11 @@
 id: 375301340
-type: way
+type: node
 latitude: 40.26701
 longitude: -76.86344
 postcode: "17104"
 city: Harrisburg
-street: "Chestnut Street"
-housenumber: 1722
+street: Chestnut Street
+housenumber: "1722"
 phone: ""
 opening_hours: ""
-website: "https://rbhburg.org/"
+website: https://rbhburg.org/

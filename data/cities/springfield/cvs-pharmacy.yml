@@ -1,11 +1,11 @@
 id: 758399243
-type: way
+type: node
 latitude: 39.91677
 longitude: -75.33253
 postcode: "19064"
 city: Springfield
-street: "Baltimore Pike"
-housenumber: 795
-phone: "+1 610-690-5100"
-opening_hours: "Mo-Th,Su 08:00-22:00; Fr-Sa 08:00-23:00"
-website: "https://www.cvs.com/store-locator/springfield-pa-pharmacies/795-baltimore-pike-springfield-pa-19064/storeid=2582"
+street: Baltimore Pike
+housenumber: "795"
+phone: +1 610-690-5100
+opening_hours: Mo-Th,Su 08:00-22:00; Fr-Sa 08:00-23:00
+website: https://www.cvs.com/store-locator/springfield-pa-pharmacies/795-baltimore-pike-springfield-pa-19064/storeid=2582

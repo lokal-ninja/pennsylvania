@@ -1,11 +1,11 @@
 id: 656395631
-type: way
+type: node
 latitude: 41.01999
 longitude: -80.35489
 postcode: "16105"
 city: New Castle
-street: "Wilmington Road"
-housenumber: 1805
+street: Wilmington Road
+housenumber: "1805"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/new-castle-pa-pharmacies/1805-wilmington-road-new-castle-pa-16105/storeid=5711"
+website: https://www.cvs.com/store-locator/new-castle-pa-pharmacies/1805-wilmington-road-new-castle-pa-16105/storeid=5711

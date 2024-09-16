@@ -4,8 +4,8 @@ latitude: 40.70167
 longitude: -80.28871
 postcode: "15074"
 city: Rochester
-street: "West Madison Street"
-housenumber: 111
-phone: "+1 724-775-0551"
-opening_hours: "Mo-Su 07:00-21:00"
+street: West Madison Street
+housenumber: "111"
+phone: +1 724-775-0551
+opening_hours: Mo-Su 07:00-21:00
 website: ""

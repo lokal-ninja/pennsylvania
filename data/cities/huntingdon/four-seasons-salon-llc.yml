@@ -1,11 +1,11 @@
 id: 1212410219
-type: way
+type: node
 latitude: 40.49147
 longitude: -78.01551
 postcode: "16652"
 city: Huntingdon
-street: "Moore Street"
-housenumber: 1100
+street: Moore Street
+housenumber: "1100"
 phone: "+18145069428"
 opening_hours: ""
 website: ""

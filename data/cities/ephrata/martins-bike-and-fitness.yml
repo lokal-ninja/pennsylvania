@@ -1,11 +1,11 @@
 id: 340454087
-type: way
+type: node
 latitude: 40.14849
 longitude: -76.122
 postcode: "17522"
 city: Ephrata
-street: "Division Highway"
-housenumber: 1891
-phone: "+1 717-354-9127"
-opening_hours: "Mo,Th-Fr 09:00-21:00; Tu 09:00-17:00; We,Su off; Sa 09:00-16:00"
-website: "https://www.martinsbike.com/"
+street: Division Highway
+housenumber: "1891"
+phone: +1 717-354-9127
+opening_hours: Mo,Th-Fr 09:00-21:00; Tu 09:00-17:00; We,Su off; Sa 09:00-16:00
+website: https://www.martinsbike.com/

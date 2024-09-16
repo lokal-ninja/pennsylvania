@@ -4,8 +4,8 @@ latitude: 39.95199
 longitude: -75.14463
 postcode: "19106"
 city: Philadelphia
-street: "Arch Street"
-housenumber: 236
+street: Arch Street
+housenumber: "236"
 phone: ""
-opening_hours: "Su 9:00-21:00; Mo-Th 8:00-22:00; Fr-Sa 8:00-23:00"
+opening_hours: Su 9:00-21:00; Mo-Th 8:00-22:00; Fr-Sa 8:00-23:00
 website: ""

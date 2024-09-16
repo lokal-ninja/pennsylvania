@@ -4,8 +4,8 @@ latitude: 39.95163
 longitude: -75.15268
 postcode: "19106"
 city: Philadelphia
-street: "Market Street"
-housenumber: 701
+street: Market Street
+housenumber: "701"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://locations.fivebelow.com/pa/philadelphia/701-market-street"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://locations.fivebelow.com/pa/philadelphia/701-market-street

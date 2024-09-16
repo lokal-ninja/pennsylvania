@@ -1,11 +1,11 @@
 id: 772411894
-type: way
+type: node
 latitude: 41.23074
 longitude: -80.51249
 postcode: "16146"
 city: Sharon
-street: "South Water Avenue"
-housenumber: 120
-phone: "+1 724-624-9930"
-opening_hours: "Mo-Tu 11:00-19:00; We-Sa 09:00-21:00; Su off"
-website: "https://www.finewineandgoodspirits.com/store-4301"
+street: South Water Avenue
+housenumber: "120"
+phone: +1 724-624-9930
+opening_hours: Mo-Tu 11:00-19:00; We-Sa 09:00-21:00; Su off
+website: https://www.finewineandgoodspirits.com/store-4301

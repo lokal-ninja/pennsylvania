@@ -1,11 +1,11 @@
 id: 200250534
-type: way
+type: node
 latitude: 40.1101
 longitude: -76.50508
 postcode: "17552"
 city: Mount Joy
-street: "West Main Street"
-housenumber: 38
+street: West Main Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.bbplumbing.biz/"
+website: https://www.bbplumbing.biz/

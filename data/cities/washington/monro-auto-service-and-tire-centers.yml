@@ -1,11 +1,11 @@
 id: 676311875
-type: way
+type: node
 latitude: 40.1816
 longitude: -80.23416
 postcode: "15301"
 city: Washington
-street: "Murtland Avenue"
-housenumber: 131
+street: Murtland Avenue
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.26487
 longitude: -75.37057
 postcode: "19438"
 city: Harleysville
-street: "Main Street"
-housenumber: 201
-phone: "+1 267-532-4498"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/8135"
+street: Main Street
+housenumber: "201"
+phone: +1 267-532-4498
+opening_hours: 24/7
+website: https://www.wawa.com/locations/8135

@@ -1,11 +1,11 @@
 id: 314352351
-type: way
+type: node
 latitude: 39.93672
 longitude: -75.16126
 postcode: "19147"
 city: Philadelphia
-street: "Washington Avenue"
-housenumber: 1034
-phone: "+1 215-468-4321"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/pa/philadelphia/1034-38-washington-avenue-26135"
+street: Washington Avenue
+housenumber: "1034"
+phone: +1 215-468-4321
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/pa/philadelphia/1034-38-washington-avenue-26135

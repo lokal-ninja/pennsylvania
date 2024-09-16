@@ -1,11 +1,11 @@
 id: 1011542361
-type: way
+type: node
 latitude: 40.11058
 longitude: -75.02403
 postcode: "19116"
 city: Philadelphia
-street: "Bustleton Avenue"
-housenumber: 10861
+street: Bustleton Avenue
+housenumber: "10861"
 phone: "+12156778520"
 opening_hours: ""
-website: "https://www.nutstoyou.com/"
+website: https://www.nutstoyou.com/

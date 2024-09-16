@@ -4,8 +4,8 @@ latitude: 40.91148
 longitude: -77.77973
 postcode: "16823"
 city: Bellefonte
-street: "South Spring Street"
-housenumber: 101
-phone: "+1-814-933-5030"
-opening_hours: "by appointment"
-website: "https://maebellebeauty.com/"
+street: South Spring Street
+housenumber: "101"
+phone: +1-814-933-5030
+opening_hours: '"by appointment"'
+website: https://maebellebeauty.com/

@@ -1,11 +1,11 @@
 id: 627185559
-type: way
+type: node
 latitude: 39.83582
 longitude: -75.79703
 postcode: "19311"
 city: Avondale
-street: "Gap Newport Pike"
-housenumber: 775
-phone: "+1-610-268-1696"
-opening_hours: "Mo-Sa 09:00-22:00; Su 11:00-19:00"
-website: "https://www.finewineandgoodspirits.com/store-1531"
+street: Gap Newport Pike
+housenumber: "775"
+phone: +1-610-268-1696
+opening_hours: Mo-Sa 09:00-22:00; Su 11:00-19:00
+website: https://www.finewineandgoodspirits.com/store-1531

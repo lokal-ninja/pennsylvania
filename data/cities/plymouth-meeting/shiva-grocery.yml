@@ -1,11 +1,11 @@
 id: 514804939
-type: way
+type: node
 latitude: 40.12895
 longitude: -75.30009
 postcode: "19462"
 city: Plymouth Meeting
-street: "East Germantown Pike"
-housenumber: 1021
+street: East Germantown Pike
+housenumber: "1021"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1074368384
-type: way
+type: node
 latitude: 40.62335
 longitude: -75.4169
 postcode: "18018"
 city: Bethlehem
-street: "Keystone Avenue"
-housenumber: 515
-phone: "+1 610 317-0120"
+street: Keystone Avenue
+housenumber: "515"
+phone: +1 610 317-0120
 opening_hours: ""
 website: ""

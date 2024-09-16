@@ -1,11 +1,11 @@
 id: 739700852
-type: way
+type: node
 latitude: 40.10885
 longitude: -76.06918
 postcode: "17557"
 city: New Holland
-street: "East Main Street"
-housenumber: 612
+street: East Main Street
+housenumber: "612"
 phone: ""
 opening_hours: ""
 website: ""

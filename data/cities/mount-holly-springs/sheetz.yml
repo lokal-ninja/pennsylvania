@@ -1,11 +1,11 @@
 id: 889874538
-type: way
+type: node
 latitude: 40.12092
 longitude: -77.18979
 postcode: "17065"
 city: Mount Holly Springs
-street: "North Baltimore Avenue"
-housenumber: 420
-phone: "+1 717-486-6702"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/232"
+street: North Baltimore Avenue
+housenumber: "420"
+phone: +1 717-486-6702
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/232

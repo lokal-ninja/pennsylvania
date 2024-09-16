@@ -1,11 +1,11 @@
 id: 156520814
-type: way
+type: node
 latitude: 40.98795
 longitude: -79.61554
 postcode: "16028"
 city: East Brady
-street: "Kellys Way"
-housenumber: 410
+street: Kellys Way
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

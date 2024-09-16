@@ -1,11 +1,11 @@
 id: 375657326
-type: way
+type: node
 latitude: 40.34778
 longitude: -79.95318
-postcode: "15236-1450"
+postcode: 15236-1450
 city: West Mifflin
-street: "Lebanon Church Road"
-housenumber: 1717
-phone: "+1 412-502-0020"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/west-mifflin/1270"
+street: Lebanon Church Road
+housenumber: "1717"
+phone: +1 412-502-0020
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/west-mifflin/1270

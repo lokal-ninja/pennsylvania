@@ -1,11 +1,11 @@
 id: 1133040292
-type: way
+type: node
 latitude: 41.6028
 longitude: -80.30397
 postcode: ""
 city: Conneaut Lake
-street: "Water Street"
-housenumber: 
+street: Water Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa-Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/pa/conneaut-lake/100-south-third-street.html"
+opening_hours: Mo-Fr 08:00-20:00; Sa-Su 09:00-18:00
+website: https://www.riteaid.com/locations/pa/conneaut-lake/100-south-third-street.html

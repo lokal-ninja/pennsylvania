@@ -1,11 +1,11 @@
 id: 913732332
-type: way
+type: node
 latitude: 40.27923
 longitude: -78.86309
 postcode: "15904"
 city: Johnstown
-street: "Scalp Avenue"
-housenumber: 1198
-phone: "+1 814-266-1454"
-opening_hours: "08:00-22:00"
-website: "https://www.cvs.com/store-locator/johnstown-pa-pharmacies/1198-scalp-ave-johnstown-pa-15904/storeid=10250"
+street: Scalp Avenue
+housenumber: "1198"
+phone: +1 814-266-1454
+opening_hours: 08:00-22:00
+website: https://www.cvs.com/store-locator/johnstown-pa-pharmacies/1198-scalp-ave-johnstown-pa-15904/storeid=10250

@@ -1,11 +1,11 @@
 id: 365393178
-type: way
+type: node
 latitude: 40.07422
 longitude: -75.3057
 postcode: "19428"
 city: Conshohocken
-street: "Fayette Street"
-housenumber: 117
+street: Fayette Street
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

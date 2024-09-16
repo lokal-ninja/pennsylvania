@@ -1,11 +1,11 @@
 id: 465552052
-type: way
+type: node
 latitude: 40.38893
 longitude: -80.04293
 postcode: "15216"
 city: Pittsburgh
-street: "Washington Road"
-housenumber: 222
+street: Washington Road
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

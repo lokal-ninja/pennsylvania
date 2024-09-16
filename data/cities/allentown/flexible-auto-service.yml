@@ -1,11 +1,11 @@
 id: 1157359110
-type: way
+type: node
 latitude: 40.60677
 longitude: -75.4985
 postcode: "18104"
 city: Allentown
-street: "West Green Street"
-housenumber: 1735
+street: West Green Street
+housenumber: "1735"
 phone: "+16103511254"
 opening_hours: ""
-website: "https://flexibleautoservices.com/"
+website: https://flexibleautoservices.com/

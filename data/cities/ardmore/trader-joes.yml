@@ -1,11 +1,11 @@
 id: 255520969
-type: way
+type: node
 latitude: 40.00735
 longitude: -75.28674
 postcode: "19003"
 city: Ardmore
-street: "Coulter Avenue"
-housenumber: 112
-phone: "+1 610-658-0645"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.traderjoes.com/"
+street: Coulter Avenue
+housenumber: "112"
+phone: +1 610-658-0645
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.traderjoes.com/

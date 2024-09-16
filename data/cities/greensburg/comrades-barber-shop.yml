@@ -1,11 +1,11 @@
 id: 760021969
-type: way
+type: node
 latitude: 40.29605
 longitude: -79.5431
 postcode: "15601"
 city: Greensburg
-street: "South Main Street"
-housenumber: 615
-phone: "+1 724 832-1532"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://comradescuts.com/"
+street: South Main Street
+housenumber: "615"
+phone: +1 724 832-1532
+opening_hours: Mo-Sa 08:00-19:00
+website: https://comradescuts.com/

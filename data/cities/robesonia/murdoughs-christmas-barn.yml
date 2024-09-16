@@ -1,11 +1,11 @@
 id: 554661514
-type: way
+type: node
 latitude: 40.35872
 longitude: -76.16327
 postcode: "19551"
 city: Robesonia
-street: "West Penn Avenue"
-housenumber: 945
-phone: "+1 610 693 4369"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
+street: West Penn Avenue
+housenumber: "945"
+phone: +1 610 693 4369
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
 website: ""

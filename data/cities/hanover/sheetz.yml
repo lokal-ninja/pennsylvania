@@ -1,11 +1,11 @@
 id: 420922583
-type: way
+type: node
 latitude: 39.8233
 longitude: -76.99675
 postcode: "17331"
 city: Hanover
-street: "Carlisle Street"
-housenumber: 1191
-phone: "+1 717-637-1903"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/199"
+street: Carlisle Street
+housenumber: "1191"
+phone: +1 717-637-1903
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/199

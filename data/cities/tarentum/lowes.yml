@@ -1,11 +1,11 @@
 id: 227502472
-type: way
+type: node
 latitude: 40.56903
 longitude: -79.80128
 postcode: "15084"
 city: Tarentum
-street: "Village Center Drive"
-housenumber: 1005
-phone: "+1 412-826-2210"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/pa-tarentum/2219"
+street: Village Center Drive
+housenumber: "1005"
+phone: +1 412-826-2210
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/pa-tarentum/2219

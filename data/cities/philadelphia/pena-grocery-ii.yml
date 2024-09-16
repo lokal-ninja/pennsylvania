@@ -1,11 +1,11 @@
 id: 1238160428
-type: way
+type: node
 latitude: 40.00004
 longitude: -75.14205
 postcode: "19133"
 city: Philadelphia
-street: "West Allegheny Avenue"
-housenumber: 640
+street: West Allegheny Avenue
+housenumber: "640"
 phone: ""
 opening_hours: ""
 website: ""

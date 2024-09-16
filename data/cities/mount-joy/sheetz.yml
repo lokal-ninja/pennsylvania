@@ -1,11 +1,11 @@
 id: 200138117
-type: way
+type: node
 latitude: 40.1124
 longitude: -76.45239
 postcode: "17552"
 city: Mount Joy
-street: "East Main Street"
-housenumber: 1455
-phone: "+1 717-653-2164"
-opening_hours: "PH,Mo-Su 00:00-24:00+"
-website: "https://www.sheetz.com/"
+street: East Main Street
+housenumber: "1455"
+phone: +1 717-653-2164
+opening_hours: PH,Mo-Su 00:00-24:00+
+website: https://www.sheetz.com/

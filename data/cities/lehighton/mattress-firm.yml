@@ -1,11 +1,11 @@
 id: 678526444
-type: way
+type: node
 latitude: 40.81726
 longitude: -75.73063
 postcode: "18235"
 city: Lehighton
-street: "Blakeslee Boulevard Drive East"
-housenumber: 1102
-phone: "+1 610-377-3631"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://www.mattressfirm.com/en-us/stores/pa/lehighton/172001/"
+street: Blakeslee Boulevard Drive East
+housenumber: "1102"
+phone: +1 610-377-3631
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
+website: https://www.mattressfirm.com/en-us/stores/pa/lehighton/172001/

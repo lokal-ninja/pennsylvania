@@ -1,11 +1,11 @@
 id: 717739035
-type: way
+type: node
 latitude: 41.00207
 longitude: -76.44713
 postcode: "17815"
 city: Bloomsburg
-street: "Columbia Boulevard"
-housenumber: 307
+street: Columbia Boulevard
+housenumber: "307"
 phone: ""
 opening_hours: ""
-website: "https://www.bloomnaturally.com/"
+website: https://www.bloomnaturally.com/

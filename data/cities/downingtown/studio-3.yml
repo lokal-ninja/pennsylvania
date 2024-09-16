@@ -1,11 +1,11 @@
 id: 554091200
-type: way
+type: node
 latitude: 40.00675
 longitude: -75.7033
 postcode: "19335"
 city: Downingtown
-street: "Park Lane"
-housenumber: 1
+street: Park Lane
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

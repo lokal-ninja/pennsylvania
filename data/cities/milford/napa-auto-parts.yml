@@ -1,11 +1,11 @@
 id: 827628789
-type: way
+type: node
 latitude: 41.32799
 longitude: -74.81117
 postcode: "18337"
 city: Milford
-street: "Route 6"
-housenumber: 107
+street: Route 6
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

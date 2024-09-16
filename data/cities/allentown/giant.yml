@@ -1,11 +1,11 @@
 id: 53825042
-type: way
+type: node
 latitude: 40.59592
 longitude: -75.52472
 postcode: "18104"
 city: Allentown
-street: "Tilghman Street"
-housenumber: 3100
+street: Tilghman Street
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

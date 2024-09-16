@@ -1,11 +1,11 @@
 id: 686480739
-type: way
+type: node
 latitude: 39.93624
 longitude: -75.35099
 postcode: "19064"
 city: Springfield
-street: "Sproul Road"
-housenumber: 751
-phone: "+1 610-328-9239"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/pa/springfield/751-sproul-road"
+street: Sproul Road
+housenumber: "751"
+phone: +1 610-328-9239
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/pa/springfield/751-sproul-road

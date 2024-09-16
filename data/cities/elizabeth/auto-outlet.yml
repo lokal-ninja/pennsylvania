@@ -1,11 +1,11 @@
 id: 464566836
-type: way
+type: node
 latitude: 40.21901
 longitude: -79.84453
 postcode: "15037"
 city: Elizabeth
-street: "Hayden Boulevard"
-housenumber: 2901
-phone: "+1 724 379 5101"
+street: Hayden Boulevard
+housenumber: "2901"
+phone: +1 724 379 5101
 opening_hours: ""
 website: ""

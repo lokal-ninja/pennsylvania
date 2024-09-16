@@ -1,11 +1,11 @@
 id: 398728919
-type: way
+type: node
 latitude: 40.31361
 longitude: -75.32845
 postcode: "18964"
 city: Souderton
-street: "North Main Street"
-housenumber: 370
+street: North Main Street
+housenumber: "370"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

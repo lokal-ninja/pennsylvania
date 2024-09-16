@@ -1,11 +1,11 @@
 id: 1101856173
-type: way
+type: node
 latitude: 41.77062
 longitude: -76.41484
 postcode: "18848"
 city: Towanda
-street: "Golden Mile Road"
-housenumber: 1200
-phone: "+1 570-268-0567"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/581"
+street: Golden Mile Road
+housenumber: "1200"
+phone: +1 570-268-0567
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/581

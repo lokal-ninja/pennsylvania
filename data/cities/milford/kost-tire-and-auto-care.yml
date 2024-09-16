@@ -1,11 +1,11 @@
 id: 826535592
-type: way
+type: node
 latitude: 41.33013
 longitude: -74.78661
 postcode: "18337"
 city: Milford
-street: "Wheatfield Drive"
-housenumber: 101
+street: Wheatfield Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

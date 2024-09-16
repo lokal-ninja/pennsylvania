@@ -1,11 +1,11 @@
 id: 334264445
-type: way
+type: node
 latitude: 39.93652
 longitude: -75.16038
 postcode: ""
 city: Philadelphia
-street: "Washington Avenue"
-housenumber: 1000
+street: Washington Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

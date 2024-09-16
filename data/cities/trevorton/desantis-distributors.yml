@@ -1,11 +1,11 @@
 id: 575721217
-type: way
+type: node
 latitude: 40.77935
 longitude: -76.68188
 postcode: "17881"
 city: Trevorton
-street: "West Shamokin Street"
-housenumber: 1050
+street: West Shamokin Street
+housenumber: "1050"
 phone: ""
-opening_hours: "Mo-Th 11:00-19:00; Fr-Sa 09:00-21:00; Su 12:00-16:30"
+opening_hours: Mo-Th 11:00-19:00; Fr-Sa 09:00-21:00; Su 12:00-16:30
 website: ""

@@ -1,11 +1,11 @@
 id: 658013748
-type: way
+type: node
 latitude: 39.92046
 longitude: -75.21183
 postcode: "19153"
 city: Philadelphia
-street: "South 61st Street"
-housenumber: 3331
+street: South 61st Street
+housenumber: "3331"
 phone: ""
 opening_hours: ""
 website: ""

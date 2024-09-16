@@ -4,8 +4,8 @@ latitude: 40.36633
 longitude: -80.01847
 postcode: "15234"
 city: Pittsburgh
-street: "Willow Avenue"
-housenumber: 3610
-phone: "+1 412-531-7751"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.centerlinecollisionllc.com/"
+street: Willow Avenue
+housenumber: "3610"
+phone: +1 412-531-7751
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.centerlinecollisionllc.com/

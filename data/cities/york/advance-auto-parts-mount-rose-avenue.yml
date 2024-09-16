@@ -1,11 +1,11 @@
 id: 1291164846
-type: way
+type: node
 latitude: 39.96134
 longitude: -76.70445
 postcode: "17403"
 city: York
-street: "Mount Rose Avenue"
-housenumber: 1033
-phone: "+1 717-845-9030"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-20:00"
+street: Mount Rose Avenue
+housenumber: "1033"
+phone: +1 717-845-9030
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-20:00
 website: ""

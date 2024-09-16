@@ -1,11 +1,11 @@
 id: 46501423
-type: way
+type: node
 latitude: 41.41609
 longitude: -75.65272
 postcode: "18510"
 city: Scranton
-street: "Adams Avenue"
-housenumber: 949
+street: Adams Avenue
+housenumber: "949"
 phone: ""
 opening_hours: ""
 website: ""

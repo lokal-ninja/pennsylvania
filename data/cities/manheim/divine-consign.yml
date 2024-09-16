@@ -1,11 +1,11 @@
 id: 199008693
-type: way
+type: node
 latitude: 40.16293
 longitude: -76.39605
 postcode: "17545"
 city: Manheim
-street: "Market Square"
-housenumber: 37
-phone: "+1 717-665-4417"
-opening_hours: "Mo,Su off; Tu-Fr 12:00-17:00; Sa 09:00-14:00"
-website: "http://www.divineconsignonline.com"
+street: Market Square
+housenumber: "37"
+phone: +1 717-665-4417
+opening_hours: Mo,Su off; Tu-Fr 12:00-17:00; Sa 09:00-14:00
+website: http://www.divineconsignonline.com

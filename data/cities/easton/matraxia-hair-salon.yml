@@ -1,11 +1,11 @@
 id: 753549968
-type: way
+type: node
 latitude: 40.70004
 longitude: -75.20559
 postcode: "18042"
 city: Easton
-street: "Cattell Street"
-housenumber: 215
-phone: "+1 610-258-4118"
-opening_hours: "Mo,Su off; Tu-Fr 08:00-17:00; Sa 08:00-16:00"
+street: Cattell Street
+housenumber: "215"
+phone: +1 610-258-4118
+opening_hours: Mo,Su off; Tu-Fr 08:00-17:00; Sa 08:00-16:00
 website: ""

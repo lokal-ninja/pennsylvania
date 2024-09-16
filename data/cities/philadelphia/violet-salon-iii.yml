@@ -1,11 +1,11 @@
 id: 446727929
-type: way
+type: node
 latitude: 39.93261
 longitude: -75.16144
 postcode: "19147"
 city: Philadelphia
-street: "Reed Street"
-housenumber: 1013
-phone: "+1-215-218-9093"
+street: Reed Street
+housenumber: "1013"
+phone: +1-215-218-9093
 opening_hours: ""
 website: ""

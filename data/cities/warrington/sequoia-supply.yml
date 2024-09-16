@@ -1,11 +1,11 @@
 id: 664981731
-type: way
+type: node
 latitude: 40.24109
 longitude: -75.13597
 postcode: "18976"
 city: Warrington
-street: "Easton Road"
-housenumber: 925
+street: Easton Road
+housenumber: "925"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa-Su closed"
-website: "https://www.decksupplies.com/contact-us/"
+opening_hours: Mo-Fr 07:00-17:00; Sa-Su closed
+website: https://www.decksupplies.com/contact-us/

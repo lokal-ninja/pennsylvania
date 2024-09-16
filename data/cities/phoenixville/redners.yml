@@ -1,11 +1,11 @@
 id: 147876500
-type: way
+type: node
 latitude: 40.13531
 longitude: -75.54391
 postcode: "19460"
 city: Phoenixville
-street: "Schuylkill Road"
-housenumber: 202
-phone: "+1 610-415-1620"
-opening_hours: "06:00-22:00"
-website: "https://www.rednersmarkets.com/store-locations/phoenixville"
+street: Schuylkill Road
+housenumber: "202"
+phone: +1 610-415-1620
+opening_hours: 06:00-22:00
+website: https://www.rednersmarkets.com/store-locations/phoenixville

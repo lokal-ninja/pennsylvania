@@ -1,11 +1,11 @@
 id: 727869568
-type: way
+type: node
 latitude: 41.04708
 longitude: -76.2659
 postcode: "18603"
 city: Berwick
-street: "West Front Street"
-housenumber: 1890
-phone: "+1 844-460-7078"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/pa/berwick/1890-w-front-street"
+street: West Front Street
+housenumber: "1890"
+phone: +1 844-460-7078
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/pa/berwick/1890-w-front-street

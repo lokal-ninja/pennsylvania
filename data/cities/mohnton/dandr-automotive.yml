@@ -1,11 +1,11 @@
 id: 398546026
-type: way
+type: node
 latitude: 40.28794
 longitude: -75.97949
 postcode: "19540"
 city: Mohnton
-street: "East Wyomissing Avenue"
-housenumber: 205
+street: East Wyomissing Avenue
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

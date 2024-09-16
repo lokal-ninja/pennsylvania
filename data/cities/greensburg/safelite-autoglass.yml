@@ -1,11 +1,11 @@
 id: 752901260
-type: way
+type: node
 latitude: 40.3046
 longitude: -79.50954
 postcode: "15601"
 city: Greensburg
-street: "Donohoe Road"
-housenumber: 123
+street: Donohoe Road
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
-website: "https://www.safelite.com/stores/greensburg"
+opening_hours: Mo-Sa 08:00-17:00
+website: https://www.safelite.com/stores/greensburg

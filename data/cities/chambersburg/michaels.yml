@@ -1,11 +1,11 @@
 id: 654762229
-type: way
+type: node
 latitude: 39.94167
 longitude: -77.6267
-postcode: "17201-4204"
+postcode: 17201-4204
 city: Chambersburg
-street: "Norland Avenue"
-housenumber: 967
-phone: "+1 717-263-9358"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/pa/chambersburg/7720"
+street: Norland Avenue
+housenumber: "967"
+phone: +1 717-263-9358
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/pa/chambersburg/7720

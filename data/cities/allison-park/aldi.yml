@@ -1,11 +1,11 @@
 id: 348866086
-type: way
+type: node
 latitude: 40.58858
 longitude: -79.94844
 postcode: "15101"
 city: Allison Park
-street: "Route 8"
-housenumber: 4578
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/pa/allison-park/4578-route-8"
+street: Route 8
+housenumber: "4578"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/pa/allison-park/4578-route-8

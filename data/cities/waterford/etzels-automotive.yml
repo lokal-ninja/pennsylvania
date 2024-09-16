@@ -1,11 +1,11 @@
 id: 1119261162
-type: way
+type: node
 latitude: 41.99874
 longitude: -80.03358
 postcode: "16441"
 city: Waterford
-street: "Peach Street"
-housenumber: 10222
-phone: "+1 814-796-1040"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Peach Street
+housenumber: "10222"
+phone: +1 814-796-1040
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

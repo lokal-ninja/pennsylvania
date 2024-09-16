@@ -1,11 +1,11 @@
 id: 865036019
-type: way
+type: node
 latitude: 40.25919
 longitude: -76.77495
 postcode: "17111"
 city: Harrisburg
-street: "Paxton Street"
-housenumber: 6821
+street: Paxton Street
+housenumber: "6821"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/PA/Harrisburg/6821-PAXTON-ST"
+website: https://www.speedway.com/locations/PA/Harrisburg/6821-PAXTON-ST

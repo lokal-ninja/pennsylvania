@@ -1,11 +1,11 @@
 id: 1024107636
-type: way
+type: node
 latitude: 40.15471
 longitude: -74.97226
 postcode: "19053"
 city: Feasterville-Trevose
-street: "Brownsville Road"
-housenumber: 1918
-phone: "+1-215-364-8846"
-opening_hours: "Tu-Sa 11:00-17:00; Su 12:00-16:00"
-website: "https://the-brownsville.edan.io/"
+street: Brownsville Road
+housenumber: "1918"
+phone: +1-215-364-8846
+opening_hours: Tu-Sa 11:00-17:00; Su 12:00-16:00
+website: https://the-brownsville.edan.io/

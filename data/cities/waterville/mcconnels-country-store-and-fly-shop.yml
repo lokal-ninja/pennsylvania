@@ -1,11 +1,11 @@
 id: 537135844
-type: way
+type: node
 latitude: 41.30967
 longitude: -77.3647
 postcode: "17776"
 city: Waterville
-street: "North PA 44"
-housenumber: 10853
+street: North PA 44
+housenumber: "10853"
 phone: ""
-opening_hours: "06:00-19:00"
+opening_hours: 06:00-19:00
 website: ""

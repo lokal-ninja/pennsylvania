@@ -1,11 +1,11 @@
 id: 1306691840
-type: way
+type: node
 latitude: 39.91481
 longitude: -75.24056
 postcode: "19153"
 city: Philadelphia
-street: "Elmwood Avenue"
-housenumber: 7206
+street: Elmwood Avenue
+housenumber: "7206"
 phone: ""
 opening_hours: ""
 website: ""

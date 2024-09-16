@@ -1,11 +1,11 @@
 id: 657676206
-type: way
+type: node
 latitude: 40.32876
 longitude: -76.5159
 postcode: "17003"
 city: Annville
-street: "West Main Street"
-housenumber: 2
-phone: "+1 717-867-5249"
+street: West Main Street
+housenumber: "2"
+phone: +1 717-867-5249
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/pa/annville/2-west-main-street-40211"
+website: https://www.7-eleven.com/locations/pa/annville/2-west-main-street-40211

@@ -1,11 +1,11 @@
 id: 488847639
-type: way
+type: node
 latitude: 40.23271
 longitude: -74.94145
-postcode: "18940-1585"
+postcode: 18940-1585
 city: Newtown
-street: "South Eagle Road"
-housenumber: 2670
-phone: "+1 215-860-3888"
-opening_hours: "Mo-Sa 07:30-19:30; Su 08:00-18:00"
+street: South Eagle Road
+housenumber: "2670"
+phone: +1 215-860-3888
+opening_hours: Mo-Sa 07:30-19:30; Su 08:00-18:00
 website: ""

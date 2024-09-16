@@ -1,11 +1,11 @@
 id: 1210626249
-type: way
+type: node
 latitude: 39.89474
 longitude: -76.17473
 postcode: "17566"
 city: Quarryville
-street: "Townsedge Drive"
-housenumber: 140
-phone: "+1 717-786-4440"
-opening_hours: "by appointment"
-website: "https://www.hrblock.com/local-tax-offices/pennsylvania/quarryville/140-townsedge-dr/36669"
+street: Townsedge Drive
+housenumber: "140"
+phone: +1 717-786-4440
+opening_hours: '"by appointment"'
+website: https://www.hrblock.com/local-tax-offices/pennsylvania/quarryville/140-townsedge-dr/36669

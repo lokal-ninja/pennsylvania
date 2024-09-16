@@ -1,11 +1,11 @@
 id: 249020835
-type: way
+type: node
 latitude: 39.77197
 longitude: -76.66171
 postcode: "17361"
 city: New Freedom
-street: "Renaissance Drive"
-housenumber: 510
-phone: "+1 717-235-8791"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Renaissance Drive
+housenumber: "510"
+phone: +1 717-235-8791
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

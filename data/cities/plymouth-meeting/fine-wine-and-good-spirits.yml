@@ -1,11 +1,11 @@
 id: 863890654
-type: way
+type: node
 latitude: 40.10614
 longitude: -75.29323
 postcode: "19462"
 city: Plymouth Meeting
-street: "Chemical Road"
-housenumber: 2426
-phone: "+1-610-834-4107"
-opening_hours: "Mo-Sa 09:00-22:00; Su 11:00-19:00"
-website: "https://www.finewineandgoodspirits.com/store-4657"
+street: Chemical Road
+housenumber: "2426"
+phone: +1-610-834-4107
+opening_hours: Mo-Sa 09:00-22:00; Su 11:00-19:00
+website: https://www.finewineandgoodspirits.com/store-4657

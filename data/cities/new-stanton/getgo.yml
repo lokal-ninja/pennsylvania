@@ -1,11 +1,11 @@
 id: 970174176
-type: way
+type: node
 latitude: 40.21855
 longitude: -79.61347
 postcode: "15672"
 city: New Stanton
-street: "Bair Boulevard"
-housenumber: 119
-phone: "+1-724-635-1013"
-opening_hours: "Mo-Tu 06:00-01:00; We-Th 00:00-24:00; Fr-Su 06:00-01:00"
+street: Bair Boulevard
+housenumber: "119"
+phone: +1-724-635-1013
+opening_hours: Mo-Tu 06:00-01:00; We-Th 00:00-24:00; Fr-Su 06:00-01:00
 website: ""

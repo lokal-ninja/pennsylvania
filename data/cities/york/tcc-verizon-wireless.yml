@@ -1,11 +1,11 @@
 id: 299117720
-type: way
+type: node
 latitude: 39.90836
 longitude: -76.6814
 postcode: "17403"
 city: York
-street: "South Queen Street"
-housenumber: 2704
+street: South Queen Street
+housenumber: "2704"
 phone: ""
 opening_hours: ""
 website: ""

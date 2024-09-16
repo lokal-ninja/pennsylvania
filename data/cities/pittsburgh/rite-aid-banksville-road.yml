@@ -1,11 +1,11 @@
 id: 400902686
-type: way
+type: node
 latitude: 40.40615
 longitude: -80.03463
 postcode: "15216"
 city: Pittsburgh
-street: "Banksville Road"
-housenumber: 2501
-phone: "+1-412=571-2550"
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-20:00"
-website: "https://www.riteaid.com/locations/pa/pittsburgh/2501-banksville-road.html"
+street: Banksville Road
+housenumber: "2501"
+phone: +1-412=571-2550
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-20:00
+website: https://www.riteaid.com/locations/pa/pittsburgh/2501-banksville-road.html
