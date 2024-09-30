@@ -1,6 +1,6 @@
 ---
 title: Flourtown
 url: /flourtown/
-latitude: 40.107
-longitude: -75.212
+latitude: 40.113
+longitude: -75.215
 ---

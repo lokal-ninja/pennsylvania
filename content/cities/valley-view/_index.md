@@ -1,6 +1,6 @@
 ---
 title: Valley View
 url: /valley-view/
-latitude: 40.645
-longitude: -76.544
+latitude: 40.646
+longitude: -76.541
 ---
