@@ -1,6 +1,6 @@
 ---
 title: Connellsville
 url: /connellsville/
-latitude: 40.023
-longitude: -79.595
+latitude: 40.017
+longitude: -79.596
 ---

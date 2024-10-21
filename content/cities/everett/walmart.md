@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /everett/walmart/
-shop: supermarket
+shop: department store
 ---

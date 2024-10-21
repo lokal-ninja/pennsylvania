@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /glenolden/walmart/
-shop: supermarket
+shop: department store
 ---
