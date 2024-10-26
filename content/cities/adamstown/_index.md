@@ -1,6 +1,6 @@
 ---
 title: Adamstown
 url: /adamstown/
-latitude: 40.245
-longitude: -76.046
+latitude: 40.258
+longitude: -76.043
 ---

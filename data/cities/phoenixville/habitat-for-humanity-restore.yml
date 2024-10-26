@@ -7,5 +7,5 @@ city: Phoenixville
 street: Starr Street
 housenumber: "785"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo,Tu,Su off; We-Sa 09:00-17:00
+website: https://www.hfhcc.org/phoenixville-restore-location
