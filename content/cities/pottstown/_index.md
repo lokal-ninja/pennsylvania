@@ -1,6 +1,6 @@
 ---
 title: Pottstown
 url: /pottstown/
-latitude: 40.245
+latitude: 40.246
 longitude: -75.649
 ---
