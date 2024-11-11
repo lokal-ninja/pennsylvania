@@ -1,6 +1,6 @@
 ---
 title: Strasburg
 url: /strasburg/
-latitude: 39.983
-longitude: -76.179
+latitude: 39.988
+longitude: -76.18
 ---
