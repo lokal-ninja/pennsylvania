@@ -1,6 +1,6 @@
 ---
 title: Berwyn
 url: /berwyn/
-latitude: 40.048
-longitude: -75.438
+latitude: 40.061
+longitude: -75.474
 ---

@@ -1,6 +1,6 @@
 ---
 title: New Oxford
 url: /new-oxford/
-latitude: 39.868
-longitude: -77.044
+latitude: 39.864
+longitude: -77.056
 ---
