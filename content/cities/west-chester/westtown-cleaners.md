@@ -1,5 +1,0 @@
----
-title: "Westtown Cleaners"
-url: /west-chester/westtown-cleaners/
-shop: laundry
----
