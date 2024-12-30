@@ -1,6 +1,6 @@
 ---
 title: Sidman
 url: /sidman/
-latitude: 40.33
-longitude: -78.747
+latitude: 40.331
+longitude: -78.75
 ---
