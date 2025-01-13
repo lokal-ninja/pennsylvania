@@ -1,6 +1,6 @@
 ---
 title: Brookville
 url: /brookville/
-latitude: 41.167
-longitude: -79.098
+latitude: 41.161
+longitude: -79.082
 ---
