@@ -1,6 +1,6 @@
 ---
 title: Montrose
 url: /montrose/
-latitude: 41.802
-longitude: -75.887
+latitude: 41.833
+longitude: -75.879
 ---

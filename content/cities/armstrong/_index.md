@@ -2,5 +2,5 @@
 title: Armstrong
 url: /armstrong/
 latitude: 40.654
-longitude: -79.288
+longitude: -79.292
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marienville
 url: /marienville/
-latitude: 41.483
-longitude: -79.106
+latitude: 41.468
+longitude: -79.124
 ---

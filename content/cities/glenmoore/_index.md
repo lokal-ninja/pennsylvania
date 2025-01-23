@@ -1,6 +1,6 @@
 ---
 title: Glenmoore
 url: /glenmoore/
-latitude: 40.116
-longitude: -75.695
+latitude: 40.057
+longitude: -75.802
 ---
