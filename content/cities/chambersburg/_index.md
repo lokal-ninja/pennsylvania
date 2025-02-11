@@ -1,6 +1,6 @@
 ---
 title: Chambersburg
 url: /chambersburg/
-latitude: 39.863
-longitude: -77.757
+latitude: 39.914
+longitude: -77.653
 ---

@@ -1,6 +1,6 @@
 ---
 title: Birdsboro
 url: /birdsboro/
-latitude: 40.264
-longitude: -75.811
+latitude: 40.266
+longitude: -75.802
 ---

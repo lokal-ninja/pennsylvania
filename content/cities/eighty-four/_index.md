@@ -1,6 +1,6 @@
 ---
-title: Eighty-Four
+title: Eighty Four
 url: /eighty-four/
-latitude: 40.194
-longitude: -80.134
+latitude: 40.169
+longitude: -80.135
 ---
