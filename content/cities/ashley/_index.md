@@ -1,6 +1,6 @@
 ---
 title: Ashley
 url: /ashley/
-latitude: 41.216
-longitude: -75.898
+latitude: 41.213
+longitude: -75.9
 ---
