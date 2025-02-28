@@ -1,6 +1,6 @@
 ---
 title: New Tripoli
 url: /new-tripoli/
-latitude: 40.698
-longitude: -75.753
+latitude: 40.681
+longitude: -75.696
 ---
