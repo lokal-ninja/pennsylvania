@@ -1,6 +1,6 @@
 ---
 title: Germansville
 url: /germansville/
-latitude: 40.686
-longitude: -75.683
+latitude: 40.685
+longitude: -75.679
 ---
