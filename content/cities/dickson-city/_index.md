@@ -1,6 +1,6 @@
 ---
 title: Dickson City
 url: /dickson-city/
-latitude: 41.455
-longitude: -75.65
+latitude: 41.464
+longitude: -75.645
 ---
