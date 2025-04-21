@@ -1,6 +1,6 @@
 ---
 title: Mohnton
 url: /mohnton/
-latitude: 40.292
-longitude: -75.978
+latitude: 40.288
+longitude: -75.979
 ---
