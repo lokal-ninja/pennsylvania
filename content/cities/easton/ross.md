@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /easton/ross/
-shop: clothes
+shop: department store
 ---
