@@ -1,6 +1,6 @@
 ---
 title: Millvale
 url: /millvale/
-latitude: 40.481
-longitude: -79.975
+latitude: 40.479
+longitude: -79.971
 ---
