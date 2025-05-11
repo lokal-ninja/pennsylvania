@@ -1,6 +1,6 @@
 ---
 title: Bernville
 url: /bernville/
-latitude: 40.431
-longitude: -76.112
+latitude: 40.47
+longitude: -76.151
 ---
