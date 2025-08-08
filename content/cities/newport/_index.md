@@ -1,6 +1,6 @@
 ---
 title: Newport
 url: /newport/
-latitude: 40.487
-longitude: -77.118
+latitude: 40.483
+longitude: -77.136
 ---

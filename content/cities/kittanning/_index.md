@@ -1,6 +1,6 @@
 ---
 title: Kittanning
 url: /kittanning/
-latitude: 40.815
-longitude: -79.543
+latitude: 40.814
+longitude: -79.544
 ---

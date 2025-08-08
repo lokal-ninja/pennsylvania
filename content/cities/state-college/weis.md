@@ -1,5 +1,5 @@
 ---
-title: "Weis"
+title: "Wei's"
 url: /state-college/weis/
-shop: supermarket
+shop: hairdresser
 ---

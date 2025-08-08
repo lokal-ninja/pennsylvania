@@ -1,6 +1,6 @@
 ---
 title: Catawissa
 url: /catawissa/
-latitude: 40.953
-longitude: -76.462
+latitude: 40.949
+longitude: -76.456
 ---

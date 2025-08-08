@@ -1,6 +1,6 @@
 ---
 title: Marietta
 url: /marietta/
-latitude: 40.063
-longitude: -76.542
+latitude: 40.062
+longitude: -76.554
 ---

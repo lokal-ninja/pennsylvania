@@ -1,6 +1,6 @@
 ---
 title: Pleasant Gap
 url: /pleasant-gap/
-latitude: 40.858
-longitude: -77.761
+latitude: 40.859
+longitude: -77.752
 ---

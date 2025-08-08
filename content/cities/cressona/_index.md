@@ -1,6 +1,6 @@
 ---
 title: Cressona
 url: /cressona/
-latitude: 40.63
-longitude: -76.196
+latitude: 40.638
+longitude: -76.194
 ---

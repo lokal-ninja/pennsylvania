@@ -1,6 +1,6 @@
 ---
 title: Boothwyn
 url: /boothwyn/
-latitude: 39.837
-longitude: -75.443
+latitude: 39.829
+longitude: -75.431
 ---
