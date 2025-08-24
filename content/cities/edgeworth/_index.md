@@ -1,6 +1,6 @@
 ---
 title: Edgeworth
 url: /edgeworth/
-latitude: 40.545
-longitude: -80.195
+latitude: 40.544
+longitude: -80.193
 ---
