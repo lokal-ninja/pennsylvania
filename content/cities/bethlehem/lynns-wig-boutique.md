@@ -1,5 +1,5 @@
 ---
 title: "Lynn's Wig Boutique"
 url: /bethlehem/lynns-wig-boutique/
-shop: beauty
+shop: shop
 ---

@@ -1,6 +1,6 @@
 ---
 title: Coal Township
 url: /coal-township/
-latitude: 40.791
-longitude: -76.506
+latitude: 40.79
+longitude: -76.52
 ---
