@@ -1,6 +1,6 @@
 ---
 title: Rostraver Township
 url: /rostraver-township/
-latitude: 40.138
-longitude: -79.837
+latitude: 40.197
+longitude: -79.827
 ---

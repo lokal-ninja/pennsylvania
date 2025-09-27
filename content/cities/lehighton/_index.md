@@ -1,6 +1,6 @@
 ---
 title: Lehighton
 url: /lehighton/
-latitude: 40.828
-longitude: -75.705
+latitude: 40.817
+longitude: -75.761
 ---

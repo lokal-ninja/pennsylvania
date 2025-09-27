@@ -1,6 +1,6 @@
 ---
 title: McSherrystown
 url: /mcsherrystown/
-latitude: 39.805
-longitude: -77.006
+latitude: 39.806
+longitude: -77.014
 ---

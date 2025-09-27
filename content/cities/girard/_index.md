@@ -1,6 +1,6 @@
 ---
 title: Girard
 url: /girard/
-latitude: 41.999
-longitude: -80.321
+latitude: 42.008
+longitude: -80.304
 ---

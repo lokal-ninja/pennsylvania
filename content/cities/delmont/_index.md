@@ -1,6 +1,6 @@
 ---
 title: Delmont
 url: /delmont/
-latitude: 40.398
-longitude: -79.59
+latitude: 40.402
+longitude: -79.585
 ---
