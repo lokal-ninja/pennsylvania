@@ -1,6 +1,6 @@
 ---
 title: Wysox
 url: /wysox/
-latitude: 41.77
-longitude: -76.419
+latitude: 41.772
+longitude: -76.415
 ---

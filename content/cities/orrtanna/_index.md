@@ -1,6 +1,6 @@
 ---
 title: Orrtanna
 url: /orrtanna/
-latitude: 39.86
-longitude: -77.327
+latitude: 39.898
+longitude: -77.43
 ---
