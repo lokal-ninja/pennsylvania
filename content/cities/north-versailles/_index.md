@@ -1,6 +1,6 @@
 ---
 title: North Versailles
 url: /north-versailles/
-latitude: 40.386
-longitude: -79.827
+latitude: 40.385
+longitude: -79.821
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bellefonte
 url: /bellefonte/
-latitude: 40.913
-longitude: -77.778
+latitude: 40.912
+longitude: -77.78
 ---
