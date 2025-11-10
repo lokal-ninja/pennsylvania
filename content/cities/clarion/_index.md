@@ -1,6 +1,6 @@
 ---
 title: Clarion
 url: /clarion/
-latitude: 41.191
-longitude: -79.394
+latitude: 41.209
+longitude: -79.368
 ---
