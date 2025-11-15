@@ -1,6 +1,6 @@
 ---
 title: Saint Clair
 url: /saint-clair/
-latitude: 40.723
-longitude: -76.193
+latitude: 40.719
+longitude: -76.19
 ---

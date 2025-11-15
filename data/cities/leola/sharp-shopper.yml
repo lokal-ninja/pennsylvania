@@ -7,5 +7,5 @@ city: Leola
 street: West Main Street
 housenumber: "340"
 phone: ""
-opening_hours: Mo-Sa 08:00-20:00
+opening_hours: Mo-Sa 08:00-20:00; Nov Th[4] off; Jan 1,Dec 25 off
 website: ""
