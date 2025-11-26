@@ -1,6 +1,6 @@
 ---
 title: Macungie
 url: /macungie/
-latitude: 40.461
-longitude: -75.593
+latitude: 40.465
+longitude: -75.608
 ---
