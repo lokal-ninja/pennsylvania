@@ -1,6 +1,6 @@
 ---
 title: Elkins Park
 url: /elkins-park/
-latitude: 40.079
-longitude: -75.127
+latitude: 40.068
+longitude: -75.126
 ---
