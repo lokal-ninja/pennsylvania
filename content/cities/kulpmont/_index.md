@@ -1,6 +1,6 @@
 ---
 title: Kulpmont
 url: /kulpmont/
-latitude: 40.794
-longitude: -76.473
+latitude: 40.79
+longitude: -76.465
 ---
