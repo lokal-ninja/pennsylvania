@@ -1,6 +1,6 @@
 ---
 title: Havertown
 url: /havertown/
-latitude: 39.967
-longitude: -75.302
+latitude: 39.979
+longitude: -75.303
 ---
