@@ -1,6 +1,6 @@
 ---
 title: East Brady
 url: /east-brady/
-latitude: 40.989
-longitude: -79.614
+latitude: 40.983
+longitude: -79.62
 ---
