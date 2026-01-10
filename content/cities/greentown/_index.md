@@ -1,6 +1,6 @@
 ---
 title: Greentown
 url: /greentown/
-latitude: 41.317
-longitude: -75.313
+latitude: 41.324
+longitude: -75.306
 ---
