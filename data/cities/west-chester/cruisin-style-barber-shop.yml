@@ -7,6 +7,5 @@ city: West Chester
 street: West Gay Street
 housenumber: "135"
 phone: +1 610-429-1813
-opening_hours: Mo,Su off; Tu-Fr 10:00-18:00; Sa 09:00-15:00 || Tu-Fr 18:00-20:00 open
-    "on appointment" || Sa 15:00-17:00 open "on appointment"
+opening_hours: Tu-Fr 10:00-20:00; Sa 09:00-17:00
 website: https://www.cruisinstylewc.com

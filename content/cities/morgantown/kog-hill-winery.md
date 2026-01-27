@@ -1,5 +1,5 @@
 ---
-title: "KOG Hill Winery"
+title: "Kog Hill Winery"
 url: /morgantown/kog-hill-winery/
 shop: alcohol
 ---

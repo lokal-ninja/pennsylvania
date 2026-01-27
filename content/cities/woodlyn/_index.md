@@ -1,6 +1,6 @@
 ---
 title: Woodlyn
 url: /woodlyn/
-latitude: 39.875
-longitude: -75.347
+latitude: 39.87
+longitude: -75.356
 ---

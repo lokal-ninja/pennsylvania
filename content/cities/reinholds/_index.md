@@ -1,6 +1,6 @@
 ---
 title: Reinholds
 url: /reinholds/
-latitude: 40.29
-longitude: -76.15
+latitude: 40.242
+longitude: -76.057
 ---
