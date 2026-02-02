@@ -1,6 +1,6 @@
 ---
 title: Wexford
 url: /wexford/
-latitude: 40.626
-longitude: -80.079
+latitude: 40.612
+longitude: -80.053
 ---
