@@ -1,6 +1,6 @@
 ---
 title: Shenandoah
 url: /shenandoah/
-latitude: 40.813
-longitude: -76.219
+latitude: 40.817
+longitude: -76.205
 ---
