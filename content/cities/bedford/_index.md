@@ -1,6 +1,6 @@
 ---
 title: Bedford
 url: /bedford/
-latitude: 40.023
-longitude: -78.503
+latitude: 40.015
+longitude: -78.467
 ---

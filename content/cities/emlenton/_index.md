@@ -1,6 +1,6 @@
 ---
 title: Emlenton
 url: /emlenton/
-latitude: 41.172
-longitude: -79.708
+latitude: 41.178
+longitude: -79.709
 ---
