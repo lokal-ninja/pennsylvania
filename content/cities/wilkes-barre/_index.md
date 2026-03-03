@@ -1,6 +1,6 @@
 ---
 title: Wilkes-Barre
 url: /wilkes-barre/
-latitude: 41.244
-longitude: -75.884
+latitude: 41.239
+longitude: -75.857
 ---

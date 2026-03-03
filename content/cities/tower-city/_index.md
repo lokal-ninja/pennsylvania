@@ -1,6 +1,6 @@
 ---
 title: Tower City
 url: /tower-city/
-latitude: 40.587
-longitude: -76.573
+latitude: 40.586
+longitude: -76.552
 ---
