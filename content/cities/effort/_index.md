@@ -1,6 +1,6 @@
 ---
 title: Effort
 url: /effort/
-latitude: 40.975
-longitude: -75.445
+latitude: 40.982
+longitude: -75.449
 ---
