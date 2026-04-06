@@ -1,6 +1,6 @@
 ---
 title: West Conshohocken
 url: /west-conshohocken/
-latitude: 40.087
-longitude: -75.294
+latitude: 40.068
+longitude: -75.31
 ---
