@@ -1,6 +1,6 @@
 ---
 title: Mars
 url: /mars/
-latitude: 40.696
-longitude: -80.01
+latitude: 40.699
+longitude: -80.011
 ---
