@@ -1,6 +1,6 @@
 ---
 title: New Wilmington
 url: /new-wilmington/
-latitude: 41.12
-longitude: -80.358
+latitude: 41.123
+longitude: -80.336
 ---
