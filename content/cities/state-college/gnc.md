@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /state-college/gnc/
-shop: chemist
+shop: nutrition supplements
 ---
