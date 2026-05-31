@@ -1,6 +1,6 @@
 ---
-title: trooper
+title: Trooper
 url: /trooper/
-latitude: 40.114
-longitude: -75.42
+latitude: 40.147
+longitude: -75.393
 ---
