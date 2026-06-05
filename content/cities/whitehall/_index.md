@@ -1,6 +1,6 @@
 ---
 title: Whitehall
 url: /whitehall/
-latitude: 40.646
-longitude: -75.49
+latitude: 40.629
+longitude: -75.479
 ---

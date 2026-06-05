@@ -1,6 +1,6 @@
 ---
 title: Port Carbon
 url: /port-carbon/
-latitude: 40.699
-longitude: -76.149
+latitude: 40.695
+longitude: -76.166
 ---

@@ -1,6 +1,6 @@
 ---
 title: Madisonburg
 url: /madisonburg/
-latitude: 40.934
-longitude: -77.482
+latitude: 40.928
+longitude: -77.519
 ---
