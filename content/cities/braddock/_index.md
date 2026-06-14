@@ -1,6 +1,6 @@
 ---
 title: Braddock
 url: /braddock/
-latitude: 40.406
-longitude: -79.876
+latitude: 40.404
+longitude: -79.869
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mount Joy
 url: /mount-joy/
-latitude: 40.109
-longitude: -76.497
+latitude: 40.116
+longitude: -76.528
 ---
