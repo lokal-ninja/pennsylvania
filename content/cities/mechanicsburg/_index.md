@@ -1,6 +1,6 @@
 ---
 title: Mechanicsburg
 url: /mechanicsburg/
-latitude: 40.223
-longitude: -76.978
+latitude: 40.247
+longitude: -77.031
 ---
