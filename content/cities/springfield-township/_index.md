@@ -1,6 +1,6 @@
 ---
 title: Springfield Township
 url: /springfield-township/
-latitude: 40.092
-longitude: -75.215
+latitude: 39.916
+longitude: -75.336
 ---
