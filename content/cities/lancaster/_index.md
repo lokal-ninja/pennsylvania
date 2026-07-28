@@ -1,6 +1,6 @@
 ---
 title: Lancaster
 url: /lancaster/
-latitude: 40.032
-longitude: -76.245
+latitude: 40.033
+longitude: -76.246
 ---

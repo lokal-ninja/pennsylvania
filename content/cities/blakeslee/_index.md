@@ -1,6 +1,6 @@
 ---
 title: Blakeslee
 url: /blakeslee/
-latitude: 41.107
-longitude: -75.569
+latitude: 41.073
+longitude: -75.57
 ---

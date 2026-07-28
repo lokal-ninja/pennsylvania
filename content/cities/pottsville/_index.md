@@ -1,6 +1,6 @@
 ---
 title: Pottsville
 url: /pottsville/
-latitude: 40.675
-longitude: -76.227
+latitude: 40.699
+longitude: -76.186
 ---
