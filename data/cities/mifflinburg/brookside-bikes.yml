@@ -7,6 +7,5 @@ city: Mifflinburg
 street: East Walnut Street
 housenumber: "170"
 phone: +1-570-966-1062
-opening_hours: 'Mo 09:00-18:00; Tu 09:00-17:00; Th 09:00-17:00; Fr 09:00-18:00; Sa
-    09:00-15:00; ; '
+opening_hours: Mo,Fr 09:00-18:00; Tu,Th 09:00-17:00; Sa 09:00-15:00; We,Su,PH off
 website: https://www.brooksidebikes.com/

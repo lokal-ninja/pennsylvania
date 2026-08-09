@@ -1,6 +1,6 @@
 ---
 title: Palmerton
 url: /palmerton/
-latitude: 40.806
-longitude: -75.601
+latitude: 40.805
+longitude: -75.602
 ---

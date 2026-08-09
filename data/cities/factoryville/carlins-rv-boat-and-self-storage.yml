@@ -7,7 +7,5 @@ city: Factoryville
 street: US-11
 housenumber: "1375"
 phone: +1-570-219-3750
-opening_hours: 'Sunday: 9:00AM to 9:00PM Monday: 9:00AM to 9:00PM Tuesday: 9:00AM
-    to 9:00PM Wednesday: 9:00AM to 9:00PM Thursday: 9:00AM to 9:00PM Friday: 9:00AM
-    to 9:00PM Saturday: 9:00AM to 9:00PM'
+opening_hours: Mo-Su 09:00-21:00
 website: https://rvboatandselfstorage.com
