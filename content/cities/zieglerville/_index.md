@@ -1,6 +1,6 @@
 ---
 title: Zieglerville
 url: /zieglerville/
-latitude: 40.278
-longitude: -75.481
+latitude: 40.276
+longitude: -75.48
 ---

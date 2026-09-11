@@ -7,5 +7,5 @@ city: Ohiopyle
 street: Sherman Street
 housenumber: "15"
 phone: "+17243292253"
-opening_hours: ""
+opening_hours: Mo,Th-Sa 07:00-20:00; Su 07:00-19:00; Tu,We off
 website: ""

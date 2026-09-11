@@ -1,6 +1,6 @@
 ---
 title: Port Matilda
 url: /port-matilda/
-latitude: 40.787
-longitude: -78.027
+latitude: 40.774
+longitude: -78.015
 ---
