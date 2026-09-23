@@ -1,6 +1,6 @@
 ---
 title: Dallastown
 url: /dallastown/
-latitude: 39.906
-longitude: -76.655
+latitude: 39.902
+longitude: -76.643
 ---
