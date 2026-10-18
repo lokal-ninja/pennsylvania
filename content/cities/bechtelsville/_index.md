@@ -1,6 +1,6 @@
 ---
 title: Bechtelsville
 url: /bechtelsville/
-latitude: 40.361
-longitude: -75.627
+latitude: 40.364
+longitude: -75.626
 ---

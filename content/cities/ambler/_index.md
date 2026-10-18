@@ -1,6 +1,6 @@
 ---
 title: Ambler
 url: /ambler/
-latitude: 40.154
-longitude: -75.224
+latitude: 40.158
+longitude: -75.214
 ---

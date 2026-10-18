@@ -1,6 +1,6 @@
 ---
 title: White Oak
 url: /white-oak/
-latitude: 40.337
-longitude: -79.805
+latitude: 40.345
+longitude: -79.796
 ---
