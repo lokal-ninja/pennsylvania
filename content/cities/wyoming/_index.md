@@ -2,5 +2,5 @@
 title: Wyoming
 url: /wyoming/
 latitude: 41.3
-longitude: -75.852
+longitude: -75.85
 ---
