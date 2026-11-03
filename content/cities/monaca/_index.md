@@ -1,6 +1,6 @@
 ---
 title: Monaca
 url: /monaca/
-latitude: 40.682
-longitude: -80.311
+latitude: 40.681
+longitude: -80.313
 ---

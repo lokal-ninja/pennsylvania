@@ -1,6 +1,6 @@
 ---
 title: Scotrun
 url: /scotrun/
-latitude: 41.068
-longitude: -75.32
+latitude: 41.059
+longitude: -75.316
 ---
