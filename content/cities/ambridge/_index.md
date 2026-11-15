@@ -1,6 +1,6 @@
 ---
 title: Ambridge
 url: /ambridge/
-latitude: 40.59
-longitude: -80.229
+latitude: 40.592
+longitude: -80.231
 ---
